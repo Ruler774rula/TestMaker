@@ -29,6 +29,13 @@ export const Home: React.FC = () => {
             <h1 className="text-3xl font-bold text-gray-900">Selecciona una Asignatura</h1>
             <p className="text-gray-500">Elige una materia para ver los tests disponibles</p>
         </div>
+        <button 
+            onClick={() => navigate('/manage-subjects')}
+            className="flex items-center gap-2 px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
+        >
+            <Settings size={20} />
+            Gestionar Asignaturas
+        </button>
       </div>
 
       {asignaturas.length === 0 ? (

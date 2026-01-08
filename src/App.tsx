@@ -8,6 +8,7 @@ import { TestConfig } from './pages/TestConfig';
 import { TestRunner } from './pages/TestRunner';
 import { Results } from './pages/Results';
 import { Editor } from './pages/Editor';
+import { ManageSubjects } from './pages/ManageSubjects';
 
 function App() {
   return (
@@ -16,11 +17,12 @@ function App() {
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/manage-subjects" element={<ManageSubjects />} />
             <Route path="/subject/:id" element={<SubjectDetails />} />
             <Route path="/config/:testId" element={<TestConfig />} />
             <Route path="/runner" element={<TestRunner />} />
             <Route path="/results" element={<Results />} />
-            <Route path="/editor/:subjectId" element={<Editor />} />
+            <Route path="/editor/:subjectId/:testId" element={<Editor />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </Layout>

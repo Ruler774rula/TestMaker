@@ -5,7 +5,7 @@ import { Save, Plus, Trash2, Image as ImageIcon, ArrowLeft, Check, Edit2 } from 
 import { useNavigate, useParams } from 'react-router-dom';
 
 export const Editor: React.FC = () => {
-  const { subjectId } = useParams();
+  const { subjectId, testId } = useParams();
   const [questions, setQuestions] = useState<Pregunta[]>([]);
   const [selectedQuestionId, setSelectedQuestionId] = useState<string | null>(null);
   const [isDirty, setIsDirty] = useState(false);
@@ -19,27 +19,34 @@ export const Editor: React.FC = () => {
 
   useEffect(() => {
     loadQuestions();
-  }, []);
+  }, [subjectId, testId]);
 
   const loadQuestions = async () => {
-    const data = await ApiService.getQuestions();
+    if (!subjectId || !testId) return;
+
+    const subjects = await ApiService.getSubjects();
+    const subject = subjects.find(s => s.id === subjectId);
+    const test = subject?.tests.find(t => t.id === testId);
     
-    // Assign blocks if missing (legacy data)
-    // Assume 10 questions per block for initial assignment if no block property
-    const processedData = data.map((q, idx) => {
-        if (!q.bloque) {
-            const blockNum = Math.floor(idx / 10) + 1;
-            return { ...q, bloque: `Bloque ${blockNum}` };
-        }
-        return q;
-    });
-    
-    setQuestions(processedData);
-    
-    // Extract unique blocks
-    const uniqueBlocks = Array.from(new Set(processedData.map(q => q.bloque || 'General')));
-    setBlocks(uniqueBlocks);
-    if (uniqueBlocks.length > 0) setSelectedBlock(uniqueBlocks[0]);
+    if (test) {
+        const data = test.preguntas;
+        
+        // Assign blocks if missing (legacy data)
+        const processedData = data.map((q, idx) => {
+            if (!q.bloque) {
+                const blockNum = Math.floor(idx / 10) + 1;
+                return { ...q, bloque: `Bloque ${blockNum}` };
+            }
+            return q;
+        });
+        
+        setQuestions(processedData);
+        
+        // Extract unique blocks
+        const uniqueBlocks = Array.from(new Set(processedData.map(q => q.bloque || 'General')));
+        setBlocks(uniqueBlocks);
+        if (uniqueBlocks.length > 0) setSelectedBlock(uniqueBlocks[0]);
+    }
   };
 
   const showNotification = (msg: string, type: 'success' | 'error') => {
@@ -48,6 +55,8 @@ export const Editor: React.FC = () => {
   };
 
   const handleSave = async () => {
+    if (!subjectId || !testId) return;
+
     // Validate
     for (const q of questions) {
         if (!q.enunciado.trim()) {
@@ -64,7 +73,20 @@ export const Editor: React.FC = () => {
         }
     }
 
-    const success = await ApiService.saveQuestions(questions);
+    const subjects = await ApiService.getSubjects();
+    const updatedSubjects = subjects.map(s => {
+        if (s.id === subjectId) {
+            return {
+                ...s,
+                tests: s.tests.map(t => 
+                    t.id === testId ? { ...t, preguntas: questions } : t
+                )
+            };
+        }
+        return s;
+    });
+
+    const success = await ApiService.saveSubjects(updatedSubjects);
     if (success) {
         setIsDirty(false);
         showNotification('Cambios guardados correctamente (Backup creado)', 'success');
@@ -162,7 +184,7 @@ export const Editor: React.FC = () => {
       {/* Header */}
       <div className="bg-white p-4 border-b flex justify-between items-center">
         <div className="flex items-center space-x-4">
-            <button onClick={() => navigate(`/subject/${subjectId}`)} className="p-2 hover:bg-gray-100 rounded-full">
+            <button onClick={() => navigate('/manage-subjects')} className="p-2 hover:bg-gray-100 rounded-full">
                 <ArrowLeft className="w-6 h-6" />
             </button>
             <h1 className="text-2xl font-bold">Gestor de Preguntas</h1>

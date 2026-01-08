@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "sub-1",
+    "nombre": "Enginyeria de Requisits",
+    "tests": [
+      {
+        "id": "test-1",
+        "titulo": "Test de Enginyeria de Requisits",
+        "descripcion": "Preguntas completas del examen",
+        "preguntas": [
+          {
+            "id": "q-1",
+            "enunciado": "En el conflicte entre dues parts, si s’arriba a una solució basada en considerar en part els dos punts de vista confrontats, es diu que s’ha aconseguit...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "un acord"
+              },
+              {
+                "id": "b",
+                "texto": "una decisió."
+              },
+              {
+                "id": "c",
+                "texto": "una solució creativa."
+              },
+              {
+                "id": "d",
+                "texto": "un compromís."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-2",
+            "enunciado": "En general, quina de les següents tècniques permet resoldre un conflicte de manera més ràpida?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El regateig o diàleg."
+              },
+              {
+                "id": "b",
+                "texto": "La generació de solucions creatives."
+              },
+              {
+                "id": "c",
+                "texto": "La decisió."
+              },
+              {
+                "id": "d",
+                "texto": "La mediació facilitativa."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-3",
+            "enunciado": "Quin dels següents principis de la validació NO és correcte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Involucra tots els Stakeholders que estiguin disponibles."
+              },
+              {
+                "id": "b",
+                "texto": "Utilitza el format de documentació més adequat."
+              },
+              {
+                "id": "c",
+                "texto": "Valida repetidament"
+              },
+              {
+                "id": "d",
+                "texto": "Treu profit de punts de vista diferents."
+              },
+              {
+                "id": "e",
+                "texto": "Genera artefactes de desenvolupament."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-4",
+            "enunciado": "Segons la següent gràfica de criticalitat-esforç quina de les següents afirmacions és certa: [Descripción de la imagen: Se muestra un gráfico de cuadrantes donde el eje vertical (Y) es la \"Criticalitat\" (de baixa a alta) y el eje horizontal (X) es el \"Esforç\" (de baix a alt). Los puntos se sitúan de la siguiente manera: R1: Criticalitat baixa, Esforç baix. R2: Criticalitat alta, Esforç baix. R3: Criticalitat alta, Esforç alt (el punto más alto y más a la derecha). R4: Criticalitat alta, Esforç medio/alto (un poco por debajo y a la izquierda de R3). R5: Criticalitat baixa, Esforç alt.]",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "R1 és més prioritari que R2."
+              },
+              {
+                "id": "b",
+                "texto": "R4 es més prioritari que R2."
+              },
+              {
+                "id": "c",
+                "texto": "El requeriment menys prioritari és R5"
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-5",
+            "enunciado": "La tècnica de validació basada en la creació de casos de test és un exemple de tècnica",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "de revisió."
+              },
+              {
+                "id": "b",
+                "texto": "basada en la generació d’artefactes."
+              },
+              {
+                "id": "c",
+                "texto": "basada en prototips."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-6",
+            "enunciado": "Donada la següent gràfica de valor-cost, quina de les següents afirmacions és certa: [Descripción visual: Gráfico con Valor en eje Y y Cost en eje X. R2 tiene alto valor y bajo cost. R1 tiene bajo valor y bajo cost. R3 tiene el valor más alto y cost alto. R4 y R5 tienen valor bajo/medio y cost medio/alto.]",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "R1 és menys prioritari que R2."
+              },
+              {
+                "id": "b",
+                "texto": "R4 i R5 tenen la mateixa prioritat."
+              },
+              {
+                "id": "c",
+                "texto": "El requeriment més prioritari és R3."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-7",
+            "enunciado": "Quina de les següents tècniques de priorització està basada en l’ordenació?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tècnica de Kano."
+              },
+              {
+                "id": "b",
+                "texto": "Mètode de comparació a parells."
+              },
+              {
+                "id": "c",
+                "texto": "Matriu de priorització de Wieger."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-8",
+            "enunciado": "Quina de les següents tècniques identificar les característiques d’un producte que cal rebutjar?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Logical Framework Approach"
+              },
+              {
+                "id": "b",
+                "texto": "Mètode de comparació a parells."
+              },
+              {
+                "id": "c",
+                "texto": "Matriu de priorització de Wieger."
+              },
+              {
+                "id": "d",
+                "texto": "Mètode de Boehm."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-9",
+            "enunciado": "Quin dels següents diagrames s’utilitza per derivar casos de prova basant-se en models?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El diagrama de requisits."
+              },
+              {
+                "id": "b",
+                "texto": "El diagrama de transició d’estats."
+              },
+              {
+                "id": "c",
+                "texto": "El diagrama d’activitats."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-10",
+            "enunciado": "El mètode de Particions Equivalents...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "estableix un criteri per repartir entre diferents inspectors els artefactes a validar."
+              },
+              {
+                "id": "b",
+                "texto": "permet assegurar que les línies de codi d’una funció s’executen almenys una vegada."
+              },
+              {
+                "id": "c",
+                "texto": "determina diferents particions de l’espai de possibles entrades d’un programa o funció."
+              },
+              {
+                "id": "d",
+                "texto": "és un tipus de prova de caixa negra."
+              },
+              {
+                "id": "e",
+                "texto": "c) i d)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-11",
+            "enunciado": "Quan en un projecte hi ha desacords causats per nivells d’autoritat o poder no equilibrats entre 2 Stakeholders, tenim un conflicte",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "de valors."
+              },
+              {
+                "id": "b",
+                "texto": "d’objectius o d’interessos."
+              },
+              {
+                "id": "c",
+                "texto": "estructural o de jerarquia."
+              },
+              {
+                "id": "d",
+                "texto": "de relació."
+              },
+              {
+                "id": "e",
+                "texto": "cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-12",
+            "enunciado": "La tècnica Plus-Minus-Interesting s’utilitza per",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "determinar la millor de diferents alternatives, en la presa de decisió entre iguals."
+              },
+              {
+                "id": "b",
+                "texto": "estimar el cost d’implementar cada requisit del sistema."
+              },
+              {
+                "id": "c",
+                "texto": "prioritzar la correcció dels defectes trobats en l’especificació."
+              },
+              {
+                "id": "d",
+                "texto": "identificar els dissatisfiers d’un sistema."
+              },
+              {
+                "id": "e",
+                "texto": "c) i d)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-13",
+            "enunciado": "A l’aplicar la tècnica de validació d’auditoria, quines de les següents tasques realitza l’autor de l’especificació?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Planifica i monitoritza el procés d’inspecció."
+              },
+              {
+                "id": "b",
+                "texto": "Realitza les actes documentant els resultats de la inspecció."
+              },
+              {
+                "id": "c",
+                "texto": "Revisa el document amb l’objectiu de detectar-hi defectes."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-14",
+            "enunciado": "Respecte la validació d’un sistema software,",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "els objectius s’han de validar un cop s’han recollit tots els requisits del sistema."
+              },
+              {
+                "id": "b",
+                "texto": "cal verificar que no hi hagi objectius erronis."
+              },
+              {
+                "id": "c",
+                "texto": "cal verificar que no faltin objectius."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-15",
+            "enunciado": "Si al validar un requisit es detecta que no és possible definir criteris d’acceptació i test a partir de la informació documentada, haurem detectat un error de:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "exactitud."
+              },
+              {
+                "id": "b",
+                "texto": "verificabilitat."
+              },
+              {
+                "id": "c",
+                "texto": "necessitat."
+              },
+              {
+                "id": "d",
+                "texto": "conformitat amb l’estructuració del document."
+              },
+              {
+                "id": "e",
+                "texto": "acord."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-16",
+            "enunciado": "Un enginyer ha de prioritzar una llista de 100 requisits en base a un determinat concepte (cost, benefici, ...). Respecte les tècniques que pot aplicar per estimar el concepte triat, cal tenir en compte que amb la tècnica de Planning poker...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "ha de realitzar més comparacions entre requisits que el mètode de comparació a parells."
+              },
+              {
+                "id": "b",
+                "texto": "ha de realitzar menys comparacions entre requisits que el mètode de comparació a parells."
+              },
+              {
+                "id": "c",
+                "texto": "necessita involucrar altres persones en l’estimació del concepte."
+              },
+              {
+                "id": "d",
+                "texto": "a) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-17",
+            "enunciado": "En el mètode de la matriu de priorització de Wieger el valor de prioritat que es determina per un requisit és",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "inversament proporcional al benefici que aporta realitzar-lo."
+              },
+              {
+                "id": "b",
+                "texto": "proporcional al risc associat a realitzar-lo."
+              },
+              {
+                "id": "c",
+                "texto": "proporcional a la penalització que implica no realitzar-lo."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-18",
+            "enunciado": "Emprant la gestió del procés d’enginyeria de requisits depenent de la situació, un enginyer de requisits determina que l’activitat a realitzat per un artefacte en què treballa és l’elicitació. Quines de les següents valoracions de les diferents dimensions de l’artefacte serien coherents amb la decisió presa, tenint en compte que (-) indica deficiències majors, (0) deficiències menors i (+) sense deficiències ?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Contingut (0), Documentació (+), Acord (-)."
+              },
+              {
+                "id": "b",
+                "texto": "Contingut (-), Documentació (-), Acord (-)."
+              },
+              {
+                "id": "c",
+                "texto": "Contingut (0), Documentació (-), Acord (0)."
+              },
+              {
+                "id": "d",
+                "texto": "Contingut (+), Documentació (0), Acord (-)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-19",
+            "enunciado": "L’equip desenvolupador no intervé en les proves de ....",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "acceptació tipus beta."
+              },
+              {
+                "id": "b",
+                "texto": "unitat."
+              },
+              {
+                "id": "c",
+                "texto": "integració."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-20",
+            "enunciado": "Segons el model en V, l’execució de les proves d’unitat es fan càrrec dels casos de prova relatius a:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "els criteris d’acceptació."
+              },
+              {
+                "id": "b",
+                "texto": "les especificacions de requeriments."
+              },
+              {
+                "id": "c",
+                "texto": "el disseny de l’arquitectura."
+              },
+              {
+                "id": "d",
+                "texto": "el disseny de components."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-21",
+            "enunciado": "Quan un conflicte es resol aplicant l’estratègia de decisió es genera una situació de tipus",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "plus-minus-interesting."
+              },
+              {
+                "id": "b",
+                "texto": "win-win."
+              },
+              {
+                "id": "c",
+                "texto": "win-lose."
+              },
+              {
+                "id": "d",
+                "texto": "lose-lose."
+              },
+              {
+                "id": "e",
+                "texto": "cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-22",
+            "enunciado": "Si en la validació de requisits es detecta que no és possible definir criteris d’acceptació i test basat en els requisits, haurem detectat un error de:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "completesa."
+              },
+              {
+                "id": "b",
+                "texto": "verificabilitat."
+              },
+              {
+                "id": "c",
+                "texto": "consistència."
+              },
+              {
+                "id": "d",
+                "texto": "conformitat amb l’estructuració del document."
+              },
+              {
+                "id": "e",
+                "texto": "acord."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-23",
+            "enunciado": "Quina de les següents recomanacions a l’hora de validar requisits NO és correcta?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Assegura que l’autor del requisit sigui qui el validi."
+              },
+              {
+                "id": "b",
+                "texto": "Procura que diferents auditors revisin independentment els requisits, i després unifica els errors trobats."
+              },
+              {
+                "id": "c",
+                "texto": "Adapta el format de documentació del requisit per facilitar la detecció d’errors."
+              },
+              {
+                "id": "d",
+                "texto": "Valida els requisits més d’una vegada si pots."
+              },
+              {
+                "id": "e",
+                "texto": "Construeix artefactes a partir de l’especificació per veure si aquesta és correcta."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-24",
+            "enunciado": "Quan en un projecte hi ha desacords causats per nivells d’autoritat o poder no equilibrats entre 2 Stakeholders, tenim un conflicte",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "estructural o de jerarquia."
+              },
+              {
+                "id": "b",
+                "texto": "de valors."
+              },
+              {
+                "id": "c",
+                "texto": "d’objectius o d’interessos."
+              },
+              {
+                "id": "d",
+                "texto": "de dades o de tema."
+              },
+              {
+                "id": "e",
+                "texto": "cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-25",
+            "enunciado": "Segons la següent gràfica de criticalitat-esforç quina de les següents afirmacions és certa: [Descripción de la imagen: Gráfico de cuadrantes con \"Criticalitat\" (Y) de baixa a alta y \"Esforç\" (X) de baix a alt. R2: Criticalitat alta, Esforç baix. R3: Criticalitat alta, Esforç alt. R4: Criticalitat alta, Esforç medio. R1: Criticalitat baixa, Esforç baix. R5: Criticalitat baixa, Esforç alt.]",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "R2 és menys prioritari que R1."
+              },
+              {
+                "id": "b",
+                "texto": "R4 es més prioritari que R5."
+              },
+              {
+                "id": "c",
+                "texto": "El requeriment menys prioritari és R5."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-26",
+            "enunciado": "Un enginyer ha de prioritzar una llista de 100 requisits en base a un determinat concepte (cost, benefici, ...). Respecte les tècniques que pot aplicar per estimar el concepte triat, cal tenir en compte que amb el mètode de comparació a parells...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "ha de realitzar més comparacions entre requisits que la tècnica de Planning poker."
+              },
+              {
+                "id": "b",
+                "texto": "ha de realitzar menys comparacions entre requisits que la tècnica de Planning poker."
+              },
+              {
+                "id": "c",
+                "texto": "necessita involucrar altres persones en l’estimació del concepte."
+              },
+              {
+                "id": "d",
+                "texto": "a) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-27",
+            "enunciado": "En el mètode de la matriu de priorització de Wieger el valor de prioritat que es determina per un requisit és",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "proporcional al benefici que aporta realitzar-lo."
+              },
+              {
+                "id": "b",
+                "texto": "proporcional a la penalització que implica no realitzar-lo."
+              },
+              {
+                "id": "c",
+                "texto": "inversament proporcional al risc associat a realitzar-lo."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-28",
+            "enunciado": "Les proves beta...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "són un tipus de proves d’integració."
+              },
+              {
+                "id": "b",
+                "texto": "es duen a terme al lloc de treball dels usuaris finals."
+              },
+              {
+                "id": "c",
+                "texto": "avalua si el sistema es comporta tal com estableix l’especificació de requisits."
+              },
+              {
+                "id": "d",
+                "texto": "a) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-29",
+            "enunciado": "Respecte la traçabilitat dels requisits, quina de les següents afirmacions és certa?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "S’utilitza per establir la prioritat dels requisits d’un sistema."
+              },
+              {
+                "id": "b",
+                "texto": "Determina l’ordre d’execució de les activitats de l’enginyeria de requisits."
+              },
+              {
+                "id": "c",
+                "texto": "Permet verificar si una determinada funció és necessària en el sistema."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)"
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-30",
+            "enunciado": "Quina de les següents tasques NO la realitza la junta de control del canvi (change control board) ?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Analitzar cada petició de canvi."
+              },
+              {
+                "id": "b",
+                "texto": "Estimar l’esforç d’integrar un canvi."
+              },
+              {
+                "id": "c",
+                "texto": "Decidir sobre l’acceptació dels canvis proposats."
+              },
+              {
+                "id": "d",
+                "texto": "Prioritzar los canvis acceptats."
+              },
+              {
+                "id": "e",
+                "texto": "Implementar els canvis."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-31",
+            "enunciado": "Quina estratègia de resolució de conflictes no permet arribar a una situació win-win entre les parts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El diàleg."
+              },
+              {
+                "id": "b",
+                "texto": "La solució creativa."
+              },
+              {
+                "id": "c",
+                "texto": "La mediació avaluativa."
+              },
+              {
+                "id": "d",
+                "texto": "La definició de variants."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-32",
+            "enunciado": "Considerant el model en V de Boehm, el nivell de proves d’integració s’enfoca a ...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "detectar problemes d’interacció entre diferents parts d’un sistema."
+              },
+              {
+                "id": "b",
+                "texto": "verificar el funcionament correcte de mòduls de software (mòduls i classes)."
+              },
+              {
+                "id": "c",
+                "texto": "detectar desviacions del comportament del sistema respecte l’especificació de requisits."
+              },
+              {
+                "id": "d",
+                "texto": "comprovar el funcionament del sistema com un tot."
+              },
+              {
+                "id": "e",
+                "texto": "c) i d)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-33",
+            "enunciado": "Per documentar el conflicte i solapament entre requisits s’utilitza la matriu de",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Criticalitat-Esforç."
+              },
+              {
+                "id": "b",
+                "texto": "Interacció."
+              },
+              {
+                "id": "c",
+                "texto": "Kano."
+              },
+              {
+                "id": "d",
+                "texto": "Valor-Cost."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-34",
+            "enunciado": "Quins elements de l’especificació s’han de validar el més aviat possible ?:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els objectius."
+              },
+              {
+                "id": "b",
+                "texto": "Els escenaris."
+              },
+              {
+                "id": "c",
+                "texto": "Els requisits funcionals."
+              },
+              {
+                "id": "d",
+                "texto": "Els requisits de qualitat."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-35",
+            "enunciado": "Quina de les següents tècniques de priorització està basada en considerar múltiples criteris ?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Comparació a parells bàsic."
+              },
+              {
+                "id": "b",
+                "texto": "Comparació a parells matisat."
+              },
+              {
+                "id": "c",
+                "texto": "Matriu de priorització de Wieger."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-36",
+            "enunciado": "Si en la validació de requeriments es detecta que no és possible definir criteris d’acceptació i test basat en els requisits, haurem detectat un error de:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "completesa."
+              },
+              {
+                "id": "b",
+                "texto": "verificabilitat."
+              },
+              {
+                "id": "c",
+                "texto": "consistència."
+              },
+              {
+                "id": "d",
+                "texto": "conformitat amb l’estructuració del document."
+              },
+              {
+                "id": "e",
+                "texto": "acord."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-37",
+            "enunciado": "El mètode de negociació basat en principis recomana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "aclarir en primer lloc les causes que han generat el conflicte."
+              },
+              {
+                "id": "b",
+                "texto": "no exposar idees que no t’hagin d’afavorir."
+              },
+              {
+                "id": "c",
+                "texto": "formular el tema a resoldre com una cerca conjunta de criteris objectius."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "a), b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-38",
+            "enunciado": "En una sessió de planning poker, un equip de 6 persones ‘aposta’ els següents valors respecte el cost associat a un requisit: 3, 2, 6, 3, 7, 3. Seguint el procediment del Planning poker, a continuació es procedirà",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "assignant el valor 3 al requisit."
+              },
+              {
+                "id": "b",
+                "texto": "assignant el valor 2 al requisit."
+              },
+              {
+                "id": "c",
+                "texto": "assignant el valor 7 al requisit."
+              },
+              {
+                "id": "d",
+                "texto": "assignant el valor 4 al requisit."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-39",
+            "enunciado": "Respecte la traçabilitat dels requisits, quina de les següents afirmacions és certa?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "S’utilitza per establir la prioritat dels requeriments d’un sistema."
+              },
+              {
+                "id": "b",
+                "texto": "Permet verificar si un requisit és realment necessari en el sistema."
+              },
+              {
+                "id": "c",
+                "texto": "Permet avaluar l’impacte d’una petició de canvi del requisit."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-40",
+            "enunciado": "El mètode de Camins Bàsics...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "estableix un criteri per repartir entre diferents inspectors els artefactes a validar."
+              },
+              {
+                "id": "b",
+                "texto": "permet assegurar que les línies de codi d’una funció s’executen almenys una vegada."
+              },
+              {
+                "id": "c",
+                "texto": "determina diferents particions de l’espai de possibles entrades d’un programa o funció."
+              },
+              {
+                "id": "d",
+                "texto": "és un tipus de prova de caixa negra."
+              },
+              {
+                "id": "e",
+                "texto": "c) i d)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-41",
+            "enunciado": "El mètode de negociació basat en principis recomana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "que les parts confrontades cerquin criteris objectius per analitzar el conflicte."
+              },
+              {
+                "id": "b",
+                "texto": "resoldre el conflicte cercant el punt intermedi entre les posicions confrontades."
+              },
+              {
+                "id": "c",
+                "texto": "ser un negociador dur, encara que això afecti la relació amb l’altra part."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-42",
+            "enunciado": "En el conflicte entre dues parts, si s’arriba a una solució basada en considerar en part els dos punts de vista confrontats, es diu que s’ha aconseguit...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "un acord"
+              },
+              {
+                "id": "b",
+                "texto": "un compromís."
+              },
+              {
+                "id": "c",
+                "texto": "una solució creativa."
+              },
+              {
+                "id": "d",
+                "texto": "un empat."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-43",
+            "enunciado": "Per documentar el conflicte i solapament entre requisits s’utilitza la matriu de",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Wieger."
+              },
+              {
+                "id": "b",
+                "texto": "interacció."
+              },
+              {
+                "id": "c",
+                "texto": "traçabilitat."
+              },
+              {
+                "id": "d",
+                "texto": "comparació entre parells matisada."
+              },
+              {
+                "id": "e",
+                "texto": "valor-cost."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-44",
+            "enunciado": "Quina de les següents opcions NO correspon a cap dels principis essencials de la validació ?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Valida repetidament."
+              },
+              {
+                "id": "b",
+                "texto": "Utilitza el format més adequat per detectar errors."
+              },
+              {
+                "id": "c",
+                "texto": "Construeix artefactes a partir de l’especificació per veure si aquesta és correcta."
+              },
+              {
+                "id": "d",
+                "texto": "Involucra els Stakeholders més apropiats en la validació."
+              },
+              {
+                "id": "e",
+                "texto": "Corregeix els defectes el més aviat possible."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-45",
+            "enunciado": "L’ús de checklist en la validació de requisits..",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "fomenta que la validació es faci d’una manera estructurada."
+              },
+              {
+                "id": "b",
+                "texto": "ajuda a no ometre cap aspecte important en la validació."
+              },
+              {
+                "id": "c",
+                "texto": "permet anticipar l’experimentació dels Stakeholders amb el sistema."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-46",
+            "enunciado": "Donada la següent gràfica de valor-cost, quina de les següents afirmacions és certa: [Descripción visual: R3 tiene el Valor más alto (30%) y Cost medio (25%). R2 tiene Valor alto (25%) y Cost bajo (10%). R5 tiene Valor alto (25%) y Cost alto (35%). R1 tiene Valor bajo (10%) y Cost bajo (10%). R4 tiene Valor bajo (10%) y Cost alto (30%).]",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "R2 és més prioritari que R1."
+              },
+              {
+                "id": "b",
+                "texto": "R2 i R5 tenen la mateixa prioritat."
+              },
+              {
+                "id": "c",
+                "texto": "R5 i R4 tenen la mateixa prioritat."
+              },
+              {
+                "id": "d",
+                "texto": "El requisit menys prioritari és R1."
+              },
+              {
+                "id": "e",
+                "texto": "b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-47",
+            "enunciado": "Respecte la traçabilitat dels requisits, quina de les següents afirmacions és certa?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "S’utilitza per documentar la prioritat dels requisits d’un sistema."
+              },
+              {
+                "id": "b",
+                "texto": "Permet verificar si un requisit és realment necessari en el sistema."
+              },
+              {
+                "id": "c",
+                "texto": "Permet avaluar l’impacte d’una petició de canvi del requisit."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-48",
+            "enunciado": "En quina de les següents activitats té sentit aplicar la tècnica de Planning Poker ?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Identificar defectes de documentació en una especificació."
+              },
+              {
+                "id": "b",
+                "texto": "Estimar individualment el valor associat a un requisit."
+              },
+              {
+                "id": "c",
+                "texto": "Estimar en equip el cost d’implementar un requisit."
+              },
+              {
+                "id": "d",
+                "texto": "Determinar l’impacte d’una petició de canvi."
+              },
+              {
+                "id": "e",
+                "texto": "b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-49",
+            "enunciado": "Les proves alfa ...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "són un tipus de proves d’acceptació."
+              },
+              {
+                "id": "b",
+                "texto": "es duen a terme al lloc de treball dels usuaris finals."
+              },
+              {
+                "id": "c",
+                "texto": "estan orientades a detectar errors deguts a la interacció de mòduls del programa."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-50",
+            "enunciado": "Un benefici d’utilitzar els requisits en la prova d’un sistema es que",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "la definició de casos de prova posa de relleu mancances en els requisits recollits."
+              },
+              {
+                "id": "b",
+                "texto": "permet anticipar la preparació de proves de caixa negra."
+              },
+              {
+                "id": "c",
+                "texto": "els defectes que causen la fallada del sistema s’identifiquen més fàcilment."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-51",
+            "enunciado": "El mètode de negociació basat en principis recomana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "analitzar a fons les causes que han generat el conflicte."
+              },
+              {
+                "id": "b",
+                "texto": "ser un negociador dur, encara que això afecti la relació amb l’altra part."
+              },
+              {
+                "id": "c",
+                "texto": "que s’arribi a la resolució del problema mitjançant un procés on participin les dues parts."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-52",
+            "enunciado": "Quan per desencallar un conflicte les part acorden consultar l’opinió d’un expert, resolen el seu conflicte en base a ...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "una mediació facilitativa."
+              },
+              {
+                "id": "b",
+                "texto": "una mediació avaluativa."
+              },
+              {
+                "id": "c",
+                "texto": "un compromís."
+              },
+              {
+                "id": "d",
+                "texto": "una definició de variants."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-53",
+            "enunciado": "Quins elements de l’especificació s’han de validar el més aviat possible ?:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els objectius."
+              },
+              {
+                "id": "b",
+                "texto": "Els escenaris."
+              },
+              {
+                "id": "c",
+                "texto": "Els requisits funcionals."
+              },
+              {
+                "id": "d",
+                "texto": "Els requisits de qualitat."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-54",
+            "enunciado": "Quina de les següents recomanacions a l’hora de validar requisits NO és correcta ?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Assegura que l’autor del requisit sigui qui el validi."
+              },
+              {
+                "id": "b",
+                "texto": "Procura que diferents auditors revisin independentment els requisits, i després unifica els errors trobats."
+              },
+              {
+                "id": "c",
+                "texto": "Adapta el format de documentació del requisit per facilitar la detecció d’errors."
+              },
+              {
+                "id": "d",
+                "texto": "Valida els requisits més d’una vegada si pots."
+              },
+              {
+                "id": "e",
+                "texto": "Construeix artefactes a partir de l’especificació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-55",
+            "enunciado": "En la validació d’un requisit considerant l’eix de la documentació, es comprova que aquest",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "s’hagi documentat seguint el format predeterminat."
+              },
+              {
+                "id": "b",
+                "texto": "s’ha documentat a la secció apropiada."
+              },
+              {
+                "id": "c",
+                "texto": "té el vist-i-plau de tots els Stakeholders rellevants."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "a), b) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-56",
+            "enunciado": "Quina de les següents tècniques de priorització està basada en la classificació ?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Mètode de comparació a parells."
+              },
+              {
+                "id": "b",
+                "texto": "Mètode de Kano."
+              },
+              {
+                "id": "c",
+                "texto": "Matriu de priorització de Wieger."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-57",
+            "enunciado": "En el mètode de la matriu de priorització de Wieger el valor de prioritat que es determina per un requisit és",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "proporcional al benefici que aporta realitzar-lo."
+              },
+              {
+                "id": "b",
+                "texto": "proporcional al cost de realitzar-lo."
+              },
+              {
+                "id": "c",
+                "texto": "proporcional a la penalització que implica no realitzar-lo."
+              },
+              {
+                "id": "d",
+                "texto": "a) i b)."
+              },
+              {
+                "id": "e",
+                "texto": "a) i c)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          },
+          {
+            "id": "q-58",
+            "enunciado": "El mètode de particions d’equivalència...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "estableix un criteri per repartir els artefactes a validar entre els diferents inspectors."
+              },
+              {
+                "id": "b",
+                "texto": "quantifica l’impacte d’una petició de canvi de requisits."
+              },
+              {
+                "id": "c",
+                "texto": "s’utilitza en la realització de proves de caixa negra."
+              },
+              {
+                "id": "d",
+                "texto": "promou la validació de documents des de diferents punts de vista."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-59",
+            "enunciado": "Quin dels següents diagrames s’utilitza per derivar casos de prova basant-se en models?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El diagrama de flux de dades."
+              },
+              {
+                "id": "b",
+                "texto": "El diagrama de classes."
+              },
+              {
+                "id": "c",
+                "texto": "El diagrama de requisits."
+              },
+              {
+                "id": "d",
+                "texto": "El diagrama d’activitats."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-60",
+            "enunciado": "Segons la següent gràfica de criticalitat-esforç quina de les següents afirmacions és certa: [Descripción visual: Gráfica de 4 cuadrantes. Eje Y: Criticalitat (baixa a alta), Eje X: Esforç (baix a alt). R2: Alta Criticalitat / Baix Esforç. R3: Alta Criticalitat / Alt Esforç. R4: Alta Criticalitat / Esforç mig. R1: Baixa Criticalitat / Baix Esforç. R5: Baixa Criticalitat / Alt Esforç.]",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "R2 és menys prioritari que R1."
+              },
+              {
+                "id": "b",
+                "texto": "R5 es més prioritari que R4."
+              },
+              {
+                "id": "c",
+                "texto": "El requisit més prioritari és R5."
+              },
+              {
+                "id": "d",
+                "texto": "b) i c)."
+              },
+              {
+                "id": "e",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "e"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

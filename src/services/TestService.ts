@@ -5,7 +5,18 @@ import { ApiService } from './apiService';
 
 export const TestService = {
   getInitialData: async (): Promise<Asignatura[]> => {
-    // Try to fetch updated questions from API (server)
+    // Try to fetch subjects from API
+    try {
+        const subjects = await ApiService.getSubjects();
+        if (subjects && subjects.length > 0) {
+            StorageService.saveAsignaturas(subjects);
+            return subjects;
+        }
+    } catch (e) {
+        console.warn('Could not fetch subjects from API', e);
+    }
+
+    // Fallback: Legacy logic (construct from questions)
     let questions: Pregunta[] = [];
     try {
         const apiQuestions = await ApiService.getQuestions();
@@ -13,20 +24,13 @@ export const TestService = {
             questions = apiQuestions;
         }
     } catch (e) {
-        console.warn('Could not fetch from API, using bundled data', e);
+        console.warn('Could not fetch questions from API, using bundled data', e);
     }
 
     if (questions.length === 0) {
         questions = parsedQuestions as Pregunta[];
     }
     
-    // Check storage? 
-    // If we want to enforce server data over local storage, we should prioritize server.
-    // But user progress is in local storage? No, progress is in results.
-    // Asignaturas structure is in storage.
-    // If we change questions in editor, we want them to appear in the app.
-    // So we should rebuild the "defaultSubject" with new questions.
-
     const defaultTest: Test = {
       id: 'test-1',
       titulo: 'Test de Enginyeria de Requisits',
@@ -41,7 +45,7 @@ export const TestService = {
     };
 
     const initialData = [defaultSubject];
-    StorageService.saveAsignaturas(initialData); // Update storage
+    StorageService.saveAsignaturas(initialData); 
     return initialData;
   },
 

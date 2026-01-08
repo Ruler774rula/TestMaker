@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useApp } from '../context/AppContext';
 import { useNavigate, useParams } from 'react-router-dom';
 import { FileText, ArrowLeft, Settings } from 'lucide-react';
@@ -7,7 +7,7 @@ export const SubjectDetails: React.FC = () => {
   const { currentSubject, selectTest } = useApp();
   const navigate = useNavigate();
   const { id } = useParams();
-
+  
   // Redirect if no subject selected (e.g. refresh)
   // In a real app we would load by ID from service
   useEffect(() => {
@@ -24,6 +24,10 @@ export const SubjectDetails: React.FC = () => {
     navigate(`/config/${testId}`);
   };
 
+  const handleSettingsClick = () => {
+    navigate('/manage-subjects');
+  };
+
   return (
     <div className="space-y-6">
       <button 
@@ -38,7 +42,7 @@ export const SubjectDetails: React.FC = () => {
         <div className="flex justify-between items-center">
             <h1 className="text-3xl font-bold text-gray-900">{currentSubject.nombre}</h1>
             <button 
-                onClick={() => navigate(`/editor/${currentSubject.id}`)}
+                onClick={handleSettingsClick}
                 className="flex items-center px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
             >
                 <Settings className="w-5 h-5 mr-2" />

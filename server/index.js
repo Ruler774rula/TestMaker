@@ -20,12 +20,42 @@ app.use('/uploads', express.static(path.join(__dirname, '../public/uploads')));
 // Paths
 const DATA_DIR = path.join(__dirname, '../src/data');
 const QUESTIONS_FILE = path.join(DATA_DIR, 'questions.json');
+const SUBJECTS_FILE = path.join(DATA_DIR, 'subjects.json');
 const UPLOADS_DIR = path.join(__dirname, '../public/uploads');
 
 // Ensure uploads dir exists
 if (!fs.existsSync(UPLOADS_DIR)) {
   fs.mkdirSync(UPLOADS_DIR, { recursive: true });
 }
+
+// Ensure subjects data exists (migration)
+const ensureSubjectsData = () => {
+  if (fs.existsSync(SUBJECTS_FILE)) return;
+
+  // Migration logic
+  let initialSubjects = [];
+  if (fs.existsSync(QUESTIONS_FILE)) {
+    try {
+      const questions = JSON.parse(fs.readFileSync(QUESTIONS_FILE, 'utf8'));
+      initialSubjects = [{
+        id: 'sub-1',
+        nombre: 'Enginyeria de Requisits',
+        tests: [{
+          id: 'test-1',
+          titulo: 'Test de Enginyeria de Requisits',
+          descripcion: 'Preguntas completas del examen',
+          preguntas: questions
+        }]
+      }];
+    } catch (e) {
+      console.error('Migration failed', e);
+    }
+  }
+  
+  fs.writeFileSync(SUBJECTS_FILE, JSON.stringify(initialSubjects, null, 2));
+};
+
+ensureSubjectsData();
 
 // Multer config for images
 const storage = multer.diskStorage({
@@ -40,6 +70,37 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage });
 
 // Routes
+
+// Get all subjects
+app.get('/api/subjects', (req, res) => {
+  try {
+    ensureSubjectsData();
+    const data = fs.readFileSync(SUBJECTS_FILE, 'utf8');
+    res.json(JSON.parse(data));
+  } catch (error) {
+    console.error('Error reading subjects:', error);
+    res.status(500).json({ error: 'Failed to read subjects' });
+  }
+});
+
+// Save subjects
+app.post('/api/subjects', (req, res) => {
+  try {
+    const subjects = req.body;
+    
+    // Backup
+    if (fs.existsSync(SUBJECTS_FILE)) {
+      const backupPath = path.join(DATA_DIR, `subjects-backup-${Date.now()}.json`);
+      fs.copyFileSync(SUBJECTS_FILE, backupPath);
+    }
+    
+    fs.writeFileSync(SUBJECTS_FILE, JSON.stringify(subjects, null, 2));
+    res.json({ success: true });
+  } catch (error) {
+    console.error('Error saving subjects:', error);
+    res.status(500).json({ error: 'Failed to save subjects' });
+  }
+});
 
 // Get all questions
 app.get('/api/questions', (req, res) => {
