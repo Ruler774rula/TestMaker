@@ -1,6 +1,7 @@
 import { Asignatura, Test, Pregunta } from '../types';
 import { StorageService } from './StorageService';
-import subjectsData from '../data/subjects.json';
+import siSubject from '../data/si_subject.json';
+import rsSubject from '../data/rs_subject.json';
 import { ApiService } from './apiService';
 
 export const TestService = {
@@ -16,13 +17,12 @@ export const TestService = {
         console.warn('Could not fetch subjects from API', e);
     }
 
-    // Fallback: Use bundled data from subjects.json
-    // This allows the CMS to update this file and the changes to be reflected after a rebuild
-    // The data is wrapped in an object { asignaturas: [...] } for CMS compatibility
-    const initialData = (subjectsData as any).asignaturas as Asignatura[];
-    
-    // If subjects.json is empty or invalid, we could have a failsafe here, 
-    // but assuming the CMS writes valid JSON, this is fine.
+    // Fallback: Use bundled data from split json files
+    // This combines data from multiple source files
+    const initialData: Asignatura[] = [
+        rsSubject as unknown as Asignatura,
+        siSubject as unknown as Asignatura
+    ];
     
     if (initialData && initialData.length > 0) {
         StorageService.saveAsignaturas(initialData); 
