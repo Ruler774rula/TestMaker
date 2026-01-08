@@ -3,6 +3,7 @@ import { useApp } from '../context/AppContext';
 import { useNavigate } from 'react-router-dom';
 import { Home, RefreshCw, AlertCircle, CheckCircle } from 'lucide-react';
 import { clsx } from 'clsx';
+import { Pregunta } from '../types';
 
 export const Results: React.FC = () => {
   const { resultados, currentTest, currentSubject, resetTest } = useApp();
@@ -88,18 +89,13 @@ export const Results: React.FC = () => {
       <div className="space-y-6">
         <h2 className="text-2xl font-bold text-gray-900">Revisión de Respuestas</h2>
         
-        {currentTest.preguntas
-          .filter(q => latestResult.preguntasIds ? latestResult.preguntasIds.includes(q.id) : true) // Backward compatibility or filter
+        {(latestResult.preguntasIds || [])
+          .map(id => currentTest.preguntas.find(q => q.id === id))
+          .filter((q): q is Pregunta => !!q)
           .map((q, idx) => {
-           // Only show if user answered this question (in case of partial test? No, usually all)
-           // If we want to show all questions or just incorrect ones?
-           // Let's show all for review.
            const userAns = latestResult.respuestasUsuario[q.id] || [];
            const isCorrect = userAns.length === q.respuestaCorrecta.length && userAns.every(id => q.respuestaCorrecta.includes(id));
            
-           // If we want to filter only incorrect:
-           // if (isCorrect) return null;
-
            return (
              <div key={q.id} className={clsx(
                "bg-white p-6 rounded-xl border transition-all",

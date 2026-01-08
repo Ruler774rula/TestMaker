@@ -88,7 +88,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
       if (isCorrect) correctCount++;
     });
 
-    // Initial values (will be overwritten if infinite mode)
+    // Initial values
     const newResult: ResultadoTest = {
       id: Date.now().toString(),
       testId: currentTest.id,
@@ -101,39 +101,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
       respuestasUsuario: { ...userAnswers }
     };
     
-    // Fix total for infinite mode
-    if (testConfig.modoInfinito) {
-        // Count how many questions user actually interacted with
-        const answeredIds = Object.keys(userAnswers).filter(id => activeQuestions.some(q => q.id === id));
-        newResult.totalPreguntas = answeredIds.length > 0 ? answeredIds.length : 1; // Avoid 0 division
-        
-        // Update preguntasIds to only include relevant ones for display
-        newResult.preguntasIds = answeredIds;
-        // Filter answers to only include relevant ones
-        const filteredAnswers: Record<string, string[]> = {};
-        answeredIds.forEach(id => {
-            if (userAnswers[id]) {
-                filteredAnswers[id] = userAnswers[id];
-            }
-        });
-        newResult.respuestasUsuario = filteredAnswers;
-
-        // Re-calculate for infinite
-        correctCount = 0;
-        answeredIds.forEach(id => {
-            const q = activeQuestions.find(q => q.id === id);
-            if (q) {
-                const userAnswer = userAnswers[id];
-                const isCorrect = userAnswer.length === q.respuestaCorrecta.length &&
-                                userAnswer.every(optId => q.respuestaCorrecta.includes(optId));
-                if (isCorrect) correctCount++;
-            }
-        });
-        newResult.aciertos = correctCount;
-    }
-
     setResultados(prev => [newResult, ...prev]);
-    // Ideally save to persistence here
   };
 
   const resetTest = () => {

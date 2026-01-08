@@ -72,22 +72,12 @@ export const TestRunner: React.FC = () => {
   };
 
   const handleFinish = () => {
-    // If infinite mode, we need to map back instance IDs to original IDs for results?
-    // Or just store as is? 
-    // Results page shows questions based on ID.
-    // If we changed IDs to "q-1_inst-1", we need to ensure Results page can handle it.
-    // Or we strip suffix before saving?
-    // But Results page iterates over activeQuestions?
-    // Let's check finishTest in AppContext.
+    // If infinite mode, we only show questions up to the current one
+    const questionsToShow = testConfig.modoInfinito 
+      ? activeQuestions.slice(0, currentQuestionIndex + 1)
+      : activeQuestions;
     
-    // finishTest takes activeQuestions.
-    // It calculates score.
-    // userAnswers has "q-1_inst-1".
-    // question has "q-1_inst-1".
-    // correctness check: userAnswer["q-1_inst-1"] vs q.respuestaCorrecta.
-    // q.respuestaCorrecta is copied from original. So it's fine.
-    
-    finishTest(activeQuestions);
+    finishTest(questionsToShow);
     navigate('/results');
   };
 
@@ -96,7 +86,7 @@ export const TestRunner: React.FC = () => {
   return (
     <div className="max-w-4xl mx-auto space-y-6">
       {/* Top Bar */}
-      <div className="bg-white p-4 rounded-xl shadow-sm border border-gray-100 flex items-center justify-between sticky top-20 z-10">
+      <div className="bg-white p-4 rounded-xl shadow-sm border border-gray-100 flex items-center justify-between">
         <div className="flex items-center space-x-4">
           <span className="font-bold text-gray-700">
             Pregunta {currentQuestionIndex + 1} / {activeQuestions.length}
