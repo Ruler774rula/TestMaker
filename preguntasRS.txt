@@ -1,0 +1,184 @@
+1. En el conflicte entre dues parts, si s’arriba a una solució basada en considerar en part els dos punts de vista confrontats, es diu que s’ha aconseguit... a) un acord b) una decisió. c) una solució creativa. d) un compromís. e) Cap de les anteriors.
+
+2. En general, quina de les següents tècniques permet resoldre un conflicte de manera més ràpida? a) El regateig o diàleg. b) La generació de solucions creatives. c) La decisió. d) La mediació facilitativa. e) Cap de les anteriors.
+
+3. Quin dels següents principis de la validació NO és correcte? a) Involucra tots els Stakeholders que estiguin disponibles. b) Utilitza el format de documentació més adequat. c) Valida repetidament d) Treu profit de punts de vista diferents. e) Genera artefactes de desenvolupament.
+
+4. Segons la següent gràfica de criticalitat-esforç quina de les següents afirmacions és certa:
+
+[Descripción de la imagen: Se muestra un gráfico de cuadrantes donde el eje vertical (Y) es la "Criticalitat" (de baixa a alta) y el eje horizontal (X) es el "Esforç" (de baix a alt). Los puntos se sitúan de la siguiente manera:
+
+R1: Criticalitat baixa, Esforç baix.
+
+R2: Criticalitat alta, Esforç baix.
+
+R3: Criticalitat alta, Esforç alt (el punto más alto y más a la derecha).
+
+R4: Criticalitat alta, Esforç medio/alto (un poco por debajo y a la izquierda de R3).
+
+R5: Criticalitat baixa, Esforç alt.]
+
+a) R1 és més prioritari que R2. b) R4 es més prioritari que R2. c) El requeriment menys prioritari és R5 d) b) i c). e) Cap de les anteriors.
+
+5. La tècnica de validació basada en la creació de casos de test és un exemple de tècnica a) de revisió. b) basada en la generació d’artefactes. c) basada en prototips. d) b) i c). e) Cap de les anteriors.
+
+
+6. Donada la següent gràfica de valor-cost, quina de les següents afirmacions és certa: [Descripción visual: Gráfico con Valor en eje Y y Cost en eje X. R2 tiene alto valor y bajo cost. R1 tiene bajo valor y bajo cost. R3 tiene el valor más alto y cost alto. R4 y R5 tienen valor bajo/medio y cost medio/alto.] a) R1 és menys prioritari que R2. b) R4 i R5 tenen la mateixa prioritat. c) El requeriment més prioritari és R3. d) "b) i c)". e) Cap de les anteriors.
+
+7. Quina de les següents tècniques de priorització està basada en l’ordenació? a) Tècnica de Kano. b) Mètode de comparació a parells. c) Matriu de priorització de Wieger. d) b) i c). e) Cap de les anteriors.
+
+8. Quina de les següents tècniques identificar les característiques d’un producte que cal rebutjar? a) Logical Framework Approach b) Mètode de comparació a parells. c) Matriu de priorització de Wieger. d) Mètode de Boehm. e) Cap de les anteriors.
+
+9. Quin dels següents diagrames s’utilitza per derivar casos de prova basant-se en models? a) El diagrama de requisits. b) El diagrama de transició d’estats. c) El diagrama d’activitats. d) "b) i c)". e) Cap de les anteriors.
+
+10. El mètode de Particions Equivalents... a) estableix un criteri per repartir entre diferents inspectors els artefactes a validar. b) permet assegurar que les línies de codi d’una funció s’executen almenys una vegada. c) determina diferents particions de l’espai de possibles entrades d’un programa o funció. d) és un tipus de prova de caixa negra. e) c) i d).
+
+RESPOSTES AL TEST
+
+1-d, 2-c, 3-a, 4-c, 5-b, 6-a, 7-d, 8-e, 9-d, 10-e
+
+
+-----------------------------------------------
+
+Quan en un projecte hi ha desacords causats per nivells d’autoritat o poder no equilibrats entre 2 Stakeholders, tenim un conflicte a) de valors. b) d’objectius o d’interessos. c) estructural o de jerarquia. d) de relació. e) cap de les anteriors.
+
+La tècnica Plus-Minus-Interesting s’utilitza per a) determinar la millor de diferents alternatives, en la presa de decisió entre iguals. b) estimar el cost d’implementar cada requisit del sistema. c) prioritzar la correcció dels defectes trobats en l’especificació. d) identificar els dissatisfiers d’un sistema. e) c) i d).
+
+A l’aplicar la tècnica de validació d’auditoria, quines de les següents tasques realitza l’autor de l’especificació? a) Planifica i monitoritza el procés d’inspecció. b) Realitza les actes documentant els resultats de la inspecció. c) Revisa el document amb l’objectiu de detectar-hi defectes. d) a) i b). e) Cap de les anteriors.
+
+Respecte la validació d’un sistema software, a) els objectius s’han de validar un cop s’han recollit tots els requisits del sistema. b) cal verificar que no hi hagi objectius erronis. c) cal verificar que no faltin objectius. d) b) i c). e) Cap de les anteriors.
+
+Si al validar un requisit es detecta que no és possible definir criteris d’acceptació i test a partir de la informació documentada, haurem detectat un error de: a) exactitud. b) verificabilitat. c) necessitat. d) conformitat amb l’estructuració del document. e) acord.
+
+
+Un enginyer ha de prioritzar una llista de 100 requisits en base a un determinat concepte (cost, benefici, ...). Respecte les tècniques que pot aplicar per estimar el concepte triat, cal tenir en compte que amb la tècnica de Planning poker... a) ha de realitzar més comparacions entre requisits que el mètode de comparació a parells. b) ha de realitzar menys comparacions entre requisits que el mètode de comparació a parells. c) necessita involucrar altres persones en l’estimació del concepte. d) a) i c). e) b) i c).
+
+En el mètode de la matriu de priorització de Wieger el valor de prioritat que es determina per un requisit és a) inversament proporcional al benefici que aporta realitzar-lo. b) proporcional al risc associat a realitzar-lo. c) proporcional a la penalització que implica no realitzar-lo. d) a) i b). e) b) i c).
+
+Emprant la gestió del procés d’enginyeria de requisits depenent de la situació, un enginyer de requisits determina que l’activitat a realitzat per un artefacte en què treballa és l’elicitació. Quines de les següents valoracions de les diferents dimensions de l’artefacte serien coherents amb la decisió presa, tenint en compte que (-) indica deficiències majors, (0) deficiències menors i (+) sense deficiències ? a) Contingut (0), Documentació (+), Acord (-). b) Contingut (-), Documentació (-), Acord (-). c) Contingut (0), Documentació (-), Acord (0). d) Contingut (+), Documentació (0), Acord (-). e) Cap de les anteriors.
+
+L’equip desenvolupador no intervé en les proves de .... a) acceptació tipus beta. b) unitat. c) integració. d) a) i b). e) b) i c).
+
+Segons el model en V, l’execució de les proves d’unitat es fan càrrec dels casos de prova relatius a: a) els criteris d’acceptació. b) les especificacions de requeriments. c) el disseny de l’arquitectura. d) el disseny de components. e) Cap de les anteriors.
+
+
+Respuestas
+1-c, 2-a, 3-e, 4-d, 5-b, 6-e, 7-c, 8-b, 9-a, 10-d
+
+----------------------------------------------
+
+1. Quan un conflicte es resol aplicant l’estratègia de decisió es genera una situació de tipus a) plus-minus-interesting. b) win-win. c) win-lose. d) lose-lose. e) cap de les anteriors.
+
+2. Si en la validació de requisits es detecta que no és possible definir criteris d’acceptació i test basat en els requisits, haurem detectat un error de: a) completesa. b) verificabilitat. c) consistència. d) conformitat amb l’estructuració del document. e) acord.
+
+3. Quina de les següents recomanacions a l’hora de validar requisits NO és correcta? a) Assegura que l’autor del requisit sigui qui el validi. b) Procura que diferents auditors revisin independentment els requisits, i després unifica els errors trobats. c) Adapta el format de documentació del requisit per facilitar la detecció d’errors. d) Valida els requisits més d’una vegada si pots. e) Construeix artefactes a partir de l’especificació per veure si aquesta és correcta.
+
+4. Quan en un projecte hi ha desacords causats per nivells d’autoritat o poder no equilibrats entre 2 Stakeholders, tenim un conflicte a) estructural o de jerarquia. b) de valors. c) d’objectius o d’interessos. d) de dades o de tema. e) cap de les anteriors.
+
+5. Segons la següent gràfica de criticalitat-esforç quina de les següents afirmacions és certa:
+
+[Descripción de la imagen: Gráfico de cuadrantes con "Criticalitat" (Y) de baixa a alta y "Esforç" (X) de baix a alt.
+
+R2: Criticalitat alta, Esforç baix.
+
+R3: Criticalitat alta, Esforç alt.
+
+R4: Criticalitat alta, Esforç medio.
+
+R1: Criticalitat baixa, Esforç baix.
+
+R5: Criticalitat baixa, Esforç alt.]
+
+a) R2 és menys prioritari que R1. b) R4 es més prioritari que R5. c) El requeriment menys prioritari és R5. d) b) i c). e) Cap de les anteriors.
+
+6. Un enginyer ha de prioritzar una llista de 100 requisits en base a un determinat concepte (cost, benefici, ...). Respecte les tècniques que pot aplicar per estimar el concepte triat, cal tenir en compte que amb el mètode de comparació a parells... a) ha de realitzar més comparacions entre requisits que la tècnica de Planning poker. b) ha de realitzar menys comparacions entre requisits que la tècnica de Planning poker. c) necessita involucrar altres persones en l’estimació del concepte. d) a) i c). e) b) i c).
+
+7. En el mètode de la matriu de priorització de Wieger el valor de prioritat que es determina per un requisit és a) proporcional al benefici que aporta realitzar-lo. b) proporcional a la penalització que implica no realitzar-lo. c) inversament proporcional al risc associat a realitzar-lo. d) a) i b). e) b) i c).
+
+8. Les proves beta... a) són un tipus de proves d’integració. b) es duen a terme al lloc de treball dels usuaris finals. c) avalua si el sistema es comporta tal com estableix l’especificació de requisits. d) a) i c). e) Cap de les anteriors.
+
+9. Respecte la traçabilitat dels requisits, quina de les següents afirmacions és certa? a) S’utilitza per establir la prioritat dels requisits d’un sistema. b) Determina l’ordre d’execució de les activitats de l’enginyeria de requisits. c) Permet verificar si una determinada funció és necessària en el sistema. d) b) i c) e) Cap de les anteriors.
+
+10. Quina de les següents tasques NO la realitza la junta de control del canvi (change control board) ? a) Analitzar cada petició de canvi. b) Estimar l’esforç d’integrar un canvi. c) Decidir sobre l’acceptació dels canvis proposats. d) Prioritzar els canvis acceptats. e) Implementar els canvis.
+
+Respostes
+
+1-c, 2-b, 3-a, 4-a, 5-d, 6-d, 7-e, 8-b, 9-c, 10-e
+
+------------------------------------------------
+
+Quina estratègia de resolució de conflictes no permet arribar a una situació win-win entre les parts? a) El diàleg. b) La solució creativa. c) La mediació avaluativa. d) La definició de variants. e) Cap de les anteriors.
+
+Considerant el model en V de Boehm, el nivell de proves d’integració s’enfoca a ... a) detectar problemes d’interacció entre diferents parts d’un sistema. b) verificar el funcionament correcte de mòduls de software (mòduls i classes). c) detectar desviacions del comportament del sistema respecte l’especificació de requisits. d) comprovar el funcionament del sistema com un tot. e) c) i d).
+
+Per documentar el conflicte i solapament entre requisits s’utilitza la matriu de a) Criticalitat-Esforç. b) Interacció. c) Kano. d) Valor-Cost. e) Cap de les anteriors.
+
+Quins elements de l’especificació s’han de validar el més aviat possible ?: a) Els objectius. b) Els escenaris. c) Els requisits funcionals. d) Els requisits de qualitat. e) Cap de les anteriors.
+
+Quina de les següents tècniques de priorització està basada en considerar múltiples criteris ? a) Comparació a parells bàsic. b) Comparació a parells matisat. c) Matriu de priorització de Wieger. d) a) i b). e) Cap de les anteriors.
+
+Si en la validació de requeriments es detecta que no és possible definir criteris d’acceptació i test basat en els requisits, haurem detectat un error de: a) completesa. b) verificabilitat. c) consistència. d) conformitat amb l’estructuració del document. e) acord.
+
+El mètode de negociació basat en principis recomana a) aclarir en primer lloc les causes que han generat el conflicte. b) no exposar idees que no t’hagin d’afavorir. c) formular el tema a resoldre com una cerca conjunta de criteris objectius. d) b) i c). e) a), b) i c).
+
+En una sessió de planning poker, un equip de 6 persones ‘aposta’ els següents valors respecte el cost associat a un requisit: 3, 2, 6, 3, 7, 3. Seguint el procediment del Planning poker, a continuació es procedirà a) assignant el valor 3 al requisit. b) assignant el valor 2 al requisit. c) assignant el valor 7 al requisit. d) assignant el valor 4 al requisit. e) Cap de les anteriors.
+
+Respecte la traçabilitat dels requisits, quina de les següents afirmacions és certa? a) S’utilitza per establir la prioritat dels requeriments d’un sistema. b) Permet verificar si un requisit és realment necessari en el sistema. c) Permet avaluar l’impacte d’una petició de canvi del requisit. d) b) i c). e) Cap de les anteriors.
+
+El mètode de Camins Bàsics... a) estableix un criteri per repartir entre diferents inspectors els artefactes a validar. b) permet assegurar que les línies de codi d’una funció s’executen almenys una vegada. c) determina diferents particions de l’espai de possibles entrades d’un programa o funció. d) és un tipus de prova de caixa negra. e) c) i d).
+
+Respuestas (en una línea)
+1-c, 2-a, 3-b, 4-a, 5-c, 6-b, 7-d, 8-e, 9-d, 10-b
+
+-----------------------------------------------
+
+El mètode de negociació basat en principis recomana a) que les parts confrontades cerquin criteris objectius per analitzar el conflicte. b) resoldre el conflicte cercant el punt intermedi entre les posicions confrontades. c) ser un negociador dur, encara que això afecti la relació amb l’altra part. d) b) i c). e) cap de les anteriors.
+
+En el conflicte entre dues parts, si s’arriba a una solució basada en considerar en part els dos punts de vista confrontats, es diu que s’ha aconseguit... a) un acord b) un compromís. c) una solució creativa. d) un empat. e) Cap de les anteriors.
+
+Per documentar el conflicte i solapament entre requisits s’utilitza la matriu de a) Wieger. b) interacció. c) traçabilitat. d) comparació entre parells matisada. e) valor-cost.
+
+Quina de les següents opcions NO correspon a cap dels principis essencials de la validació ? a) Valida repetidament. b) Utilitza el format més adequat per detectar errors. c) Construeix artefactes a partir de l’especificació per veure si aquesta és correcta. d) Involucra els Stakeholders més apropiats en la validació. e) Corregeix els defectes el més aviat possible.
+
+L’ús de checklist en la validació de requisits.. a) fomenta que la validació es faci d’una manera estructurada. b) ajuda a no ometre cap aspecte important en la validació. c) permet anticipar l’experimentació dels Stakeholders amb el sistema. d) a) i b). e) Cap de les anteriors.
+
+Donada la següent gràfica de valor-cost, quina de les següents afirmacions és certa: [Descripción visual: R3 tiene el Valor más alto (30%) y Cost medio (25%). R2 tiene Valor alto (25%) y Cost bajo (10%). R5 tiene Valor alto (25%) y Cost alto (35%). R1 tiene Valor bajo (10%) y Cost bajo (10%). R4 tiene Valor bajo (10%) y Cost alto (30%).] a) R2 és més prioritari que R1. b) R2 i R5 tenen la mateixa prioritat. c) R5 i R4 tenen la mateixa prioritat. d) El requisit menys prioritari és R1. e) b) i c).
+
+Respecte la traçabilitat dels requisits, quina de les següents afirmacions és certa? a) S’utilitza per documentar la prioritat dels requisits d’un sistema. b) Permet verificar si un requisit és realment necessari en el sistema. c) Permet avaluar l’impacte d’una petició de canvi del requisit. d) b) i c). e) Cap de les anteriors.
+
+En quina de les següents activitats té sentit aplicar la tècnica de Planning Poker ? a) Identificar defectes de documentació en una especificació. b) Estimar individualment el valor associat a un requisit. c) Estimar en equip el cost d’implementar un requisit. d) Determinar l’impacte d’una petició de canvi. e) b) i c).
+
+Les proves alfa ... a) són un tipus de proves d’acceptació. b) es duen a terme al lloc de treball dels usuaris finals. c) estan orientades a detectar errors deguts a la interacció de mòduls del programa. d) a) i b). e) Cap de les anteriors.
+
+Un benefici d’utilitzar els requisits en la prova d’un sistema es que a) la definició de casos de prova posa de relleu mancances en els requisits recollits. b) permet anticipar la preparació de proves de caixa negra. c) els defectes que causen la fallada del sistema s’identifiquen més fàcilment. d) a) i b). e) Cap de les anteriors.
+
+Respuestas (en una línea)
+1-a, 2-b, 3-b, 4-e, 5-d, 6-a, 7-d, 8-c, 9-a, 10-d
+
+-------------------------
+
+El mètode de negociació basat en principis recomana a) analitzar a fons les causes que han generat el conflicte. b) ser un negociador dur, encara que això afecti la relació amb l’altra part. c) que s’arribi a la resolució del problema mitjançant un procés on participin les dues parts. d) a) i b). e) cap de les anteriors.
+
+Quan per desencallar un conflicte les part acorden consultar l’opinió d’un expert, resolen el seu conflicte en base a ... a) una mediació facilitativa. b) una mediació avaluativa. c) un compromís. d) una definició de variants. e) Cap de les anteriors.
+
+Quins elements de l’especificació s’han de validar el més aviat possible ?: a) Els objectius. b) Els escenaris. c) Els requisits funcionals. d) Els requisits de qualitat. e) Cap de les anteriors.
+
+Quina de les següents recomanacions a l’hora de validar requisits NO és correcta ? a) Assegura que l’autor del requisit sigui qui el validi. b) Procura que diferents auditors revisin independentment els requisits, i després unifica els errors trobats. c) Adapta el format de documentació del requisit per facilitar la detecció d’errors. d) Valida els requisits més d’una vegada si pots. e) Construeix artefactes a partir de l’especificació.
+
+En la validació d’un requisit considerant l’eix de la documentació, es comprova que aquest a) s’hagi documentat seguint el format predeterminat. b) s’ha documentat a la secció apropiada. c) té el vist-i-plau de tots els Stakeholders rellevants. d) a) i b). e) a), b) i c).
+
+Examen de Enginyeria de Requisits (Bloc 2)
+Quina de les següents tècniques de priorització està basada en la classificació ? a) Mètode de comparació a parells. b) Mètode de Kano. c) Matriu de priorització de Wieger. d) b) i c). e) Cap de les anteriors.
+
+En el mètode de la matriu de priorització de Wieger el valor de prioritat que es determina per un requisit és a) proporcional al benefici que aporta realitzar-lo. b) proporcional al cost de realitzar-lo. c) proporcional a la penalització que implica no realitzar-lo. d) a) i b). e) a) i c).
+
+El mètode de particions d’equivalència... a) estableix un criteri per repartir els artefactes a validar entre els diferents inspectors. b) quantifica l’impacte d’una petició de canvi de requisits. c) s’utilitza en la realització de proves de caixa negra. d) promou la validació de documents des de diferents punts de vista. e) Cap de les anteriors.
+
+Quin dels següents diagrames s’utilitza per derivar casos de prova basant-se en models? a) El diagrama de flux de dades. b) El diagrama de classes. c) El diagrama de requisits. d) El diagrama d’activitats. e) Cap de les anteriors.
+
+Segons la següent gràfica de criticalitat-esforç quina de les següents afirmacions és certa: [Descripción visual: Gráfica de 4 cuadrantes. Eje Y: Criticalitat (baixa a alta), Eje X: Esforç (baix a alt). R2: Alta Criticalitat / Baix Esforç. R3: Alta Criticalitat / Alt Esforç. R4: Alta Criticalitat / Esforç mig. R1: Baixa Criticalitat / Baix Esforç. R5: Baixa Criticalitat / Alt Esforç.] a) R2 és menys prioritari que R1. b) R5 es més prioritari que R4. c) El requisit més prioritari és R5. d) b) i c). e) Cap de les anteriors.
+
+Respuestas (en una línea)
+1-c, 2-b, 3-a, 4-a, 5-d, 6-b, 7-e, 8-c, 9-d, 10-e
+
+
