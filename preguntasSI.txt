@@ -1,0 +1,846 @@
+Contenido del Test (Vista Previa)
+TEMA 3B: BUSINESS INTELLIGENCE (BI)
+
+¿Cuál es la definición principal de Business Intelligence (BI)?
+
+a) Un sistema para realizar transacciones bancarias diarias.
+
+b) Conjunto de metodologías, herramientas y prácticas para transformar datos en conocimiento útil para la toma de decisiones.
+
+c) Un software específico para la gestión de nóminas de empleados.
+
+d) La automatización de la cadena de suministro física exclusivamente.
+
+¿Qué significan las siglas ETL en el contexto de un Data Warehouse?
+
+a) Extract, Transaction, Load
+
+b) Entry, Transfer, Level
+
+c) Extract, Transform, Load
+
+d) Estimate, Test, Log
+
+¿Cuál es una diferencia clave entre una Base de Datos Transaccional (OLTP) y un Data Warehouse (DW)?
+
+a) Las transaccionales buscan evitar redundancias (normalizadas), mientras que el DW suele estar desnormalizado para optimizar consultas.
+
+b) El DW contiene datos en tiempo real exclusivamente, mientras que la transaccional tiene datos históricos.
+
+c) La base de datos transaccional usa esquema de estrella y el DW usa formas normales.
+
+d) No hay diferencia, son lo mismo.
+
+En un diseño de esquema en estrella (Star Schema), ¿qué contienen las Tablas de Hechos (Fact Tables)?
+
+a) Los nombres y direcciones de los clientes.
+
+b) Medidas numéricas del rendimiento del negocio (métricas) y claves foráneas.
+
+c) Descripciones textuales de los productos.
+
+d) La configuración del sistema operativo.
+
+¿Qué es un Data Mart?
+
+a) Un mercado online para vender datos a terceros.
+
+b) Un almacén de datos de menor tamaño enfocado a un departamento o grupo de trabajo específico.
+
+c) La fase de transformación del proceso ETL.
+
+d) Un tipo de CRM analítico.
+
+TEMA 2D: SUPPLY CHAIN MANAGEMENT (SCM)
+
+¿Qué gestiona el Supply Chain Management (SCM)?
+
+a) Únicamente el transporte de mercancías en camiones.
+
+b) Solo la relación con los proveedores de materia prima.
+
+c) El flujo de información, materiales y finanzas desde los proveedores hasta el cliente final.
+
+d) La base de datos de recursos humanos.
+
+En la cadena de suministro, ¿cuáles son los tres flujos principales que se gestionan?
+
+a) Materiales, Información y Financiero.
+
+b) Líquidos, Sólidos y Gaseosos.
+
+c) Ventas, Marketing y Atención al cliente.
+
+d) Hardware, Software y Redes.
+
+¿Qué objetivo persigue la estrategia "Just-in-Time" (JIT) en la SCM?
+
+a) Aumentar el stock al máximo para evitar roturas de stock.
+
+b) Reducir el inventario (materia prima, intermedios y acabados) a mínimos, produciendo lo necesario en el momento justo.
+
+c) Retrasar los pagos a proveedores lo máximo posible.
+
+d) Automatizar el envío de correos electrónicos a clientes.
+
+¿Cuál de los siguientes es un riesgo asociado a la gestión de la cadena de suministro (SCM)?
+
+a) Exceso de capacidad de almacenamiento en la nube.
+
+b) Interrupción del suministro por parte de un proveedor que afecta a toda la cadena.
+
+c) Aumento de la satisfacción del cliente.
+
+d) Mejora en los tiempos de entrega.
+
+¿Quiénes se encuentran al inicio de la cadena de suministro?
+
+a) Los clientes finales.
+
+b) Los distribuidores minoristas.
+
+c) Los proveedores.
+
+d) El departamento de marketing.
+
+TEMA 2C: CUSTOMER RELATIONSHIP MANAGEMENT (CRM)
+
+¿Cuál es el enfoque estratégico principal del CRM?
+
+a) Centrarse en el producto y su fabricación.
+
+b) Centrarse en el cliente para maximizar su rentabilidad y fidelidad a largo plazo.
+
+c) Reducir los costes de producción a expensas de la calidad.
+
+d) Gestionar exclusivamente las quejas y reclamaciones.
+
+¿De qué se encarga el CRM Operacional?
+
+a) Del análisis de datos y minería de datos (Data Mining).
+
+b) De la interacción directa con el cliente y soporte a procesos de ventas, marketing y atención al cliente (Front-office).
+
+c) De la gestión de proveedores y logística.
+
+d) De la colaboración entre diferentes empresas competidoras.
+
+¿Qué función cumple el CRM Analítico?
+
+a) Automatizar la fuerza de ventas en la calle.
+
+b) Gestionar el Call Center.
+
+c) Analizar datos del cliente (Data Warehouse, Data Mining) para entender comportamientos y predecir tendencias.
+
+d) Facilitar la interacción multicanal con el cliente.
+
+¿Qué caracteriza al CRM en la nube (SaaS/Cloud)?
+
+a) Requiere una gran inversión inicial en hardware y servidores propios.
+
+b) El software se alquila como servicio, se paga por uso y el mantenimiento lo gestiona el proveedor.
+
+c) Es imposible de escalar si la empresa crece.
+
+d) Los datos se almacenan obligatoriamente en los discos duros de la oficina local.
+
+¿Qué es el "Social CRM"?
+
+a) Un CRM financiado por el estado.
+
+b) La incorporación de interacciones de redes sociales en la gestión de la relación con el cliente.
+
+c) Un evento social para vendedores.
+
+d) El uso de CRM para gestionar ONGs exclusivamente.
+
+TEMA 3A: SISTEMAS DE SOPORTE A LA DECISIÓN
+
+Según la pirámide de niveles de decisión, ¿qué sistema utilizan principalmente la Alta Dirección para decisiones estratégicas?
+
+a) TPS (Transaction Processing System).
+
+b) MIS (Management Information System).
+
+c) EIS (Executive Information System).
+
+d) CRM Operacional.
+
+¿Qué caracteriza a un MIS (Management Information System)?
+
+a) Proporciona informes periódicos y rutinarios basados en datos de los TPS para el control a medio plazo.
+
+b) Utiliza inteligencia artificial para diagnósticos médicos complejos.
+
+c) Está diseñado para decisiones no estructuradas y simulaciones complejas.
+
+d) Es un sistema puramente transaccional para registrar ventas diarias.
+
+¿Para qué tipo de decisiones está diseñado principalmente un DSS (Decision Support System)?
+
+a) Decisiones altamente estructuradas y repetitivas (ej. inventario < 100).
+
+b) Decisiones semi-estructuradas o no estructuradas, permitiendo análisis "what-if" (qué pasa si).
+
+c) Tareas administrativas de entrada de datos.
+
+d) Monitorización de sensores industriales en tiempo real.
+
+¿Cuál es la diferencia entre una decisión estructurada y una no estructurada?
+
+a) Las estructuradas siguen reglas y procedimientos predefinidos; las no estructuradas son para situaciones inusuales o excepcionales.
+
+b) Las estructuradas las toman los directivos; las no estructuradas los operarios.
+
+c) Las estructuradas no usan datos; las no estructuradas usan muchos datos.
+
+d) No hay diferencia, son sinónimos.
+
+¿Qué tipo de sistema se encuentra en la base de la pirámide y alimenta al resto de sistemas (MIS, DSS)?
+
+a) EIS (Executive Information System).
+
+b) TPS (Transaction Processing System).
+
+c) SE (Sistemas Expertos).
+
+d) GDSS (Group Decision Support System).
+
+Soluciones: 1:b, 2:c, 3:a, 4:b, 5:b, 6:c, 7:a, 8:b, 9:b, 10:c, 11:b, 12:b, 13:c, 14:b, 15:b, 16:c, 17:a, 18:b, 19:a, 20:b
+
+------------------------------
+
+TEMA 3B: BUSINESS INTELLIGENCE (BI)
+
+¿Qué son los "Metadatos" en el entorno de Business Intelligence?
+
+a) Datos sobre las ventas diarias de la empresa.
+
+b) Información que describe el contenido, calidad, condición y otras características de los datos (datos sobre los datos).
+
+c) Los resultados finales de un informe de ventas.
+
+d) Un tipo de virus informático que afecta al Data Warehouse.
+
+¿Cuál de las siguientes es una característica fundamental de un Data Warehouse según su definición?
+
+a) Volatilidad (los datos se borran cada día).
+
+b) Operacional (se usa para el día a día).
+
+c) No volátil (los datos son de lectura para los usuarios y no se modifican en tiempo real).
+
+d) Desorganizado (no sigue ninguna estructura).
+
+En el diseño de un Data Warehouse, ¿qué representan las "Tablas de Dimensiones"?
+
+a) Las métricas numéricas y claves foráneas.
+
+b) Las perspectivas del negocio (ej: Tiempo, Producto, Cliente) que dan contexto a los hechos.
+
+c) Los índices de la base de datos para borrar registros.
+
+d) Las copias de seguridad de los datos.
+
+¿Cuál es una consecuencia directa de la "mala calidad de los datos" en un sistema de BI?
+
+a) Aumento de la velocidad de procesamiento.
+
+b) Decisiones equivocadas para el negocio y posible abandono del sistema BI.
+
+c) Reducción del espacio de almacenamiento necesario.
+
+d) Mejora automática de los procesos ETL.
+
+¿Qué nivel de dirección suele utilizar "Cuadros de Mando" (Dashboards) con información altamente agregada y visual?
+
+a) Nivel Operativo (control de actividades diarias).
+
+b) Nivel Táctico (dirección intermedia).
+
+c) Alta Dirección (nivel estratégico).
+
+d) Los administradores de sistemas (IT).
+
+TEMA 2D: SUPPLY CHAIN MANAGEMENT (SCM)
+
+En la evolución de la SCM, ¿qué caracterizaba a la etapa de "Distribución Física" (años 60-70)?
+
+a) El uso intensivo de Internet y el Cloud Computing.
+
+b) La gestión de inventario elevado como protección frente a la incertidumbre y enfoque en la distribución al cliente.
+
+c) La integración total con proveedores en tiempo real.
+
+d) La eliminación completa de los almacenes.
+
+¿Qué se entiende por "flujo inverso" en la cadena de suministro?
+
+a) El pago de los clientes a la empresa.
+
+b) El movimiento de productos devueltos o excedentes desde el cliente hacia el vendedor/proveedor.
+
+c) El envío de materias primas a fábrica.
+
+d) La pérdida de información en el proceso.
+
+¿Qué significan las siglas VMS en el contexto de soluciones SCM?
+
+a) Vehicle Management System.
+
+b) Vendor Management System (gestión de almacenes/inventario por el proveedor).
+
+c) Virtual Memory System.
+
+d) Very Massive Supply.
+
+¿Cuál es un riesgo de la SCM relacionado con la "Demanda"?
+
+a) La interrupción del suministro por huelga de transporte.
+
+b) La capacidad insuficiente de la planta de producción.
+
+c) Las variaciones estacionales, modas o innovación de competidores que hacen fluctuar los pedidos.
+
+d) El fallo de los servidores informáticos.
+
+¿Qué beneficio aporta la SCM en cuanto al "Ciclo de desarrollo"?
+
+a) Lo aumenta para asegurar la calidad.
+
+b) No tiene impacto en el desarrollo.
+
+c) Reducción de ciclos de desarrollo y entrega al compartir datos de stock y producción con suministradores.
+
+d) Complica el desarrollo al involucrar a terceros.
+
+TEMA 2C: CUSTOMER RELATIONSHIP MANAGEMENT (CRM)
+
+¿Qué funcionalidad es típica de la "Automatización de la Fuerza de Ventas" (SFA) en un CRM?
+
+a) Gestión de nóminas de los comerciales.
+
+b) Recomendaciones personalizadas y gestión de contactos/oportunidades para los vendedores.
+
+c) Diseño gráfico de logotipos.
+
+d) Control de stock en el almacén.
+
+¿Qué permite la "Automatización de Marketing" dentro de un CRM?
+
+a) Reparar ordenadores automáticamente.
+
+b) Identificar oportunidades de venta cruzada (cross-selling) y gestionar campañas.
+
+c) Calcular los impuestos anuales de la empresa.
+
+d) Gestionar la logística de camiones.
+
+¿Cuál es una desventaja o riesgo del modelo CRM en la nube (SaaS)?
+
+a) Alto coste inicial de licencias.
+
+b) Necesidad de mantenimiento de servidores propios.
+
+c) Dependencia de la conexión a internet y preocupaciones sobre la seguridad/privacidad de los datos.
+
+d) Dificultad para escalar si la empresa crece.
+
+En la evolución del CRM, ¿cuál era la situación inicial antes de los sistemas integrados?
+
+a) "Silos" de información donde cada departamento (ventas, marketing) trabajaba de forma autónoma sin compartir datos.
+
+b) Todos los departamentos compartían una base de datos centralizada en tiempo real.
+
+c) El cliente gestionaba sus propios datos.
+
+d) No existía relación con el cliente.
+
+¿Qué es el "Mobile CRM"?
+
+a) Vender teléfonos móviles a los clientes.
+
+b) El acceso a las aplicaciones y datos del CRM a través de dispositivos móviles (tablets, smartphones) para comerciales en campo.
+
+c) Un CRM que se mueve de una oficina a otra físicamente.
+
+d) Una tarifa de datos telefónicos.
+
+TEMA 3A: SISTEMAS DE SOPORTE A LA DECISIÓN
+
+Según Herbert Simon, ¿cuáles son las tres fases del proceso de toma de decisiones?
+
+a) Inicio, Nudo y Desenlace.
+
+b) Inteligencia, Diseño y Elección.
+
+c) Entrada, Proceso y Salida.
+
+d) Planificación, Ejecución y Control.
+
+¿Qué es un Sistema Experto (SE)?
+
+a) Un sistema que toma decisiones al azar.
+
+b) Una especialización de DSS que emula el razonamiento de un experto humano en un dominio de conocimiento limitado (ej: diagnóstico médico).
+
+c) Un sistema para gestionar el correo electrónico de los directivos.
+
+d) Un software de contabilidad básica.
+
+¿Qué tipo de informe generado por un MIS se produce solo cuando ocurre una situación inusual (ej: ventas caen un 20%)?
+
+a) Informe programado.
+
+b) Informe a solicitud (on-demand).
+
+c) Informe de excepciones.
+
+d) Informe de indicadores básicos.
+
+¿Cuál de los siguientes es un ejemplo de "Decisión No Estructurada"?
+
+a) Reordenar inventario cuando baja de X unidades.
+
+b) Decidir si invertir en una nueva línea de negocio o abrir mercado en un nuevo país.
+
+c) Calcular las horas extras de los empleados.
+
+d) Asignar turnos de trabajo siguiendo un patrón fijo.
+
+¿Qué característica distingue a un GDSS (Group Decision Support System)?
+
+a) Está diseñado para uso individual exclusivo.
+
+b) Incluye herramientas para votación, anonimato y generación de ideas en reuniones (brainstorming).
+
+c) Solo funciona en teléfonos móviles.
+
+d) No permite la interacción entre usuarios.
+
+Soluciones: 1:b, 2:c, 3:b, 4:b, 5:c, 6:b, 7:b, 8:b, 9:c, 10:c, 11:b, 12:b, 13:c, 14:a, 15:b, 16:b, 17:b, 18:c, 19:b, 20:b
+
+---------------------------------
+
+TEMA 3B: BUSINESS INTELLIGENCE (BI)
+
+En la pirámide de usuarios de BI, ¿qué tipo de herramienta utiliza principalmente el "Nivel Operativo"?
+
+a) Cuadros de Mando (Dashboards) interactivos.
+
+b) Herramientas de Minería de Datos (Data Mining).
+
+c) Informes preformateados y estáticos para el control diario.
+
+d) Herramientas de simulación estratégica.
+
+Dentro del proceso ETL (Extracción, Transformación y Carga), ¿qué se realiza durante la fase de "Transformación"?
+
+a) La compra de los servidores físicos.
+
+b) La obtención de datos brutos de las fuentes.
+
+c) La limpieza, corrección de errores, eliminación de duplicados y agregación de valores.
+
+d) La visualización de los datos en gráficos de pastel.
+
+¿Qué propiedad del Data Warehouse se refiere a que la información proviene de distintas fuentes pero se codifica de forma coherente?
+
+a) No volatilidad.
+
+b) Variabilidad temporal.
+
+c) Integración.
+
+d) Orientación a temas.
+
+¿Cuál es el objetivo final de aplicar tecnologías de Business Intelligence en una organización?
+
+a) Reducir el número de empleados del departamento de IT.
+
+b) Crear y gestionar conocimiento a partir de los datos para tomar mejores decisiones de negocio.
+
+c) Automatizar la cadena de montaje de la fábrica.
+
+d) Instalar más bases de datos relacionales.
+
+¿Qué función principal tienen las herramientas OLAP (On-Line Analytical Processing)?
+
+a) Procesar transacciones bancarias en tiempo real.
+
+b) Permitir el análisis multidimensional de datos (cortar, rotar, profundizar) para responder preguntas ad-hoc.
+
+c) Enviar correos electrónicos masivos a clientes.
+
+d) Diseñar la página web de la empresa.
+
+TEMA 2D: SUPPLY CHAIN MANAGEMENT (SCM)
+
+En el contexto de SCM, ¿qué ineficiencia suele provocar la falta de información compartida entre eslabones de la cadena?
+
+a) Exceso de inventario y capacidad infrautilizada de la planta.
+
+b) Un aumento inesperado de las ventas.
+
+c) La reducción de los costes de transporte.
+
+d) Una mejora en la calidad del producto final.
+
+¿Cuál es la función principal de los "Distribuidores" en la cadena de suministro?
+
+a) Transformar la materia prima en producto final.
+
+b) Vender el producto al cliente final en la tienda.
+
+c) Transportar y almacenar los productos donde se necesiten (logística).
+
+d) Suministrar el capital financiero.
+
+¿A qué se refiere el módulo TMS dentro de las soluciones de software SCM?
+
+a) Time Management System (Gestión del tiempo).
+
+b) Transport Management System (Gestión del transporte).
+
+c) Total Marketing Solution (Solución total de marketing).
+
+d) Transaction Monitoring Service (Servicio de monitoreo de transacciones).
+
+¿Cuál es un beneficio directo de una buena gestión de la cadena de suministro (SCM)?
+
+a) Aumento de los impuestos corporativos.
+
+b) Mejora del rendimiento (reducción de costes y aumento de márgenes).
+
+c) Mayor complejidad en los procesos administrativos.
+
+d) Reducción de la variedad de productos ofrecidos.
+
+¿Qué riesgo de la SCM está asociado a las "Operaciones" internas?
+
+a) Desastres naturales que cortan carreteras.
+
+b) Huelgas de los proveedores de materia prima.
+
+c) Producción inadecuada, capacidad insuficiente o variaciones en los procesos productivos.
+
+d) Cambios en los gustos de los consumidores.
+
+TEMA 2C: CUSTOMER RELATIONSHIP MANAGEMENT (CRM)
+
+¿Qué implica la "Reingeniería de procesos" al implantar un CRM?
+
+a) Comprar ordenadores más potentes.
+
+b) Alinear los procesos de negocio actuales con la nueva estrategia centrada en el cliente.
+
+c) Despedir a todo el departamento de ventas.
+
+d) Cambiar el logotipo de la empresa.
+
+Gracias al CRM, ¿qué tipo de venta se facilita al conocer el historial de compras del cliente?
+
+a) Venta de activos inmobiliarios.
+
+b) Venta cruzada (Cross-selling) y recomendaciones personalizadas.
+
+c) Venta de acciones de la empresa en bolsa.
+
+d) Venta de maquinaria obsoleta a proveedores.
+
+¿Cuál es el objetivo principal del "CRM Colaborativo"?
+
+a) Que los clientes hablen entre ellos.
+
+b) Ofrecer una visión unificada del cliente facilitando la interacción a través de múltiples canales y departamentos.
+
+c) Colaborar con la competencia para fijar precios.
+
+d) Crear un foro de discusión para empleados.
+
+Al seleccionar un software CRM, ¿qué factor es crítico además del precio y la funcionalidad?
+
+a) El color de la interfaz de usuario.
+
+b) La capacidad de integración con otros Sistemas de Información de la empresa.
+
+c) Que el proveedor sea del mismo país.
+
+d) Que incluya videojuegos para los descansos.
+
+¿Qué define al "e-CRM"?
+
+a) El uso de tecnologías Web y correos electrónicos para gestionar la relación con el cliente.
+
+b) Un CRM enfocado exclusivamente a empresas de electricidad.
+
+c) Un CRM que solo funciona en inglés (English-CRM).
+
+d) La gestión manual de fichas de clientes en papel.
+
+TEMA 3A: SISTEMAS DE SOPORTE A LA DECISIÓN
+
+¿Qué característica visual es distintiva de los Executive Information Systems (EIS)?
+
+a) Listados interminables de texto plano.
+
+b) Uso de interfaces gráficas, interactivas y amigables (ej: semáforos, relojes).
+
+c) Líneas de comandos complejas.
+
+d) Formularios de entrada de datos en blanco y negro.
+
+¿Para cuál de las siguientes tareas sería más apropiado usar un DSS (Decision Support System)?
+
+a) Calcular la nómina mensual de los empleados (estructurada).
+
+b) Registrar las ventas diarias de la caja (transaccional).
+
+c) Analizar la fijación de precios o simular escenarios de producción (semi-estructurada).
+
+d) Controlar el encendido y apagado de máquinas (operacional).
+
+¿Cuál de los siguientes es un ejemplo clásico de Sistema Experto (SE) en el campo médico?
+
+a) SAP R/3.
+
+b) Microsoft Excel.
+
+c) MYCIN (diagnóstico de infecciones).
+
+d) Oracle Database.
+
+¿Cuál es la función principal de un TPS (Transaction Processing System)?
+
+a) Ayudar a la alta dirección a definir la estrategia a 10 años.
+
+b) Recolectar y procesar datos de las transacciones y actividades diarias de la organización.
+
+c) Simular el comportamiento del mercado bursátil.
+
+d) Gestionar el conocimiento experto de los jubilados.
+
+Comparando un TPS y un EIS, ¿cómo es el volumen de "Dades" (Datos en bruto) que manejan?
+
+a) El TPS maneja muchos datos detallados, mientras que el EIS maneja menos datos pero más información agregada/estratégica.
+
+b) El EIS maneja millones de transacciones diarias y el TPS solo resúmenes.
+
+c) Ambos manejan la misma cantidad de datos e información.
+
+d) El TPS no maneja datos, solo decisiones.
+
+Soluciones: 1:c, 2:c, 3:c, 4:b, 5:b, 6:a, 7:c, 8:b, 9:b, 10:c, 11:b, 12:b, 13:b, 14:b, 15:a, 16:b, 17:c, 18:c, 19:b, 20:a
+
+------------------------------
+
+TEMA 3B: BUSINESS INTELLIGENCE (BI)
+
+En el contexto de un Data Warehouse, ¿qué significa que los datos son "Históricos" o "Variantes en el tiempo"?
+
+a) Que solo se guardan los datos del día actual.
+
+b) Que los datos se sobrescriben constantemente.
+
+c) Que se almacenan datos de diferentes periodos (fotos del pasado) para poder analizar tendencias y evoluciones temporalmente.
+
+d) Que la base de datos es muy lenta.
+
+¿Cuál es uno de los principales problemas que el BI intenta resolver en las organizaciones tradicionales?
+
+a) El exceso de licencias de software libre.
+
+b) La existencia de "Silos de Información", donde los datos están aislados en diferentes departamentos y formatos.
+
+c) La falta de ordenadores personales.
+
+d) El bajo coste de almacenamiento.
+
+En un esquema en estrella, si tenemos una tabla de hechos "Ventas", ¿cuál de los siguientes sería un ejemplo de "Atributo" en una tabla de dimensión "Producto"?
+
+a) La cantidad vendida (número).
+
+b) El importe total de la venta (euros).
+
+c) El nombre de la marca o el color del producto.
+
+d) El ID de la transacción.
+
+¿Qué diferencia principal existe entre los usuarios de nivel "Estratégico" y los de nivel "Operativo" en cuanto al uso del BI?
+
+a) Los estratégicos necesitan datos muy detallados y en tiempo real; los operativos datos muy agregados.
+
+b) Los estratégicos usan Dashboards con KPIs globales; los operativos usan informes detallados para el control diario.
+
+c) Los operativos no usan sistemas de información.
+
+d) No hay diferencia, todos usan las mismas pantallas.
+
+¿Qué herramienta de BI permite a los usuarios "navegar" por los datos, profundizando (drill-down) o generalizando (roll-up) a través de jerarquías?
+
+a) Un procesador de textos.
+
+b) Herramientas OLAP (Cubos multidimensionales).
+
+c) Un sistema de ficheros plano.
+
+d) El correo electrónico.
+
+TEMA 2D: SUPPLY CHAIN MANAGEMENT (SCM)
+
+En la cadena de suministro, ¿quiénes se sitúan "Aguas arriba" (Upstream) respecto al fabricante?
+
+a) Los clientes finales.
+
+b) Los distribuidores.
+
+c) Los proveedores y sub-proveedores.
+
+d) Los vendedores minoristas.
+
+¿Qué sistema específico mencionado en el temario se encarga de la "Ejecución de Manufactura" o control de producción en planta?
+
+a) CRM.
+
+b) MES (Manufacturing Execution System).
+
+c) TMS.
+
+d) HRIS.
+
+¿Por qué se dice que el flujo de información en la SCM es bidireccional?
+
+a) Porque solo va de proveedor a cliente.
+
+b) Porque incluye pedidos y previsiones (hacia proveedores) y confirmaciones/albaranes (hacia clientes).
+
+c) Porque los camiones van y vienen.
+
+d) Porque se paga en dos plazos.
+
+¿Cuál es el impacto de una interrupción en el suministro (ej: un proveedor falla) en una cadena SCM integrada?
+
+a) Solo afecta al proveedor.
+
+b) Afecta localmente al almacén.
+
+c) Efecto dominó: puede parar toda la cadena y afectar al cliente final.
+
+d) Mejora la eficiencia del resto.
+
+¿Qué ventaja ofrece compartir la previsión de demanda con los proveedores?
+
+a) Que los proveedores pueden aumentar sus precios.
+
+b) Reducir el "Efecto Látigo" (Bullwhip Effect) y ajustar los niveles de inventario en toda la cadena.
+
+c) Aumentar la burocracia.
+
+d) Violar la ley de protección de datos.
+
+TEMA 2C: CUSTOMER RELATIONSHIP MANAGEMENT (CRM)
+
+¿Cuál es la premisa económica básica que justifica la inversión en fidelización (CRM)?
+
+a) Es más caro retener a un cliente antiguo que captar uno nuevo.
+
+b) Es más costoso adquirir un cliente nuevo (marketing, publicidad) que retener a uno existente.
+
+c) Los clientes antiguos gastan menos.
+
+d) Los clientes nuevos no son rentables.
+
+¿Qué es la "Visión 360 grados" del cliente?
+
+a) Ver al cliente físicamente desde todos los ángulos.
+
+b) Tener toda la información del cliente (compras, quejas, web, email) unificada y accesible en una sola interfaz.
+
+c) Rotar al personal de ventas.
+
+d) Un tipo de cámara de seguridad.
+
+¿Qué tipo de CRM se encargaría de gestionar un "Call Center" o centro de soporte técnico?
+
+a) CRM Analítico.
+
+b) CRM Operacional (Módulo de Servicio/Soporte).
+
+c) CRM Estratégico.
+
+d) Data Warehouse.
+
+¿Cuál es un ejemplo de aplicación de CRM Analítico?
+
+a) Registrar una llamada entrante.
+
+b) Imprimir una factura.
+
+c) Segmentar la base de datos de clientes para identificar a los más rentables ("Gold Customers").
+
+d) Enviar un email de bienvenida.
+
+En cuanto a la implantación tecnológica, ¿qué significa "On-Premise" o "Propietario"?
+
+a) Que el software está en la nube.
+
+b) Que la empresa compra las licencias, instala el software en sus propios servidores y se encarga del mantenimiento.
+
+c) Que el software es gratuito.
+
+d) Que se paga una suscripción mensual.
+
+TEMA 3A: SISTEMAS DE SOPORTE A LA DECISIÓN
+
+¿Qué sistema se utilizó como ejemplo de Sistema Experto para la "Evaluación de Crédito"?
+
+a) Mycin.
+
+b) American Express (Authorizer's Assistant).
+
+c) Prospector.
+
+d) SAP CRM.
+
+En el modelo de Herbert Simon, ¿en qué consiste la fase de "Inteligencia"?
+
+a) En ser listo.
+
+b) En diseñar la solución.
+
+c) En explorar el entorno para identificar problemas u oportunidades que requieren una decisión.
+
+d) En ejecutar la decisión tomada.
+
+¿Qué diferencia a una decisión "Semi-estructurada"?
+
+a) Está totalmente automatizada.
+
+b) No tiene ninguna regla lógica.
+
+c) Tiene una parte definible/procedimental, pero requiere juicio humano para la parte no estructurada (ej: aprobación de presupuesto especial).
+
+d) Se toma con una moneda al aire.
+
+¿Cuál es el propósito del sistema PROSPECTOR mencionado en el temario?
+
+a) Diagnóstico médico.
+
+b) Exploración geológica y minera (encontrar yacimientos).
+
+c) Gestión de carteras de inversión.
+
+d) Control de tráfico aéreo.
+
+¿Qué tipo de soporte ofrece un GDSS (Soporte a Grupos) que no ofrece un DSS individual?
+
+a) Mayor capacidad de cálculo.
+
+b) Herramientas para gestionar la dinámica de reuniones (generación de ideas, votación, anonimato).
+
+c) Mejores gráficos.
+
+d) Acceso a internet.
+
+Soluciones: 1:c, 2:b, 3:c, 4:b, 5:b, 6:c, 7:b, 8:b, 9:c, 10:b, 11:b, 12:b, 13:b, 14:c, 15:b, 16:b, 17:c, 18:c, 19:b, 20:b

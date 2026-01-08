@@ -1,6 +1,6 @@
 import { Asignatura, Test, Pregunta } from '../types';
 import { StorageService } from './StorageService';
-import parsedQuestions from '../data/questions.json';
+import subjectsData from '../data/subjects.json';
 import { ApiService } from './apiService';
 
 export const TestService = {
@@ -16,37 +16,20 @@ export const TestService = {
         console.warn('Could not fetch subjects from API', e);
     }
 
-    // Fallback: Legacy logic (construct from questions)
-    let questions: Pregunta[] = [];
-    try {
-        const apiQuestions = await ApiService.getQuestions();
-        if (apiQuestions && apiQuestions.length > 0) {
-            questions = apiQuestions;
-        }
-    } catch (e) {
-        console.warn('Could not fetch questions from API, using bundled data', e);
-    }
-
-    if (questions.length === 0) {
-        questions = parsedQuestions as Pregunta[];
-    }
+    // Fallback: Use bundled data from subjects.json
+    // This allows the CMS to update this file and the changes to be reflected after a rebuild
+    // The data is wrapped in an object { asignaturas: [...] } for CMS compatibility
+    const initialData = (subjectsData as any).asignaturas as Asignatura[];
     
-    const defaultTest: Test = {
-      id: 'test-1',
-      titulo: 'Test de Enginyeria de Requisits',
-      descripcion: 'Preguntas completas del examen',
-      preguntas: questions
-    };
+    // If subjects.json is empty or invalid, we could have a failsafe here, 
+    // but assuming the CMS writes valid JSON, this is fine.
+    
+    if (initialData && initialData.length > 0) {
+        StorageService.saveAsignaturas(initialData); 
+        return initialData;
+    }
 
-    const defaultSubject: Asignatura = {
-      id: 'sub-1',
-      nombre: 'Enginyeria de Requisits',
-      tests: [defaultTest]
-    };
-
-    const initialData = [defaultSubject];
-    StorageService.saveAsignaturas(initialData); 
-    return initialData;
+    return [];
   },
 
   getAsignaturas: (): Asignatura[] => {

@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "data"
+    label: "Data"
+    files:
+      - name: "subjects"
+        label: "Asignaturas y Tests"
+        file: "src/data/subjects.json"
+        fields:
+          - label: "Asignaturas"
+            name: "asignaturas"
+            widget: "list"
+            fields:
+              - {label: "ID", name: "id", widget: "string"}
+              - {label: "Nombre", name: "nombre", widget: "string"}
+              - label: "Tests"
+                name: "tests"
+                widget: "list"
+                fields:
+                  - {label: "ID", name: "id", widget: "string"}
+                  - {label: "Título", name: "titulo", widget: "string"}
+                  - {label: "Descripción", name: "descripcion", widget: "text"}
+                  - label: "Preguntas"
+                    name: "preguntas"
+                    widget: "list"
+                    fields:
+                      - {label: "ID", name: "id", widget: "string"}
+                      - {label: "Enunciado", name: "enunciado", widget: "markdown"}
+                      - {label: "Tipo", name: "tipo", widget: "select", options: ["unica", "multiple"]}
+                      - label: "Opciones"
+                        name: "opciones"
+                        widget: "list"
+                        fields:
+                          - {label: "ID", name: "id", widget: "string"}
+                          - {label: "Texto", name: "texto", widget: "string"}
+                      - label: "Respuesta Correcta (IDs)"
+                        name: "respuestaCorrecta"
+                        widget: "list"
+                        # Nota: para listas simples de strings, el widget list por defecto funciona, 
+                        # pero a veces es mejor ser explícito si hay problemas.
+                        # Decap CMS guarda listas simples como ["a", "b"].
