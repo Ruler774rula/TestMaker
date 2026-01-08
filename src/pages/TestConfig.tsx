@@ -28,16 +28,35 @@ export const TestConfig: React.FC = () => {
   };
 
   const maxQuestions = currentTest.preguntas.length;
-  // Calculate blocks (assuming 10 questions per block)
-  const totalBlocks = Math.ceil(maxQuestions / 10);
-  const blocks = Array.from({ length: totalBlocks }, (_, i) => i + 1);
+  
+  // Calculate blocks
+  // Check if questions have 'bloque' property
+  const hasNamedBlocks = currentTest.preguntas.some(q => q.bloque);
+  
+  let availableBlocks: { id: number, name: string }[] = [];
+  
+  if (hasNamedBlocks) {
+      // Extract unique block names in order of appearance
+      const uniqueNames = Array.from(new Set(currentTest.preguntas.map(q => q.bloque).filter(Boolean))) as string[];
+      availableBlocks = uniqueNames.map((name, index) => ({
+          id: index + 1,
+          name: name
+      }));
+  } else {
+      // Fallback to 10 questions per block
+      const totalBlocks = Math.ceil(maxQuestions / 10);
+      availableBlocks = Array.from({ length: totalBlocks }, (_, i) => ({
+          id: i + 1,
+          name: `Bloque ${i + 1} (10 preguntas)`
+      }));
+  }
 
-  const toggleBlock = (blockIndex: number) => {
+  const toggleBlock = (blockId: number) => {
     const current = testConfig.bloquesSeleccionados;
-    if (current.includes(blockIndex)) {
-        updateTestConfig({ bloquesSeleccionados: current.filter(b => b !== blockIndex) });
+    if (current.includes(blockId)) {
+        updateTestConfig({ bloquesSeleccionados: current.filter(b => b !== blockId) });
     } else {
-        updateTestConfig({ bloquesSeleccionados: [...current, blockIndex] });
+        updateTestConfig({ bloquesSeleccionados: [...current, blockId] });
     }
   };
 
@@ -125,20 +144,22 @@ export const TestConfig: React.FC = () => {
               ) : (
                   /* Block Mode Options */
                   <div className="space-y-3">
-                      <p className="font-medium text-gray-700">Selecciona los bloques (10 preguntas cada uno):</p>
-                      <div className="grid grid-cols-2 gap-3">
-                          {blocks.map(block => (
+                      <p className="font-medium text-gray-700">
+                          {hasNamedBlocks ? "Selecciona los temas:" : "Selecciona los bloques (10 preguntas cada uno):"}
+                      </p>
+                      <div className={clsx("grid gap-3", hasNamedBlocks ? "grid-cols-1" : "grid-cols-2")}>
+                          {availableBlocks.map(block => (
                               <button
-                                key={block}
-                                onClick={() => toggleBlock(block)}
+                                key={block.id}
+                                onClick={() => toggleBlock(block.id)}
                                 className={clsx(
                                     "p-3 rounded-lg border text-left transition-all",
-                                    testConfig.bloquesSeleccionados.includes(block)
+                                    testConfig.bloquesSeleccionados.includes(block.id)
                                         ? "bg-blue-50 border-blue-500 text-blue-700 font-medium"
                                         : "bg-white border-gray-200 hover:bg-gray-50 text-gray-600"
                                 )}
                               >
-                                  Bloque {block}
+                                  {block.name}
                               </button>
                           ))}
                       </div>

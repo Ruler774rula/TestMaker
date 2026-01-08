@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useApp } from '../context/AppContext';
 import { useNavigate, useParams } from 'react-router-dom';
-import { FileText, ArrowLeft, Settings } from 'lucide-react';
+import { FileText, ArrowLeft, Settings, Eye } from 'lucide-react';
 
 export const SubjectDetails: React.FC = () => {
   const { currentSubject, selectTest } = useApp();
@@ -41,13 +41,22 @@ export const SubjectDetails: React.FC = () => {
       <div className="space-y-2">
         <div className="flex justify-between items-center">
             <h1 className="text-3xl font-bold text-gray-900">{currentSubject.nombre}</h1>
-            <button 
-                onClick={handleSettingsClick}
-                className="flex items-center px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
-            >
-                <Settings className="w-5 h-5 mr-2" />
-                Gestionar Preguntas
-            </button>
+            <div className="flex gap-2">
+                <button 
+                    onClick={() => navigate(`/subject/${currentSubject.id}/answers`)}
+                    className="flex items-center px-4 py-2 bg-blue-50 text-blue-700 rounded-lg hover:bg-blue-100 transition-colors"
+                >
+                    <Eye className="w-5 h-5 mr-2" />
+                    Ver Respuestas
+                </button>
+                <button 
+                    onClick={handleSettingsClick}
+                    className="flex items-center px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
+                >
+                    <Settings className="w-5 h-5 mr-2" />
+                    Gestionar Preguntas
+                </button>
+            </div>
         </div>
         <p className="text-gray-500">Selecciona un test para comenzar</p>
       </div>

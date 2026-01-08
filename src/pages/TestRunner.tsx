@@ -20,21 +20,30 @@ export const TestRunner: React.FC = () => {
     let questions: typeof currentTest.preguntas = [];
 
     if (testConfig.modoBloques) {
-        // Filter by selected blocks
-        // Assuming questions are ordered 1-60 and blocks are 1-6 (10 qs each)
-        testConfig.bloquesSeleccionados.forEach(blockIdx => {
-            const start = (blockIdx - 1) * 10;
-            const end = start + 10;
-            const blockQuestions = currentTest.preguntas.slice(start, end);
-            questions = [...questions, ...blockQuestions];
-        });
-        // Do not shuffle in block mode? Or shuffle selected blocks content?
-        // User asked "seleccionar los bloques que quiero que se me pregunten"
-        // Usually block mode implies order, but maybe we want to shuffle within blocks?
-        // Let's keep them ordered for now as per "blocks" implication, unless shuffle is enabled globally (which is hidden in UI for block mode but check logic)
+        // Check if we have named blocks
+        const hasNamedBlocks = currentTest.preguntas.some(q => q.bloque);
         
-        // Actually I hid shuffle option in Block Mode in UI. So defaults to false.
-        
+        if (hasNamedBlocks) {
+            // Reconstruct available blocks logic from TestConfig to match indices
+            const uniqueNames = Array.from(new Set(currentTest.preguntas.map(q => q.bloque).filter(Boolean))) as string[];
+            
+            // Map selected indices to block names
+            const selectedBlockNames = testConfig.bloquesSeleccionados.map(idx => {
+                // idx is 1-based index corresponding to uniqueNames array
+                return uniqueNames[idx - 1];
+            }).filter(Boolean);
+            
+            // Filter questions that belong to selected blocks
+            questions = currentTest.preguntas.filter(q => q.bloque && selectedBlockNames.includes(q.bloque));
+        } else {
+            // Legacy/Fallback logic (10 questions per block)
+            testConfig.bloquesSeleccionados.forEach(blockIdx => {
+                const start = (blockIdx - 1) * 10;
+                const end = start + 10;
+                const blockQuestions = currentTest.preguntas.slice(start, end);
+                questions = [...questions, ...blockQuestions];
+            });
+        }
     } else {
         // Question Mode (Random)
         questions = [...currentTest.preguntas];

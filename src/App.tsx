@@ -9,6 +9,7 @@ import { TestRunner } from './pages/TestRunner';
 import { Results } from './pages/Results';
 import { Editor } from './pages/Editor';
 import { ManageSubjects } from './pages/ManageSubjects';
+import { SubjectAnswers } from './pages/SubjectAnswers';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/manage-subjects" element={<ManageSubjects />} />
             <Route path="/subject/:id" element={<SubjectDetails />} />
+            <Route path="/subject/:id/answers" element={<SubjectAnswers />} />
             <Route path="/config/:testId" element={<TestConfig />} />
             <Route path="/runner" element={<TestRunner />} />
             <Route path="/results" element={<Results />} />

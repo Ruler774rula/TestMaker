@@ -1,0 +1,2173 @@
+{
+  "id": "sub-si",
+  "nombre": "Sistemes d'Informació",
+  "tests": [
+    {
+      "id": "test-si-completo",
+      "titulo": "Test Completo de Sistemes d'Informació",
+      "descripcion": "80 preguntas organizadas por temas (BI, SCM, CRM, SSD)",
+      "preguntas": [
+        {
+          "id": "q-si-1",
+          "enunciado": "¿Cuál es la definición principal de Business Intelligence (BI)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Sistema para gestión de transacciones diarias."
+            },
+            {
+              "id": "b",
+              "texto": "Transformación de datos en conocimiento para decidir."
+            },
+            {
+              "id": "c",
+              "texto": "Software de gestión de nóminas."
+            },
+            {
+              "id": "d",
+              "texto": "Automatización de la cadena de suministro."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-2",
+          "enunciado": "¿Qué significan las siglas ETL en el contexto de un Data Warehouse?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Extract, Transaction, Load"
+            },
+            {
+              "id": "b",
+              "texto": "Entry, Transfer, Level"
+            },
+            {
+              "id": "c",
+              "texto": "Extract, Transform, Load"
+            },
+            {
+              "id": "d",
+              "texto": "Estimate, Test, Log"
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-3",
+          "enunciado": "¿Diferencia clave entre Base de Datos Transaccional (OLTP) y Data Warehouse (DW)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "OLTP normalizada; DW desnormalizado."
+            },
+            {
+              "id": "b",
+              "texto": "DW datos tiempo real; OLTP datos históricos."
+            },
+            {
+              "id": "c",
+              "texto": "OLTP usa esquema estrella; DW usa formas normales."
+            },
+            {
+              "id": "d",
+              "texto": "No hay diferencia sustancial."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-4",
+          "enunciado": "En un esquema en estrella, ¿qué contienen las Tablas de Hechos?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Datos descriptivos de clientes."
+            },
+            {
+              "id": "b",
+              "texto": "Métricas numéricas y claves foráneas."
+            },
+            {
+              "id": "c",
+              "texto": "Descripciones de productos."
+            },
+            {
+              "id": "d",
+              "texto": "Configuración del sistema."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-5",
+          "enunciado": "¿Qué es un Data Mart?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Mercado de venta de datos."
+            },
+            {
+              "id": "b",
+              "texto": "DW departamental o específico."
+            },
+            {
+              "id": "c",
+              "texto": "Fase de transformación ETL."
+            },
+            {
+              "id": "d",
+              "texto": "CRM analítico."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-6",
+          "enunciado": "¿Qué son los \"Metadatos\" en BI?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Datos de ventas diarias."
+            },
+            {
+              "id": "b",
+              "texto": "Datos sobre los datos."
+            },
+            {
+              "id": "c",
+              "texto": "Informes finales de ventas."
+            },
+            {
+              "id": "d",
+              "texto": "Virus informático de DW."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-7",
+          "enunciado": "¿Característica fundamental de un Data Warehouse?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Volatilidad diaria."
+            },
+            {
+              "id": "b",
+              "texto": "Operacional diario."
+            },
+            {
+              "id": "c",
+              "texto": "No volátil."
+            },
+            {
+              "id": "d",
+              "texto": "Desestructurado."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-8",
+          "enunciado": "¿Qué representan las \"Tablas de Dimensiones\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Métricas y claves."
+            },
+            {
+              "id": "b",
+              "texto": "Perspectivas de negocio."
+            },
+            {
+              "id": "c",
+              "texto": "Índices de borrado."
+            },
+            {
+              "id": "d",
+              "texto": "Copias de seguridad."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-9",
+          "enunciado": "¿Consecuencia de la \"mala calidad de los datos\" en BI?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Mayor velocidad de proceso."
+            },
+            {
+              "id": "b",
+              "texto": "Decisiones erróneas y abandono del sistema."
+            },
+            {
+              "id": "c",
+              "texto": "Menor espacio en disco."
+            },
+            {
+              "id": "d",
+              "texto": "Mejora del ETL."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-10",
+          "enunciado": "¿Quién utiliza principalmente \"Cuadros de Mando\" (Dashboards)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Nivel Operativo."
+            },
+            {
+              "id": "b",
+              "texto": "Nivel Táctico."
+            },
+            {
+              "id": "c",
+              "texto": "Alta Dirección."
+            },
+            {
+              "id": "d",
+              "texto": "Administradores IT."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-11",
+          "enunciado": "¿Herramienta principal del \"Nivel Operativo\" en BI?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Dashboards interactivos."
+            },
+            {
+              "id": "b",
+              "texto": "Data Mining."
+            },
+            {
+              "id": "c",
+              "texto": "Informes estáticos/preformateados."
+            },
+            {
+              "id": "d",
+              "texto": "Simulación estratégica."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-12",
+          "enunciado": "¿Qué se realiza en la fase de \"Transformación\" del ETL?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Compra de hardware."
+            },
+            {
+              "id": "b",
+              "texto": "Obtención de datos brutos."
+            },
+            {
+              "id": "c",
+              "texto": "Limpieza, validación y agregación."
+            },
+            {
+              "id": "d",
+              "texto": "Visualización gráfica."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-13",
+          "enunciado": "¿Qué propiedad del DW unifica la codificación de distintas fuentes?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "No volatilidad."
+            },
+            {
+              "id": "b",
+              "texto": "Variabilidad."
+            },
+            {
+              "id": "c",
+              "texto": "Integración."
+            },
+            {
+              "id": "d",
+              "texto": "Orientación a temas."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-14",
+          "enunciado": "¿Objetivo final del Business Intelligence?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Reducir personal IT."
+            },
+            {
+              "id": "b",
+              "texto": "Mejorar la toma de decisiones con datos."
+            },
+            {
+              "id": "c",
+              "texto": "Automatizar fábricas."
+            },
+            {
+              "id": "d",
+              "texto": "Instalar bases de datos."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-15",
+          "enunciado": "¿Función principal de OLAP?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Procesar transacciones."
+            },
+            {
+              "id": "b",
+              "texto": "Análisis multidimensional ad-hoc."
+            },
+            {
+              "id": "c",
+              "texto": "Email marketing."
+            },
+            {
+              "id": "d",
+              "texto": "Diseño web."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-16",
+          "enunciado": "¿Qué significa que los datos del DW son \"Históricos\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Solo datos de hoy."
+            },
+            {
+              "id": "b",
+              "texto": "Se sobrescriben siempre."
+            },
+            {
+              "id": "c",
+              "texto": "Almacenan series temporales para tendencias."
+            },
+            {
+              "id": "d",
+              "texto": "La base de datos es lenta."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-17",
+          "enunciado": "¿Problema que resuelve el BI en organizaciones tradicionales?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Exceso de licencias."
+            },
+            {
+              "id": "b",
+              "texto": "\"Silos de Información\" aislados."
+            },
+            {
+              "id": "c",
+              "texto": "Falta de hardware."
+            },
+            {
+              "id": "d",
+              "texto": "Bajo coste de disco."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-18",
+          "enunciado": "¿Ejemplo de atributo en dimensión \"Producto\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Cantidad vendida."
+            },
+            {
+              "id": "b",
+              "texto": "Importe venta."
+            },
+            {
+              "id": "c",
+              "texto": "Marca, color o categoría."
+            },
+            {
+              "id": "d",
+              "texto": "ID Transacción."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-19",
+          "enunciado": "¿Diferencia uso BI: Estratégico vs Operativo?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Estratégico: detalle; Operativo: agregado."
+            },
+            {
+              "id": "b",
+              "texto": "Estratégico: KPIs globales; Operativo: detalle diario."
+            },
+            {
+              "id": "c",
+              "texto": "Operativo no usa sistemas."
+            },
+            {
+              "id": "d",
+              "texto": "Sin diferencias."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-20",
+          "enunciado": "¿Herramienta para drill-down y roll-up?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Word Processor."
+            },
+            {
+              "id": "b",
+              "texto": "OLAP."
+            },
+            {
+              "id": "c",
+              "texto": "Ficheros planos."
+            },
+            {
+              "id": "d",
+              "texto": "Email."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Business Intelligence (BI)"
+        },
+        {
+          "id": "q-si-21",
+          "enunciado": "¿Qué gestiona SCM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Solo transporte."
+            },
+            {
+              "id": "b",
+              "texto": "Solo proveedores."
+            },
+            {
+              "id": "c",
+              "texto": "Flujo proveedor a cliente ."
+            },
+            {
+              "id": "d",
+              "texto": "RRHH."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-22",
+          "enunciado": "¿Tres flujos principales en SCM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Materiales, Información, Financiero."
+            },
+            {
+              "id": "b",
+              "texto": "Líquidos, Sólidos, Gaseosos."
+            },
+            {
+              "id": "c",
+              "texto": "Ventas, Marketing, Soporte."
+            },
+            {
+              "id": "d",
+              "texto": "Hardware, Software, Redes."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-23",
+          "enunciado": "¿Objetivo de JIT (Just-in-Time)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Maximizar stock."
+            },
+            {
+              "id": "b",
+              "texto": "Minimizar inventario."
+            },
+            {
+              "id": "c",
+              "texto": "Retrasar pagos."
+            },
+            {
+              "id": "d",
+              "texto": "Automatizar emails."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-24",
+          "enunciado": "¿Riesgo en SCM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Exceso de almacenamiento cloud."
+            },
+            {
+              "id": "b",
+              "texto": "Efecto dominó por fallo de proveedor."
+            },
+            {
+              "id": "c",
+              "texto": "Clientes demasiado satisfechos."
+            },
+            {
+              "id": "d",
+              "texto": "Entregas demasiado rápidas."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-25",
+          "enunciado": "¿Inicio de la cadena de suministro?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Clientes finales."
+            },
+            {
+              "id": "b",
+              "texto": "Minoristas."
+            },
+            {
+              "id": "c",
+              "texto": "Proveedores."
+            },
+            {
+              "id": "d",
+              "texto": "Marketing."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-26",
+          "enunciado": "¿Característica de etapa \"Distribución Física\" (60-70)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Internet y Cloud."
+            },
+            {
+              "id": "b",
+              "texto": "Alto stock de seguridad y enfoque en distribución."
+            },
+            {
+              "id": "c",
+              "texto": "Integración total."
+            },
+            {
+              "id": "d",
+              "texto": "Sin almacenes."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-27",
+          "enunciado": "¿Flujo inverso en SCM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Pagos de clientes."
+            },
+            {
+              "id": "b",
+              "texto": "Devoluciones o logística inversa."
+            },
+            {
+              "id": "c",
+              "texto": "Materia prima a fábrica."
+            },
+            {
+              "id": "d",
+              "texto": "Pérdida de datos."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-28",
+          "enunciado": "¿Qué es VMI (Vendor Managed Inventory)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Gestión de vehículos."
+            },
+            {
+              "id": "b",
+              "texto": "Proveedor gestiona el inventario del cliente."
+            },
+            {
+              "id": "c",
+              "texto": "Memoria virtual."
+            },
+            {
+              "id": "d",
+              "texto": "Suministro masivo."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-29",
+          "enunciado": "¿Riesgo SCM asociado a \"Demanda\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Huelga transporte."
+            },
+            {
+              "id": "b",
+              "texto": "Capacidad planta."
+            },
+            {
+              "id": "c",
+              "texto": "Fluctuación de pedidos."
+            },
+            {
+              "id": "d",
+              "texto": "Fallo servidores."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-30",
+          "enunciado": "¿Beneficio SCM en \"Ciclo de desarrollo\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Aumenta tiempo."
+            },
+            {
+              "id": "b",
+              "texto": "Neutro."
+            },
+            {
+              "id": "c",
+              "texto": "Reduce \"Time to market\"."
+            },
+            {
+              "id": "d",
+              "texto": "Complica desarrollo."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-31",
+          "enunciado": "¿Ineficiencia por falta de información compartida?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Efecto látigo."
+            },
+            {
+              "id": "b",
+              "texto": "Aumento ventas."
+            },
+            {
+              "id": "c",
+              "texto": "Menor coste transporte."
+            },
+            {
+              "id": "d",
+              "texto": "Mejor calidad."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-32",
+          "enunciado": "¿Función de \"Distribuidores\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Fabricación."
+            },
+            {
+              "id": "b",
+              "texto": "Venta final."
+            },
+            {
+              "id": "c",
+              "texto": "Logística."
+            },
+            {
+              "id": "d",
+              "texto": "Financiación."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-33",
+          "enunciado": "¿Qué es TMS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Time Management."
+            },
+            {
+              "id": "b",
+              "texto": "Transport Management System."
+            },
+            {
+              "id": "c",
+              "texto": "Total Marketing."
+            },
+            {
+              "id": "d",
+              "texto": "Transaction Monitoring."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-34",
+          "enunciado": "¿Beneficio directo de SCM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Más impuestos."
+            },
+            {
+              "id": "b",
+              "texto": "Reducción de costes y aumento de márgenes."
+            },
+            {
+              "id": "c",
+              "texto": "Más burocracia."
+            },
+            {
+              "id": "d",
+              "texto": "Menos productos."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-35",
+          "enunciado": "¿Riesgo SCM de \"Operaciones\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Desastres naturales."
+            },
+            {
+              "id": "b",
+              "texto": "Huelgas proveedores."
+            },
+            {
+              "id": "c",
+              "texto": "Problemas de producción/calidad internos."
+            },
+            {
+              "id": "d",
+              "texto": "Cambios gustos cliente."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-36",
+          "enunciado": "¿Quién está \"Aguas arriba\" (Upstream)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Clientes."
+            },
+            {
+              "id": "b",
+              "texto": "Distribuidores."
+            },
+            {
+              "id": "c",
+              "texto": "Proveedores."
+            },
+            {
+              "id": "d",
+              "texto": "Minoristas."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-37",
+          "enunciado": "¿Sistema para control de planta (Ejecución)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "CRM."
+            },
+            {
+              "id": "b",
+              "texto": "MES."
+            },
+            {
+              "id": "c",
+              "texto": "TMS."
+            },
+            {
+              "id": "d",
+              "texto": "HRIS."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-38",
+          "enunciado": "¿Por qué el flujo de información es bidireccional?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Solo va a clientes."
+            },
+            {
+              "id": "b",
+              "texto": "Pedidos y Envíos."
+            },
+            {
+              "id": "c",
+              "texto": "Movimiento camiones."
+            },
+            {
+              "id": "d",
+              "texto": "Pago doble."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-39",
+          "enunciado": "¿Impacto de fallo en suministro?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Afecta solo al proveedor."
+            },
+            {
+              "id": "b",
+              "texto": "Afecta solo al almacén."
+            },
+            {
+              "id": "c",
+              "texto": "Efecto cascada en toda la cadena."
+            },
+            {
+              "id": "d",
+              "texto": "Mejora eficiencia."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-40",
+          "enunciado": "¿Ventaja de compartir previsión de demanda?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Subida precios."
+            },
+            {
+              "id": "b",
+              "texto": "Reducción Efecto Látigo."
+            },
+            {
+              "id": "c",
+              "texto": "Más burocracia."
+            },
+            {
+              "id": "d",
+              "texto": "Problemas legales."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Supply Chain Management (SCM)"
+        },
+        {
+          "id": "q-si-41",
+          "enunciado": "¿Enfoque estratégico del CRM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Producto."
+            },
+            {
+              "id": "b",
+              "texto": "Cliente."
+            },
+            {
+              "id": "c",
+              "texto": "Coste producción."
+            },
+            {
+              "id": "d",
+              "texto": "Quejas."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-42",
+          "enunciado": "¿Función CRM Operacional?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Data Mining."
+            },
+            {
+              "id": "b",
+              "texto": "Front-office."
+            },
+            {
+              "id": "c",
+              "texto": "Logística."
+            },
+            {
+              "id": "d",
+              "texto": "Colaboración B2B."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-43",
+          "enunciado": "¿Función CRM Analítico?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "SFA."
+            },
+            {
+              "id": "b",
+              "texto": "Call Center."
+            },
+            {
+              "id": "c",
+              "texto": "Análisis comportamiento."
+            },
+            {
+              "id": "d",
+              "texto": "Multicanalidad."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-44",
+          "enunciado": "¿Característica CRM Cloud (SaaS)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Inversión inicial hardware."
+            },
+            {
+              "id": "b",
+              "texto": "Pago por uso, sin mantenimiento técnico."
+            },
+            {
+              "id": "c",
+              "texto": "No escalable."
+            },
+            {
+              "id": "d",
+              "texto": "Datos en local."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-45",
+          "enunciado": "¿Qué es \"Social CRM\"?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "CRM público."
+            },
+            {
+              "id": "b",
+              "texto": "Integración con Redes Sociales."
+            },
+            {
+              "id": "c",
+              "texto": "Fiesta de ventas."
+            },
+            {
+              "id": "d",
+              "texto": "CRM para ONGs."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-46",
+          "enunciado": "¿Funcionalidad SFA (Sales Force Automation)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Nóminas."
+            },
+            {
+              "id": "b",
+              "texto": "Gestión oportunidades/contactos."
+            },
+            {
+              "id": "c",
+              "texto": "Diseño."
+            },
+            {
+              "id": "d",
+              "texto": "Stock."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-47",
+          "enunciado": "¿Automatización de Marketing?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Reparaciones."
+            },
+            {
+              "id": "b",
+              "texto": "Gestión de campañas y segmentación."
+            },
+            {
+              "id": "c",
+              "texto": "Impuestos."
+            },
+            {
+              "id": "d",
+              "texto": "Logística."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-48",
+          "enunciado": "¿Desventaja CRM Cloud?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Coste inicial."
+            },
+            {
+              "id": "b",
+              "texto": "Mantenimiento propio."
+            },
+            {
+              "id": "c",
+              "texto": "Privacidad/Seguridad datos y dependencia internet."
+            },
+            {
+              "id": "d",
+              "texto": "Escalabilidad."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-49",
+          "enunciado": "¿Situación pre-CRM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "\"Silos\" departamentales aislados."
+            },
+            {
+              "id": "b",
+              "texto": "Base de datos central."
+            },
+            {
+              "id": "c",
+              "texto": "Autogestión cliente."
+            },
+            {
+              "id": "d",
+              "texto": "Sin clientes."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-50",
+          "enunciado": "¿Mobile CRM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Venta móviles."
+            },
+            {
+              "id": "b",
+              "texto": "Acceso ubicuo desde dispositivos móviles."
+            },
+            {
+              "id": "c",
+              "texto": "Oficina móvil."
+            },
+            {
+              "id": "d",
+              "texto": "Tarifa datos."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-51",
+          "enunciado": "¿Reingeniería de procesos en CRM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Nuevos PCs."
+            },
+            {
+              "id": "b",
+              "texto": "Adaptar procesos al cliente."
+            },
+            {
+              "id": "c",
+              "texto": "Despidos."
+            },
+            {
+              "id": "d",
+              "texto": "Nuevo logo."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-52",
+          "enunciado": "¿Venta facilitada por historial cliente?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Inmobiliaria."
+            },
+            {
+              "id": "b",
+              "texto": "Cross-selling."
+            },
+            {
+              "id": "c",
+              "texto": "Acciones."
+            },
+            {
+              "id": "d",
+              "texto": "Chatarra."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-53",
+          "enunciado": "¿Objetivo CRM Colaborativo?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Charla clientes."
+            },
+            {
+              "id": "b",
+              "texto": "Visión 360º y multicanalidad unificada."
+            },
+            {
+              "id": "c",
+              "texto": "Colusión."
+            },
+            {
+              "id": "d",
+              "texto": "Foro interno."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-54",
+          "enunciado": "¿Factor crítico selección CRM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Colores."
+            },
+            {
+              "id": "b",
+              "texto": "Integración con sistemas existentes."
+            },
+            {
+              "id": "c",
+              "texto": "Nacionalidad."
+            },
+            {
+              "id": "d",
+              "texto": "Juegos."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-55",
+          "enunciado": "¿e-CRM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Gestión vía Web/Email."
+            },
+            {
+              "id": "b",
+              "texto": "CRM eléctrico."
+            },
+            {
+              "id": "c",
+              "texto": "English CRM."
+            },
+            {
+              "id": "d",
+              "texto": "Papel."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-56",
+          "enunciado": "¿Premisa económica CRM?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Retener es caro."
+            },
+            {
+              "id": "b",
+              "texto": "Captar nuevo es más caro que retener."
+            },
+            {
+              "id": "c",
+              "texto": "Antiguos gastan menos."
+            },
+            {
+              "id": "d",
+              "texto": "Nuevos no rentables."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-57",
+          "enunciado": "¿Visión 360 grados?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Física."
+            },
+            {
+              "id": "b",
+              "texto": "Información unificada de todas las interacciones."
+            },
+            {
+              "id": "c",
+              "texto": "Rotación personal."
+            },
+            {
+              "id": "d",
+              "texto": "Cámara."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-58",
+          "enunciado": "¿CRM para Call Center?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Analítico."
+            },
+            {
+              "id": "b",
+              "texto": "Operacional."
+            },
+            {
+              "id": "c",
+              "texto": "Estratégico."
+            },
+            {
+              "id": "d",
+              "texto": "DW."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-59",
+          "enunciado": "¿Ejemplo CRM Analítico?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Registrar llamada."
+            },
+            {
+              "id": "b",
+              "texto": "Facturar."
+            },
+            {
+              "id": "c",
+              "texto": "Segmentación clientes."
+            },
+            {
+              "id": "d",
+              "texto": "Email bienvenida."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-60",
+          "enunciado": "¿On-Premise?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Cloud."
+            },
+            {
+              "id": "b",
+              "texto": "Instalación local."
+            },
+            {
+              "id": "c",
+              "texto": "Gratis."
+            },
+            {
+              "id": "d",
+              "texto": "Suscripción."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Customer Relationship Management (CRM)"
+        },
+        {
+          "id": "q-si-61",
+          "enunciado": "¿Sistema para Alta Dirección?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "TPS."
+            },
+            {
+              "id": "b",
+              "texto": "MIS."
+            },
+            {
+              "id": "c",
+              "texto": "EIS."
+            },
+            {
+              "id": "d",
+              "texto": "CRM Ops."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-62",
+          "enunciado": "¿Característica MIS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Informes rutinarios de control."
+            },
+            {
+              "id": "b",
+              "texto": "IA médica."
+            },
+            {
+              "id": "c",
+              "texto": "Simulación compleja."
+            },
+            {
+              "id": "d",
+              "texto": "Transaccional puro."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-63",
+          "enunciado": "¿Objetivo DSS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Estructuradas."
+            },
+            {
+              "id": "b",
+              "texto": "Semi/No estructuradas."
+            },
+            {
+              "id": "c",
+              "texto": "Administrativas."
+            },
+            {
+              "id": "d",
+              "texto": "Monitorización."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-64",
+          "enunciado": "¿Estructurada vs No estructurada?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Reglas fijas vs Juicio/Excepcionalidad."
+            },
+            {
+              "id": "b",
+              "texto": "Directivos vs Operarios."
+            },
+            {
+              "id": "c",
+              "texto": "Sin datos vs Con datos."
+            },
+            {
+              "id": "d",
+              "texto": "Iguales."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-65",
+          "enunciado": "¿Base de la pirámide (alimenta a otros)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "EIS."
+            },
+            {
+              "id": "b",
+              "texto": "TPS."
+            },
+            {
+              "id": "c",
+              "texto": "SE."
+            },
+            {
+              "id": "d",
+              "texto": "GDSS."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-66",
+          "enunciado": "¿Fases decisión (Simon)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Inicio, Nudo, Desenlace."
+            },
+            {
+              "id": "b",
+              "texto": "Inteligencia, Diseño, Elección."
+            },
+            {
+              "id": "c",
+              "texto": "Entrada, Proceso, Salida."
+            },
+            {
+              "id": "d",
+              "texto": "Plan, Ejecución, Control."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-67",
+          "enunciado": "¿Qué es un Sistema Experto?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Aleatorio."
+            },
+            {
+              "id": "b",
+              "texto": "Emula razonamiento experto humano."
+            },
+            {
+              "id": "c",
+              "texto": "Gestor email."
+            },
+            {
+              "id": "d",
+              "texto": "Contabilidad."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-68",
+          "enunciado": "¿Informe MIS por situación inusual?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Programado."
+            },
+            {
+              "id": "b",
+              "texto": "On-demand."
+            },
+            {
+              "id": "c",
+              "texto": "De excepciones."
+            },
+            {
+              "id": "d",
+              "texto": "Básico."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-69",
+          "enunciado": "¿Ejemplo Decisión No Estructurada?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Reordenar stock."
+            },
+            {
+              "id": "b",
+              "texto": "Invertir en nuevo mercado."
+            },
+            {
+              "id": "c",
+              "texto": "Calcular horas."
+            },
+            {
+              "id": "d",
+              "texto": "Asignar turnos."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-70",
+          "enunciado": "¿GDSS (Grupos)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Individual."
+            },
+            {
+              "id": "b",
+              "texto": "Gestión reuniones."
+            },
+            {
+              "id": "c",
+              "texto": "Móvil."
+            },
+            {
+              "id": "d",
+              "texto": "Sin interacción."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-71",
+          "enunciado": "¿Característica visual EIS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Texto plano."
+            },
+            {
+              "id": "b",
+              "texto": "Gráfica amigable."
+            },
+            {
+              "id": "c",
+              "texto": "Comandos."
+            },
+            {
+              "id": "d",
+              "texto": "B/N."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-72",
+          "enunciado": "¿Tarea para DSS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Nómina."
+            },
+            {
+              "id": "b",
+              "texto": "Ventas caja."
+            },
+            {
+              "id": "c",
+              "texto": "Simulación precios."
+            },
+            {
+              "id": "d",
+              "texto": "Control máquinas."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-73",
+          "enunciado": "¿Ejemplo Sistema Experto Médico?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "SAP."
+            },
+            {
+              "id": "b",
+              "texto": "Excel."
+            },
+            {
+              "id": "c",
+              "texto": "MYCIN."
+            },
+            {
+              "id": "d",
+              "texto": "Oracle."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-74",
+          "enunciado": "¿Función TPS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Estrategia."
+            },
+            {
+              "id": "b",
+              "texto": "Procesar transacciones diarias."
+            },
+            {
+              "id": "c",
+              "texto": "Simulación."
+            },
+            {
+              "id": "d",
+              "texto": "Gestión conocimiento."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-75",
+          "enunciado": "¿Volumen datos TPS vs EIS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "TPS: mucho detalle; EIS: agregado."
+            },
+            {
+              "id": "b",
+              "texto": "EIS: millones; TPS: resumen."
+            },
+            {
+              "id": "c",
+              "texto": "Igual."
+            },
+            {
+              "id": "d",
+              "texto": "TPS nada."
+            }
+          ],
+          "respuestaCorrecta": [
+            "a"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-76",
+          "enunciado": "¿Ejemplo SE Evaluación Crédito?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Mycin."
+            },
+            {
+              "id": "b",
+              "texto": "Authorizer's Assistant."
+            },
+            {
+              "id": "c",
+              "texto": "Prospector."
+            },
+            {
+              "id": "d",
+              "texto": "SAP."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-77",
+          "enunciado": "¿Fase Inteligencia (Simon)?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Ser listo."
+            },
+            {
+              "id": "b",
+              "texto": "Diseñar."
+            },
+            {
+              "id": "c",
+              "texto": "Explorar entorno."
+            },
+            {
+              "id": "d",
+              "texto": "Ejecutar."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-78",
+          "enunciado": "¿Decisión Semi-estructurada?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Automatizada."
+            },
+            {
+              "id": "b",
+              "texto": "Ilógica."
+            },
+            {
+              "id": "c",
+              "texto": "Parte procedimental + Juicio humano."
+            },
+            {
+              "id": "d",
+              "texto": "Azar."
+            }
+          ],
+          "respuestaCorrecta": [
+            "c"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-79",
+          "enunciado": "¿Propósito PROSPECTOR?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Médico."
+            },
+            {
+              "id": "b",
+              "texto": "Geología/Minería."
+            },
+            {
+              "id": "c",
+              "texto": "Inversión."
+            },
+            {
+              "id": "d",
+              "texto": "Tráfico."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        },
+        {
+          "id": "q-si-80",
+          "enunciado": "¿Ventaja GDSS sobre DSS?",
+          "tipo": "unica",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "Cálculo."
+            },
+            {
+              "id": "b",
+              "texto": "Dinámica grupos."
+            },
+            {
+              "id": "c",
+              "texto": "Gráficos."
+            },
+            {
+              "id": "d",
+              "texto": "Internet."
+            }
+          ],
+          "respuestaCorrecta": [
+            "b"
+          ],
+          "bloque": "Sistemas de Soporte a la Decisión"
+        }
+      ]
+    }
+  ]
+}
