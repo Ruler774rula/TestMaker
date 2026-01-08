@@ -14,7 +14,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Un sistema para realizar transacciones bancarias diarias."
+              "texto": "Un sistema informático diseñado exclusivamente para procesar y almacenar transacciones bancarias diarias de gran volumen."
             },
             {
               "id": "b",
@@ -22,11 +22,11 @@
             },
             {
               "id": "c",
-              "texto": "Un software específico para la gestión de nóminas de empleados."
+              "texto": "Un software específico orientado a la gestión administrativa y cálculo de nóminas de los empleados de una organización."
             },
             {
               "id": "d",
-              "texto": "La automatización de la cadena de suministro física exclusivamente."
+              "texto": "La automatización integral de los procesos logísticos y de la cadena de suministro física, sin incluir análisis de datos."
             }
           ],
           "respuestaCorrecta": [
@@ -45,7 +45,7 @@
             },
             {
               "id": "b",
-              "texto": "Entry, Transfer, Level"
+              "texto": "Entry, Transform, Level"
             },
             {
               "id": "c",
@@ -80,7 +80,7 @@
             },
             {
               "id": "d",
-              "texto": "No hay diferencia, son lo mismo."
+              "texto": "La base de datos transaccional almacena datos históricos agregados, mientras que el DW almacena datos operativos detallados."
             }
           ],
           "respuestaCorrecta": [
@@ -95,7 +95,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Los nombres y direcciones de los clientes."
+              "texto": "Información descriptiva y atributos cualitativos de las entidades de negocio."
             },
             {
               "id": "b",
@@ -103,11 +103,11 @@
             },
             {
               "id": "c",
-              "texto": "Descripciones textuales de los productos."
+              "texto": "Descripciones textuales detalladas de los productos y servicios."
             },
             {
               "id": "d",
-              "texto": "La configuración del sistema operativo."
+              "texto": "La configuración del sistema operativo y parámetros de red."
             }
           ],
           "respuestaCorrecta": [
@@ -122,7 +122,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Un mercado online para vender datos a terceros."
+              "texto": "Una plataforma de comercio electrónico B2B para el intercambio de bases de datos."
             },
             {
               "id": "b",
@@ -130,11 +130,11 @@
             },
             {
               "id": "c",
-              "texto": "La fase de transformación del proceso ETL."
+              "texto": "La fase de transformación intermedia del proceso ETL."
             },
             {
               "id": "d",
-              "texto": "Un tipo de CRM analítico."
+              "texto": "Un tipo de CRM analítico especializado en marketing."
             }
           ],
           "respuestaCorrecta": [
@@ -149,11 +149,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Únicamente el transporte de mercancías en camiones."
+              "texto": "Exclusivamente la logística de distribución y transporte de mercancías en la última milla."
             },
             {
               "id": "b",
-              "texto": "Solo la relación con los proveedores de materia prima."
+              "texto": "Solo la relación contractual y financiera con los proveedores de materia prima."
             },
             {
               "id": "c",
@@ -161,7 +161,7 @@
             },
             {
               "id": "d",
-              "texto": "La base de datos de recursos humanos."
+              "texto": "La base de datos de recursos humanos y gestión de talento."
             }
           ],
           "respuestaCorrecta": [
@@ -180,7 +180,7 @@
             },
             {
               "id": "b",
-              "texto": "Líquidos, Sólidos y Gaseosos."
+              "texto": "Producción, Distribución y Consumo."
             },
             {
               "id": "c",
@@ -203,7 +203,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Aumentar el stock al máximo para evitar roturas de stock."
+              "texto": "Mantener altos niveles de seguridad en el inventario para garantizar la disponibilidad absoluta."
             },
             {
               "id": "b",
@@ -211,11 +211,11 @@
             },
             {
               "id": "c",
-              "texto": "Retrasar los pagos a proveedores lo máximo posible."
+              "texto": "Retrasar los pagos a proveedores lo máximo posible para mejorar el cash flow."
             },
             {
               "id": "d",
-              "texto": "Automatizar el envío de correos electrónicos a clientes."
+              "texto": "Automatizar el envío de correos electrónicos promocionales a clientes."
             }
           ],
           "respuestaCorrecta": [
@@ -238,11 +238,11 @@
             },
             {
               "id": "c",
-              "texto": "Aumento de la satisfacción del cliente."
+              "texto": "Reducción significativa de los costes operativos a corto plazo."
             },
             {
               "id": "d",
-              "texto": "Mejora en los tiempos de entrega."
+              "texto": "Mejora inesperada en los tiempos de entrega."
             }
           ],
           "respuestaCorrecta": [
@@ -269,7 +269,7 @@
             },
             {
               "id": "d",
-              "texto": "El departamento de marketing."
+              "texto": "Los planificadores de la demanda."
             }
           ],
           "respuestaCorrecta": [
@@ -284,7 +284,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Centrarse en el producto y su fabricación."
+              "texto": "Centrarse en la optimización del producto y la eficiencia de su fabricación."
             },
             {
               "id": "b",
@@ -292,11 +292,11 @@
             },
             {
               "id": "c",
-              "texto": "Reducir los costes de producción a expensas de la calidad."
+              "texto": "Reducir drásticamente los costes de producción, incluso si afecta a la calidad."
             },
             {
               "id": "d",
-              "texto": "Gestionar exclusivamente las quejas y reclamaciones."
+              "texto": "Gestionar exclusivamente las quejas y reclamaciones post-venta."
             }
           ],
           "respuestaCorrecta": [
@@ -311,7 +311,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Del análisis de datos y minería de datos."
+              "texto": "Del análisis estadístico avanzado de datos y minería de datos."
             },
             {
               "id": "b",
@@ -319,11 +319,11 @@
             },
             {
               "id": "c",
-              "texto": "De la gestión de proveedores y logística."
+              "texto": "De la gestión de la relación con proveedores y logística de entrada."
             },
             {
               "id": "d",
-              "texto": "De la colaboración entre diferentes empresas competidoras."
+              "texto": "De establecer alianzas estratégicas entre diferentes empresas competidoras."
             }
           ],
           "respuestaCorrecta": [
@@ -338,11 +338,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Automatizar la fuerza de ventas en la calle."
+              "texto": "Automatizar la fuerza de ventas en la calle mediante dispositivos móviles."
             },
             {
               "id": "b",
-              "texto": "Gestionar el Call Center."
+              "texto": "Gestionar las llamadas entrantes y salientes del Call Center."
             },
             {
               "id": "c",
@@ -350,7 +350,7 @@
             },
             {
               "id": "d",
-              "texto": "Facilitar la interacción multicanal con el cliente."
+              "texto": "Facilitar la interacción multicanal directa con el cliente."
             }
           ],
           "respuestaCorrecta": [
@@ -365,7 +365,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Requiere una gran inversión inicial en hardware y servidores propios."
+              "texto": "Requiere una gran inversión inicial en infraestructura hardware y servidores propios."
             },
             {
               "id": "b",
@@ -373,11 +373,11 @@
             },
             {
               "id": "c",
-              "texto": "Es imposible de escalar si la empresa crece."
+              "texto": "Presenta graves problemas de escalabilidad si la empresa experimenta un crecimiento rápido."
             },
             {
               "id": "d",
-              "texto": "Los datos se almacenan obligatoriamente en los discos duros de la oficina local."
+              "texto": "Los datos se almacenan obligatoriamente en discos duros físicos dentro de la oficina local."
             }
           ],
           "respuestaCorrecta": [
@@ -392,7 +392,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Un CRM financiado por el estado."
+              "texto": "Un sistema de gestión de relaciones con ciudadanos para entidades públicas."
             },
             {
               "id": "b",
@@ -400,11 +400,11 @@
             },
             {
               "id": "c",
-              "texto": "Un evento social para vendedores."
+              "texto": "Un evento social anual para los mejores vendedores de la empresa."
             },
             {
               "id": "d",
-              "texto": "El uso de CRM para gestionar ONGs exclusivamente."
+              "texto": "El uso de herramientas CRM para gestionar ONGs exclusivamente."
             }
           ],
           "respuestaCorrecta": [
@@ -450,15 +450,15 @@
             },
             {
               "id": "b",
-              "texto": "Utiliza inteligencia artificial para diagnósticos médicos complejos."
+              "texto": "Utiliza algoritmos de inteligencia artificial para realizar diagnósticos médicos complejos."
             },
             {
               "id": "c",
-              "texto": "Está diseñado para decisiones no estructuradas y simulaciones complejas."
+              "texto": "Está diseñado específicamente para soportar decisiones no estructuradas y simulaciones complejas."
             },
             {
               "id": "d",
-              "texto": "Es un sistema puramente transaccional para registrar ventas diarias."
+              "texto": "Es un sistema puramente transaccional dedicado al registro de ventas diarias."
             }
           ],
           "respuestaCorrecta": [
@@ -473,7 +473,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Decisiones altamente estructuradas y repetitivas."
+              "texto": "Decisiones altamente estructuradas, repetitivas y rutinarias."
             },
             {
               "id": "b",
@@ -481,11 +481,11 @@
             },
             {
               "id": "c",
-              "texto": "Tareas administrativas de entrada de datos."
+              "texto": "Tareas administrativas básicas de entrada y validación de datos."
             },
             {
               "id": "d",
-              "texto": "Monitorización de sensores industriales en tiempo real."
+              "texto": "Monitorización automática de sensores industriales en tiempo real."
             }
           ],
           "respuestaCorrecta": [
@@ -504,15 +504,15 @@
             },
             {
               "id": "b",
-              "texto": "Las estructuradas las toman los directivos; las no estructuradas los operarios."
+              "texto": "Las estructuradas son tomadas exclusivamente por directivos; las no estructuradas por operarios."
             },
             {
               "id": "c",
-              "texto": "Las estructuradas no usan datos; las no estructuradas usan muchos datos."
+              "texto": "Las estructuradas no requieren el uso de datos; las no estructuradas dependen de grandes volúmenes de datos."
             },
             {
               "id": "d",
-              "texto": "No hay diferencia, son sinónimos."
+              "texto": "Las estructuradas son subjetivas y dependen de la intuición, mientras que las no estructuradas son objetivas."
             }
           ],
           "respuestaCorrecta": [
@@ -554,7 +554,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Datos sobre las ventas diarias de la empresa."
+              "texto": "Datos brutos obtenidos directamente de las transacciones de ventas sin procesar."
             },
             {
               "id": "b",
@@ -562,11 +562,11 @@
             },
             {
               "id": "c",
-              "texto": "Los resultados finales de un informe de ventas."
+              "texto": "Los resultados finales y conclusiones de un informe de ventas."
             },
             {
               "id": "d",
-              "texto": "Un tipo de virus informático que afecta al Data Warehouse."
+              "texto": "Un tipo de error lógico que afecta a la integridad del Data Warehouse."
             }
           ],
           "respuestaCorrecta": [
@@ -593,7 +593,7 @@
             },
             {
               "id": "d",
-              "texto": "Desorganizado."
+              "texto": "Transaccional."
             }
           ],
           "respuestaCorrecta": [
@@ -608,7 +608,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Las métricas numéricas y claves foráneas."
+              "texto": "Las métricas numéricas, cantidades y claves foráneas."
             },
             {
               "id": "b",
@@ -616,11 +616,11 @@
             },
             {
               "id": "c",
-              "texto": "Los índices de la base de datos para borrar registros."
+              "texto": "Los índices primarios de la base de datos para optimizar el borrado."
             },
             {
               "id": "d",
-              "texto": "Las copias de seguridad de los datos."
+              "texto": "Las copias de seguridad incrementales de los datos."
             }
           ],
           "respuestaCorrecta": [
@@ -635,7 +635,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Aumento de la velocidad de procesamiento."
+              "texto": "Aumento significativo de la velocidad de procesamiento de consultas."
             },
             {
               "id": "b",
@@ -643,11 +643,11 @@
             },
             {
               "id": "c",
-              "texto": "Reducción del espacio de almacenamiento necesario."
+              "texto": "Optimización del espacio de almacenamiento debido a la eliminación de registros."
             },
             {
               "id": "d",
-              "texto": "Mejora automática de los procesos ETL."
+              "texto": "Mejora automática y corrección de los procesos ETL."
             }
           ],
           "respuestaCorrecta": [
@@ -674,7 +674,7 @@
             },
             {
               "id": "d",
-              "texto": "Los administradores de sistemas."
+              "texto": "Administradores de Sistemas."
             }
           ],
           "respuestaCorrecta": [
@@ -689,7 +689,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "El uso intensivo de Internet y el Cloud Computing."
+              "texto": "El uso intensivo de Internet y el Cloud Computing para la gestión."
             },
             {
               "id": "b",
@@ -697,11 +697,11 @@
             },
             {
               "id": "c",
-              "texto": "La integración total con proveedores en tiempo real."
+              "texto": "La integración total con proveedores en tiempo real mediante sistemas ERP."
             },
             {
               "id": "d",
-              "texto": "La eliminación completa de los almacenes."
+              "texto": "La eliminación completa de los almacenes intermedios."
             }
           ],
           "respuestaCorrecta": [
@@ -716,7 +716,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "El pago de los clientes a la empresa."
+              "texto": "El pago financiero de los clientes a la empresa."
             },
             {
               "id": "b",
@@ -724,11 +724,11 @@
             },
             {
               "id": "c",
-              "texto": "El envío de materias primas a fábrica."
+              "texto": "El envío de materias primas a fábrica para su procesamiento."
             },
             {
               "id": "d",
-              "texto": "La pérdida de información en el proceso."
+              "texto": "La pérdida de información crítica durante el proceso logístico."
             }
           ],
           "respuestaCorrecta": [
@@ -755,7 +755,7 @@
             },
             {
               "id": "d",
-              "texto": "Very Massive Supply."
+              "texto": "Vendor Managed Shipment."
             }
           ],
           "respuestaCorrecta": [
@@ -782,7 +782,7 @@
             },
             {
               "id": "d",
-              "texto": "El fallo de los servidores informáticos."
+              "texto": "El fallo crítico de los servidores informáticos centrales."
             }
           ],
           "respuestaCorrecta": [
@@ -797,11 +797,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Lo aumenta para asegurar la calidad."
+              "texto": "Lo aumenta deliberadamente para asegurar la calidad total."
             },
             {
               "id": "b",
-              "texto": "No tiene impacto en el desarrollo."
+              "texto": "No tiene impacto significativo en el proceso de desarrollo."
             },
             {
               "id": "c",
@@ -809,7 +809,7 @@
             },
             {
               "id": "d",
-              "texto": "Complica el desarrollo al involucrar a terceros."
+              "texto": "Complica el desarrollo al involucrar a terceros externos."
             }
           ],
           "respuestaCorrecta": [
@@ -824,7 +824,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Gestión de nóminas de los comerciales."
+              "texto": "Gestión administrativa de nóminas y vacaciones de los comerciales."
             },
             {
               "id": "b",
@@ -832,11 +832,11 @@
             },
             {
               "id": "c",
-              "texto": "Diseño gráfico de logotipos."
+              "texto": "Creación de campañas de publicidad en televisión."
             },
             {
               "id": "d",
-              "texto": "Control de stock en el almacén."
+              "texto": "Gestión de inventarios y logística de almacén."
             }
           ],
           "respuestaCorrecta": [
@@ -851,7 +851,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Reparar ordenadores automáticamente."
+              "texto": "Optimización de la infraestructura de red de la empresa."
             },
             {
               "id": "b",
@@ -859,11 +859,11 @@
             },
             {
               "id": "c",
-              "texto": "Calcular los impuestos anuales de la empresa."
+              "texto": "Calcular automáticamente los impuestos anuales de la empresa."
             },
             {
               "id": "d",
-              "texto": "Gestionar la logística de camiones."
+              "texto": "Gestionar la logística de flotas de camiones."
             }
           ],
           "respuestaCorrecta": [
@@ -878,11 +878,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Alto coste inicial de licencias."
+              "texto": "Alto coste inicial de adquisición de licencias perpetuas."
             },
             {
               "id": "b",
-              "texto": "Necesidad de mantenimiento de servidores propios."
+              "texto": "Necesidad de mantenimiento técnico de servidores propios."
             },
             {
               "id": "c",
@@ -890,7 +890,7 @@
             },
             {
               "id": "d",
-              "texto": "Dificultad para escalar si la empresa crece."
+              "texto": "Extrema dificultad para escalar recursos si la empresa crece."
             }
           ],
           "respuestaCorrecta": [
@@ -913,11 +913,11 @@
             },
             {
               "id": "c",
-              "texto": "El cliente gestionaba sus propios datos."
+              "texto": "El cliente gestionaba sus propios datos a través de portales web."
             },
             {
               "id": "d",
-              "texto": "No existía relación con el cliente."
+              "texto": "No existía ningún tipo de relación comercial con el cliente."
             }
           ],
           "respuestaCorrecta": [
@@ -932,7 +932,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Vender teléfonos móviles a los clientes."
+              "texto": "La comercialización de dispositivos móviles y hardware relacionado."
             },
             {
               "id": "b",
@@ -940,11 +940,11 @@
             },
             {
               "id": "c",
-              "texto": "Un CRM que se mueve de una oficina a otra físicamente."
+              "texto": "Un CRM instalado en una oficina móvil física que se desplaza."
             },
             {
               "id": "d",
-              "texto": "Una tarifa de datos telefónicos."
+              "texto": "Una tarifa plana de datos telefónicos para empresas."
             }
           ],
           "respuestaCorrecta": [
@@ -959,7 +959,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Inicio, Nudo y Desenlace."
+              "texto": "Identificación, Análisis y Resolución."
             },
             {
               "id": "b",
@@ -986,7 +986,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Un sistema que toma decisiones al azar."
+              "texto": "Un sistema que genera decisiones basadas en probabilidades estadísticas simples."
             },
             {
               "id": "b",
@@ -994,11 +994,11 @@
             },
             {
               "id": "c",
-              "texto": "Un sistema para gestionar el correo electrónico de los directivos."
+              "texto": "Un sistema para gestionar y filtrar el correo electrónico de los directivos."
             },
             {
               "id": "d",
-              "texto": "Un software de contabilidad básica."
+              "texto": "Un software de contabilidad básica para pequeñas empresas."
             }
           ],
           "respuestaCorrecta": [
@@ -1013,11 +1013,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Informe programado."
+              "texto": "Informe programado regularmente."
             },
             {
               "id": "b",
-              "texto": "Informe a solicitud."
+              "texto": "Informe a solicitud del usuario."
             },
             {
               "id": "c",
@@ -1025,7 +1025,7 @@
             },
             {
               "id": "d",
-              "texto": "Informe de indicadores básicos."
+              "texto": "Informe de indicadores básicos de rendimiento."
             }
           ],
           "respuestaCorrecta": [
@@ -1040,7 +1040,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Reordenar inventario cuando baja de X unidades."
+              "texto": "Reordenar inventario automáticamente cuando baja de X unidades."
             },
             {
               "id": "b",
@@ -1048,11 +1048,11 @@
             },
             {
               "id": "c",
-              "texto": "Calcular las horas extras de los empleados."
+              "texto": "Calcular las horas extras de los empleados a fin de mes."
             },
             {
               "id": "d",
-              "texto": "Asignar turnos de trabajo siguiendo un patrón fijo."
+              "texto": "Asignar turnos de trabajo siguiendo un patrón fijo preestablecido."
             }
           ],
           "respuestaCorrecta": [
@@ -1067,7 +1067,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Está diseñado para uso individual exclusivo."
+              "texto": "Está diseñado para uso individual exclusivo por parte del gerente."
             },
             {
               "id": "b",
@@ -1075,11 +1075,11 @@
             },
             {
               "id": "c",
-              "texto": "Solo funciona en teléfonos móviles."
+              "texto": "Solo funciona a través de aplicaciones en teléfonos móviles."
             },
             {
               "id": "d",
-              "texto": "No permite la interacción entre usuarios."
+              "texto": "No permite la interacción ni comunicación entre usuarios."
             }
           ],
           "respuestaCorrecta": [
@@ -1094,11 +1094,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Cuadros de Mando interactivos."
+              "texto": "Cuadros de Mando interactivos y visuales."
             },
             {
               "id": "b",
-              "texto": "Herramientas de Minería de Datos."
+              "texto": "Herramientas complejas de Minería de Datos."
             },
             {
               "id": "c",
@@ -1106,7 +1106,7 @@
             },
             {
               "id": "d",
-              "texto": "Herramientas de simulación estratégica."
+              "texto": "Herramientas de simulación estratégica a largo plazo."
             }
           ],
           "respuestaCorrecta": [
@@ -1121,11 +1121,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "La compra de los servidores físicos."
+              "texto": "La selección de la arquitectura de hardware y servidores."
             },
             {
               "id": "b",
-              "texto": "La obtención de datos brutos de las fuentes."
+              "texto": "La obtención de datos brutos de las fuentes originales."
             },
             {
               "id": "c",
@@ -1133,7 +1133,7 @@
             },
             {
               "id": "d",
-              "texto": "La visualización de los datos en gráficos de pastel."
+              "texto": "La visualización final de los datos en gráficos."
             }
           ],
           "respuestaCorrecta": [
@@ -1175,7 +1175,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Reducir el número de empleados del departamento de IT."
+              "texto": "Reducir significativamente el número de empleados del departamento de IT."
             },
             {
               "id": "b",
@@ -1183,11 +1183,11 @@
             },
             {
               "id": "c",
-              "texto": "Automatizar la cadena de montaje de la fábrica."
+              "texto": "Automatizar la cadena de montaje física de la fábrica."
             },
             {
               "id": "d",
-              "texto": "Instalar más bases de datos relacionales."
+              "texto": "Incrementar el número de bases de datos relacionales instaladas."
             }
           ],
           "respuestaCorrecta": [
@@ -1202,7 +1202,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Procesar transacciones bancarias en tiempo real."
+              "texto": "Procesar transacciones bancarias unitarias en tiempo real."
             },
             {
               "id": "b",
@@ -1210,11 +1210,11 @@
             },
             {
               "id": "c",
-              "texto": "Enviar correos electrónicos masivos a clientes."
+              "texto": "Enviar correos electrónicos masivos y newsletters a clientes."
             },
             {
               "id": "d",
-              "texto": "Diseñar la página web de la empresa."
+              "texto": "Gestionar y actualizar el contenido del portal corporativo."
             }
           ],
           "respuestaCorrecta": [
@@ -1233,15 +1233,15 @@
             },
             {
               "id": "b",
-              "texto": "Un aumento inesperado de las ventas."
+              "texto": "Un aumento inesperado y sostenido de las ventas."
             },
             {
               "id": "c",
-              "texto": "La reducción de los costes de transporte."
+              "texto": "La reducción significativa de los costes de transporte."
             },
             {
               "id": "d",
-              "texto": "Una mejora en la calidad del producto final."
+              "texto": "Una mejora sustancial en la calidad del producto final."
             }
           ],
           "respuestaCorrecta": [
@@ -1260,15 +1260,15 @@
             },
             {
               "id": "b",
-              "texto": "Vender el producto al cliente final en la tienda."
+              "texto": "Vender el producto al cliente final en el punto de venta."
             },
             {
               "id": "c",
-              "texto": "Transportar y almacenar los productos donde se necesiten."
+              "texto": "Transportar y almacenar los productos masivamente para ubicarlos donde se necesiten."
             },
             {
               "id": "d",
-              "texto": "Suministrar el capital financiero."
+              "texto": "Suministrar el capital financiero para la operación."
             }
           ],
           "respuestaCorrecta": [
@@ -1310,19 +1310,19 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Aumento de los impuestos corporativos."
+              "texto": "Aumento de la carga impositiva corporativa."
             },
             {
               "id": "b",
-              "texto": "Mejora del rendimiento."
+              "texto": "Mejora del rendimiento general y eficiencia operativa."
             },
             {
               "id": "c",
-              "texto": "Mayor complejidad en los procesos administrativos."
+              "texto": "Mayor complejidad y burocracia en los procesos administrativos."
             },
             {
               "id": "d",
-              "texto": "Reducción de la variedad de productos ofrecidos."
+              "texto": "Reducción de la variedad de productos ofrecidos al mercado."
             }
           ],
           "respuestaCorrecta": [
@@ -1337,11 +1337,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Desastres naturales que cortan carreteras."
+              "texto": "Desastres naturales que interrumpen las vías de comunicación."
             },
             {
               "id": "b",
-              "texto": "Huelgas de los proveedores de materia prima."
+              "texto": "Huelgas y paros laborales de los proveedores de materia prima."
             },
             {
               "id": "c",
@@ -1349,7 +1349,7 @@
             },
             {
               "id": "d",
-              "texto": "Cambios en los gustos de los consumidores."
+              "texto": "Cambios repentinos en los gustos y preferencias de los consumidores."
             }
           ],
           "respuestaCorrecta": [
@@ -1364,19 +1364,19 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Comprar ordenadores más potentes."
+              "texto": "Adquirir ordenadores más potentes para soportar el software."
             },
             {
               "id": "b",
-              "texto": "Alinear los procesos de negocio actuales con la nueva estrategia centrada en el cliente."
+              "texto": "Alinear y rediseñar los procesos de negocio actuales con la nueva estrategia centrada en el cliente."
             },
             {
               "id": "c",
-              "texto": "Despedir a todo el departamento de ventas."
+              "texto": "Reemplazar a todo el personal del departamento de ventas."
             },
             {
               "id": "d",
-              "texto": "Cambiar el logotipo de la empresa."
+              "texto": "Cambiar la imagen corporativa y el logotipo de la empresa."
             }
           ],
           "respuestaCorrecta": [
@@ -1391,7 +1391,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Venta de activos inmobiliarios."
+              "texto": "Venta de activos inmobiliarios de la empresa."
             },
             {
               "id": "b",
@@ -1399,11 +1399,11 @@
             },
             {
               "id": "c",
-              "texto": "Venta de acciones de la empresa en bolsa."
+              "texto": "Venta de acciones corporativas en el mercado bursátil."
             },
             {
               "id": "d",
-              "texto": "Venta de maquinaria obsoleta a proveedores."
+              "texto": "Venta de maquinaria obsoleta a proveedores de reciclaje."
             }
           ],
           "respuestaCorrecta": [
@@ -1418,7 +1418,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Que los clientes hablen entre ellos."
+              "texto": "Facilitar foros de usuarios para el soporte técnico entre pares."
             },
             {
               "id": "b",
@@ -1426,11 +1426,11 @@
             },
             {
               "id": "c",
-              "texto": "Colaborar con la competencia para fijar precios."
+              "texto": "Colaborar con empresas de la competencia para fijar precios de mercado."
             },
             {
               "id": "d",
-              "texto": "Crear un foro de discusión para empleados."
+              "texto": "Crear un foro de discusión interno exclusivo para empleados."
             }
           ],
           "respuestaCorrecta": [
@@ -1445,7 +1445,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "El color de la interfaz de usuario."
+              "texto": "La estética visual de los gráficos generados por los informes."
             },
             {
               "id": "b",
@@ -1453,11 +1453,11 @@
             },
             {
               "id": "c",
-              "texto": "Que el proveedor sea del mismo país."
+              "texto": "Que el proveedor tenga su sede en el mismo país que la empresa."
             },
             {
               "id": "d",
-              "texto": "Que incluya videojuegos para los descansos."
+              "texto": "Que incluya herramientas de gamificación para los descansos de los empleados."
             }
           ],
           "respuestaCorrecta": [
@@ -1472,19 +1472,19 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "El uso de tecnologías Web y correos electrónicos para gestionar la relación con el cliente."
+              "texto": "El uso de tecnologías Web y canales digitales para gestionar la relación con el cliente."
             },
             {
               "id": "b",
-              "texto": "Un CRM enfocado exclusivamente a empresas de electricidad."
+              "texto": "Un sistema para la gestión de residuos electrónicos de la empresa."
             },
             {
               "id": "c",
-              "texto": "Un CRM que solo funciona en inglés."
+              "texto": "Un CRM que solo funciona en idioma inglés."
             },
             {
               "id": "d",
-              "texto": "La gestión manual de fichas de clientes en papel."
+              "texto": "La gestión manual de fichas de clientes en formato papel."
             }
           ],
           "respuestaCorrecta": [
@@ -1499,7 +1499,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Listados interminables de texto plano."
+              "texto": "Listados interminables de texto plano sin formato."
             },
             {
               "id": "b",
@@ -1507,11 +1507,11 @@
             },
             {
               "id": "c",
-              "texto": "Líneas de comandos complejas."
+              "texto": "Uso exclusivo de líneas de comandos complejas."
             },
             {
               "id": "d",
-              "texto": "Formularios de entrada de datos en blanco y negro."
+              "texto": "Formularios de entrada de datos monocolor."
             }
           ],
           "respuestaCorrecta": [
@@ -1526,19 +1526,19 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Calcular la nómina mensual de los empleados."
+              "texto": "Calcular la nómina mensual estándar de los empleados."
             },
             {
               "id": "b",
-              "texto": "Registrar las ventas diarias de la caja."
+              "texto": "Registrar las ventas diarias de la caja registradora."
             },
             {
               "id": "c",
-              "texto": "Analizar la fijación de precios o simular escenarios de producción."
+              "texto": "Analizar la fijación de precios o simular escenarios de producción futuros."
             },
             {
               "id": "d",
-              "texto": "Controlar el encendido y apagado de máquinas."
+              "texto": "Controlar el encendido y apagado automático de máquinas industriales."
             }
           ],
           "respuestaCorrecta": [
@@ -1580,7 +1580,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Ayudar a la alta dirección a definir la estrategia a 10 años."
+              "texto": "Ayudar a la alta dirección a definir la estrategia a largo plazo."
             },
             {
               "id": "b",
@@ -1588,11 +1588,11 @@
             },
             {
               "id": "c",
-              "texto": "Simular el comportamiento del mercado bursátil."
+              "texto": "Simular el comportamiento complejo del mercado bursátil."
             },
             {
               "id": "d",
-              "texto": "Gestionar el conocimiento experto de los jubilados."
+              "texto": "Gestionar el conocimiento experto acumulado de los empleados jubilados."
             }
           ],
           "respuestaCorrecta": [
@@ -1611,15 +1611,15 @@
             },
             {
               "id": "b",
-              "texto": "El EIS maneja millones de transacciones diarias y el TPS solo resúmenes."
+              "texto": "El EIS maneja millones de transacciones diarias en bruto y el TPS solo resúmenes ejecutivos."
             },
             {
               "id": "c",
-              "texto": "Ambos manejan la misma cantidad de datos e información."
+              "texto": "Ambos manejan exactamente la misma cantidad y tipo de datos."
             },
             {
               "id": "d",
-              "texto": "El TPS no maneja datos, solo decisiones."
+              "texto": "El TPS no maneja datos, solo decisiones predefinidas."
             }
           ],
           "respuestaCorrecta": [
@@ -1634,11 +1634,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Que solo se guardan los datos del día actual."
+              "texto": "Que solo se guardan los datos correspondientes al día actual."
             },
             {
               "id": "b",
-              "texto": "Que los datos se sobrescriben constantemente."
+              "texto": "Que los datos se sobrescriben constantemente con nueva información."
             },
             {
               "id": "c",
@@ -1646,7 +1646,7 @@
             },
             {
               "id": "d",
-              "texto": "Que la base de datos es muy lenta."
+              "texto": "Que la base de datos es tecnológicamente obsoleta."
             }
           ],
           "respuestaCorrecta": [
@@ -1661,7 +1661,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "El exceso de licencias de software libre."
+              "texto": "El exceso de licencias de software de código abierto."
             },
             {
               "id": "b",
@@ -1669,11 +1669,11 @@
             },
             {
               "id": "c",
-              "texto": "La falta de ordenadores personales."
+              "texto": "La falta de ordenadores personales para los empleados."
             },
             {
               "id": "d",
-              "texto": "El bajo coste de almacenamiento."
+              "texto": "El coste excesivamente bajo de los sistemas de almacenamiento."
             }
           ],
           "respuestaCorrecta": [
@@ -1688,11 +1688,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "La cantidad vendida."
+              "texto": "La cantidad de unidades vendidas."
             },
             {
               "id": "b",
-              "texto": "El importe total de la venta."
+              "texto": "El importe total monetario de la venta."
             },
             {
               "id": "c",
@@ -1700,7 +1700,7 @@
             },
             {
               "id": "d",
-              "texto": "El ID de la transacción."
+              "texto": "El ID único de la transacción."
             }
           ],
           "respuestaCorrecta": [
@@ -1723,11 +1723,11 @@
             },
             {
               "id": "c",
-              "texto": "Los operativos no usan sistemas de información."
+              "texto": "Los operativos no utilizan sistemas de información en su trabajo."
             },
             {
               "id": "d",
-              "texto": "No hay diferencia, todos usan las mismas pantallas."
+              "texto": "No hay diferencia, todos usan las mismas pantallas y datos."
             }
           ],
           "respuestaCorrecta": [
@@ -1742,7 +1742,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Un procesador de textos."
+              "texto": "Un procesador de textos estándar."
             },
             {
               "id": "b",
@@ -1754,7 +1754,7 @@
             },
             {
               "id": "d",
-              "texto": "El correo electrónico."
+              "texto": "El cliente de correo electrónico."
             }
           ],
           "respuestaCorrecta": [
@@ -1781,7 +1781,7 @@
             },
             {
               "id": "d",
-              "texto": "Los vendedores minoristas."
+              "texto": "Los centros de distribución regional."
             }
           ],
           "respuestaCorrecta": [
@@ -1823,19 +1823,19 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Porque solo va de proveedor a cliente."
+              "texto": "Porque solo se transmite información del proveedor al cliente."
             },
             {
               "id": "b",
-              "texto": "Porque incluye pedidos y previsiones y confirmaciones/albaranes."
+              "texto": "Porque incluye pedidos y previsiones (hacia arriba) y confirmaciones/albaranes (hacia abajo)."
             },
             {
               "id": "c",
-              "texto": "Porque los camiones van y vienen."
+              "texto": "Porque la logística inversa gestiona las devoluciones de producto."
             },
             {
               "id": "d",
-              "texto": "Porque se paga en dos plazos."
+              "texto": "Porque los pagos financieros se realizan en dos plazos."
             }
           ],
           "respuestaCorrecta": [
@@ -1850,11 +1850,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Solo afecta al proveedor."
+              "texto": "Afecta únicamente a la facturación del proveedor."
             },
             {
               "id": "b",
-              "texto": "Afecta localmente al almacén."
+              "texto": "Afecta localmente al almacén de recepción sin más consecuencias."
             },
             {
               "id": "c",
@@ -1862,7 +1862,7 @@
             },
             {
               "id": "d",
-              "texto": "Mejora la eficiencia del resto."
+              "texto": "Mejora paradójicamente la eficiencia del resto de la cadena."
             }
           ],
           "respuestaCorrecta": [
@@ -1877,7 +1877,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Que los proveedores pueden aumentar sus precios."
+              "texto": "Permite a los proveedores aumentar sus precios arbitrariamente."
             },
             {
               "id": "b",
@@ -1885,11 +1885,11 @@
             },
             {
               "id": "c",
-              "texto": "Aumentar la burocracia."
+              "texto": "Aumentar la burocracia administrativa entre empresas."
             },
             {
               "id": "d",
-              "texto": "Violar la ley de protección de datos."
+              "texto": "Incumplir las normativas de protección de datos."
             }
           ],
           "respuestaCorrecta": [
@@ -1912,11 +1912,11 @@
             },
             {
               "id": "c",
-              "texto": "Los clientes antiguos gastan menos."
+              "texto": "Los clientes antiguos suelen gastar menos que los nuevos."
             },
             {
               "id": "d",
-              "texto": "Los clientes nuevos no son rentables."
+              "texto": "Los clientes nuevos no generan rentabilidad."
             }
           ],
           "respuestaCorrecta": [
@@ -1931,7 +1931,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Ver al cliente físicamente desde todos los ángulos."
+              "texto": "Observar al cliente físicamente desde todos los ángulos posibles."
             },
             {
               "id": "b",
@@ -1939,11 +1939,11 @@
             },
             {
               "id": "c",
-              "texto": "Rotar al personal de ventas."
+              "texto": "Rotar periódicamente al personal de ventas asignado."
             },
             {
               "id": "d",
-              "texto": "Un tipo de cámara de seguridad."
+              "texto": "Un tipo de cámara de seguridad instalada en tiendas."
             }
           ],
           "respuestaCorrecta": [
@@ -1985,11 +1985,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Registrar una llamada entrante."
+              "texto": "Registrar una llamada entrante de soporte."
             },
             {
               "id": "b",
-              "texto": "Imprimir una factura."
+              "texto": "Imprimir una factura de compra."
             },
             {
               "id": "c",
@@ -1997,7 +1997,7 @@
             },
             {
               "id": "d",
-              "texto": "Enviar un email de bienvenida."
+              "texto": "Enviar un email de bienvenida automático."
             }
           ],
           "respuestaCorrecta": [
@@ -2012,7 +2012,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Que el software está en la nube."
+              "texto": "Que el software y los datos están alojados en la nube."
             },
             {
               "id": "b",
@@ -2020,11 +2020,11 @@
             },
             {
               "id": "c",
-              "texto": "Que el software es gratuito."
+              "texto": "Que el software es de uso gratuito y código abierto."
             },
             {
               "id": "d",
-              "texto": "Que se paga una suscripción mensual."
+              "texto": "Que se paga una suscripción mensual por el uso del servicio."
             }
           ],
           "respuestaCorrecta": [
@@ -2043,7 +2043,7 @@
             },
             {
               "id": "b",
-              "texto": "American Express."
+              "texto": "American Express (Authorizer's Assistant)."
             },
             {
               "id": "c",
@@ -2066,7 +2066,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "En ser listo."
+              "texto": "En la aplicación de algoritmos de Inteligencia Artificial."
             },
             {
               "id": "b",
@@ -2093,11 +2093,11 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Está totalmente automatizada."
+              "texto": "Está totalmente automatizada y no requiere intervención."
             },
             {
               "id": "b",
-              "texto": "No tiene ninguna regla lógica."
+              "texto": "No sigue ninguna regla lógica predefinida."
             },
             {
               "id": "c",
@@ -2105,7 +2105,7 @@
             },
             {
               "id": "d",
-              "texto": "Se toma con una moneda al aire."
+              "texto": "Se toma basándose exclusivamente en el azar."
             }
           ],
           "respuestaCorrecta": [
@@ -2120,7 +2120,7 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Diagnóstico médico."
+              "texto": "Diagnóstico médico de enfermedades infecciosas."
             },
             {
               "id": "b",
@@ -2128,7 +2128,7 @@
             },
             {
               "id": "c",
-              "texto": "Gestión de carteras de inversión."
+              "texto": "Gestión de carteras de inversión financiera."
             },
             {
               "id": "d",
@@ -2147,19 +2147,19 @@
           "opciones": [
             {
               "id": "a",
-              "texto": "Mayor capacidad de cálculo."
+              "texto": "Mayor capacidad de cálculo numérico."
             },
             {
               "id": "b",
-              "texto": "Herramientas para gestionar la dinámica de reuniones."
+              "texto": "Herramientas para gestionar la dinámica de reuniones y toma de decisiones colaborativa."
             },
             {
               "id": "c",
-              "texto": "Mejores gráficos."
+              "texto": "Mejores capacidades gráficas y de visualización."
             },
             {
               "id": "d",
-              "texto": "Acceso a internet."
+              "texto": "Acceso ilimitado a internet."
             }
           ],
           "respuestaCorrecta": [
