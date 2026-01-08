@@ -1812,6 +1812,2099 @@
           ]
         }
       ]
+    },
+    {
+      "id": "sub-si",
+      "nombre": "Sistemes d'Informació",
+      "tests": [
+        {
+          "id": "test-si-completo",
+          "titulo": "Test Completo de Sistemes d'Informació",
+          "descripcion": "80 preguntas organizadas por temas (BI, SCM, CRM, SSD)",
+          "preguntas": [
+            {
+              "id": "q-si-1",
+              "enunciado": "Contenido del Test (Vista Previa) ¿Cuál es la definición principal de Business Intelligence (BI)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Un sistema para realizar transacciones bancarias diarias."
+                },
+                {
+                  "id": "b",
+                  "texto": "Conjunto de metodologías, herramientas y prácticas para transformar datos en conocimiento útil para la toma de decisiones."
+                },
+                {
+                  "id": "c",
+                  "texto": "Un software específico para la gestión de nóminas de empleados."
+                },
+                {
+                  "id": "d",
+                  "texto": "La automatización de la cadena de suministro física exclusivamente."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-2",
+              "enunciado": "¿Qué significan las siglas ETL en el contexto de un Data Warehouse?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Extract, Transaction, Load"
+                },
+                {
+                  "id": "b",
+                  "texto": "Entry, Transfer, Level"
+                },
+                {
+                  "id": "c",
+                  "texto": "Extract, Transform, Load"
+                },
+                {
+                  "id": "d",
+                  "texto": "Estimate, Test, Log"
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-3",
+              "enunciado": "¿Cuál es una diferencia clave entre una Base de Datos Transaccional (OLTP) y un Data Warehouse (DW)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Las transaccionales buscan evitar redundancias (normalizadas), mientras que el DW suele estar desnormalizado para optimizar consultas."
+                },
+                {
+                  "id": "b",
+                  "texto": "El DW contiene datos en tiempo real exclusivamente, mientras que la transaccional tiene datos históricos."
+                },
+                {
+                  "id": "c",
+                  "texto": "La base de datos transaccional usa esquema de estrella y el DW usa formas normales."
+                },
+                {
+                  "id": "d",
+                  "texto": "No hay diferencia, son lo mismo."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-4",
+              "enunciado": "En un diseño de esquema en estrella (Star Schema), ¿qué contienen las Tablas de Hechos (Fact Tables)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Los nombres y direcciones de los clientes."
+                },
+                {
+                  "id": "b",
+                  "texto": "Medidas numéricas del rendimiento del negocio (métricas) y claves foráneas."
+                },
+                {
+                  "id": "c",
+                  "texto": "Descripciones textuales de los productos."
+                },
+                {
+                  "id": "d",
+                  "texto": "La configuración del sistema operativo."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-5",
+              "enunciado": "¿Qué es un Data Mart?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Un mercado online para vender datos a terceros."
+                },
+                {
+                  "id": "b",
+                  "texto": "Un almacén de datos de menor tamaño enfocado a un departamento o grupo de trabajo específico."
+                },
+                {
+                  "id": "c",
+                  "texto": "La fase de transformación del proceso ETL."
+                },
+                {
+                  "id": "d",
+                  "texto": "Un tipo de CRM analítico."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-6",
+              "enunciado": "¿Qué son los \"Metadatos\" en el entorno de Business Intelligence?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Datos sobre las ventas diarias de la empresa."
+                },
+                {
+                  "id": "b",
+                  "texto": "Información que describe el contenido, calidad, condición y otras características de los datos (datos sobre los datos)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Los resultados finales de un informe de ventas."
+                },
+                {
+                  "id": "d",
+                  "texto": "Un tipo de virus informático que afecta al Data Warehouse."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-7",
+              "enunciado": "¿Cuál de las siguientes es una característica fundamental de un Data Warehouse según su definición?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Volatilidad (los datos se borran cada día)."
+                },
+                {
+                  "id": "b",
+                  "texto": "Operacional (se usa para el día a día)."
+                },
+                {
+                  "id": "c",
+                  "texto": "No volátil (los datos son de lectura para los usuarios y no se modifican en tiempo real)."
+                },
+                {
+                  "id": "d",
+                  "texto": "Desorganizado (no sigue ninguna estructura)."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-8",
+              "enunciado": "En el diseño de un Data Warehouse, ¿qué representan las \"Tablas de Dimensiones\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Las métricas numéricas y claves foráneas."
+                },
+                {
+                  "id": "b",
+                  "texto": "Las perspectivas del negocio (ej: Tiempo, Producto, Cliente) que dan contexto a los hechos."
+                },
+                {
+                  "id": "c",
+                  "texto": "Los índices de la base de datos para borrar registros."
+                },
+                {
+                  "id": "d",
+                  "texto": "Las copias de seguridad de los datos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-9",
+              "enunciado": "¿Cuál es una consecuencia directa de la \"mala calidad de los datos\" en un sistema de BI?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Aumento de la velocidad de procesamiento."
+                },
+                {
+                  "id": "b",
+                  "texto": "Decisiones equivocadas para el negocio y posible abandono del sistema BI."
+                },
+                {
+                  "id": "c",
+                  "texto": "Reducción del espacio de almacenamiento necesario."
+                },
+                {
+                  "id": "d",
+                  "texto": "Mejora automática de los procesos ETL."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-10",
+              "enunciado": "¿Qué nivel de dirección suele utilizar \"Cuadros de Mando\" (Dashboards) con información altamente agregada y visual?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Nivel Operativo (control de actividades diarias)."
+                },
+                {
+                  "id": "b",
+                  "texto": "Nivel Táctico (dirección intermedia)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Alta Dirección (nivel estratégico)."
+                },
+                {
+                  "id": "d",
+                  "texto": "Los administradores de sistemas (IT)."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-11",
+              "enunciado": "En la pirámide de usuarios de BI, ¿qué tipo de herramienta utiliza principalmente el \"Nivel Operativo\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Cuadros de Mando (Dashboards) interactivos."
+                },
+                {
+                  "id": "b",
+                  "texto": "Herramientas de Minería de Datos (Data Mining)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Informes preformateados y estáticos para el control diario."
+                },
+                {
+                  "id": "d",
+                  "texto": "Herramientas de simulación estratégica."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-12",
+              "enunciado": "Dentro del proceso ETL (Extracción, Transformación y Carga), ¿qué se realiza durante la fase de \"Transformación\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "La compra de los servidores físicos."
+                },
+                {
+                  "id": "b",
+                  "texto": "La obtención de datos brutos de las fuentes."
+                },
+                {
+                  "id": "c",
+                  "texto": "La limpieza, corrección de errores, eliminación de duplicados y agregación de valores."
+                },
+                {
+                  "id": "d",
+                  "texto": "La visualización de los datos en gráficos de pastel."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-13",
+              "enunciado": "¿Qué propiedad del Data Warehouse se refiere a que la información proviene de distintas fuentes pero se codifica de forma coherente?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "No volatilidad."
+                },
+                {
+                  "id": "b",
+                  "texto": "Variabilidad temporal."
+                },
+                {
+                  "id": "c",
+                  "texto": "Integración."
+                },
+                {
+                  "id": "d",
+                  "texto": "Orientación a temas."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-14",
+              "enunciado": "¿Cuál es el objetivo final de aplicar tecnologías de Business Intelligence en una organización?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Reducir el número de empleados del departamento de IT."
+                },
+                {
+                  "id": "b",
+                  "texto": "Crear y gestionar conocimiento a partir de los datos para tomar mejores decisiones de negocio."
+                },
+                {
+                  "id": "c",
+                  "texto": "Automatizar la cadena de montaje de la fábrica."
+                },
+                {
+                  "id": "d",
+                  "texto": "Instalar más bases de datos relacionales."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-15",
+              "enunciado": "¿Qué función principal tienen las herramientas OLAP (On-Line Analytical Processing)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Procesar transacciones bancarias en tiempo real."
+                },
+                {
+                  "id": "b",
+                  "texto": "Permitir el análisis multidimensional de datos (cortar, rotar, profundizar) para responder preguntas ad-hoc."
+                },
+                {
+                  "id": "c",
+                  "texto": "Enviar correos electrónicos masivos a clientes."
+                },
+                {
+                  "id": "d",
+                  "texto": "Diseñar la página web de la empresa."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-16",
+              "enunciado": "En el contexto de un Data Warehouse, ¿qué significa que los datos son \"Históricos\" o \"Variantes en el tiempo\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Que solo se guardan los datos del día actual."
+                },
+                {
+                  "id": "b",
+                  "texto": "Que los datos se sobrescriben constantemente."
+                },
+                {
+                  "id": "c",
+                  "texto": "Que se almacenan datos de diferentes periodos (fotos del pasado) para poder analizar tendencias y evoluciones temporalmente."
+                },
+                {
+                  "id": "d",
+                  "texto": "Que la base de datos es muy lenta."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-17",
+              "enunciado": "¿Cuál es uno de los principales problemas que el BI intenta resolver en las organizaciones tradicionales?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "El exceso de licencias de software libre."
+                },
+                {
+                  "id": "b",
+                  "texto": "La existencia de \"Silos de Información\", donde los datos están aislados en diferentes departamentos y formatos."
+                },
+                {
+                  "id": "c",
+                  "texto": "La falta de ordenadores personales."
+                },
+                {
+                  "id": "d",
+                  "texto": "El bajo coste de almacenamiento."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-18",
+              "enunciado": "En un esquema en estrella, si tenemos una tabla de hechos \"Ventas\", ¿cuál de los siguientes sería un ejemplo de \"Atributo\" en una tabla de dimensión \"Producto\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "La cantidad vendida (número)."
+                },
+                {
+                  "id": "b",
+                  "texto": "El importe total de la venta (euros)."
+                },
+                {
+                  "id": "c",
+                  "texto": "El nombre de la marca o el color del producto."
+                },
+                {
+                  "id": "d",
+                  "texto": "El ID de la transacción."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-19",
+              "enunciado": "¿Qué diferencia principal existe entre los usuarios de nivel \"Estratégico\" y los de nivel \"Operativo\" en cuanto al uso del BI?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Los estratégicos necesitan datos muy detallados y en tiempo real; los operativos datos muy agregados."
+                },
+                {
+                  "id": "b",
+                  "texto": "Los estratégicos usan Dashboards con KPIs globales; los operativos usan informes detallados para el control diario."
+                },
+                {
+                  "id": "c",
+                  "texto": "Los operativos no usan sistemas de información."
+                },
+                {
+                  "id": "d",
+                  "texto": "No hay diferencia, todos usan las mismas pantallas."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-20",
+              "enunciado": "¿Qué herramienta de BI permite a los usuarios \"navegar\" por los datos, profundizando (drill-down) o generalizando (roll-up) a través de jerarquías?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Un procesador de textos."
+                },
+                {
+                  "id": "b",
+                  "texto": "Herramientas OLAP (Cubos multidimensionales)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Un sistema de ficheros plano."
+                },
+                {
+                  "id": "d",
+                  "texto": "El correo electrónico."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-21",
+              "enunciado": "¿Qué gestiona el Supply Chain Management (SCM)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Únicamente el transporte de mercancías en camiones."
+                },
+                {
+                  "id": "b",
+                  "texto": "Solo la relación con los proveedores de materia prima."
+                },
+                {
+                  "id": "c",
+                  "texto": "El flujo de información, materiales y finanzas desde los proveedores hasta el cliente final."
+                },
+                {
+                  "id": "d",
+                  "texto": "La base de datos de recursos humanos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-22",
+              "enunciado": "En la cadena de suministro, ¿cuáles son los tres flujos principales que se gestionan?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Materiales, Información y Financiero."
+                },
+                {
+                  "id": "b",
+                  "texto": "Líquidos, Sólidos y Gaseosos."
+                },
+                {
+                  "id": "c",
+                  "texto": "Ventas, Marketing y Atención al cliente."
+                },
+                {
+                  "id": "d",
+                  "texto": "Hardware, Software y Redes."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-23",
+              "enunciado": "¿Qué objetivo persigue la estrategia \"Just-in-Time\" (JIT) en la SCM?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Aumentar el stock al máximo para evitar roturas de stock."
+                },
+                {
+                  "id": "b",
+                  "texto": "Reducir el inventario (materia prima, intermedios y acabados) a mínimos, produciendo lo necesario en el momento justo."
+                },
+                {
+                  "id": "c",
+                  "texto": "Retrasar los pagos a proveedores lo máximo posible."
+                },
+                {
+                  "id": "d",
+                  "texto": "Automatizar el envío de correos electrónicos a clientes."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-24",
+              "enunciado": "¿Cuál de los siguientes es un riesgo asociado a la gestión de la cadena de suministro (SCM)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Exceso de capacidad de almacenamiento en la nube."
+                },
+                {
+                  "id": "b",
+                  "texto": "Interrupción del suministro por parte de un proveedor que afecta a toda la cadena."
+                },
+                {
+                  "id": "c",
+                  "texto": "Aumento de la satisfacción del cliente."
+                },
+                {
+                  "id": "d",
+                  "texto": "Mejora en los tiempos de entrega."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-25",
+              "enunciado": "¿Quiénes se encuentran al inicio de la cadena de suministro?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Los clientes finales."
+                },
+                {
+                  "id": "b",
+                  "texto": "Los distribuidores minoristas."
+                },
+                {
+                  "id": "c",
+                  "texto": "Los proveedores."
+                },
+                {
+                  "id": "d",
+                  "texto": "El departamento de marketing."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-26",
+              "enunciado": "En la evolución de la SCM, ¿qué caracterizaba a la etapa de \"Distribución Física\" (años 60-70)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "El uso intensivo de Internet y el Cloud Computing."
+                },
+                {
+                  "id": "b",
+                  "texto": "La gestión de inventario elevado como protección frente a la incertidumbre y enfoque en la distribución al cliente."
+                },
+                {
+                  "id": "c",
+                  "texto": "La integración total con proveedores en tiempo real."
+                },
+                {
+                  "id": "d",
+                  "texto": "La eliminación completa de los almacenes."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-27",
+              "enunciado": "¿Qué se entiende por \"flujo inverso\" en la cadena de suministro?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "El pago de los clientes a la empresa."
+                },
+                {
+                  "id": "b",
+                  "texto": "El movimiento de productos devueltos o excedentes desde el cliente hacia el vendedor/proveedor."
+                },
+                {
+                  "id": "c",
+                  "texto": "El envío de materias primas a fábrica."
+                },
+                {
+                  "id": "d",
+                  "texto": "La pérdida de información en el proceso."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-28",
+              "enunciado": "¿Qué significan las siglas VMS en el contexto de soluciones SCM?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Vehicle Management System."
+                },
+                {
+                  "id": "b",
+                  "texto": "Vendor Management System (gestión de almacenes/inventario por el proveedor)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Virtual Memory System."
+                },
+                {
+                  "id": "d",
+                  "texto": "Very Massive Supply."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-29",
+              "enunciado": "¿Cuál es un riesgo de la SCM relacionado con la \"Demanda\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "La interrupción del suministro por huelga de transporte."
+                },
+                {
+                  "id": "b",
+                  "texto": "La capacidad insuficiente de la planta de producción."
+                },
+                {
+                  "id": "c",
+                  "texto": "Las variaciones estacionales, modas o innovación de competidores que hacen fluctuar los pedidos."
+                },
+                {
+                  "id": "d",
+                  "texto": "El fallo de los servidores informáticos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-30",
+              "enunciado": "¿Qué beneficio aporta la SCM en cuanto al \"Ciclo de desarrollo\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Lo aumenta para asegurar la calidad."
+                },
+                {
+                  "id": "b",
+                  "texto": "No tiene impacto en el desarrollo."
+                },
+                {
+                  "id": "c",
+                  "texto": "Reducción de ciclos de desarrollo y entrega al compartir datos de stock y producción con suministradores."
+                },
+                {
+                  "id": "d",
+                  "texto": "Complica el desarrollo al involucrar a terceros."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-31",
+              "enunciado": "En el contexto de SCM, ¿qué ineficiencia suele provocar la falta de información compartida entre eslabones de la cadena?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Exceso de inventario y capacidad infrautilizada de la planta."
+                },
+                {
+                  "id": "b",
+                  "texto": "Un aumento inesperado de las ventas."
+                },
+                {
+                  "id": "c",
+                  "texto": "La reducción de los costes de transporte."
+                },
+                {
+                  "id": "d",
+                  "texto": "Una mejora en la calidad del producto final."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-32",
+              "enunciado": "¿Cuál es la función principal de los \"Distribuidores\" en la cadena de suministro?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Transformar la materia prima en producto final."
+                },
+                {
+                  "id": "b",
+                  "texto": "Vender el producto al cliente final en la tienda."
+                },
+                {
+                  "id": "c",
+                  "texto": "Transportar y almacenar los productos donde se necesiten (logística)."
+                },
+                {
+                  "id": "d",
+                  "texto": "Suministrar el capital financiero."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-33",
+              "enunciado": "¿A qué se refiere el módulo TMS dentro de las soluciones de software SCM?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Time Management System (Gestión del tiempo)."
+                },
+                {
+                  "id": "b",
+                  "texto": "Transport Management System (Gestión del transporte)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Total Marketing Solution (Solución total de marketing)."
+                },
+                {
+                  "id": "d",
+                  "texto": "Transaction Monitoring Service (Servicio de monitoreo de transacciones)."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-34",
+              "enunciado": "¿Cuál es un beneficio directo de una buena gestión de la cadena de suministro (SCM)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Aumento de los impuestos corporativos."
+                },
+                {
+                  "id": "b",
+                  "texto": "Mejora del rendimiento (reducción de costes y aumento de márgenes)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Mayor complejidad en los procesos administrativos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Reducción de la variedad de productos ofrecidos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-35",
+              "enunciado": "¿Qué riesgo de la SCM está asociado a las \"Operaciones\" internas?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Desastres naturales que cortan carreteras."
+                },
+                {
+                  "id": "b",
+                  "texto": "Huelgas de los proveedores de materia prima."
+                },
+                {
+                  "id": "c",
+                  "texto": "Producción inadecuada, capacidad insuficiente o variaciones en los procesos productivos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Cambios en los gustos de los consumidores."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-36",
+              "enunciado": "En la cadena de suministro, ¿quiénes se sitúan \"Aguas arriba\" (Upstream) respecto al fabricante?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Los clientes finales."
+                },
+                {
+                  "id": "b",
+                  "texto": "Los distribuidores."
+                },
+                {
+                  "id": "c",
+                  "texto": "Los proveedores y sub-proveedores."
+                },
+                {
+                  "id": "d",
+                  "texto": "Los vendedores minoristas."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-37",
+              "enunciado": "¿Qué sistema específico mencionado en el temario se encarga de la \"Ejecución de Manufactura\" o control de producción en planta?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "CRM."
+                },
+                {
+                  "id": "b",
+                  "texto": "MES (Manufacturing Execution System)."
+                },
+                {
+                  "id": "c",
+                  "texto": "TMS."
+                },
+                {
+                  "id": "d",
+                  "texto": "HRIS."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-38",
+              "enunciado": "¿Por qué se dice que el flujo de información en la SCM es bidireccional?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Porque solo va de proveedor a cliente."
+                },
+                {
+                  "id": "b",
+                  "texto": "Porque incluye pedidos y previsiones (hacia proveedores) y confirmaciones/albaranes (hacia clientes)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Porque los camiones van y vienen."
+                },
+                {
+                  "id": "d",
+                  "texto": "Porque se paga en dos plazos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-39",
+              "enunciado": "¿Cuál es el impacto de una interrupción en el suministro (ej: un proveedor falla) en una cadena SCM integrada?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Solo afecta al proveedor."
+                },
+                {
+                  "id": "b",
+                  "texto": "Afecta localmente al almacén."
+                },
+                {
+                  "id": "c",
+                  "texto": "Efecto dominó: puede parar toda la cadena y afectar al cliente final."
+                },
+                {
+                  "id": "d",
+                  "texto": "Mejora la eficiencia del resto."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-40",
+              "enunciado": "¿Qué ventaja ofrece compartir la previsión de demanda con los proveedores?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Que los proveedores pueden aumentar sus precios."
+                },
+                {
+                  "id": "b",
+                  "texto": "Reducir el \"Efecto Látigo\" (Bullwhip Effect) y ajustar los niveles de inventario en toda la cadena."
+                },
+                {
+                  "id": "c",
+                  "texto": "Aumentar la burocracia."
+                },
+                {
+                  "id": "d",
+                  "texto": "Violar la ley de protección de datos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-41",
+              "enunciado": "¿Cuál es el enfoque estratégico principal del CRM?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Centrarse en el producto y su fabricación."
+                },
+                {
+                  "id": "b",
+                  "texto": "Centrarse en el cliente para maximizar su rentabilidad y fidelidad a largo plazo."
+                },
+                {
+                  "id": "c",
+                  "texto": "Reducir los costes de producción a expensas de la calidad."
+                },
+                {
+                  "id": "d",
+                  "texto": "Gestionar exclusivamente las quejas y reclamaciones."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-42",
+              "enunciado": "¿De qué se encarga el CRM Operacional?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Del análisis de datos y minería de datos (Data Mining)."
+                },
+                {
+                  "id": "b",
+                  "texto": "De la interacción directa con el cliente y soporte a procesos de ventas, marketing y atención al cliente (Front-office)."
+                },
+                {
+                  "id": "c",
+                  "texto": "De la gestión de proveedores y logística."
+                },
+                {
+                  "id": "d",
+                  "texto": "De la colaboración entre diferentes empresas competidoras."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-43",
+              "enunciado": "¿Qué función cumple el CRM Analítico?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Automatizar la fuerza de ventas en la calle."
+                },
+                {
+                  "id": "b",
+                  "texto": "Gestionar el Call Center."
+                },
+                {
+                  "id": "c",
+                  "texto": "Analizar datos del cliente (Data Warehouse, Data Mining) para entender comportamientos y predecir tendencias."
+                },
+                {
+                  "id": "d",
+                  "texto": "Facilitar la interacción multicanal con el cliente."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-44",
+              "enunciado": "¿Qué caracteriza al CRM en la nube (SaaS/Cloud)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Requiere una gran inversión inicial en hardware y servidores propios."
+                },
+                {
+                  "id": "b",
+                  "texto": "El software se alquila como servicio, se paga por uso y el mantenimiento lo gestiona el proveedor."
+                },
+                {
+                  "id": "c",
+                  "texto": "Es imposible de escalar si la empresa crece."
+                },
+                {
+                  "id": "d",
+                  "texto": "Los datos se almacenan obligatoriamente en los discos duros de la oficina local."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-45",
+              "enunciado": "¿Qué es el \"Social CRM\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Un CRM financiado por el estado."
+                },
+                {
+                  "id": "b",
+                  "texto": "La incorporación de interacciones de redes sociales en la gestión de la relación con el cliente."
+                },
+                {
+                  "id": "c",
+                  "texto": "Un evento social para vendedores."
+                },
+                {
+                  "id": "d",
+                  "texto": "El uso de CRM para gestionar ONGs exclusivamente."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-46",
+              "enunciado": "¿Qué funcionalidad es típica de la \"Automatización de la Fuerza de Ventas\" (SFA) en un CRM?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Gestión de nóminas de los comerciales."
+                },
+                {
+                  "id": "b",
+                  "texto": "Recomendaciones personalizadas y gestión de contactos/oportunidades para los vendedores."
+                },
+                {
+                  "id": "c",
+                  "texto": "Diseño gráfico de logotipos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Control de stock en el almacén."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-47",
+              "enunciado": "¿Qué permite la \"Automatización de Marketing\" dentro de un CRM?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Reparar ordenadores automáticamente."
+                },
+                {
+                  "id": "b",
+                  "texto": "Identificar oportunidades de venta cruzada (cross-selling) y gestionar campañas."
+                },
+                {
+                  "id": "c",
+                  "texto": "Calcular los impuestos anuales de la empresa."
+                },
+                {
+                  "id": "d",
+                  "texto": "Gestionar la logística de camiones."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-48",
+              "enunciado": "¿Cuál es una desventaja o riesgo del modelo CRM en la nube (SaaS)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Alto coste inicial de licencias."
+                },
+                {
+                  "id": "b",
+                  "texto": "Necesidad de mantenimiento de servidores propios."
+                },
+                {
+                  "id": "c",
+                  "texto": "Dependencia de la conexión a internet y preocupaciones sobre la seguridad/privacidad de los datos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Dificultad para escalar si la empresa crece."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-49",
+              "enunciado": "En la evolución del CRM, ¿cuál era la situación inicial antes de los sistemas integrados?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "\"Silos\" de información donde cada departamento (ventas, marketing) trabajaba de forma autónoma sin compartir datos."
+                },
+                {
+                  "id": "b",
+                  "texto": "Todos los departamentos compartían una base de datos centralizada en tiempo real."
+                },
+                {
+                  "id": "c",
+                  "texto": "El cliente gestionaba sus propios datos."
+                },
+                {
+                  "id": "d",
+                  "texto": "No existía relación con el cliente."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-50",
+              "enunciado": "¿Qué es el \"Mobile CRM\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Vender teléfonos móviles a los clientes."
+                },
+                {
+                  "id": "b",
+                  "texto": "El acceso a las aplicaciones y datos del CRM a través de dispositivos móviles (tablets, smartphones) para comerciales en campo."
+                },
+                {
+                  "id": "c",
+                  "texto": "Un CRM que se mueve de una oficina a otra físicamente."
+                },
+                {
+                  "id": "d",
+                  "texto": "Una tarifa de datos telefónicos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-51",
+              "enunciado": "¿Qué implica la \"Reingeniería de procesos\" al implantar un CRM?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Comprar ordenadores más potentes."
+                },
+                {
+                  "id": "b",
+                  "texto": "Alinear los procesos de negocio actuales con la nueva estrategia centrada en el cliente."
+                },
+                {
+                  "id": "c",
+                  "texto": "Despedir a todo el departamento de ventas."
+                },
+                {
+                  "id": "d",
+                  "texto": "Cambiar el logotipo de la empresa."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-52",
+              "enunciado": "Gracias al CRM, ¿qué tipo de venta se facilita al conocer el historial de compras del cliente?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Venta de activos inmobiliarios."
+                },
+                {
+                  "id": "b",
+                  "texto": "Venta cruzada (Cross-selling) y recomendaciones personalizadas."
+                },
+                {
+                  "id": "c",
+                  "texto": "Venta de acciones de la empresa en bolsa."
+                },
+                {
+                  "id": "d",
+                  "texto": "Venta de maquinaria obsoleta a proveedores."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-53",
+              "enunciado": "¿Cuál es el objetivo principal del \"CRM Colaborativo\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Que los clientes hablen entre ellos."
+                },
+                {
+                  "id": "b",
+                  "texto": "Ofrecer una visión unificada del cliente facilitando la interacción a través de múltiples canales y departamentos."
+                },
+                {
+                  "id": "c",
+                  "texto": "Colaborar con la competencia para fijar precios."
+                },
+                {
+                  "id": "d",
+                  "texto": "Crear un foro de discusión para empleados."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-54",
+              "enunciado": "Al seleccionar un software CRM, ¿qué factor es crítico además del precio y la funcionalidad?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "El color de la interfaz de usuario."
+                },
+                {
+                  "id": "b",
+                  "texto": "La capacidad de integración con otros Sistemas de Información de la empresa."
+                },
+                {
+                  "id": "c",
+                  "texto": "Que el proveedor sea del mismo país."
+                },
+                {
+                  "id": "d",
+                  "texto": "Que incluya videojuegos para los descansos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-55",
+              "enunciado": "¿Qué define al \"e-CRM\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "El uso de tecnologías Web y correos electrónicos para gestionar la relación con el cliente."
+                },
+                {
+                  "id": "b",
+                  "texto": "Un CRM enfocado exclusivamente a empresas de electricidad."
+                },
+                {
+                  "id": "c",
+                  "texto": "Un CRM que solo funciona en inglés (English-CRM)."
+                },
+                {
+                  "id": "d",
+                  "texto": "La gestión manual de fichas de clientes en papel."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-56",
+              "enunciado": "¿Cuál es la premisa económica básica que justifica la inversión en fidelización (CRM)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Es más caro retener a un cliente antiguo que captar uno nuevo."
+                },
+                {
+                  "id": "b",
+                  "texto": "Es más costoso adquirir un cliente nuevo (marketing, publicidad) que retener a uno existente."
+                },
+                {
+                  "id": "c",
+                  "texto": "Los clientes antiguos gastan menos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Los clientes nuevos no son rentables."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-57",
+              "enunciado": "¿Qué es la \"Visión 360 grados\" del cliente?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Ver al cliente físicamente desde todos los ángulos."
+                },
+                {
+                  "id": "b",
+                  "texto": "Tener toda la información del cliente (compras, quejas, web, email) unificada y accesible en una sola interfaz."
+                },
+                {
+                  "id": "c",
+                  "texto": "Rotar al personal de ventas."
+                },
+                {
+                  "id": "d",
+                  "texto": "Un tipo de cámara de seguridad."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-58",
+              "enunciado": "¿Qué tipo de CRM se encargaría de gestionar un \"Call Center\" o centro de soporte técnico?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "CRM Analítico."
+                },
+                {
+                  "id": "b",
+                  "texto": "CRM Operacional (Módulo de Servicio/Soporte)."
+                },
+                {
+                  "id": "c",
+                  "texto": "CRM Estratégico."
+                },
+                {
+                  "id": "d",
+                  "texto": "Data Warehouse."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-59",
+              "enunciado": "¿Cuál es un ejemplo de aplicación de CRM Analítico?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Registrar una llamada entrante."
+                },
+                {
+                  "id": "b",
+                  "texto": "Imprimir una factura."
+                },
+                {
+                  "id": "c",
+                  "texto": "Segmentar la base de datos de clientes para identificar a los más rentables (\"Gold Customers\")."
+                },
+                {
+                  "id": "d",
+                  "texto": "Enviar un email de bienvenida."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-60",
+              "enunciado": "En cuanto a la implantación tecnológica, ¿qué significa \"On-Premise\" o \"Propietario\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Que el software está en la nube."
+                },
+                {
+                  "id": "b",
+                  "texto": "Que la empresa compra las licencias, instala el software en sus propios servidores y se encarga del mantenimiento."
+                },
+                {
+                  "id": "c",
+                  "texto": "Que el software es gratuito."
+                },
+                {
+                  "id": "d",
+                  "texto": "Que se paga una suscripción mensual."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-61",
+              "enunciado": "Según la pirámide de niveles de decisión, ¿qué sistema utilizan principalmente la Alta Dirección para decisiones estratégicas?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "TPS (Transaction Processing System)."
+                },
+                {
+                  "id": "b",
+                  "texto": "MIS (Management Information System)."
+                },
+                {
+                  "id": "c",
+                  "texto": "EIS (Executive Information System)."
+                },
+                {
+                  "id": "d",
+                  "texto": "CRM Operacional."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-62",
+              "enunciado": "¿Qué caracteriza a un MIS (Management Information System)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Proporciona informes periódicos y rutinarios basados en datos de los TPS para el control a medio plazo."
+                },
+                {
+                  "id": "b",
+                  "texto": "Utiliza inteligencia artificial para diagnósticos médicos complejos."
+                },
+                {
+                  "id": "c",
+                  "texto": "Está diseñado para decisiones no estructuradas y simulaciones complejas."
+                },
+                {
+                  "id": "d",
+                  "texto": "Es un sistema puramente transaccional para registrar ventas diarias."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-63",
+              "enunciado": "¿Para qué tipo de decisiones está diseñado principalmente un DSS (Decision Support System)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Decisiones altamente estructuradas y repetitivas (ej. inventario < 100)."
+                },
+                {
+                  "id": "b",
+                  "texto": "Decisiones semi-estructuradas o no estructuradas, permitiendo análisis \"what-if\" (qué pasa si)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Tareas administrativas de entrada de datos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Monitorización de sensores industriales en tiempo real."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-64",
+              "enunciado": "¿Cuál es la diferencia entre una decisión estructurada y una no estructurada?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Las estructuradas siguen reglas y procedimientos predefinidos; las no estructuradas son para situaciones inusuales o excepcionales."
+                },
+                {
+                  "id": "b",
+                  "texto": "Las estructuradas las toman los directivos; las no estructuradas los operarios."
+                },
+                {
+                  "id": "c",
+                  "texto": "Las estructuradas no usan datos; las no estructuradas usan muchos datos."
+                },
+                {
+                  "id": "d",
+                  "texto": "No hay diferencia, son sinónimos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-65",
+              "enunciado": "¿Qué tipo de sistema se encuentra en la base de la pirámide y alimenta al resto de sistemas (MIS, DSS)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "EIS (Executive Information System)."
+                },
+                {
+                  "id": "b",
+                  "texto": "TPS (Transaction Processing System)."
+                },
+                {
+                  "id": "c",
+                  "texto": "SE (Sistemas Expertos)."
+                },
+                {
+                  "id": "d",
+                  "texto": "GDSS (Group Decision Support System)."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-66",
+              "enunciado": "Según Herbert Simon, ¿cuáles son las tres fases del proceso de toma de decisiones?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Inicio, Nudo y Desenlace."
+                },
+                {
+                  "id": "b",
+                  "texto": "Inteligencia, Diseño y Elección."
+                },
+                {
+                  "id": "c",
+                  "texto": "Entrada, Proceso y Salida."
+                },
+                {
+                  "id": "d",
+                  "texto": "Planificación, Ejecución y Control."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-67",
+              "enunciado": "¿Qué es un Sistema Experto (SE)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Un sistema que toma decisiones al azar."
+                },
+                {
+                  "id": "b",
+                  "texto": "Una especialización de DSS que emula el razonamiento de un experto humano en un dominio de conocimiento limitado (ej: diagnóstico médico)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Un sistema para gestionar el correo electrónico de los directivos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Un software de contabilidad básica."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-68",
+              "enunciado": "¿Qué tipo de informe generado por un MIS se produce solo cuando ocurre una situación inusual (ej: ventas caen un 20%)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Informe programado."
+                },
+                {
+                  "id": "b",
+                  "texto": "Informe a solicitud (on-demand)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Informe de excepciones."
+                },
+                {
+                  "id": "d",
+                  "texto": "Informe de indicadores básicos."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-69",
+              "enunciado": "¿Cuál de los siguientes es un ejemplo de \"Decisión No Estructurada\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Reordenar inventario cuando baja de X unidades."
+                },
+                {
+                  "id": "b",
+                  "texto": "Decidir si invertir en una nueva línea de negocio o abrir mercado en un nuevo país."
+                },
+                {
+                  "id": "c",
+                  "texto": "Calcular las horas extras de los empleados."
+                },
+                {
+                  "id": "d",
+                  "texto": "Asignar turnos de trabajo siguiendo un patrón fijo."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-70",
+              "enunciado": "¿Qué característica distingue a un GDSS (Group Decision Support System)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Está diseñado para uso individual exclusivo."
+                },
+                {
+                  "id": "b",
+                  "texto": "Incluye herramientas para votación, anonimato y generación de ideas en reuniones (brainstorming)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Solo funciona en teléfonos móviles."
+                },
+                {
+                  "id": "d",
+                  "texto": "No permite la interacción entre usuarios."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-71",
+              "enunciado": "¿Qué característica visual es distintiva de los Executive Information Systems (EIS)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Listados interminables de texto plano."
+                },
+                {
+                  "id": "b",
+                  "texto": "Uso de interfaces gráficas, interactivas y amigables (ej: semáforos, relojes)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Líneas de comandos complejas."
+                },
+                {
+                  "id": "d",
+                  "texto": "Formularios de entrada de datos en blanco y negro."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-72",
+              "enunciado": "¿Para cuál de las siguientes tareas sería más apropiado usar un DSS (Decision Support System)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Calcular la nómina mensual de los empleados (estructurada)."
+                },
+                {
+                  "id": "b",
+                  "texto": "Registrar las ventas diarias de la caja (transaccional)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Analizar la fijación de precios o simular escenarios de producción (semi-estructurada)."
+                },
+                {
+                  "id": "d",
+                  "texto": "Controlar el encendido y apagado de máquinas (operacional)."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-73",
+              "enunciado": "¿Cuál de los siguientes es un ejemplo clásico de Sistema Experto (SE) en el campo médico?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "SAP R/3."
+                },
+                {
+                  "id": "b",
+                  "texto": "Microsoft Excel."
+                },
+                {
+                  "id": "c",
+                  "texto": "MYCIN (diagnóstico de infecciones)."
+                },
+                {
+                  "id": "d",
+                  "texto": "Oracle Database."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-74",
+              "enunciado": "¿Cuál es la función principal de un TPS (Transaction Processing System)?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Ayudar a la alta dirección a definir la estrategia a 10 años."
+                },
+                {
+                  "id": "b",
+                  "texto": "Recolectar y procesar datos de las transacciones y actividades diarias de la organización."
+                },
+                {
+                  "id": "c",
+                  "texto": "Simular el comportamiento del mercado bursátil."
+                },
+                {
+                  "id": "d",
+                  "texto": "Gestionar el conocimiento experto de los jubilados."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-75",
+              "enunciado": "Comparando un TPS y un EIS, ¿cómo es el volumen de \"Dades\" (Datos en bruto) que manejan?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "El TPS maneja muchos datos detallados, mientras que el EIS maneja menos datos pero más información agregada/estratégica."
+                },
+                {
+                  "id": "b",
+                  "texto": "El EIS maneja millones de transacciones diarias y el TPS solo resúmenes."
+                },
+                {
+                  "id": "c",
+                  "texto": "Ambos manejan la misma cantidad de datos e información."
+                },
+                {
+                  "id": "d",
+                  "texto": "El TPS no maneja datos, solo decisiones."
+                }
+              ],
+              "respuestaCorrecta": [
+                "a"
+              ]
+            },
+            {
+              "id": "q-si-76",
+              "enunciado": "¿Qué sistema se utilizó como ejemplo de Sistema Experto para la \"Evaluación de Crédito\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Mycin."
+                },
+                {
+                  "id": "b",
+                  "texto": "American Express (Authorizer's Assistant)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Prospector."
+                },
+                {
+                  "id": "d",
+                  "texto": "SAP CRM."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-77",
+              "enunciado": "En el modelo de Herbert Simon, ¿en qué consiste la fase de \"Inteligencia\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "En ser listo."
+                },
+                {
+                  "id": "b",
+                  "texto": "En diseñar la solución."
+                },
+                {
+                  "id": "c",
+                  "texto": "En explorar el entorno para identificar problemas u oportunidades que requieren una decisión."
+                },
+                {
+                  "id": "d",
+                  "texto": "En ejecutar la decisión tomada."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-78",
+              "enunciado": "¿Qué diferencia a una decisión \"Semi-estructurada\"?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Está totalmente automatizada."
+                },
+                {
+                  "id": "b",
+                  "texto": "No tiene ninguna regla lógica."
+                },
+                {
+                  "id": "c",
+                  "texto": "Tiene una parte definible/procedimental, pero requiere juicio humano para la parte no estructurada (ej: aprobación de presupuesto especial)."
+                },
+                {
+                  "id": "d",
+                  "texto": "Se toma con una moneda al aire."
+                }
+              ],
+              "respuestaCorrecta": [
+                "c"
+              ]
+            },
+            {
+              "id": "q-si-79",
+              "enunciado": "¿Cuál es el propósito del sistema PROSPECTOR mencionado en el temario?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Diagnóstico médico."
+                },
+                {
+                  "id": "b",
+                  "texto": "Exploración geológica y minera (encontrar yacimientos)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Gestión de carteras de inversión."
+                },
+                {
+                  "id": "d",
+                  "texto": "Control de tráfico aéreo."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            },
+            {
+              "id": "q-si-80",
+              "enunciado": "¿Qué tipo de soporte ofrece un GDSS (Soporte a Grupos) que no ofrece un DSS individual?",
+              "tipo": "unica",
+              "opciones": [
+                {
+                  "id": "a",
+                  "texto": "Mayor capacidad de cálculo."
+                },
+                {
+                  "id": "b",
+                  "texto": "Herramientas para gestionar la dinámica de reuniones (generación de ideas, votación, anonimato)."
+                },
+                {
+                  "id": "c",
+                  "texto": "Mejores gráficos."
+                },
+                {
+                  "id": "d",
+                  "texto": "Acceso a internet."
+                }
+              ],
+              "respuestaCorrecta": [
+                "b"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
