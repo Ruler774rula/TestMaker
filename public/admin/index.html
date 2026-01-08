@@ -9,5 +9,15 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  
+  <script>
+    // Register global error handler for Netlify Identity
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("error", err => {
+        console.error("Netlify Identity Error:", err);
+        alert("Error de autenticación: " + (err.message || JSON.stringify(err)));
+      });
+    }
+  </script>
 </body>
 </html>
