@@ -1,0 +1,92 @@
+1-Què inclou el Rol de Process Owner? A. Rendir comptes a l’alta direcció. B. Definir els serveis que s’executen en el procés. C. Realitzar la gestió del dia a dia d’un procés D. Ser l’únic punt de reporting d’incidències d’un procés.
+2-Una unitat de serveis compartit vindria a ser un proveïdor de serveis de tipus: A. Tipus I B. Tipus II C. Tipus III D. Tipus IV
+3-Qui assumeix el risc i cost d’un servei TIC: A. L’organització. B. El client. C. El proveïdor. D. El client i proveïdor.
+4-Què és un Incident? A. Causa desconeguda d’un problema. B. És un problema del qual el motiu i solució temporal han estat documentades. C. És quelcom que sol acabar amb una petició de canvi permanent. D. Esdeveniment no acordat ni desitjat que afecta a un procés de negoci.
+5-Què és un Incident? A. Una repetició d’un error en una aplicació que troben usuaris. B. Una interrupció no planificada o la reducció en la qualitat d’un servei. C. La causa que provoca que un determinat servei falli. D. Un determinat llindar d’ús d’un recurs s’ha vist superat.
+6-Quina de les següents afirmacions és correcta, en relació amb les incidències? A. La urgència s’obté a partir del nivell de prioritat i del nivell d’impacte. B. L’impacte s’obté a partir del nivell de prioritat i el nivell d’urgència. C. La prioritat d’una incidència depèn del nombre que s’hagi repetit. D. La prioritat s’obté a partir del nivell d’impacte i nivell d’urgència.
+7-Un SLA és...: A. Un comitè per avaluar canvis a Producció. B. Un tipus d’incidència. C. Un error conegut. D. Un indicador que mesura el servei.
+8-Un CI és...: A. Un element de configuració del servei. B. Un tipus d’incidència. C. Un error conegut. D. Un indicador que mesura el servei.
+9-Quins són els 5 llibres principals d’ITIL: A. Estratègia, Implementació, Operació, Millora, Proves B. Millora, Estratègia, Disseny, Operació, Suport. C. Estratègia, Disseny, Transició, Operació, Suport. D. Estratègia, Disseny, Transició, Operació, Millora contínua.
+10-En quin moment es produeix l’alineament entre tecnologia i negoci: A. Transició. B. Operació. C. Estratègia. D. Disseny.
+11. Quina és la principal característica que es busca durant la fase d’Operacions? A. Qualitat. B. Baixos costos. C. Estabilitat. D. Temps de resposta ràpids.
+12. Quin dels tipus següents s’ha de resoldre abans: A. Esdeveniment B. Incidència. C. Problema. D. Avís.
+13. Durant la fase d’Operació... A. Es defineixen els SLA. B. S’acorden els SLA. C. Es compleixen els SLA. D. No hi ha SLA.
+14. Una de les tasques de gestió d’incidències és incrementar la comunicació amb Negoci. Amb quin objectiu? A. Millorar la transparència. B. Identificar i aplicar millores. C. Millorar el model de governança. D. Millorar les activitats i processos. E. Totes les anteriors F. Cap de les anteriors.
+15. Quina d’aquestes no és una interfície vàlida per comunicar incidències: A. Usuaris. B. Aplicació informàtica/tecnològica. C. Equip tècnic. D. ServiceDesk. E. Totes les anteriors F. Cap de les anteriors.
+16. A través de quines variables es sol marcar la prioritat d’una incidència: A. Urgència. B. Impacte. C. Opinió de l’usuari. D. Opinió del tècnic. E. Respostes A i B F. Cap de les anteriors.
+17. La relació Problema::Incidència és de tipus... A. 1-1. B. 1-N. C. N-1. D. M-N. E. Respostes A i B F. Respostes B i D
+18. El servei de gestió de d’accessos... A. Sol utilitzar un directori de serveis com LDAP. B. Gestiona els accessos. C. No gestiona els accessos però sí els privilegis. D. Només dóna accessos de R, W, D i M. E. Respostes A i B F. Respostes B i D
+19. Una “alta d’usuari” sol ser... A. Una incidència. B. Un problema. C. Una petició. D. Cap de les anteriors.
+20. Quin tipus de canvi no cal que passi per la gestió de canvis... A. Estàndard. B. Emergència. C. Normal. D. Tots han de passar per la gestió de canvis.
+21. Quin dels següents no és un tipus de canvi? A. Normal. B. Estàndard. C. Urgent. D. Emergència.
+22. Un canvi estàndard... A. Un canvi que sempre es resol de la mateixa manera. B. Un canvi que ha estat autoritzat per un comitè. C. Un canvi pre-autoritzat, de baix risc i baix cost, fàcilment procedimentable i que apareix sovint. D. Un canvi que requereix una sol·licitud formal (RFC) per ser implementat.
+23. En termes generals, una inversió en SaaS estem parlant d’una despesa principalment... A. CAPEX, predominantment. B. OPEX, predominantment. C. Les dues d’igual forma. D. Cap de les dues.
+24. Els costos indirectes són aquells que... A. Es poden atribuir directament a un servei. B. Són aquells que varien en funció de l’activitat. C. Són aquells que es poden repartir entre els diferents serveis. D. Són aquells que són predicibles.
+25. El TCO (Total Cost Ownership): A. Té en compte els costos d’adquisició. B. “A” i els costos indirectes. C. “B” i els costos recurrents. D. “C” i els costos de formació, seguretat i operació.
+26. La gestió del KEDB és responsabilitat principalment de…: A. Gestió d’incidències. B. Gestió de peticions. C. Gestió de problemes. D. Gestió d’accessos.
+27. El servei de gestió d’accessos…: A. Gestiona els accessos. B. Gestiona els accessos però no els privilegis. C. Només dóna accés de R, W, D i M. D. Gestiona els accessos i sol utilitzar un directori de serveis per a la gestió.
+28. Quina de les següents no és una de les publicacions principals d’ITIL? A. Optimització del servei. B. Transició del servei. C. Disseny del servei. D. Estratègia del servei.
+29. Quin dels següents no és un tipus de canvi? A. Canvi estàndard. B. Canvi normal. C. Canvi urgent. D. Canvi d’emergència.
+30. Un indicador que mesuri les hores totals dividit pel nombre d’incident mesura…: A. La disponibilitat. B. La mantenibilitat. C. La resiliència. D. La fiabilitat.
+31. L’abast del Service Transition també inclou…: A. Gestionar les incidències. B. Gestionar els problemes. C. Transferir els serveis d’un proveïdor a un altre. D. Cap de les anteriors.
+32. Els pilars bàsics de la seguretat de la informació són: A. Disponibilitat, Continuïtat i Fiabilitat. B. Confidencialitat, Integritat i Disponibilitat. C. Continuitat, Integritat i Resiliència. D. Fiabilitat, Continuïtat i Confidencialitat.
+33. La desmotivació del personal d’una empresa és un cost? A. Sí, és un cost intangible. B. Sí, és un cost indirecte i és necessari tenir-lo en compte. C. Sí, és un cost variable lligat indirectament al nombre de personal. D. No perquè no afecta als resultats de l’empresa.
+34. Els models tipus SaaS intenten…: A. Reduir el CAPEX mentre que s’incrementa l’OPEX. B. Reduir l’OPEX mentre que s’incrementa el CAPEX. C. Incrementar els costos destinats a infraestructura. D. Cap de les anteriors.
+35. Hi ha un tipus de canvi que no requereix passar per la gestió de canvis? A. Sí, els de tipus Normal. B. Sí, els de tipus Estàndard. C. Sí, els de tipus Emergència. D. No. Tots han de passar per la gestió de canvis.
+36. Què és el que sempre ha d’entregar un servei als seus clients? A. Benefici econòmic. B. Valor. C. Resultats específics. D. Informes.
+37. La gestió de la seguretat a quina fase de ITIL pertany? A. Estratègia. B. Disseny. C. Millores contínues. D. Totes.
+38. Els incidents de seguretat de la informació són aquells esdeveniments que poden causar mal a la...: A. Confidencialitat de la informació. B. Integritat de la informació. C. Disponibilitat de la informació. D. Totes.
+39. La confidencialitat implica...: A. Assegurar que els usuaris tenen accés a la informació. B. Garantir l’exactitud i completitud de la informació. C. Que la informació estigui accessible per qui ha de tenir-hi accés. D. Totes les anteriors.
+40. Les mesures de seguretat físiques (barreres, murs, ...) formen part de la gestió de la seguretat? A. Sí, sempre. B. No. C. Depèn. Si són electròniques, sí. D. Cap de les anteriors.
+41. El rol responsable de la gestió de seguretat és...: A. El CIO com a màxim responsable. B. El CSO. C. El CISO. D. El CSI.
+42. Quin estàndard dona un marc de referència quant a la gestió de la seguretat? A. ISO 9000 i 9001. B. ISO 14001. C. ISO 13000. D. ISO 27000.
+43. La gestió de la continuïtat a quina fase de ITIL pertany? A. Disseny. B. Operació. C. Millora contínua. D. Transició.
+44. Què és una amenaça? A. Fet que pot interrompre una funció crítica de negoci. B. La probabilitat que ocorri una interrupció en el servei. C. Un tipus de desastre. D. Cap de les anteriors.
+45. A què fa referència l’índex: Alta = 24x7x365 = 99.5%? A. Disponibilitat. B. Integritat. C. Confidencialitat. D. Cap de les anteriors.
+46. El servei de millora contínua es coneix com...: A. CSI. B. SMC. C. KPI. D. CPI.
+47. Quan parlem de Budgeting dintre de la Gestió Financera, parlem principalment de...: A. Negociació per establir els pressupostos (anuals, normalment). B. Monitorització i control periòdic dels ingressos i costos. C. Hauria d’estar alineat amb altres àrees per tenir una coherència estratègica. D. Totes les anteriors.
+48. El cicle de Deming es basa principalment en: A. 4 fases: Planificar, Fer, Revisar i Presentar la informació. B. 5 fases: Definir els objectius, Fer, Processar, Presentar informació i Actuar. C. 4 fases: Planificar, Fer, Revisar i Actuar. D. Cap de les anteriors.
+49. Quin dels següents processos no forma part de Service Strategy? A. Gestió financera. B. Gestió de la capacitat. C. Gestió de les relacions amb negoci. D. Gestió de la demanda.
+50. A través del cicle de Deming s’aconsegueix millorar...: A. La qualitat. B. Els ingressos. C. Els costos. D. La criticitat de les incidències.
+51. Quin d’aquests processos no es correspon amb la gestió proactiva? A. Anàlisi i gestió de riscos B. Anàlisi d’errors C. Anàlisi d’indisponibilitat D. Revisió i millora contínua
+52. Què no conté el SKMS (Service Knowledge Management System)? A. CMS B. CMDB C. KEDB D. Conté A., B. i C.
+53. Amb quin nom es coneix al temps durant el qual un servei IT és capaç de proporcionar la funcionalitat esperada al llarg d’un cert període, en circumstàncies preestablertes. A. Disponibilitat B. Resiliència C. Temps d’espera D. Fiabilitat
+54. Quan realitzem un canvi de tipus de proveïdor de “Type I” a “Type II”, quin procés es produeix? A. Degradació B. Subcontractació C. Contracte intern D. Cap de les anteriors
+55. A quin llibre d’ITIL pertany la gestió de canvis? A. Service Strategy B. Service Operation C. Service Design D. Service Transition
+56. Quin dels següents no és un tipus de canvi? A. Urgent B. Emergència C. Normal D. Estàndard
+57. Segons Service Strategy, el valor del negoci s’ha de descriure en termes... A. De capacitat B. De disponibilitat C. D’utilitat D. Cap de les anteriors
+58. En quin llibre d’ITIL es planteja la gestió de disponibilitat? A. Service Transition B. Service Strategy C. Service Design D. Service Operation
+59. De què parlem quan tenim en compte les hores d’aturada entre el nombre d’incidents? A. Disponibilitat B. Mantenibilitat C. Fiabilitat D. Resiliència
+60. I si parlem de hores totals entre el nombre d’incidents? A. Disponibilitat B. Mantenibilitat C. Fiabilitat D. Resiliència
+61. En què es mesura la Disponibilitat? A. En segons B. En % C. En minuts D. En hores
+62. Quina partida pressupostària d’inversió es centra en els serveis crítics? A. Core B. Venture C. Creixement D. Innovació
+63. Quin és l’ordre correcte de la gestió de disponibilitat? A. Recuperació, diagnòstic, detecció, restauració B. Detecció, restauració, recuperació, diagnòstic C. Detecció, diagnòstic, restauració, recuperació D. Detecció, diagnòstic, recuperació, restauració
+64. Quan conclou el procés de gestió de disponibilitat? A. Amb la finalització o retirada del servei B. Quan el proveïdor ho sol·licita C. Quan es produeix un error de disponibilitat D. Cap de les anteriors
+65. Amb quin nom es coneixen els esdeveniments que poden interrompre o posar en crisi una funció crítica de negoci? A. Problema B. Incident C. Desastre D. Amenaça
+66. Què determina l’anàlisi de riscos? A. La probabilitat que sorgeixi un problema B. Els riscos sobre les funcions crítiques d’un servei C. La probabilitat que s’interrompi el servei D. El nombre d’incidències en un temps determinat
+67. Com s’anomena el cicle que trobem al llibre Continual Service Improvement, i que s’utilitza per implantar un sistema de millora contínua amb l'autoavaluació com a objectiu principal? A. Cicle de DEMING B. Cicle de DEGINM C. Cicle de DENMIG D. Cicle de DEMGIN
+68. Què signifiquen les sigles VBF en relació al negoci? A. Funció de Negoci Vital B. Funció de Valor de Negoci C. Federació de Cerca de Valor al negoci D. Correcció d’Errors Verificats
+69. Quina d’aquestes no és una funció del CISO? A. Monitoritzar i gestionar totes les “esquerdes” de seguretat B. Actuar com referent central en qüestions de seguretat C. Desenvolupar i mantenir l'estratègia de continuïtat D. Identificar i classificar tots els actius de la informació
+70. Amb quines sigles es coneix el nivell mínim de recuperació que ha de tenir una activitat perquè la considerem com recuperada? A. RTO B. MTD
+C. RPO D. Cap de les anteriors
+71. Quina d’aquestes frases respecte a la Gestió de la seguretat no és certa? A. Dins de les pràctiques ITIL, el Pla de Seguretat es troba en annexos dels ANS (SLA) B. Pertany al llibre d’ITIL Service Design C. Tota la informació té la mateixa importància per l’organització D. Els tres pilars bàsics de la seguretat de la informació són Disponibilitat, Integritat i Confidencialitat.
+72. Quina d’aquestes afirmacions respecte el GDPR no és certa? A. Les sancions administratives superen el 4% dels ingressos globals de l’empresa que no compleix amb el reglament B. Pretén reforçar i unificar la protecció de dades per a tots els individus que formen part de la Unió Europea C. S’ocupa de l’exportació de dades personals fora de la Unió Europea D. Considera les direccions IP com a dades personals
+73. Si parlem de confidencialitat, a quin nivell de seguretat pertanyen les dades personals, registres mèdics i la informació estratègica? A. Nivell alt B. Nivell mig C. Les dades personals i els registres mèdics al nivell alt i la informació estratègica al nivell mig D. Nivell baix
+74. Quina d’aquestes activitats no pertany a la gestió de seguretat? A. Provar (testar) els plans B. Realitzar l’anàlisi d’impacte en el negoci (BIA) C. Desenvolupar un pla ITSCM D. Realització, anàlisi i revisió de la política de seguretat
+75. Quina d’aquestes frases no és certa respecte a la Gestió de Seguretat? A. El servei de Protecció de la Informació és un servei continu B. Per garantir una correcta Protecció de la Informació el trànsit ha d’estar protegit. C. La contenció consisteix en la recol·lecció d’evidències D. La correcció/avaluació busquen un aprenentatge i millora contínua
+76. Quina d’aquestes gestions no forma part del llibre d’ITIL “Service Transition”? A. Gestió de canvis B. Gestió de configuració C. Gestió de coneixements D. Gestió de portfolis
+77. Què es defineix com la capacitat d’un servei IT per funcionar correctament malgrat el comportament incorrecte d’un o més subsistemes? A. Fiabilitat B. Resiliència
+C. Resistència D. Continuïtat
+78. Quan realitzem un canvi de tipus de proveïdor de “Type III” a “Type I”, quin procés es produeix? A. Contracte intern B. Desagregació C. Reorganització funcional D. Reorganització corporativa
+79. Com s’anomena al temps entre la detecció i el diagnòstic? A. Temps de recuperació B. Temps de resposta C. Temps de detecció D. Cap de les anteriors
+80. Quina d’aquestes frases sobre el pricing no és correcta? A. Consisteix en fixar els preus dels productes i serveis en base a una sèrie de factors B. El seu objectiu principal és el de maximitzar beneficis C. Enfoca el client com el centre del procés D. És una estratègia poc utilitzada perquè tot i que dóna bons resultats, també té molts riscos.
+81. Quina és la diferència entre costos tangibles i intangibles? A. Els costos tangibles són els costos relacionats amb els proveïdors, en canvi els costos intangibles són els que estan relacionats amb els clients B. Els costos tangibles són aquells que s’atribueixen únicament a un servei, en canvi els costos intangibles s’atribueixen a un conjunt de serveis C. Els costos tangibles poden passar inadvertits com la insatisfacció dels empleats, en canvi els costos intangibles sempre es tenen en compte, com per exemple els costos de personal D. Els costos tangibles poden identificar-se fàcilment i són objectius, en canvi els costos intangibles no
+82. Quina de les següents proves és funcional? A. Proves de seguretat B. Proves alfa i beta C. Proves de compatibilitat D. Cap de les anteriors
+83. Quin és el principal motiu de resistència al canvi? A. No volen B. No poden C. No saben D. Cap de les anteriors
+84. La garantia es mesura en termes de: A. Capacitat B. Afinitat
+C. Benefici econòmic D. Certesa
+85. Quins són els pilars bàsics de la Gestió de Seguretat? A. Disponibilitat, Capacitat, Continuïtat i Seguretat B. Disponibilitat, Integritat i Confidencialitat C. Disponibilitat, Fiabilitat i Mantenibilitat D. Continuïtat, Recuperació davant desastres i Anàlisi de riscos
+86. Quin és l’ordre correcte de les etapes que formen part del cicle DEMING? A. Planificar, Actuar, Fer, Refinar B. Planificar, Fer, Refinar, Actuar C. Planificar, Fer, Actuar, Refinar D. Cap de les anteriors
+
+Respostes en ordre:
+A B C D B D D A D C C B C E F E F E C D C C B C C C D A C B D B A A D B B D C A C D A A A A D C B A B D D D D A C C B C B A C A D C A A C D C A A B C D B D C D D B C D B D 
