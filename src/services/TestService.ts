@@ -1,7 +1,6 @@
 import { Asignatura, Test, Pregunta } from '../types';
 import { StorageService } from './StorageService';
-import siSubject from '../data/si_subject.json';
-import rsSubject from '../data/rs_subject.json';
+import subjectsData from '../data/subjects.json';
 import { ApiService } from './apiService';
 
 export const TestService = {
@@ -19,10 +18,9 @@ export const TestService = {
 
     // Fallback: Use bundled data from split json files
     // This combines data from multiple source files
-    const initialData: Asignatura[] = [
-        rsSubject as unknown as Asignatura,
-        siSubject as unknown as Asignatura
-    ];
+    const initialData: Asignatura[] = Array.isArray(subjectsData) 
+      ? (subjectsData as unknown as Asignatura[]) 
+      : ((subjectsData as any).asignaturas as Asignatura[]) || [];
     
     if (initialData && initialData.length > 0) {
         StorageService.saveAsignaturas(initialData); 
