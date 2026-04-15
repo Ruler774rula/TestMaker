@@ -10,7 +10,7 @@ D) Un sistema de almacenamiento local
 A) Resource pooling
 B) Rapid elasticity
 C) On-demand self-service
-D) Dependencia total del usuario
+D) User dependence
 
 3. El modelo multi-tenant significa:
 A) Un cliente con múltiples servidores
