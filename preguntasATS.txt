@@ -1,0 +1,571 @@
+🔹 BLOQUE 1: Conceptos básicos
+
+1. ¿Qué es el Cloud Computing?
+A) Un tipo de hardware específico
+B) Un modelo de acceso bajo demanda a recursos informáticos compartidos
+C) Un sistema operativo distribuido
+D) Un sistema de almacenamiento local
+
+2. ¿Cuál de las siguientes NO es una característica del Cloud?
+A) Resource pooling
+B) Rapid elasticity
+C) On-demand self-service
+D) Dependencia total del usuario
+
+3. El modelo multi-tenant significa:
+A) Un cliente con múltiples servidores
+B) Un servidor por cliente
+C) Un software que sirve a múltiples clientes
+D) Infraestructura local
+
+4. ¿Qué significa escalabilidad horizontal?
+A) Añadir más máquinas
+B) Reducir recursos
+C) Cambiar CPU
+D) Aumentar RAM
+
+5. ¿Qué significa “measured service”?
+A) Servicio sin coste
+B) Servicio manual
+C) Control y medición del uso de recursos
+D) Servicio local
+
+🔹 BLOQUE 2: Modelos de servicio
+
+6. En IaaS, el proveedor ofrece:
+A) Solo software
+B) Infraestructura virtualizada
+C) Aplicaciones completas
+D) Solo almacenamiento físico
+
+7. ¿Qué añade PaaS respecto a IaaS?
+A) Red física
+B) Middleware y herramientas de desarrollo
+C) Hardware físico
+D) Usuarios finales
+
+8. SaaS se caracteriza por:
+A) Aplicaciones accesibles desde la nube
+B) Control total del sistema
+C) Instalación local obligatoria
+D) Gestión del hardware por el cliente
+
+9. ¿Cuál es una desventaja del Cloud?
+A) Elasticidad
+B) Pago por uso
+C) Escalabilidad
+D) Dependencia del proveedor
+
+10. ¿Qué modelo tiene mayor control por parte del usuario?
+A) PaaS
+B) Cloud público
+C) IaaS
+D) SaaS
+
+🔹 BLOQUE 3: Tipos de Cloud
+
+11. El Cloud privado se caracteriza por:
+A) Sin seguridad
+B) Uso público
+C) Uso exclusivo de una organización
+D) Compartido con todos
+
+12. ¿Qué Cloud combina varios tipos?
+A) Comunitario
+B) Híbrido
+C) Público
+D) Privado
+
+13. El Cloud público:
+A) Es compartido
+B) Es exclusivo
+C) Es local
+D) No tiene coste
+
+🔹 BLOQUE 4: Virtualización
+
+14. La virtualización permite:
+A) Eliminar software
+B) Evitar redes
+C) Reducir CPU
+D) Crear recursos virtuales a partir de hardware
+
+15. El hypervisor es:
+A) Un gestor de máquinas virtuales
+B) Una red
+C) Un hardware
+D) Un sistema operativo
+
+16. ¿Qué tipo de virtualización usa contenedores?
+A) Full virtualization
+B) Hardware-assisted
+C) OS-level
+D) Paravirtualización
+
+🔹 BLOQUE 5: Arquitectura y DevOps
+
+17. Una aplicación monolítica:
+A) Tiene todos los componentes juntos
+B) Es resiliente
+C) Escala horizontalmente
+D) Está distribuida
+
+18. En aplicaciones distribuidas:
+A) No hay escalabilidad
+B) Solo un nodo
+C) No hay comunicación
+D) Se usa escalado horizontal
+
+19. DevOps busca:
+A) Eliminar testing
+B) Reducir software
+C) Separar equipos
+D) Automatizar y mejorar colaboración
+
+20. CI (Integración Continua) implica:
+A) Solo testing manual
+B) Integrar cambios automáticamente
+C) Eliminar pruebas
+D) Deploy manual
+
+🔹 BLOQUE 6: Docker
+
+21. Un contenedor es:
+A) Un servidor completo
+B) Una base de datos
+C) Un proceso aislado
+D) Una máquina física
+
+22. Docker se basa en:
+A) Virtualización hardware
+B) Sistemas operativos completos
+C) Redes físicas
+D) Contenedores
+
+23. Una imagen Docker es:
+A) Un volumen
+B) Una red
+C) Un contenedor en ejecución
+D) Una plantilla de solo lectura
+
+24. ¿Qué hace “docker run”?
+A) Configura red
+B) Ejecuta un contenedor
+C) Elimina contenedores
+D) Crea imágenes
+
+25. ¿Qué comando lista contenedores activos?
+A) docker build
+B) docker images
+C) docker run
+D) docker ps
+
+✅ PLANTILLA DE RESPUESTAS
+B
+D
+C
+A
+C
+B
+B
+A
+D
+C
+C
+B
+A
+D
+A
+C
+A
+D
+D
+B
+C
+D
+D
+B
+D
+
+
+🔹 BLOQUE 1: Historia y conceptos
+
+1. ¿Quién propuso la computación como servicio público?
+A) John McCarthy
+B) Bill Gates
+C) Licklider
+D) Tim Berners-Lee
+
+2. El concepto de time-sharing permite:
+A) Compartir recursos entre múltiples usuarios
+B) Eliminar multitarea
+C) Reducir redes
+D) Usar un ordenador por usuario
+
+3. ¿Qué combinación define la WWW?
+A) URL + HTTP + HTML
+B) TCP + IP + DNS
+C) HTML + CSS + JS
+D) FTP + SMTP + DNS
+
+4. ¿Cuál fue pionera en software bajo demanda?
+A) Google
+B) Salesforce
+C) Amazon
+D) Microsoft
+
+🔹 BLOQUE 2: Características Cloud
+
+5. Broad network access implica:
+A) Sin red
+B) Solo acceso local
+C) Acceso desde múltiples dispositivos
+D) Acceso limitado
+
+6. Resource pooling significa:
+A) Recursos físicos
+B) Recursos eliminados
+C) Recursos compartidos entre clientes
+D) Recursos exclusivos
+
+7. Elasticidad implica:
+A) Eliminar servidores
+B) Uso local
+C) Escalar según demanda
+D) Recursos fijos
+
+8. Escalado vertical consiste en:
+A) Añadir máquinas
+B) Cambiar red
+C) Mejorar capacidad de una máquina
+D) Reducir servidores
+
+🔹 BLOQUE 3: Modelos y comparativas
+
+9. En On-Premise:
+A) No hay inversión inicial
+B) La empresa gestiona todo
+C) El proveedor gestiona seguridad
+D) No hay hardware
+
+10. ¿Qué modelo tiene menor inversión inicial?
+A) Colocation
+B) Cloud
+C) Hosting
+D) On-Premise
+
+11. En Hosting:
+A) Solo se alquila espacio
+B) Se proporciona hardware completo
+C) No hay software
+D) No hay control
+
+12. En Colocation:
+A) Solo proporciona espacio
+B) El proveedor da todo
+C) No hay infraestructura
+D) No hay red
+
+🔹 BLOQUE 4: XaaS y nuevas tendencias
+
+13. XaaS significa:
+A) Software exclusivo
+B) Solo infraestructura
+C) Red privada
+D) Todo como servicio
+
+14. FaaS se basa en:
+A) Redes privadas
+B) Servidores físicos
+C) Máquinas virtuales completas
+D) Ejecución de funciones bajo demanda
+
+15. IaC permite:
+A) Definir infraestructura como código
+B) Eliminar servidores
+C) Programar aplicaciones
+D) Reducir redes
+
+🔹 BLOQUE 5: Tipos de Cloud (detalle)
+
+16. El Cloud comunitario:
+A) Es privado
+B) Es compartido por organizaciones con intereses comunes
+C) Es local
+D) Es público
+
+17. El Cloud híbrido permite:
+A) Solo cloud público
+B) Eliminar datos
+C) Combinar diferentes tipos de cloud
+D) Reducir seguridad
+
+18. CMP sirve para:
+A) Programar aplicaciones
+B) Crear redes
+C) Gestionar servicios cloud
+D) Eliminar datos
+
+🔹 BLOQUE 6: Actores
+
+19. El Cloud broker:
+A) Transporta datos
+B) Ejecuta software
+C) Ayuda a elegir proveedor
+D) Ofrece recursos
+
+20. El Cloud auditor:
+A) Programa software
+B) Proporciona red
+C) Gestiona servidores
+D) Valida seguridad y calidad
+
+21. El Cloud carrier:
+A) Proporciona transporte de red
+B) Gestiona usuarios
+C) Ejecuta contenedores
+D) Desarrolla software
+
+🔹 BLOQUE 7: Virtualización (nivel examen)
+
+22. Paravirtualización requiere:
+A) Hardware especial
+B) Solo contenedores
+C) SO modificados
+D) No hypervisor
+
+23. Full virtualization implica:
+A) Uso exclusivo de red
+B) Emulación completa de hardware
+C) Solo contenedores
+D) No usar hardware
+
+🔹 BLOQUE 8: Docker avanzado
+
+24. ¿Qué hace “docker build”?
+A) Lista contenedores
+B) Elimina imágenes
+C) Construye imágenes
+D) Ejecuta contenedores
+
+25. Los volúmenes Docker sirven para:
+A) Aumentar CPU
+B) Crear redes
+C) Eliminar contenedores
+D) Persistir datos
+
+✅ RESPUESTAS
+A
+A
+A
+B
+C
+C
+C
+C
+B
+B
+B
+A
+D
+D
+A
+B
+C
+C
+C
+D
+A
+C
+B
+C
+D
+
+🔹 Docker básico
+
+1. ¿Qué comando se utiliza para ejecutar un contenedor?
+A) docker start
+B) docker run
+C) docker build
+D) docker exec
+
+2. ¿Qué hace docker ps?
+A) Lista contenedores activos
+B) Elimina contenedores
+C) Lista imágenes
+D) Muestra logs
+
+3. ¿Qué comando muestra TODOS los contenedores (incluidos los parados)?
+A) docker ps -a
+B) docker all
+C) docker show
+D) docker list
+
+4. ¿Qué comando detiene un contenedor?
+A) docker stop
+B) docker kill
+C) docker pause
+D) docker rm
+
+5. ¿Qué comando elimina un contenedor?
+A) docker delete
+B) docker remove
+C) docker clean
+D) docker rm
+
+🔹 Imágenes
+
+6. ¿Qué comando construye una imagen a partir de un Dockerfile?
+A) docker build
+B) docker run
+C) docker make
+D) docker create
+
+7. ¿Qué hace docker images?
+A) Descarga imágenes
+B) Lista imágenes locales
+C) Elimina imágenes
+D) Ejecuta imágenes
+
+8. ¿Qué comando descarga una imagen desde Docker Hub?
+A) docker get
+B) docker download
+C) docker fetch
+D) docker pull
+
+9. ¿Qué comando elimina una imagen?
+A) docker delete image
+B) docker clean image
+C) docker rm image
+D) docker rmi
+
+10. ¿Qué hace docker history <imagen>?
+A) Copia imagen
+B) Muestra historial de capas
+C) Ejecuta imagen
+D) Elimina imagen
+
+🔹 Ejecución y parámetros
+
+11. ¿Qué significa la opción -d en docker run?
+A) Debug
+B) Deploy
+C) Delete
+D) Detached (background)
+
+12. ¿Qué hace la opción -p 8080:80?
+A) Limita CPU
+B) Abre red interna
+C) Mapea puertos host:contenedor
+D) Cambia IP
+
+13. ¿Qué hace docker logs?
+A) Muestra logs del contenedor
+B) Elimina logs
+C) Lista contenedores
+D) Reinicia contenedor
+
+14. ¿Qué hace docker inspect?
+A) Elimina contenedor
+B) Construye imagen
+C) Muestra detalles técnicos
+D) Ejecuta contenedor
+
+🔹 Volúmenes y almacenamiento
+
+15. ¿Qué hace docker volume ls?
+A) Elimina volúmenes
+B) Ejecuta volúmenes
+C) Lista volúmenes
+D) Crea volúmenes
+
+16. ¿Qué hace docker volume create?
+A) Crea un volumen
+B) Monta volumen
+C) Lista volúmenes
+D) Elimina volumen
+
+17. ¿Qué hace -v /host:/container?
+A) Limita CPU
+B) Borra datos
+C) Cambia red
+D) Mapea volumen entre host y contenedor
+
+🔹 Redes
+
+18. ¿Qué comando crea una red Docker?
+A) docker network create
+B) docker new network
+C) docker create network
+D) docker net create
+
+19. ¿Qué hace docker network ls?
+A) Elimina redes
+B) Crea red
+C) Ejecuta red
+D) Lista redes
+
+🔹 Docker Compose
+
+20. ¿Qué hace docker-compose up?
+A) Elimina contenedores
+B) Crea y arranca servicios
+C) Construye imágenes
+D) Lista servicios
+
+21. ¿Qué hace docker-compose down?
+A) Reinicia servicios
+B) Para y elimina contenedores
+C) Construye servicios
+D) Muestra logs
+
+22. ¿Qué hace docker-compose build?
+A) Elimina contenedores
+B) Lista servicios
+C) Ejecuta servicios
+D) Construye contenedores/imágenes
+
+23. ¿Qué hace docker-compose logs?
+A) Construye imágenes
+B) Muestra logs de servicios
+C) Reinicia servicios
+D) Elimina logs
+
+24. ¿Qué hace docker-compose ps?
+A) Crea servicios
+B) Construye servicios
+C) Lista servicios/containers
+D) Elimina servicios
+
+25. ¿Qué hace docker-compose run?
+A) Ejecuta una orden en un servicio
+B) Elimina contenedor
+C) Crea red
+D) Construye imagen
+
+✅ RESPUESTAS (mezcladas correctamente)
+B
+A
+A
+A
+D
+A
+B
+D
+D
+B
+D
+C
+A
+C
+C
+A
+D
+A
+D
+B
+B
+D
+B
+C
+A

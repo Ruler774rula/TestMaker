@@ -6273,5 +6273,1968 @@
         ]
       }
     ]
+  },
+  {
+    "id": "sub-ats",
+    "nombre": "ATS",
+    "tests": [
+      {
+        "id": "test-ats-1",
+        "titulo": "Primer Parcial ATS",
+        "descripcion": "Preguntas del primer parcial de ATS",
+        "preguntas": [
+          {
+            "id": "q-ats-1",
+            "enunciado": "¿Qué es el Cloud Computing?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un tipo de hardware específico"
+              },
+              {
+                "id": "b",
+                "texto": "Un modelo de acceso bajo demanda a recursos informáticos compartidos"
+              },
+              {
+                "id": "c",
+                "texto": "Un sistema operativo distribuido"
+              },
+              {
+                "id": "d",
+                "texto": "Un sistema de almacenamiento local"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-2",
+            "enunciado": "¿Cuál de las siguientes NO es una característica del Cloud?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Resource pooling"
+              },
+              {
+                "id": "b",
+                "texto": "Rapid elasticity"
+              },
+              {
+                "id": "c",
+                "texto": "On-demand self-service"
+              },
+              {
+                "id": "d",
+                "texto": "Dependencia total del usuario"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-3",
+            "enunciado": "El modelo multi-tenant significa:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un cliente con múltiples servidores"
+              },
+              {
+                "id": "b",
+                "texto": "Un servidor por cliente"
+              },
+              {
+                "id": "c",
+                "texto": "Un software que sirve a múltiples clientes"
+              },
+              {
+                "id": "d",
+                "texto": "Infraestructura local"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-4",
+            "enunciado": "¿Qué significa escalabilidad horizontal?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Añadir más máquinas"
+              },
+              {
+                "id": "b",
+                "texto": "Reducir recursos"
+              },
+              {
+                "id": "c",
+                "texto": "Cambiar CPU"
+              },
+              {
+                "id": "d",
+                "texto": "Aumentar RAM"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-5",
+            "enunciado": "¿Qué significa “measured service”?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Servicio sin coste"
+              },
+              {
+                "id": "b",
+                "texto": "Servicio manual"
+              },
+              {
+                "id": "c",
+                "texto": "Control y medición del uso de recursos"
+              },
+              {
+                "id": "d",
+                "texto": "Servicio local"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-6",
+            "enunciado": "En IaaS, el proveedor ofrece:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo software"
+              },
+              {
+                "id": "b",
+                "texto": "Infraestructura virtualizada"
+              },
+              {
+                "id": "c",
+                "texto": "Aplicaciones completas"
+              },
+              {
+                "id": "d",
+                "texto": "Solo almacenamiento físico"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-7",
+            "enunciado": "¿Qué añade PaaS respecto a IaaS?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Red física"
+              },
+              {
+                "id": "b",
+                "texto": "Middleware y herramientas de desarrollo"
+              },
+              {
+                "id": "c",
+                "texto": "Hardware físico"
+              },
+              {
+                "id": "d",
+                "texto": "Usuarios finales"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-8",
+            "enunciado": "SaaS se caracteriza por:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Aplicaciones accesibles desde la nube"
+              },
+              {
+                "id": "b",
+                "texto": "Control total del sistema"
+              },
+              {
+                "id": "c",
+                "texto": "Instalación local obligatoria"
+              },
+              {
+                "id": "d",
+                "texto": "Gestión del hardware por el cliente"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-9",
+            "enunciado": "¿Cuál es una desventaja del Cloud?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Elasticidad"
+              },
+              {
+                "id": "b",
+                "texto": "Pago por uso"
+              },
+              {
+                "id": "c",
+                "texto": "Escalabilidad"
+              },
+              {
+                "id": "d",
+                "texto": "Dependencia del proveedor"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-10",
+            "enunciado": "¿Qué modelo tiene mayor control por parte del usuario?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "PaaS"
+              },
+              {
+                "id": "b",
+                "texto": "Cloud público"
+              },
+              {
+                "id": "c",
+                "texto": "IaaS"
+              },
+              {
+                "id": "d",
+                "texto": "SaaS"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-11",
+            "enunciado": "El Cloud privado se caracteriza por:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sin seguridad"
+              },
+              {
+                "id": "b",
+                "texto": "Uso público"
+              },
+              {
+                "id": "c",
+                "texto": "Uso exclusivo de una organización"
+              },
+              {
+                "id": "d",
+                "texto": "Compartido con todos"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-12",
+            "enunciado": "¿Qué Cloud combina varios tipos?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Comunitario"
+              },
+              {
+                "id": "b",
+                "texto": "Híbrido"
+              },
+              {
+                "id": "c",
+                "texto": "Público"
+              },
+              {
+                "id": "d",
+                "texto": "Privado"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-13",
+            "enunciado": "El Cloud público:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Es compartido"
+              },
+              {
+                "id": "b",
+                "texto": "Es exclusivo"
+              },
+              {
+                "id": "c",
+                "texto": "Es local"
+              },
+              {
+                "id": "d",
+                "texto": "No tiene coste"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-14",
+            "enunciado": "La virtualización permite:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar software"
+              },
+              {
+                "id": "b",
+                "texto": "Evitar redes"
+              },
+              {
+                "id": "c",
+                "texto": "Reducir CPU"
+              },
+              {
+                "id": "d",
+                "texto": "Crear recursos virtuales a partir de hardware"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-15",
+            "enunciado": "El hypervisor es:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un gestor de máquinas virtuales"
+              },
+              {
+                "id": "b",
+                "texto": "Una red"
+              },
+              {
+                "id": "c",
+                "texto": "Un hardware"
+              },
+              {
+                "id": "d",
+                "texto": "Un sistema operativo"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-16",
+            "enunciado": "¿Qué tipo de virtualización usa contenedores?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Full virtualization"
+              },
+              {
+                "id": "b",
+                "texto": "Hardware-assisted"
+              },
+              {
+                "id": "c",
+                "texto": "OS-level"
+              },
+              {
+                "id": "d",
+                "texto": "Paravirtualización"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-17",
+            "enunciado": "Una aplicación monolítica:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tiene todos los componentes juntos"
+              },
+              {
+                "id": "b",
+                "texto": "Es resiliente"
+              },
+              {
+                "id": "c",
+                "texto": "Escala horizontalmente"
+              },
+              {
+                "id": "d",
+                "texto": "Está distribuida"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-18",
+            "enunciado": "En aplicaciones distribuidas:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No hay escalabilidad"
+              },
+              {
+                "id": "b",
+                "texto": "Solo un nodo"
+              },
+              {
+                "id": "c",
+                "texto": "No hay comunicación"
+              },
+              {
+                "id": "d",
+                "texto": "Se usa escalado horizontal"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-19",
+            "enunciado": "DevOps busca:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar testing"
+              },
+              {
+                "id": "b",
+                "texto": "Reducir software"
+              },
+              {
+                "id": "c",
+                "texto": "Separar equipos"
+              },
+              {
+                "id": "d",
+                "texto": "Automatizar y mejorar colaboración"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-20",
+            "enunciado": "CI (Integración Continua) implica:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo testing manual"
+              },
+              {
+                "id": "b",
+                "texto": "Integrar cambios automáticamente"
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar pruebas"
+              },
+              {
+                "id": "d",
+                "texto": "Deploy manual"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-21",
+            "enunciado": "Un contenedor es:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un servidor completo"
+              },
+              {
+                "id": "b",
+                "texto": "Una base de datos"
+              },
+              {
+                "id": "c",
+                "texto": "Un proceso aislado"
+              },
+              {
+                "id": "d",
+                "texto": "Una máquina física"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-22",
+            "enunciado": "Docker se basa en:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Virtualización hardware"
+              },
+              {
+                "id": "b",
+                "texto": "Sistemas operativos completos"
+              },
+              {
+                "id": "c",
+                "texto": "Redes físicas"
+              },
+              {
+                "id": "d",
+                "texto": "Contenedores"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-23",
+            "enunciado": "Una imagen Docker es:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un volumen"
+              },
+              {
+                "id": "b",
+                "texto": "Una red"
+              },
+              {
+                "id": "c",
+                "texto": "Un contenedor en ejecución"
+              },
+              {
+                "id": "d",
+                "texto": "Una plantilla de solo lectura"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-24",
+            "enunciado": "¿Qué hace “docker run”?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Configura red"
+              },
+              {
+                "id": "b",
+                "texto": "Ejecuta un contenedor"
+              },
+              {
+                "id": "c",
+                "texto": "Elimina contenedores"
+              },
+              {
+                "id": "d",
+                "texto": "Crea imágenes"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-25",
+            "enunciado": "¿Qué comando lista contenedores activos?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker build"
+              },
+              {
+                "id": "b",
+                "texto": "docker images"
+              },
+              {
+                "id": "c",
+                "texto": "docker run"
+              },
+              {
+                "id": "d",
+                "texto": "docker ps"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-26",
+            "enunciado": "¿Quién propuso la computación como servicio público?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "John McCarthy"
+              },
+              {
+                "id": "b",
+                "texto": "Bill Gates"
+              },
+              {
+                "id": "c",
+                "texto": "Licklider"
+              },
+              {
+                "id": "d",
+                "texto": "Tim Berners-Lee"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-27",
+            "enunciado": "El concepto de time-sharing permite:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Compartir recursos entre múltiples usuarios"
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar multitarea"
+              },
+              {
+                "id": "c",
+                "texto": "Reducir redes"
+              },
+              {
+                "id": "d",
+                "texto": "Usar un ordenador por usuario"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-28",
+            "enunciado": "¿Qué combinación define la WWW?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "URL + HTTP + HTML"
+              },
+              {
+                "id": "b",
+                "texto": "TCP + IP + DNS"
+              },
+              {
+                "id": "c",
+                "texto": "HTML + CSS + JS"
+              },
+              {
+                "id": "d",
+                "texto": "FTP + SMTP + DNS"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-29",
+            "enunciado": "¿Cuál fue pionera en software bajo demanda?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Google"
+              },
+              {
+                "id": "b",
+                "texto": "Salesforce"
+              },
+              {
+                "id": "c",
+                "texto": "Amazon"
+              },
+              {
+                "id": "d",
+                "texto": "Microsoft"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-30",
+            "enunciado": "Broad network access implica:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sin red"
+              },
+              {
+                "id": "b",
+                "texto": "Solo acceso local"
+              },
+              {
+                "id": "c",
+                "texto": "Acceso desde múltiples dispositivos"
+              },
+              {
+                "id": "d",
+                "texto": "Acceso limitado"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-31",
+            "enunciado": "Resource pooling significa:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Recursos físicos"
+              },
+              {
+                "id": "b",
+                "texto": "Recursos eliminados"
+              },
+              {
+                "id": "c",
+                "texto": "Recursos compartidos entre clientes"
+              },
+              {
+                "id": "d",
+                "texto": "Recursos exclusivos"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-32",
+            "enunciado": "Elasticidad implica:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar servidores"
+              },
+              {
+                "id": "b",
+                "texto": "Uso local"
+              },
+              {
+                "id": "c",
+                "texto": "Escalar según demanda"
+              },
+              {
+                "id": "d",
+                "texto": "Recursos fijos"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-33",
+            "enunciado": "Escalado vertical consiste en:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Añadir máquinas"
+              },
+              {
+                "id": "b",
+                "texto": "Cambiar red"
+              },
+              {
+                "id": "c",
+                "texto": "Mejorar capacidad de una máquina"
+              },
+              {
+                "id": "d",
+                "texto": "Reducir servidores"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-34",
+            "enunciado": "En On-Premise:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No hay inversión inicial"
+              },
+              {
+                "id": "b",
+                "texto": "La empresa gestiona todo"
+              },
+              {
+                "id": "c",
+                "texto": "El proveedor gestiona seguridad"
+              },
+              {
+                "id": "d",
+                "texto": "No hay hardware"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-35",
+            "enunciado": "¿Qué modelo tiene menor inversión inicial?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Colocation"
+              },
+              {
+                "id": "b",
+                "texto": "Cloud"
+              },
+              {
+                "id": "c",
+                "texto": "Hosting"
+              },
+              {
+                "id": "d",
+                "texto": "On-Premise"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-36",
+            "enunciado": "En Hosting:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo se alquila espacio"
+              },
+              {
+                "id": "b",
+                "texto": "Se proporciona hardware completo"
+              },
+              {
+                "id": "c",
+                "texto": "No hay software"
+              },
+              {
+                "id": "d",
+                "texto": "No hay control"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-37",
+            "enunciado": "En Colocation:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo proporciona espacio"
+              },
+              {
+                "id": "b",
+                "texto": "El proveedor da todo"
+              },
+              {
+                "id": "c",
+                "texto": "No hay infraestructura"
+              },
+              {
+                "id": "d",
+                "texto": "No hay red"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-38",
+            "enunciado": "XaaS significa:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Software exclusivo"
+              },
+              {
+                "id": "b",
+                "texto": "Solo infraestructura"
+              },
+              {
+                "id": "c",
+                "texto": "Red privada"
+              },
+              {
+                "id": "d",
+                "texto": "Todo como servicio"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-39",
+            "enunciado": "FaaS se basa en:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Redes privadas"
+              },
+              {
+                "id": "b",
+                "texto": "Servidores físicos"
+              },
+              {
+                "id": "c",
+                "texto": "Máquinas virtuales completas"
+              },
+              {
+                "id": "d",
+                "texto": "Ejecución de funciones bajo demanda"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-40",
+            "enunciado": "IaC permite:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Definir infraestructura como código"
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar servidores"
+              },
+              {
+                "id": "c",
+                "texto": "Programar aplicaciones"
+              },
+              {
+                "id": "d",
+                "texto": "Reducir redes"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-41",
+            "enunciado": "El Cloud comunitario:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Es privado"
+              },
+              {
+                "id": "b",
+                "texto": "Es compartido por organizaciones con intereses comunes"
+              },
+              {
+                "id": "c",
+                "texto": "Es local"
+              },
+              {
+                "id": "d",
+                "texto": "Es público"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-42",
+            "enunciado": "El Cloud híbrido permite:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo cloud público"
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar datos"
+              },
+              {
+                "id": "c",
+                "texto": "Combinar diferentes tipos de cloud"
+              },
+              {
+                "id": "d",
+                "texto": "Reducir seguridad"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-43",
+            "enunciado": "CMP sirve para:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Programar aplicaciones"
+              },
+              {
+                "id": "b",
+                "texto": "Crear redes"
+              },
+              {
+                "id": "c",
+                "texto": "Gestionar servicios cloud"
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar datos"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-44",
+            "enunciado": "El Cloud broker:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Transporta datos"
+              },
+              {
+                "id": "b",
+                "texto": "Ejecuta software"
+              },
+              {
+                "id": "c",
+                "texto": "Ayuda a elegir proveedor"
+              },
+              {
+                "id": "d",
+                "texto": "Ofrece recursos"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-45",
+            "enunciado": "El Cloud auditor:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Programa software"
+              },
+              {
+                "id": "b",
+                "texto": "Proporciona red"
+              },
+              {
+                "id": "c",
+                "texto": "Gestiona servidores"
+              },
+              {
+                "id": "d",
+                "texto": "Valida seguridad y calidad"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-46",
+            "enunciado": "El Cloud carrier:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Proporciona transporte de red"
+              },
+              {
+                "id": "b",
+                "texto": "Gestiona usuarios"
+              },
+              {
+                "id": "c",
+                "texto": "Ejecuta contenedores"
+              },
+              {
+                "id": "d",
+                "texto": "Desarrolla software"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-47",
+            "enunciado": "Paravirtualización requiere:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Hardware especial"
+              },
+              {
+                "id": "b",
+                "texto": "Solo contenedores"
+              },
+              {
+                "id": "c",
+                "texto": "SO modificados"
+              },
+              {
+                "id": "d",
+                "texto": "No hypervisor"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-48",
+            "enunciado": "Full virtualization implica:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Uso exclusivo de red"
+              },
+              {
+                "id": "b",
+                "texto": "Emulación completa de hardware"
+              },
+              {
+                "id": "c",
+                "texto": "Solo contenedores"
+              },
+              {
+                "id": "d",
+                "texto": "No usar hardware"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-49",
+            "enunciado": "¿Qué hace “docker build”?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Lista contenedores"
+              },
+              {
+                "id": "b",
+                "texto": "Elimina imágenes"
+              },
+              {
+                "id": "c",
+                "texto": "Construye imágenes"
+              },
+              {
+                "id": "d",
+                "texto": "Ejecuta contenedores"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-50",
+            "enunciado": "Los volúmenes Docker sirven para:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Aumentar CPU"
+              },
+              {
+                "id": "b",
+                "texto": "Crear redes"
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar contenedores"
+              },
+              {
+                "id": "d",
+                "texto": "Persistir datos"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-51",
+            "enunciado": "¿Qué comando se utiliza para ejecutar un contenedor?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker start"
+              },
+              {
+                "id": "b",
+                "texto": "docker run"
+              },
+              {
+                "id": "c",
+                "texto": "docker build"
+              },
+              {
+                "id": "d",
+                "texto": "docker exec"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-52",
+            "enunciado": "¿Qué hace docker ps?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Lista contenedores activos"
+              },
+              {
+                "id": "b",
+                "texto": "Elimina contenedores"
+              },
+              {
+                "id": "c",
+                "texto": "Lista imágenes"
+              },
+              {
+                "id": "d",
+                "texto": "Muestra logs"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-53",
+            "enunciado": "¿Qué comando muestra TODOS los contenedores (incluidos los parados)?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker ps -a"
+              },
+              {
+                "id": "b",
+                "texto": "docker all"
+              },
+              {
+                "id": "c",
+                "texto": "docker show"
+              },
+              {
+                "id": "d",
+                "texto": "docker list"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-54",
+            "enunciado": "¿Qué comando detiene un contenedor?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker stop"
+              },
+              {
+                "id": "b",
+                "texto": "docker kill"
+              },
+              {
+                "id": "c",
+                "texto": "docker pause"
+              },
+              {
+                "id": "d",
+                "texto": "docker rm"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-55",
+            "enunciado": "¿Qué comando elimina un contenedor?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker delete"
+              },
+              {
+                "id": "b",
+                "texto": "docker remove"
+              },
+              {
+                "id": "c",
+                "texto": "docker clean"
+              },
+              {
+                "id": "d",
+                "texto": "docker rm"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-56",
+            "enunciado": "¿Qué comando construye una imagen a partir de un Dockerfile?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker build"
+              },
+              {
+                "id": "b",
+                "texto": "docker run"
+              },
+              {
+                "id": "c",
+                "texto": "docker make"
+              },
+              {
+                "id": "d",
+                "texto": "docker create"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-57",
+            "enunciado": "¿Qué hace docker images?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Descarga imágenes"
+              },
+              {
+                "id": "b",
+                "texto": "Lista imágenes locales"
+              },
+              {
+                "id": "c",
+                "texto": "Elimina imágenes"
+              },
+              {
+                "id": "d",
+                "texto": "Ejecuta imágenes"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-58",
+            "enunciado": "¿Qué comando descarga una imagen desde Docker Hub?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker get"
+              },
+              {
+                "id": "b",
+                "texto": "docker download"
+              },
+              {
+                "id": "c",
+                "texto": "docker fetch"
+              },
+              {
+                "id": "d",
+                "texto": "docker pull"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-59",
+            "enunciado": "¿Qué comando elimina una imagen?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker delete image"
+              },
+              {
+                "id": "b",
+                "texto": "docker clean image"
+              },
+              {
+                "id": "c",
+                "texto": "docker rm image"
+              },
+              {
+                "id": "d",
+                "texto": "docker rmi"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-60",
+            "enunciado": "¿Qué hace docker history <imagen>?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Copia imagen"
+              },
+              {
+                "id": "b",
+                "texto": "Muestra historial de capas"
+              },
+              {
+                "id": "c",
+                "texto": "Ejecuta imagen"
+              },
+              {
+                "id": "d",
+                "texto": "Elimina imagen"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-61",
+            "enunciado": "¿Qué significa la opción -d en docker run?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Debug"
+              },
+              {
+                "id": "b",
+                "texto": "Deploy"
+              },
+              {
+                "id": "c",
+                "texto": "Delete"
+              },
+              {
+                "id": "d",
+                "texto": "Detached (background)"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-62",
+            "enunciado": "¿Qué hace la opción -p 8080:80?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Limita CPU"
+              },
+              {
+                "id": "b",
+                "texto": "Abre red interna"
+              },
+              {
+                "id": "c",
+                "texto": "Mapea puertos host:contenedor"
+              },
+              {
+                "id": "d",
+                "texto": "Cambia IP"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-63",
+            "enunciado": "¿Qué hace docker logs?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Muestra logs del contenedor"
+              },
+              {
+                "id": "b",
+                "texto": "Elimina logs"
+              },
+              {
+                "id": "c",
+                "texto": "Lista contenedores"
+              },
+              {
+                "id": "d",
+                "texto": "Reinicia contenedor"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-64",
+            "enunciado": "¿Qué hace docker inspect?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Elimina contenedor"
+              },
+              {
+                "id": "b",
+                "texto": "Construye imagen"
+              },
+              {
+                "id": "c",
+                "texto": "Muestra detalles técnicos"
+              },
+              {
+                "id": "d",
+                "texto": "Ejecuta contenedor"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-65",
+            "enunciado": "¿Qué hace docker volume ls?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Elimina volúmenes"
+              },
+              {
+                "id": "b",
+                "texto": "Ejecuta volúmenes"
+              },
+              {
+                "id": "c",
+                "texto": "Lista volúmenes"
+              },
+              {
+                "id": "d",
+                "texto": "Crea volúmenes"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-66",
+            "enunciado": "¿Qué hace docker volume create?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Crea un volumen"
+              },
+              {
+                "id": "b",
+                "texto": "Monta volumen"
+              },
+              {
+                "id": "c",
+                "texto": "Lista volúmenes"
+              },
+              {
+                "id": "d",
+                "texto": "Elimina volumen"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-67",
+            "enunciado": "¿Qué hace -v /host:/container?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Limita CPU"
+              },
+              {
+                "id": "b",
+                "texto": "Borra datos"
+              },
+              {
+                "id": "c",
+                "texto": "Cambia red"
+              },
+              {
+                "id": "d",
+                "texto": "Mapea volumen entre host y contenedor"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-68",
+            "enunciado": "¿Qué comando crea una red Docker?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "docker network create"
+              },
+              {
+                "id": "b",
+                "texto": "docker new network"
+              },
+              {
+                "id": "c",
+                "texto": "docker create network"
+              },
+              {
+                "id": "d",
+                "texto": "docker net create"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-ats-69",
+            "enunciado": "¿Qué hace docker network ls?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Elimina redes"
+              },
+              {
+                "id": "b",
+                "texto": "Crea red"
+              },
+              {
+                "id": "c",
+                "texto": "Ejecuta red"
+              },
+              {
+                "id": "d",
+                "texto": "Lista redes"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-70",
+            "enunciado": "¿Qué hace docker-compose up?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Elimina contenedores"
+              },
+              {
+                "id": "b",
+                "texto": "Crea y arranca servicios"
+              },
+              {
+                "id": "c",
+                "texto": "Construye imágenes"
+              },
+              {
+                "id": "d",
+                "texto": "Lista servicios"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-71",
+            "enunciado": "¿Qué hace docker-compose down?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Reinicia servicios"
+              },
+              {
+                "id": "b",
+                "texto": "Para y elimina contenedores"
+              },
+              {
+                "id": "c",
+                "texto": "Construye servicios"
+              },
+              {
+                "id": "d",
+                "texto": "Muestra logs"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-72",
+            "enunciado": "¿Qué hace docker-compose build?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Elimina contenedores"
+              },
+              {
+                "id": "b",
+                "texto": "Lista servicios"
+              },
+              {
+                "id": "c",
+                "texto": "Ejecuta servicios"
+              },
+              {
+                "id": "d",
+                "texto": "Construye contenedores/imágenes"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-ats-73",
+            "enunciado": "¿Qué hace docker-compose logs?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Construye imágenes"
+              },
+              {
+                "id": "b",
+                "texto": "Muestra logs de servicios"
+              },
+              {
+                "id": "c",
+                "texto": "Reinicia servicios"
+              },
+              {
+                "id": "d",
+                "texto": "Elimina logs"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-ats-74",
+            "enunciado": "¿Qué hace docker-compose ps?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Crea servicios"
+              },
+              {
+                "id": "b",
+                "texto": "Construye servicios"
+              },
+              {
+                "id": "c",
+                "texto": "Lista servicios/containers"
+              },
+              {
+                "id": "d",
+                "texto": "Elimina servicios"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-ats-75",
+            "enunciado": "¿Qué hace docker-compose run?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Ejecuta una orden en un servicio"
+              },
+              {
+                "id": "b",
+                "texto": "Elimina contenedor"
+              },
+              {
+                "id": "c",
+                "texto": "Crea red"
+              },
+              {
+                "id": "d",
+                "texto": "Construye imagen"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
