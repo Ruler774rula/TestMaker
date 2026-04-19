@@ -27,12 +27,13 @@ while (i < lines.length) {
   }
   
   // Check for test title
-  if (line.toUpperCase().startsWith('EXAMEN')) {
+  const titleMatch = line.match(/^===\s*(.*?)\s*===$/) || line.toUpperCase().startsWith('EXAMEN');
+  if (titleMatch) {
     if (currentTest) {
       currentTest.preguntas = currentQuestions;
       tests.push(currentTest);
     }
-    const testTitle = line;
+    const testTitle = Array.isArray(titleMatch) ? `EXAMEN ${titleMatch[1]}` : line;
     currentTest = {
       id: `test-sm-${tests.length + 1}`,
       titulo: testTitle,
@@ -74,7 +75,7 @@ while (i < lines.length) {
     // Read answer
     let respuestaCorrecta = [];
     if (i < lines.length && lines[i].trim().startsWith('Respuesta correcta:')) {
-      const ansMatch = lines[i].trim().match(/Respuesta correcta:\s*([a-e])\)/i);
+      const ansMatch = lines[i].trim().match(/Respuesta correcta:\s*([a-e])/i);
       if (ansMatch) {
         respuestaCorrecta = [ansMatch[1].toLowerCase()];
       }
