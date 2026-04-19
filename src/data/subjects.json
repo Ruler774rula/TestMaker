@@ -8236,5 +8236,3972 @@
         ]
       }
     ]
+  },
+  {
+    "id": "sub-sm",
+    "nombre": "Sistemas Multimedia",
+    "tests": [
+      {
+        "id": "test-sm-1",
+        "titulo": "EXAMEN 2011",
+        "descripcion": "Preguntas de EXAMEN 2011",
+        "preguntas": [
+          {
+            "id": "q-sm-1",
+            "enunciado": "El nombre de línies d'un televisor va venir fixat als primers televisors en funció de",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Estàndards previs."
+              },
+              {
+                "id": "b",
+                "texto": "Paràmetres basats en elements electrònics."
+              },
+              {
+                "id": "c",
+                "texto": "El nombre màxim d'electrons possible dintre del tub de raigs catòdics."
+              },
+              {
+                "id": "d",
+                "texto": "Llindars perceptuals."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-2",
+            "enunciado": "Des del punt de vista de la percepció humana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els éssers humans som més sensibles a detalls en la luminància"
+              },
+              {
+                "id": "b",
+                "texto": "Luminància i crominància tenen nivells de definició semblants."
+              },
+              {
+                "id": "c",
+                "texto": "Els éssers humans som més sensibles a detalls en la crominància."
+              },
+              {
+                "id": "d",
+                "texto": "La luminància i la crominància defineixen fenòmens diferents amb llindars de detall no comparables."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-3",
+            "enunciado": "La presència de dos camps (fields) en la emissió de TV permet:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Reduir l'ample de banda i eliminar interferència."
+              },
+              {
+                "id": "b",
+                "texto": "Reduir el nombre de línies i enviar mes informació, augmentant el parpelleig (flickering)."
+              },
+              {
+                "id": "c",
+                "texto": "Augmentar la freqüència vertical"
+              },
+              {
+                "id": "d",
+                "texto": "Augmentar la freqüència de refresc i evitar el parpelleig (flickering)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-4",
+            "enunciado": "El sistema PAL emet amb",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Freqüència vertical de 60Hz, freqüència horitzontal de 15.625kHz, i 625 línies."
+              },
+              {
+                "id": "b",
+                "texto": "Freqüència vertical de 50Hz, freqüència horitzontal de 15.625kHz, i 525 línies."
+              },
+              {
+                "id": "c",
+                "texto": "Freqüència vertical de 60Hz, freqüència horitzontal de 15.625kHz, i 525 línies."
+              },
+              {
+                "id": "d",
+                "texto": "Freqüència vertical de 50Hz, freqüència horitzontal de 15.625kHz, i 625 línies."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-5",
+            "enunciado": "El format JPEG-lossy elimina redundància fent servir:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un operador temporal amb un procés de quantització i codificació eficient."
+              },
+              {
+                "id": "b",
+                "texto": "Un operador espacial amb un procés de quantització i codificació eficient."
+              },
+              {
+                "id": "c",
+                "texto": "Un operador multidimensional amb un procés de quantizació i codificació eficient."
+              },
+              {
+                "id": "d",
+                "texto": "Un operador amb compensació de moviment amb un procés de quantització i codificació eficient."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-6",
+            "enunciado": "En un codificador (encoder) JPEG-lossy, la part de pèrdua es troba",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Al mòdul de codificació de entropia."
+              },
+              {
+                "id": "b",
+                "texto": "Al mòdul de la transformada DCT."
+              },
+              {
+                "id": "c",
+                "texto": "Al mòdul de mapeig símbol a codi (symbol to code mapping)."
+              },
+              {
+                "id": "d",
+                "texto": "Al mòdul de quantització."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-7",
+            "enunciado": "JPEG-lossless implementa la compressió fent servir",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una predicció del valor del píxel basada en l'anàlisi de la redundància temporal dels veïns en els valors RGB."
+              },
+              {
+                "id": "b",
+                "texto": "Una predicció del valor del píxel basada en els valor de RGB del veïns més propers."
+              },
+              {
+                "id": "c",
+                "texto": "Una predicció del valor del píxel basada en la DCT."
+              },
+              {
+                "id": "d",
+                "texto": "Una predicció del valor del píxel basada en la FFT."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-8",
+            "enunciado": "JPEG-LS,",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Té la possibilitat d'incloure-hi fractal compression."
+              },
+              {
+                "id": "b",
+                "texto": "No té pèrdua d'informació associada a la compressió."
+              },
+              {
+                "id": "c",
+                "texto": "Té un disseny més senzill que el JPEG standard amb pèrdua."
+              },
+              {
+                "id": "d",
+                "texto": "És més ràpid que el JPEG standard amb pèrdua"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-9",
+            "enunciado": "MPEG-1 codifica a partir de Source Input Format (SIF)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè en el moment de creació de l'estàndard no n'hi havien altres formats."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè té un bit rate de compressió al voltant de 30.4Mbits/s."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè té un bit rate sense compressió al voltant de 30.4Mbits/s."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè té el mateix format per NTSC i PAL."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-10",
+            "enunciado": "Els frames I d'un grup d'imatges (group of pictures GOP)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tenen el mínim nivell de compressió i no propaguen errors."
+              },
+              {
+                "id": "b",
+                "texto": "Tenen el mínim nivell de compressió, però no propaguen errors."
+              },
+              {
+                "id": "c",
+                "texto": "Tenen el màxim nivell de compressió i no propaguen errors."
+              },
+              {
+                "id": "d",
+                "texto": "Tenen el màxim nivell de compressió però propaguen errors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-11",
+            "enunciado": "Els frames P d'un grup d'imatges (group of pictures GOP)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació a l'últim frame I.."
+              },
+              {
+                "id": "b",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació a l'últim frame I, o P."
+              },
+              {
+                "id": "c",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació a l'últim frame I, P, o B."
+              },
+              {
+                "id": "d",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació a l'últim frame I, P, i a l'últim i següent frame B."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-12",
+            "enunciado": "El format de DVD implementa la tecnologia",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "MPEG-1."
+              },
+              {
+                "id": "b",
+                "texto": "MPEG-2."
+              },
+              {
+                "id": "c",
+                "texto": "MPEG-4."
+              },
+              {
+                "id": "d",
+                "texto": "CCIR-601."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-13",
+            "enunciado": "La compensació de moviment al format MPEG-1 es realitza",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "A partir de blocs 8x8 dels valors de de luminància i crominància."
+              },
+              {
+                "id": "b",
+                "texto": "A partir de blocs 16x16 dels valors de la DCT."
+              },
+              {
+                "id": "c",
+                "texto": "A partir de blocs 8x8 dels valors del codificador d'entropia (entropy coder)."
+              },
+              {
+                "id": "d",
+                "texto": "A partir de blocs 16x16 dels errors de predicció."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-14",
+            "enunciado": "La presència d'slices dintre del format MPEG-1 permet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La reducció de la redundància espacial a partir d'un agrupament de macroblocks (macroblock matching)."
+              },
+              {
+                "id": "b",
+                "texto": "L'agrupació eficient de macroblocks per a la seva reconstrucció."
+              },
+              {
+                "id": "c",
+                "texto": "L'augment del nivell de compressió a partir de la codificació de longitud variable (VLC)."
+              },
+              {
+                "id": "d",
+                "texto": "L'augment del sincronisme a partir de paraules clau clares (clear code words)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-15",
+            "enunciado": "Els nivells de quantització dintre de l'estàndard MPEG-1.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Estan definits a la part I de l'estàndard (System)."
+              },
+              {
+                "id": "b",
+                "texto": "Estan definits a la part IV de l'estàndard (Conformance testings)"
+              },
+              {
+                "id": "c",
+                "texto": "Estan definits a la part II de l'estàndard (Vídeo)."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-16",
+            "enunciado": "La codificació de coeficients de la DCT en vídeo progressiu i entrellaçat (interlaced)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Fa servir diferents ordes de mostreig de coeficients, ja que el vídeo entrellaçat augmenta el contingut freqüencial a nivell vertical."
+              },
+              {
+                "id": "b",
+                "texto": "Fa servir diferents ordes de mostreig de coeficients, ja que el vídeo entrellaçat augmenta el contingut freqüencial a nivell horitzontal."
+              },
+              {
+                "id": "c",
+                "texto": "Fa servir els mateixos ordes de mostrieg de coeficients, ja que el vídeo entrellaçat no afegeix discrepàncies espacials, només temporals."
+              },
+              {
+                "id": "d",
+                "texto": "Fa servir els mateixos ordes de mostrieg de coeficients, ja que codifica sempre a nivel frame."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-17",
+            "enunciado": "Quina de les següents eines de codificació no és pròpia de l'estàndard MPEG-4.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codificació d'objectes basada en grafs (graph object coding)."
+              },
+              {
+                "id": "b",
+                "texto": "Codificació de textura basada en wavelets."
+              },
+              {
+                "id": "c",
+                "texto": "Codificació temporal basada en flux òptic (optical flow)."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors és pròpia de l'MPEG-4."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-18",
+            "enunciado": "La principal diferència entre MPEG-2 i MPEG-4 és que, mentre MPEG-2 és un estàndard de codificació de vídeo:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "MPEG-4 permet la codificació de metadades de manera eficient."
+              },
+              {
+                "id": "b",
+                "texto": "MPEG-4 permet la inclusió de múltiples eines d'altres estàndards."
+              },
+              {
+                "id": "c",
+                "texto": "MPEG-4 permet la manipulació d'objectes de base de dades."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors respostes és correcta."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-19",
+            "enunciado": "La escalabilitat espacial (spatial scalability ) dintre del format de vídeo MPEG-2",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "no està prevista."
+              },
+              {
+                "id": "b",
+                "texto": "és accessible des de tots els perfils."
+              },
+              {
+                "id": "c",
+                "texto": "només és accessible des del perfils més alts."
+              },
+              {
+                "id": "d",
+                "texto": "només és accessible des dels perfils més baixos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-20",
+            "enunciado": "En el format de mostreig de croma, 4:2:0 implica amb respecta a la definició de luminància",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 horitzontalment."
+              },
+              {
+                "id": "b",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 verticalment."
+              },
+              {
+                "id": "c",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 horitzontalment i vertical"
+              },
+              {
+                "id": "d",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 verticalment, i un factor 4 horitzontalment."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-21",
+            "enunciado": "En quina de les següents etapes no es produeix pèrdua?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codificació d'entropia"
+              },
+              {
+                "id": "b",
+                "texto": "Codificació de longitud variable."
+              },
+              {
+                "id": "c",
+                "texto": "Arithmetic coding."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors etapes introdueixen pèrdua."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-22",
+            "enunciado": "Quina de les següents eines de codificació no és pròpia de l'estàndard MPEG-4.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codificació d'objectes basada en malla (mesh object coding)."
+              },
+              {
+                "id": "b",
+                "texto": "Codificació temporal basada en fft (fast Fourier transform)."
+              },
+              {
+                "id": "c",
+                "texto": "Codificació basada en models (model-based coding)."
+              },
+              {
+                "id": "d",
+                "texto": "Codificació de textura basada en wavelets."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-23",
+            "enunciado": "En MPEG-4, un sprite es defineix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "com la reconstrucció del conjunt d'objectes d'una escena (foreground) a partir de predicció bidireccional."
+              },
+              {
+                "id": "b",
+                "texto": "com la reconstrucció d'una escena a partir de predicció bidireccional."
+              },
+              {
+                "id": "c",
+                "texto": "com la reconstrucció d'un objecte a partir de predicció bidireccional."
+              },
+              {
+                "id": "d",
+                "texto": "com la reconstrucció del fons d'una escena (bakground) a partir de predicció bidireccional."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-24",
+            "enunciado": "La Part IV dels estàndards MPEG-1 i MPEG-2 defineix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un software de prova que serveix com a referència per als programadors."
+              },
+              {
+                "id": "b",
+                "texto": "El conjunt de proves que haurà de passar un còdec per ser comparable."
+              },
+              {
+                "id": "c",
+                "texto": "La sintaxi del bitstream."
+              },
+              {
+                "id": "d",
+                "texto": "Una implementació esquemàtica sobre l'encoder, que serveix de referència als implementadors, però que no es pas obligatòria."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-25",
+            "enunciado": "Quina de les següents característiques no és pròpia de H.264.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un únic profile, però amb la màxima definició (Hi444PP)."
+              },
+              {
+                "id": "b",
+                "texto": "Codificacío de diversos vectors de moviment per macroblock."
+              },
+              {
+                "id": "c",
+                "texto": "Mida variable de block."
+              },
+              {
+                "id": "d",
+                "texto": "Diversos profiles escalables."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-26",
+            "enunciado": "La metadada obtinguda mitjançant les interfícies MPEG-7",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Està integrada en els sistemes de codificació de vídeo i permet la codificació eficiente del contingut multimèdia."
+              },
+              {
+                "id": "b",
+                "texto": "Està integrada en el software del decodificador (decoder) de manera exclusiva, ja que l'estàndard no defineix el codificador (coder)."
+              },
+              {
+                "id": "c",
+                "texto": "Està integrada en el bitstream del vídeo, però no serveix per accessos aleatoris a frames."
+              },
+              {
+                "id": "d",
+                "texto": "No està integrada en el vídeo, però serveix per fer accessos aleatoris a frames."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-27",
+            "enunciado": "En MPEG-7, un esquema de descripció (DS) pot consistir en",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un conjunt de descriptors."
+              },
+              {
+                "id": "b",
+                "texto": "Un conjunt de descriptors i altres esquemes de descripció."
+              },
+              {
+                "id": "c",
+                "texto": "Una codificació wavelet de la textura descriptiva de l'objecte de video (VO)"
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-28",
+            "enunciado": "El llenguatge de marques extensible (Extensible markup language, XML) permet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Separar el document original de dades del document original de metadades."
+              },
+              {
+                "id": "b",
+                "texto": "Separar la metadada de la dada."
+              },
+              {
+                "id": "c",
+                "texto": "Separar el contingut de la representació."
+              },
+              {
+                "id": "d",
+                "texto": "Separar el format del document original de dades."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-29",
+            "enunciado": "Dublin Core representa una iniciativa que tracta de:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Unificar el conjunt de metadades per a tots el documents de cara a realitzar catalogacions eficients."
+              },
+              {
+                "id": "b",
+                "texto": "Unificar el conjunt de metadades per a tots els documents multimedia de cara a realitzar indexacions eficients dels contingut."
+              },
+              {
+                "id": "c",
+                "texto": "Unificar el conjunt de metadades associats a documents visuals i sonors exclusivament en un entorn multidisciplinar i amb interessos diferents."
+              },
+              {
+                "id": "d",
+                "texto": "Unificar el conjunt de metadades de cara a fer cerques a bases de dades fonamentades en tècniques de visió per computador."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-30",
+            "enunciado": "En un document de LaTeX,",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "L'usuari no pot definir noves etiquetes, però si un fitxer d'estil."
+              },
+              {
+                "id": "b",
+                "texto": "L'usuari pot definir noves etiquetes."
+              },
+              {
+                "id": "c",
+                "texto": "No es poden definir noves etiquetes."
+              },
+              {
+                "id": "d",
+                "texto": "Depèn del software que es faci servir."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "test-sm-2",
+        "titulo": "EXAMEN 2013",
+        "descripcion": "Preguntas de EXAMEN 2013",
+        "preguntas": [
+          {
+            "id": "q-sm-31",
+            "enunciado": "El format JPEG standard fa servir :",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Fractal compression."
+              },
+              {
+                "id": "b",
+                "texto": "Fast Fourier Transform."
+              },
+              {
+                "id": "c",
+                "texto": "Discrete cosine transform."
+              },
+              {
+                "id": "d",
+                "texto": "Wavelet compression."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-32",
+            "enunciado": "JPEG-LS",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Té un disseny més senzill que el JPEG standard amb pèrdua."
+              },
+              {
+                "id": "b",
+                "texto": "És més ràpid que el JPEG standard amb pèrdua"
+              },
+              {
+                "id": "c",
+                "texto": "No té pèrdua d'informació associada a la compressió."
+              },
+              {
+                "id": "d",
+                "texto": "Té la possibilitat d'incloure-hi fractal compression."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-33",
+            "enunciado": "El format JPEG elimina redundància fent servir:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un operador espacial amb un procés de quantització i codificació eficient."
+              },
+              {
+                "id": "b",
+                "texto": "Un operador temporal amb un procés de quantització i codificació eficient."
+              },
+              {
+                "id": "c",
+                "texto": "Un operador multidimensional amb un procés de quantizació i codificació eficient."
+              },
+              {
+                "id": "d",
+                "texto": "Un operador amb compensació de moviment amb un procés de quantització I codificació eficient."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-34",
+            "enunciado": "En un codificador (encoder) JPEG-lossy, la part de pèrdua no hi és:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Al mòdul de quantització."
+              },
+              {
+                "id": "b",
+                "texto": "Enlloc."
+              },
+              {
+                "id": "c",
+                "texto": "Al mòdul de mapeig símbol a codi (symbol to code mapping)."
+              },
+              {
+                "id": "d",
+                "texto": "A cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-35",
+            "enunciado": "En un codificador (encoder) JPEG-lossless:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La idea principal es fer servir els veïns d'un píxel per avançar el seu valor i així codificar l'aproximació.."
+              },
+              {
+                "id": "b",
+                "texto": "La idea principal es fer servir els veïns d'un píxel per avançar el seu valor i així codificar l'error."
+              },
+              {
+                "id": "c",
+                "texto": "La idea principal es fer servir el valor d'un píxel i codificar-lo amb longitud variable."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-36",
+            "enunciado": "MPEG-1 està basat en un format de compressió previ, que és",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "MPEG-0"
+              },
+              {
+                "id": "b",
+                "texto": "H.261"
+              },
+              {
+                "id": "c",
+                "texto": "MJPEG"
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-37",
+            "enunciado": "MPEG-1 fa servir anàlisi de Fourier.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Per a la codificació de textura."
+              },
+              {
+                "id": "b",
+                "texto": "Per a la codificació de moviment."
+              },
+              {
+                "id": "c",
+                "texto": "Per a la codificació de color."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-38",
+            "enunciado": "Els frames P d'un grup d'imatges(group of pictures GOP)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació amb l'últim frame I."
+              },
+              {
+                "id": "b",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació amb l'últim frame I o P.F"
+              },
+              {
+                "id": "c",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació a l'últim frame 1, P, o B."
+              },
+              {
+                "id": "d",
+                "texto": "Contenen informació sobre la diferencia de compensació de moviment amb relació a l'últim frame I, P, i a l'últim i següent frame"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-39",
+            "enunciado": "Els frames I d'un grup d'imatges (group of pictures GOP)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tenen el màxim nivell de compressió però propaguen errors."
+              },
+              {
+                "id": "b",
+                "texto": "Tenen el mínim nivell de compressió, però propaguen errors."
+              },
+              {
+                "id": "c",
+                "texto": "Tenen el màxim nivell de compressió i no propaguen errors."
+              },
+              {
+                "id": "d",
+                "texto": "Tenen el mínim nivell de compressió i no propaguen errors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-40",
+            "enunciado": "Els frames D d'un grup d'imatges (group of pictures GOP)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tenen el màxim nivell de compressió però propaguen errors."
+              },
+              {
+                "id": "b",
+                "texto": "Tenen el màxim nivell de compressió, però no propaguen errors."
+              },
+              {
+                "id": "c",
+                "texto": "Tenen el mínim nivell de compressió i propaguen errors."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-41",
+            "enunciado": "La compensació de moviment al format MPEG-1 es realitza",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "A partir de blocs 16x16 dels errors de predicció."
+              },
+              {
+                "id": "b",
+                "texto": ". A partir de blocs 8x8 dels valors de de luminància i crominància."
+              },
+              {
+                "id": "c",
+                "texto": "A partir de blocs 16x16 dels valors de la DCT."
+              },
+              {
+                "id": "d",
+                "texto": "A partir de blocs 8x8 dels valors del codificador d'entropia (entropy coder)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-42",
+            "enunciado": "La codificació MPEG-2 permet predicció basada en compensació de moviment (motioncompensated prediction)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "però només a nivell de marc (frame)."
+              },
+              {
+                "id": "b",
+                "texto": "però només a nivell de camp (field)."
+              },
+              {
+                "id": "c",
+                "texto": "però l'usuari a de seleccionar si la compensació es fa nivell de camp (field) o de marc (frame)"
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors tècniques estan definides a l'estàndard per a la compensació de moviment."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-43",
+            "enunciado": "La escalabilitat espacial (spatial scalability) dintre del format de vídeo MPEG-2",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "només és accessible des del perfils més alts."
+              },
+              {
+                "id": "b",
+                "texto": "no està prevista."
+              },
+              {
+                "id": "c",
+                "texto": "és accessible des de tots els perfils."
+              },
+              {
+                "id": "d",
+                "texto": "només és accessible des dels perfils més baixos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-44",
+            "enunciado": "La presència d'slices dintre del format MPEG-1 permet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "L'agrupació eficient de macroblocks per a la seva reconstrucció."
+              },
+              {
+                "id": "b",
+                "texto": "L'augment del nivell de compressió a partir de la codificació de longitud variable (VLC)."
+              },
+              {
+                "id": "c",
+                "texto": "La reducció de la redundància espacial a partir d'un agrupament de macroblocks (macroblock matching)."
+              },
+              {
+                "id": "d",
+                "texto": "L'augment del sincronisme a partir de paraules clau clares (clear code words)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-45",
+            "enunciado": "Al bit stream d'un document MPEG-1",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els frames tenen la mateixa organització que a l'entrada del codificador, ja que la visualització del vídeo ha de mantenir l'orde de frames."
+              },
+              {
+                "id": "b",
+                "texto": "Els frames apareixen en orde decreixent per poder calcular l'estimació de movement (motion estimation)."
+              },
+              {
+                "id": "c",
+                "texto": "Els frames apareixen en un orde aleatori, ja que l'estimació de moviment implica trobar la millor parella de macroblock (best matching macroblock)."
+              },
+              {
+                "id": "d",
+                "texto": "Els frames apareixen desorganitzats per reconstruir ràpid cada grup d'imatges (group of pictures)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-46",
+            "enunciado": "El format de DVD implementa la tecnologia",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "MPEG-1."
+              },
+              {
+                "id": "b",
+                "texto": "MPEG-2."
+              },
+              {
+                "id": "c",
+                "texto": "MPEG-4."
+              },
+              {
+                "id": "d",
+                "texto": "CCIR-601."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-47",
+            "enunciado": "La escalabilitat espacial (spatial scalability) dintre del format de vídeo MPEG-2 afavoreix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "que usuaris amb diferents resolutions puguin accedir a la informació."
+              },
+              {
+                "id": "b",
+                "texto": "que usuaris amb diferents frame rates puguin accedir a la informació."
+              },
+              {
+                "id": "c",
+                "texto": "que usuaris amb diferents bit rates puguin accedir a la informació."
+              },
+              {
+                "id": "d",
+                "texto": "que usuaris amb diferents decoders puguin accedir a la informació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-48",
+            "enunciado": "La codificació de longitud variable (VLC)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "introdueix pèrdua quan es fa servir l'algorisme Huffman."
+              },
+              {
+                "id": "b",
+                "texto": "introdueix pèrdua quan es fa servir l'algorisme aritmètic (arithmetic coding)."
+              },
+              {
+                "id": "c",
+                "texto": "no introdueix pèrdua mai."
+              },
+              {
+                "id": "d",
+                "texto": "introdueix pèrdua només si l'usuari defineix un valor de qualitat (Q) més petit de 100."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-49",
+            "enunciado": "La codificació de coeficients de la DCT en vídeo progressiu i entrellaçat (interlaced)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No fa servir els mateixos ordes de mostreig de coeficients, però si les taules de quantització."
+              },
+              {
+                "id": "b",
+                "texto": "No fa servir els mateixos ordes de mostreig de coeficients, ni les taules de quantització."
+              },
+              {
+                "id": "c",
+                "texto": "Fa servir els mateixos ordes de mostreig de coeficients, però no les mateixes taules de quantització."
+              },
+              {
+                "id": "d",
+                "texto": "Fa servir els mateixos ordes de mostreig de coeficients, i les mateixes taules de quantització."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-50",
+            "enunciado": "La escalabilitat temporal (temporal scalability) dintre del format de vídeo MPEG-2 afavoreix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "que usuaris amb diferents decoders puguin accedir a la informació."
+              },
+              {
+                "id": "b",
+                "texto": "que usuaris amb diferents resolutions puguin accedir a la informació."
+              },
+              {
+                "id": "c",
+                "texto": "que usuaris amb diferents frame rates puguin accedir a la informació."
+              },
+              {
+                "id": "d",
+                "texto": "que usuaris amb diferents bit rates puguin accedir a la informació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-51",
+            "enunciado": "El conformance test model",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Indica als manufacturadors com han de ser implementats els decoders"
+              },
+              {
+                "id": "b",
+                "texto": "És una simple referència per als manufacturadors"
+              },
+              {
+                "id": "c",
+                "texto": "És un model fora de l'estàndard."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-52",
+            "enunciado": "Quina afirmació és correcta:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codificació d'objectes basada en malla (mesh object coding) implica la definició d'un model humà."
+              },
+              {
+                "id": "b",
+                "texto": "Codificació de textura basada en wavelets, implica que el MPEG-4 no fa servir DCT."
+              },
+              {
+                "id": "c",
+                "texto": "Video object coding implica la definició de descriptors de forma."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-53",
+            "enunciado": "La Part IV dels estàndards MPEG-1 i MPEG-2 defineix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un software de prova que serveix com a referència per als programadors."
+              },
+              {
+                "id": "b",
+                "texto": "El conjunt de proves que haurà de passar un còdec per ser comparable."
+              },
+              {
+                "id": "c",
+                "texto": "La sintaxi del bitstream."
+              },
+              {
+                "id": "d",
+                "texto": "Una implementació esquemàtica sobre l'encoder, que serveix de referència als implementadors, però que no es pas obligatòria."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-54",
+            "enunciado": "La codificació de forma en MPEG-4 (shape coding)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "implica l'aplicació de compensació basada en moviment al error entre la forma de l'objecte al video object plane (VOP) actual i la forma del VOP futur."
+              },
+              {
+                "id": "b",
+                "texto": "implica l'aplicació de DCT només als blocs continguts dintre de la forma de l'objecte."
+              },
+              {
+                "id": "c",
+                "texto": "implica l'aplicació de compensació basada en anàlisi de malla (mesh) entre la forma de l'objecte al video object plane (VOP) actual i la forma del VOP futur."
+              },
+              {
+                "id": "d",
+                "texto": "implica l'aplicació de anàlisi error de forma basada en textura entre la forma de l'objecte al video object plane (VOP) actual i la forma del VOP futur."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-55",
+            "enunciado": "Quina de les següents eines de codificació ne no és pròpia de l'estàndard MPEG-4.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codificació d'objectes basada en malla (mesh object coding)."
+              },
+              {
+                "id": "b",
+                "texto": "Codificació de textura basada en wavelets."
+              },
+              {
+                "id": "c",
+                "texto": "Codificació temporal basada en fft (fast Fourier transform)."
+              },
+              {
+                "id": "d",
+                "texto": "Codificació basada en models (model-based coding)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-56",
+            "enunciado": "En MPEG-4, un sprite es defineix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "com la reconstrucció d'un objecte a partir de predicció bidireccional."
+              },
+              {
+                "id": "b",
+                "texto": "com la reconstrucció d'una escena a partir de predicció bidireccional."
+              },
+              {
+                "id": "c",
+                "texto": "com la reconstrucció del conjunt d'objectes d'una escena (foreground) a partir de predicció bidireccional."
+              },
+              {
+                "id": "d",
+                "texto": "com la reconstrucció del fons d'una escena (bakground) a partir de predicció bidireccional."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-57",
+            "enunciado": "La codificació de forma en MPEG-4 (shape coding)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "implica l'aplicació de DCT només als blocs continguts dintre de la forma de l'objecte."
+              },
+              {
+                "id": "b",
+                "texto": "implica l'aplicació de compensació basada en moviment al error entre la forma de l'objecte al video object plane (VOP) actual i la forma del VOP futur."
+              },
+              {
+                "id": "c",
+                "texto": "implica l'aplicació de compensació basada en anàlisi de malla (mesh) entre la forma de l'objecte al video object plane (VOP) actual i la forma del VOP futur."
+              },
+              {
+                "id": "d",
+                "texto": "implica l'aplicació de anàlisi error de forma basada en textural entre la forma de l'objecte al video object plane (VOP) actual i la forma del VOP futur."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-58",
+            "enunciado": "La tècnica de partició de dades (data partitioning) en MPEG-4 permet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "reduir l'impacte dels errors al separar la informació de moviment i la informació de textura."
+              },
+              {
+                "id": "b",
+                "texto": "reduir l'impacte dels errors al introduir en el bit stream marques de sincronia cada que separen la informació en conjunts de igual nombre de macroblocks."
+              },
+              {
+                "id": "c",
+                "texto": "reduir l'impacte dels errors al dividir les dades en seccions semànticament semblants."
+              },
+              {
+                "id": "d",
+                "texto": "reduir l'impacte dels errors al dividir en dos tipus diferents els coeficients de la DCT: AC |"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-59",
+            "enunciado": "En MPEG-7, un esquema de descripció (DS) pot consistir en",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un conjunt de descriptors."
+              },
+              {
+                "id": "b",
+                "texto": "Un conjunt de descriptors i altres esquemes de descripció."
+              },
+              {
+                "id": "c",
+                "texto": "Una codificació wavelet de la textura descriptiva de l'objecte de video (VO)."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-60",
+            "enunciado": "La metadada obtinguda mitjançant les interficies MPEG-7",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No està integrada en el vídeo, però serveix per fer accessos aleatoris a frames."
+              },
+              {
+                "id": "b",
+                "texto": "Està integrada en els sistemes de codificació de vídeo i permet la codificació eficient del contingut multimèdia."
+              },
+              {
+                "id": "c",
+                "texto": "Està integrada en el software del decodificador (decoder) de manera exclusiva, ja que l'estàndard no defineix el codificador (coder)."
+              },
+              {
+                "id": "d",
+                "texto": "Està integrada en el bitstream del vídeo, però no serveix per accessos aleatoris a frames."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-61",
+            "enunciado": "El llenguatge de marques extensible (Extensible markup language, XML)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Pot definir continguts, però no el seu aspecte."
+              },
+              {
+                "id": "b",
+                "texto": "Pot definir aspecte, però no contiguts."
+              },
+              {
+                "id": "c",
+                "texto": "Es fa servir com a un sistema gestor de bases de dades."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-62",
+            "enunciado": "Un fitxer xsl",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Proporciona una plantilla html per a la visualització de dades."
+              },
+              {
+                "id": "b",
+                "texto": "Proporciona un model de transformació de la informació al fitxer d'xml."
+              },
+              {
+                "id": "c",
+                "texto": "Proporciona una vista de les metadades que es implementable des d'una base de dades externa."
+              },
+              {
+                "id": "d",
+                "texto": "Proporciona les metadades."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-63",
+            "enunciado": "En un document de LaTex, el format",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "està definit en un fitxer d'estil."
+              },
+              {
+                "id": "b",
+                "texto": "el defineix l'usuari afegint-hi etiquetes."
+              },
+              {
+                "id": "c",
+                "texto": "no es pot canviar, ja que és sempre estàndard."
+              },
+              {
+                "id": "d",
+                "texto": "es funció de la distribució i el sistema operatiu."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "test-sm-3",
+        "titulo": "EXAMEN 2015",
+        "descripcion": "Preguntas de EXAMEN 2015",
+        "preguntas": [
+          {
+            "id": "q-sm-64",
+            "enunciado": "Des del punt de vista de la percepció humana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tothom tenim els mateixos llindars."
+              },
+              {
+                "id": "b",
+                "texto": "Els llindars depenen dels dispositius de visualització."
+              },
+              {
+                "id": "c",
+                "texto": "Els llindars depenen del sistema de compressió."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-65",
+            "enunciado": "Des del punt de vista de la percepció humana:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Luminància i crominància tenen nivells de definició semblants."
+              },
+              {
+                "id": "b",
+                "texto": "Els éssers humans som menys sensibles a detalls en la luminància."
+              },
+              {
+                "id": "c",
+                "texto": "Els éssers humans som menys sensibles a detalls en la crominància."
+              },
+              {
+                "id": "d",
+                "texto": "La luminància i la crominància defineixen fenòmens diferents amb llindars de detall no comparables."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-66",
+            "enunciado": "En el format de mostreig de croma, 4:2:0 implica amb respecte a la definició de luminància:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La meitat de definició de croma a nivell horitzontal i un quart a nivell vertical."
+              },
+              {
+                "id": "b",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 verticalment."
+              },
+              {
+                "id": "c",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 horitzontalment i també vertical."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-67",
+            "enunciado": "En un codificador (encoder) JPEG lossy, la part de pèrdua hi es:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Al mòdul de mapeig símbol a codi (symbol to code mapping)."
+              },
+              {
+                "id": "b",
+                "texto": "Al mòdul de quantització."
+              },
+              {
+                "id": "c",
+                "texto": "Enlloc"
+              },
+              {
+                "id": "d",
+                "texto": "A cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-68",
+            "enunciado": "Quina afirmació es falsa: En un codificador (encoder) JPEG-lossless:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La idea principal es fer servir els veïns d'un píxel per avançar el seu valor i així codificar l'aproximació."
+              },
+              {
+                "id": "b",
+                "texto": "La idea principal es fer servir els veïns d'un píxel per avançar el seu valor i així codificar l'error."
+              },
+              {
+                "id": "c",
+                "texto": "La idea principal es fer servir us sistema que impliqui una quantificació de l'error."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-69",
+            "enunciado": "JPEG lossy fa servir anàlisi de wavelet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Per a la codificació de textura."
+              },
+              {
+                "id": "b",
+                "texto": "Per a la codificació de Hauffmann."
+              },
+              {
+                "id": "c",
+                "texto": "Per a la codificació de luminància, però no per a la crominància."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-70",
+            "enunciado": "La codificació de coeficients de la DCT en progressiu",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Comença afegint els coeficients amb més detall (els més rellevants), i progressivament afegeix coeficients amb menys detall."
+              },
+              {
+                "id": "b",
+                "texto": "Comença afegint els coeficients amb menys detall i progressivament afegeix coeficients amb més detall."
+              },
+              {
+                "id": "c",
+                "texto": "Afegeix progressivament els slices de cada frame."
+              },
+              {
+                "id": "d",
+                "texto": "Comença afegint el coeficient DC, després els coeficients parells, i després els senars (o viceversa)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-71",
+            "enunciado": "En què consisteix el baseline d'un estàndard de codificació d'imatge o vídeo?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada encoder i cada decoder."
+              },
+              {
+                "id": "b",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada encoder , però no necessàriament el decoder"
+              },
+              {
+                "id": "c",
+                "texto": "És un cojunt opcional de normes que pot està associat a la configuració bàsica del decoder."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-72",
+            "enunciado": "Al JPEG es possible fer control del nivell de quantització?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sí, si el manufacturer decideix aplicar un nou sistema de quantització al marge del baseline."
+              },
+              {
+                "id": "b",
+                "texto": "Si, amb un factor d'escala que modifica els coeficients de quantització."
+              },
+              {
+                "id": "c",
+                "texto": "No, perquè les taules de quantització no són modificables."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-73",
+            "enunciado": "El JPEG lossy és part del conjunt d'estàndards:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "ISO 10918-1,2,3"
+              },
+              {
+                "id": "b",
+                "texto": "ISO 10924-1,2,3"
+              },
+              {
+                "id": "c",
+                "texto": "ISO 10936-1,2,3"
+              },
+              {
+                "id": "d",
+                "texto": "Cap dels anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-74",
+            "enunciado": "Quina afirmació es correcta; El coeficient [0,0] de la DCT:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "És codificat per separat de la resta de coeficients després d'aplicar una taula de quantització específica."
+              },
+              {
+                "id": "b",
+                "texto": "És codificat per separat de la resta de coeficients a partir dels bits més significatius."
+              },
+              {
+                "id": "c",
+                "texto": "És codificat de manera normal amb la resta de coeficients."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-75",
+            "enunciado": "El coeficient [0,0] de la DCT pot ser interpretat com:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El nivell de textura màxima de cada bloc."
+              },
+              {
+                "id": "b",
+                "texto": "Un indicador de la quantitat de detall que hi trobem, a cada bloc."
+              },
+              {
+                "id": "c",
+                "texto": "Un indicador de la complexitat de la textura de cada bloc."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-76",
+            "enunciado": "Els coeficients AC de la DCT dintre de l'estàndard JPEG",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Són codificats de manera diferencial amb el DC."
+              },
+              {
+                "id": "b",
+                "texto": "Són codificats de manera seqüencial per files i columnes."
+              },
+              {
+                "id": "c",
+                "texto": "És possible triar el modus de codificació, per files, o en ziga-zaga."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-77",
+            "enunciado": "Què és el JND?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un valor definit de manera teòrica el qual indica a partir de quin valor la reconstrucció de la imatge estarà perceptualment lliure de distorsió."
+              },
+              {
+                "id": "b",
+                "texto": "Un valor definit de manera experimental el qual indica a partir de quin valor el MSE de la imatge codificada supera uns llindars acceptables de qualitat."
+              },
+              {
+                "id": "c",
+                "texto": "Un valor definit de manera experimental el qual indica a partir de quin valor la reconstrucció de la imatge estarà perceptualment lliure de distorsió."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-78",
+            "enunciado": "En el modus jeràrquic de codificació",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "la resolució més alta pot ser codificada de manera seqüencial i les més altes de manera diferencial."
+              },
+              {
+                "id": "b",
+                "texto": "totes les resolucions són codificades de manera diferencial."
+              },
+              {
+                "id": "c",
+                "texto": "la resolució més baixa pot ser codificada de manera seqüencial i les més altes de manera diferencial."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-79",
+            "enunciado": "Al codificador d'entropia:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Símbols menys freqüents tenen associades paraules de més bits."
+              },
+              {
+                "id": "b",
+                "texto": "Símbols més freqüents tenen associades paraules de menys bits."
+              },
+              {
+                "id": "c",
+                "texto": "Tots els símbols són codificats amb el mateix nombre de bits."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-80",
+            "enunciado": "Al codificador d'entropia:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El paràmetre Q es permet modular el compression rate."
+              },
+              {
+                "id": "b",
+                "texto": "El paràmetre Q es permet modular el bit rate."
+              },
+              {
+                "id": "c",
+                "texto": "El paràmetre Q es permet modular el quality rate."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-81",
+            "enunciado": "La codificació aritmètica",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Forma part del quantitzador de coeficients de la DCT."
+              },
+              {
+                "id": "b",
+                "texto": "No està prevista en JPG."
+              },
+              {
+                "id": "c",
+                "texto": "Permet una compressió amb loosy eficient en el mòdul de VLC."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-82",
+            "enunciado": "Una de les estratègies bàsiques dintre de la codificació del VLC és",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Definir un símbol per totes les cadenes de valors iguals."
+              },
+              {
+                "id": "b",
+                "texto": "Definir un símbol només per a les cadenes de números grans."
+              },
+              {
+                "id": "c",
+                "texto": "Definir un símbol només per a les cadenes de zeros."
+              },
+              {
+                "id": "d",
+                "texto": "Definir un símbol per a les cadenes números petits."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-83",
+            "enunciado": "Al vídeo:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La redundància estadística només té una component temporal."
+              },
+              {
+                "id": "b",
+                "texto": "La redundància estadística només té una component espacial."
+              },
+              {
+                "id": "c",
+                "texto": "La redundància estadística té una component espacial i una altra de temporal."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-84",
+            "enunciado": "Al model generalitzat de compressió de vídeo:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Es codifica la predicció inter-frame sempre que bit-rate sigui alt."
+              },
+              {
+                "id": "b",
+                "texto": "Es codifica la predicció inter-frame sempre que Q-parameter sigui alt"
+              },
+              {
+                "id": "c",
+                "texto": "Es codifica la predicció inter-frame sempre, amb independència del bit-rate i el Qparameter."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-85",
+            "enunciado": "MPEG-4 defineix l'estàndard de codificació:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "H.261"
+              },
+              {
+                "id": "b",
+                "texto": "H.263"
+              },
+              {
+                "id": "c",
+                "texto": "H.264"
+              },
+              {
+                "id": "d",
+                "texto": "Cap dels estàndards anteriors són part de l'especificació MPEG-4."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-86",
+            "enunciado": "A l'estàndard MPEG-1",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La codificació dels frames es pot fer a partir de dos models diferents de predicció."
+              },
+              {
+                "id": "b",
+                "texto": "La codificació dels frames es fa a partir d'un model únic predicció."
+              },
+              {
+                "id": "c",
+                "texto": "La codificació dels frames es fa fer a partir d'un model sense predicció."
+              },
+              {
+                "id": "d",
+                "texto": "Cap dels estàndards anteriors són part de l'especificació MPEG-1."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-87",
+            "enunciado": "Block-matching permet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "L'assignació de vectors de moviment a blocs."
+              },
+              {
+                "id": "b",
+                "texto": "L'assignació de vectors de moviment a macroblocs."
+              },
+              {
+                "id": "c",
+                "texto": "L'assignació de vectors de moviment a slices."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-88",
+            "enunciado": "Dintre del bit-stream MPEG-1",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Establim la recuperació de sincronia a partir de headers."
+              },
+              {
+                "id": "b",
+                "texto": "Establim la recuperació de sincronia a partir de sync controlers en el decoder."
+              },
+              {
+                "id": "c",
+                "texto": "Establim la recuperació de sincronia a partir de clear words."
+              },
+              {
+                "id": "d",
+                "texto": "Establim la recuperació de sincronia a partir de les taules de decodificació de codificador d'entropia."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-89",
+            "enunciado": "Dintre de l'estàndard MPEG-2",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els profiles defineixen el nivell màxim de qualitat d'una aplicació."
+              },
+              {
+                "id": "b",
+                "texto": "Els profiles defineixen el nivell mínim de qualitat d'una aplicació."
+              },
+              {
+                "id": "c",
+                "texto": "Els profiles defineixen el nivell promig de qualitat d'una aplicació."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-90",
+            "enunciado": "Quin de les següents eines no està definida a l'estàndard MPG-4",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "DCT."
+              },
+              {
+                "id": "b",
+                "texto": "Wavelet."
+              },
+              {
+                "id": "c",
+                "texto": "Local binary patterns."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-91",
+            "enunciado": "Una de les estratègies de codificació eficaç d'objectes multimèdia a MPEG-4 consisteix en:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codificar la textura dels objectes per separat i exclusivament amb wavelets de cara a optimitzar la compressió."
+              },
+              {
+                "id": "b",
+                "texto": "Codificar la forma dels objectes per separat a partir de l' aplicació de local binar patterns."
+              },
+              {
+                "id": "c",
+                "texto": "Codificar el background per separat."
+              },
+              {
+                "id": "d",
+                "texto": "Codificar exclusivament la luminància, deixant la part cromàtica sense codificar."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-92",
+            "enunciado": "A partir de la definició de l'estàndar MPG-7",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Podem descriure la forma dels objectes a partir de Fourier descriptors."
+              },
+              {
+                "id": "b",
+                "texto": "Podem descriure la textura dels objectes a partir de mesh coding."
+              },
+              {
+                "id": "c",
+                "texto": "Podem descriure el color dels objectes a partir de DCT."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-93",
+            "enunciado": "L'estàndard MPEG-21",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Adreça la organització de les dades a sistemes de magatzematge."
+              },
+              {
+                "id": "b",
+                "texto": "Adreça l'accés a les dades en sistemes de video retrieval."
+              },
+              {
+                "id": "c",
+                "texto": "Adreça els drets d'autor de les dades."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "test-sm-4",
+        "titulo": "EXAMEN 2016",
+        "descripcion": "Preguntas de EXAMEN 2016",
+        "preguntas": [
+          {
+            "id": "q-sm-94",
+            "enunciado": "Des del punt de vista de la percepció humana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els éssers humans som més sensibles a detalls en la crominància."
+              },
+              {
+                "id": "b",
+                "texto": "Luminància i crominància tenen nivells de definició semblants."
+              },
+              {
+                "id": "c",
+                "texto": "Els éssers humans som més sensibles a detalls en la luminància."
+              },
+              {
+                "id": "d",
+                "texto": "La luminància i la crominància defineixen fenòmens diferents amb llindars de detall no comparables."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-95",
+            "enunciado": "El coeficient AC de la transformada DCT codifica",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El canvi a nivell de textura al block."
+              },
+              {
+                "id": "b",
+                "texto": "El valor promig dels valors del macroblock."
+              },
+              {
+                "id": "c",
+                "texto": "El valor promig dels valors del block."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-96",
+            "enunciado": "Al bit stream JPEG lossy",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tenim les taules de decodificació."
+              },
+              {
+                "id": "b",
+                "texto": "Tenim les taules de quantització."
+              },
+              {
+                "id": "c",
+                "texto": "Tenim les taules de decodificació i de quantització."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-97",
+            "enunciado": "A MPEG-7, l'esquema de descripció (DS) pot consistir en",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Altres DS i/o un conjunt de descriptors."
+              },
+              {
+                "id": "b",
+                "texto": "Només altres DS."
+              },
+              {
+                "id": "c",
+                "texto": "Només un conjunt de descriptors (D)."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-98",
+            "enunciado": "A MPEG-2 un profile permet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Definir el nivell de qualitat de l'aplicació."
+              },
+              {
+                "id": "b",
+                "texto": "Definir el nombre d'usuaris màxims concurrents."
+              },
+              {
+                "id": "c",
+                "texto": "El tipus d'aplicació."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-99",
+            "enunciado": "La codificació MPEG-2 permet predicció basada en compensació de moviment (motioncompensated prediction)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "A nivell de frame de manera exclusiva"
+              },
+              {
+                "id": "b",
+                "texto": "A nivell de camp (field) de manera exclusiva"
+              },
+              {
+                "id": "c",
+                "texto": "A nivell de frame i de camp (field) indistintament."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors tècniques estan definides a l'estàndard per a la compensació de moviment."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-100",
+            "enunciado": "Els mòdul de mapeig símbol a codi (symbol to code mapping)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Implementa un equalització eficient basada en els llindars visuals humans."
+              },
+              {
+                "id": "b",
+                "texto": "Permet una implementació eficient del codificador de longitud variable (VLC)."
+              },
+              {
+                "id": "c",
+                "texto": "No és inclòs dintre del model MPEG-2."
+              },
+              {
+                "id": "d",
+                "texto": "A cap dels anteriors llocs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-101",
+            "enunciado": "A on no es troba la part de pèrdua en un codificador (encoder) JPEG-lossy:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Al mòdul de la transformada DCT."
+              },
+              {
+                "id": "b",
+                "texto": "Al mòdul de codificació en longitud variable (VLC)."
+              },
+              {
+                "id": "c",
+                "texto": "Al mòdul de mapeig símbol a codi (symbol to code mapping)."
+              },
+              {
+                "id": "d",
+                "texto": "No hi ha pèrdua a cap de les anteriors etapes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-102",
+            "enunciado": "Els frames I d'un bitstream d'MPEG-1:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codifiquen la informació inter-frame."
+              },
+              {
+                "id": "b",
+                "texto": "Codifiquen la informació intra-frame."
+              },
+              {
+                "id": "c",
+                "texto": "Codifiquen la informació de moviment."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-103",
+            "enunciado": "A MPEG-1 el block matching es implementat",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Com a part del mòdul de quantització."
+              },
+              {
+                "id": "b",
+                "texto": "Com a part del mòdul de compensació de moviment."
+              },
+              {
+                "id": "c",
+                "texto": "Com a part del mòdul de codificació en longitud variable."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-104",
+            "enunciado": "Al bit stream d'un document MPEG-1, els frames B.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codifiquen la predicció a partir d'una estimació bidireccional (bi-directional prediction)."
+              },
+              {
+                "id": "b",
+                "texto": "Codifiquen la predicció a partir d'una estimació cap endavant (forward prediction)."
+              },
+              {
+                "id": "c",
+                "texto": "No codifiquen predicció."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-105",
+            "enunciado": "En què consisteix el baseline d'un estàndard de codificació d'imatge o vídeo?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada encoder."
+              },
+              {
+                "id": "b",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada decoder."
+              },
+              {
+                "id": "c",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada encoder i decoder."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-106",
+            "enunciado": "L´MPEG-4 implementa la següent aproximació per la definició d'objectes que es deformen a partir de la textura:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Local Binary Patterns."
+              },
+              {
+                "id": "b",
+                "texto": "Mesh Grid."
+              },
+              {
+                "id": "c",
+                "texto": "Textons."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-107",
+            "enunciado": "Des del punt de vista de la percepció humana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les condicions de lluminositat no influeixen en el detall percebut."
+              },
+              {
+                "id": "b",
+                "texto": "El nombre de cèl.lules receptores es constant en tots els éssers humans i els seus llindars també."
+              },
+              {
+                "id": "c",
+                "texto": "La informació de crominància percebuda és invariable a les condicions de lluminositat."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-108",
+            "enunciado": "El frame D d'un bitstream MPEG-1 permet:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codificar de manera bidireccional."
+              },
+              {
+                "id": "b",
+                "texto": "Codificar el moviment ."
+              },
+              {
+                "id": "c",
+                "texto": "Codificar una versió simplificada de la imatge."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-109",
+            "enunciado": "En MPEG-4, un sprite es defineix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "com la reconstrucció d'un objecte a partir de predicció bidireccional."
+              },
+              {
+                "id": "b",
+                "texto": "com la reconstrucció d'una escena a partir de predicció bidireccional."
+              },
+              {
+                "id": "c",
+                "texto": "com la reconstrucció del conjunt d'objectes d'una escena (foreground) a partir de predicció bidireccional."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-110",
+            "enunciado": "La codificació d'objectes basada en grafs (graph object coding) es pròpia de",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "MPEG-1."
+              },
+              {
+                "id": "b",
+                "texto": "MPEG-2."
+              },
+              {
+                "id": "c",
+                "texto": "MPEG-4."
+              },
+              {
+                "id": "d",
+                "texto": "MEPG-7."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-111",
+            "enunciado": "En el format de mostreig de croma, 4:2:0 implica amb respecta a la definició de luminància:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 verticalment."
+              },
+              {
+                "id": "b",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 horitzontalment i també vertical."
+              },
+              {
+                "id": "c",
+                "texto": "La meitat de definició de croma a nivell horitzontal i un quart a nivell vertical."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-112",
+            "enunciado": "En un document LaTeX, el fitxer .tex",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Defineix els packages d'estil."
+              },
+              {
+                "id": "b",
+                "texto": "Conté la sortida postcrip."
+              },
+              {
+                "id": "c",
+                "texto": "Defineix el contingut del document."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-113",
+            "enunciado": "L'escalabilitat dintre del format de vídeo MPEG-2 a nivell de SNR permet:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Diversos bit rates."
+              },
+              {
+                "id": "b",
+                "texto": "Diverses qualitats de visualització."
+              },
+              {
+                "id": "c",
+                "texto": "Diversos formats de visualització."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-114",
+            "enunciado": "L'estimació a partir d'una predicció del valor de píxel en funció dels veïns més propers es propia de",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "JPEG lossy."
+              },
+              {
+                "id": "b",
+                "texto": "JPEG lossless."
+              },
+              {
+                "id": "c",
+                "texto": "MPEG-1."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-115",
+            "enunciado": "En un codificador (encoder) JPEG lossy, el paràmetre q permet,",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Modular el bit rate."
+              },
+              {
+                "id": "b",
+                "texto": "Modular el nivell de quantització."
+              },
+              {
+                "id": "c",
+                "texto": "Modular el les taules del codificador de longitud variable (VLC)."
+              },
+              {
+                "id": "d",
+                "texto": "A cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-116",
+            "enunciado": "JPEG lossy-baseline fa servir anàlisi de Fourier",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Per a la codificació de Hauffmann."
+              },
+              {
+                "id": "b",
+                "texto": "Per a la codificació de luminància, però no per a la crominància."
+              },
+              {
+                "id": "c",
+                "texto": "Per a la codificació de textura."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-117",
+            "enunciado": "En el modus seqüencial implica",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Carregar a nivell de bit cada coeficient AC-DCT"
+              },
+              {
+                "id": "b",
+                "texto": "Carregar a nivell de block cada coeficient AC-DCT."
+              },
+              {
+                "id": "c",
+                "texto": "Carregar tots els macroblocks de cop."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-118",
+            "enunciado": "Al codificador d'entropia:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Símbols més freqüents tenen associades paraules de més bits."
+              },
+              {
+                "id": "b",
+                "texto": "Símbols més freqüents tenen associades paraules de menys bits."
+              },
+              {
+                "id": "c",
+                "texto": "Tots els símbols són codificats amb el mateix nombre de bits."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-119",
+            "enunciado": "MPEG-2 defineix com a target application:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "CD."
+              },
+              {
+                "id": "b",
+                "texto": "DVD."
+              },
+              {
+                "id": "c",
+                "texto": "Analog SECAM-TV."
+              },
+              {
+                "id": "d",
+                "texto": "Cap dels estàndards anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-120",
+            "enunciado": "Quin de les següents eines no està definida a l'estàndard MPG-4",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "DCT."
+              },
+              {
+                "id": "b",
+                "texto": "Wavelet."
+              },
+              {
+                "id": "c",
+                "texto": "Convolutional Neural Networks (CNN)."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-121",
+            "enunciado": "L'estàndard MPEG-7 implementa",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El seu DDL a partir d'un esquema XML."
+              },
+              {
+                "id": "b",
+                "texto": "El seu Descriptor a partir d'un esquema XML."
+              },
+              {
+                "id": "c",
+                "texto": "El seu Description Scheme a partir d'un esquema XML."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "test-sm-5",
+        "titulo": "EXAMEN 2018",
+        "descripcion": "Preguntas de EXAMEN 2018",
+        "preguntas": [
+          {
+            "id": "q-sm-122",
+            "enunciado": "Des del punt de vista de la percepció humana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els éssers humans som més sensibles a detalls en la crominància."
+              },
+              {
+                "id": "b",
+                "texto": "Els éssers humans som més sensibles a detalls en la luminància."
+              },
+              {
+                "id": "c",
+                "texto": "Luminància i crominància tenen nivells de definició semblants."
+              },
+              {
+                "id": "d",
+                "texto": "La luminància i la crominància defineixen fenòmens diferents amb llindars de detall no comparables."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-123",
+            "enunciado": "El coeficient DC de la transformada DCT codifica",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El canvi a nivell de textura al block."
+              },
+              {
+                "id": "b",
+                "texto": "El valor promig dels valors del macroblock."
+              },
+              {
+                "id": "c",
+                "texto": "El valor promig dels valors del block."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-124",
+            "enunciado": "Al bit stream JPEG lossy no temim",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les fórmules de la transformada DCT."
+              },
+              {
+                "id": "b",
+                "texto": "Les taules de decodificació."
+              },
+              {
+                "id": "c",
+                "texto": "Tenim les taules de quantització."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-125",
+            "enunciado": "A MPEG-7, l'esquema de descripció (DS) pot consistir en",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només altres DS."
+              },
+              {
+                "id": "b",
+                "texto": "Només un conjunt de descriptors (D)."
+              },
+              {
+                "id": "c",
+                "texto": "Altres DS i/o un conjunt de descriptors."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-126",
+            "enunciado": "Quin dels següents descriptors no entra a l'estàndard MPEG-7",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perimeter."
+              },
+              {
+                "id": "b",
+                "texto": "Area"
+              },
+              {
+                "id": "c",
+                "texto": "Number of zero AC coefficients."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-127",
+            "enunciado": "A MPEG-2 un profile permet",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El tipus d'aplicació."
+              },
+              {
+                "id": "b",
+                "texto": "El nivell de qualitat de l'aplicació."
+              },
+              {
+                "id": "c",
+                "texto": "El nombre d'usuaris màxims concurrents."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-128",
+            "enunciado": "La codificació MPEG-2 permet predicció basada en compensació de moviment (motioncompensated prediction)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "A nivell de frame de manera exclusiva"
+              },
+              {
+                "id": "b",
+                "texto": "A nivell de camp (field) de manera exclusiva"
+              },
+              {
+                "id": "c",
+                "texto": "A nivell de frame i de camp (field) indistintament."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors tècniques estan definides a l'estàndard per a la compensació de moviment."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-129",
+            "enunciado": "Els mòdul de mapeig símbol a codi (symbol to code mapping)",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Permet una implementació eficient del codificador de longitud variable (VLC)."
+              },
+              {
+                "id": "b",
+                "texto": "Implementa un equalització eficient basada en els llindars visuals humans."
+              },
+              {
+                "id": "c",
+                "texto": "No és inclòs dintre del model MPEG-2."
+              },
+              {
+                "id": "d",
+                "texto": "A cap dels anteriors llocs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-130",
+            "enunciado": "A on no es troba la part de pèrdua en un codificador (encoder) JPEG-lossy:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Al mòdul de la transformada DCT."
+              },
+              {
+                "id": "b",
+                "texto": "Al mòdul de codificació en longitud variable (VLC)."
+              },
+              {
+                "id": "c",
+                "texto": "Al mòdul de mapeig símbol a codi (symbol to code mapping)."
+              },
+              {
+                "id": "d",
+                "texto": "No hi ha pèrdua a cap de les anteriors etapes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-131",
+            "enunciado": "Els frames P d'un bitstream d'MPEG-1:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codifiquen la informació inter-frame."
+              },
+              {
+                "id": "b",
+                "texto": "Codifiquen la informació intra-frame."
+              },
+              {
+                "id": "c",
+                "texto": "Codifiquen la informació de moviment."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-132",
+            "enunciado": "A JPEG el block matching es implementat",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Com a part del mòdul de quantització."
+              },
+              {
+                "id": "b",
+                "texto": "Com a part del mòdul de compensació de moviment."
+              },
+              {
+                "id": "c",
+                "texto": "Com a part del mòdul de codificació en longitud variable."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-133",
+            "enunciado": "Al bit stream d'un document MPEG-1, els frames B.",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Codifiquen la predicció a partir d'una estimació bidireccional (bi-directional prediction)."
+              },
+              {
+                "id": "b",
+                "texto": "Codifiquen la predicció a partir d'una estimació cap endavant (forward prediction)."
+              },
+              {
+                "id": "c",
+                "texto": "No codifiquen predicció."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-134",
+            "enunciado": "En què consisteix el baseline d'un estàndard de codificació d'imatge o vídeo?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada encoder."
+              },
+              {
+                "id": "b",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada decoder."
+              },
+              {
+                "id": "c",
+                "texto": "És un conjunt obligatori de normes que ha de complir cada encoder i decoder."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-135",
+            "enunciado": "L´MPEG-4 implementa la següent aproximació per la definició d'objectes que es deformen a partir de la textura:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Local Binary Patterns."
+              },
+              {
+                "id": "b",
+                "texto": "Textons."
+              },
+              {
+                "id": "c",
+                "texto": "Mesh Grid."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-136",
+            "enunciado": "Des del punt de vista de la percepció humana",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les condicions de lluminositat no influeixen en el detall percebut."
+              },
+              {
+                "id": "b",
+                "texto": "El nombre de cèl.lules receptores es constant en tots els éssers humans i els seus llindars també."
+              },
+              {
+                "id": "c",
+                "texto": "La informació de crominància percebuda és invariable a les condicions de lluminositat."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-137",
+            "enunciado": "El frame D d'un bitstream MPEG-1 permet:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Accedir de manera ràpida a una versió reduïda del frame."
+              },
+              {
+                "id": "b",
+                "texto": "Codificar de manera eficient el moviment."
+              },
+              {
+                "id": "c",
+                "texto": "Encapsular la textura amb el mínim valor de pèrdua possible."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-138",
+            "enunciado": "En MPEG-4, un sprite es defineix",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "com la reconstrucció d'un objecte a partir de predicció bidireccional."
+              },
+              {
+                "id": "b",
+                "texto": "com la reconstrucció d'una escena a partir de predicció bidireccional."
+              },
+              {
+                "id": "c",
+                "texto": "com la reconstrucció del conjunt d'objectes d'una escena (foreground) a partir de predicció bidireccional."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-139",
+            "enunciado": "La codificació d'objectes basada en grafs (graph object coding) es pròpia de",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "MPEG-1."
+              },
+              {
+                "id": "b",
+                "texto": "MPEG-2."
+              },
+              {
+                "id": "c",
+                "texto": "MEPG-7."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-140",
+            "enunciado": "En el format de mostreig de croma, 4:2:0 implica amb respecta a la definició de luminància:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 verticalment."
+              },
+              {
+                "id": "b",
+                "texto": "La meitat de definició de croma a nivell horitzontal i un quart a nivell vertical."
+              },
+              {
+                "id": "c",
+                "texto": "Cr i Cb estan subsamplejats en un factor 2 horitzontalment i també vertical."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-141",
+            "enunciado": "L'estimació a partir d'una predicció del valor de píxel en funció dels veïns més propers es propia de",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "JPEG lossy."
+              },
+              {
+                "id": "b",
+                "texto": "JPEG lossless."
+              },
+              {
+                "id": "c",
+                "texto": "MPEG-1."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-142",
+            "enunciado": "En un codificador (encoder) JPEG lossy, el paràmetre q permet,",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Modular el bit rate."
+              },
+              {
+                "id": "b",
+                "texto": "Modular el les taules del codificador de longitud variable (VLC)."
+              },
+              {
+                "id": "c",
+                "texto": "Modular el nivell de quantització."
+              },
+              {
+                "id": "d",
+                "texto": "A cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-143",
+            "enunciado": "JPEG lossy-baseline fa servir anàlisi de Wavelets",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Per a la codificació de Hauffmann."
+              },
+              {
+                "id": "b",
+                "texto": "Per a la codificació de luminància, però no per a la crominància."
+              },
+              {
+                "id": "c",
+                "texto": "Per a la codificació de textura."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-sm-144",
+            "enunciado": "En el modus progressiu implica",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Carregar a nivell de grups de bits cada coeficient AC-DCT"
+              },
+              {
+                "id": "b",
+                "texto": "Carregar a nivell de block cada coeficient AC-DCT."
+              },
+              {
+                "id": "c",
+                "texto": "Carregar tots els macroblocks de cop."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-145",
+            "enunciado": "Al codificador d'entropia:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Símbols menys freqüents tenen associades paraules de més bits."
+              },
+              {
+                "id": "b",
+                "texto": "Símbols menys freqüents tenen associades paraules de menys bits."
+              },
+              {
+                "id": "c",
+                "texto": "Tots els símbols són codificats amb el mateix nombre de bits."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-146",
+            "enunciado": "MPEG-2 defineix com a target application:",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "CD."
+              },
+              {
+                "id": "b",
+                "texto": "Analog SECAM-TV."
+              },
+              {
+                "id": "c",
+                "texto": "DVD."
+              },
+              {
+                "id": "d",
+                "texto": "Cap dels estàndards anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-147",
+            "enunciado": "Quin de les següents eines no està definida a l'estàndard MPG-4",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "DCT."
+              },
+              {
+                "id": "b",
+                "texto": "Wavelet."
+              },
+              {
+                "id": "c",
+                "texto": "Convolutional Neural Networks (CNN)."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-sm-148",
+            "enunciado": "L'estàndard MPEG-7 implementa",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El seu DDL a partir d'un esquema XML."
+              },
+              {
+                "id": "b",
+                "texto": "El seu Descriptor a partir d'un esquema XML."
+              },
+              {
+                "id": "c",
+                "texto": "El seu Description Scheme a partir d'un esquema XML."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-149",
+            "enunciado": "Els coeficients AC de la transformada DCT codifiquen",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El canvi a nivell de textura al block."
+              },
+              {
+                "id": "b",
+                "texto": "El canvi a nivell de textura al macroblock."
+              },
+              {
+                "id": "c",
+                "texto": "El valor promig dels valors del block."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-sm-150",
+            "enunciado": "En un document LaTeX",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les etiquetes són sempre les mateixes"
+              },
+              {
+                "id": "b",
+                "texto": "Podem definir les notres pròpies etiquetes"
+              },
+              {
+                "id": "c",
+                "texto": "Hi ha diversos estils i etiquetes, però l'usuari no pot definir-ne de noves."
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-sm-151",
+            "enunciado": "En un document LaTeX, el fitxer .sty inclou",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La definició de les fórmules matemàtiques"
+              },
+              {
+                "id": "b",
+                "texto": "La definició de totes les etiquetes."
+              },
+              {
+                "id": "c",
+                "texto": "La definició de la plantilla d'estil"
+              },
+              {
+                "id": "d",
+                "texto": "Cap de les anteriors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
