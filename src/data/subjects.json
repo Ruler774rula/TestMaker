@@ -9097,7 +9097,7 @@
               },
               {
                 "id": "d",
-                "texto": "es funció de la distribució i el sistema operatiu. ## **2015"
+                "texto": "es funció de la distribució i el sistema operatiu."
               }
             ],
             "respuestaCorrecta": [
@@ -9877,7 +9877,7 @@
               },
               {
                 "id": "d",
-                "texto": "Cap de les anteriors. ## **2011"
+                "texto": "Cap de les anteriors."
               }
             ],
             "respuestaCorrecta": [
@@ -10657,7 +10657,7 @@
               },
               {
                 "id": "d",
-                "texto": "Depèn del software que es faci servir. ## **2016"
+                "texto": "Depèn del software que es faci servir."
               }
             ],
             "respuestaCorrecta": [
@@ -11161,23 +11161,28 @@
           {
             "id": "q-sm-113",
             "enunciado": "L'escalabilitat dintre del format de vídeo MPEG-2 a nivell de SNR permet:",
-            "tipo": "unica",
+            "tipo": "multiple",
             "opciones": [
               {
                 "id": "a",
-                "texto": "Diversos bit rates. **b) Diverses qualitats de visualització."
+                "texto": "Diversos bit rates."
               },
               {
                 "id": "b",
-                "texto": "Diversos formats de visualització."
+                "texto": "Diverses qualitats de visualització."
               },
               {
                 "id": "c",
+                "texto": "Diversos formats de visualització."
+              },
+              {
+                "id": "d",
                 "texto": "Cap de les anteriors."
               }
             ],
             "respuestaCorrecta": [
-              "a"
+              "a",
+              "b"
             ]
           },
           {
@@ -11381,7 +11386,7 @@
               },
               {
                 "id": "d",
-                "texto": "Cap de les anteriors. ## **2018 (1–15)"
+                "texto": "Cap de les anteriors."
               }
             ],
             "respuestaCorrecta": [
@@ -12161,7 +12166,7 @@
               },
               {
                 "id": "d",
-                "texto": "Cap de les anteriors. ## **EXAMEN MOSTRA"
+                "texto": "Cap de les anteriors."
               }
             ],
             "respuestaCorrecta": [
@@ -12525,7 +12530,7 @@
               },
               {
                 "id": "d",
-                "texto": "Conté el codi font. ## **EXAMEN SM"
+                "texto": "Conté el codi font."
               }
             ],
             "respuestaCorrecta": [
@@ -12993,7 +12998,7 @@
               },
               {
                 "id": "d",
-                "texto": "Conté el codi font. ## **OTRO"
+                "texto": "Conté el codi font."
               }
             ],
             "respuestaCorrecta": [
