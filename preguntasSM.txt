@@ -53,7 +53,7 @@ a) Té la possibilitat d'incloure-hi fractal compression.
 b) No té pèrdua d'informació associada a la compressió.
 c) Té un disseny més senzill que el JPEG standard amb pèrdua.
 d) És més ràpid que el JPEG standard amb pèrdua
-Respuesta correcta: c)
+Respuesta correcta: b)
 
 9. MPEG-1 codifica a partir de Source Input Format (SIF)
 a) Perquè en el moment de creació de l'estàndard no n'hi havien altres formats.
@@ -223,7 +223,7 @@ a) Té un disseny més senzill que el JPEG standard amb pèrdua.
 b) És més ràpid que el JPEG standard amb pèrdua
 c) No té pèrdua d'informació associada a la compressió.
 d) Té la possibilitat d'incloure-hi fractal compression.
-Respuesta correcta: a)
+Respuesta correcta: c)
 
 3. El format JPEG elimina redundància fent servir:
 a) Un operador espacial amb un procés de quantització i codificació eficient.
