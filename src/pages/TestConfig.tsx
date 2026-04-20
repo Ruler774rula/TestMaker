@@ -23,6 +23,7 @@ export const TestConfig: React.FC = () => {
         alert("Por favor selecciona al menos un bloque.");
         return;
     }
+    updateTestConfig({ soloFallos: false, fallosIds: [] });
     startTest();
     navigate('/runner');
   };

@@ -47,4 +47,6 @@ export interface TestConfig {
   shuffleQuestions: boolean;
   modoBloques: boolean; // New mode for blocks
   bloquesSeleccionados: number[]; // Indices of selected blocks (0-5)
+  soloFallos?: boolean;
+  fallosIds?: string[];
 }

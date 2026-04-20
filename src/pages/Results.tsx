@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react';
 import { useApp } from '../context/AppContext';
 import { useNavigate } from 'react-router-dom';
-import { Home, RefreshCw, AlertCircle, CheckCircle } from 'lucide-react';
+import { Home, RefreshCw, AlertCircle, CheckCircle, RotateCcw } from 'lucide-react';
 import { clsx } from 'clsx';
 import { Pregunta } from '../types';
 
 export const Results: React.FC = () => {
-  const { resultados, currentTest, currentSubject, resetTest } = useApp();
+  const { resultados, currentTest, currentSubject, resetTest, updateTestConfig } = useApp();
   const navigate = useNavigate();
 
   // Get latest result
@@ -24,13 +24,31 @@ export const Results: React.FC = () => {
   const isPass = percentage >= 50;
 
   const handleRetry = () => {
+    updateTestConfig({ soloFallos: false, fallosIds: [] });
     resetTest();
     navigate('/runner'); // Or config? Runner re-uses current config.
+  };
+
+  const handleRetryMistakes = () => {
+    if (!latestResult || !currentTest) return;
+    const fallosIds = (latestResult.preguntasIds || []).filter(id => {
+      const q = currentTest.preguntas.find(p => p.id === id);
+      if (!q) return false;
+      const userAns = latestResult.respuestasUsuario[q.id] || [];
+      const isCorrect = userAns.length === q.respuestaCorrecta.length && userAns.every(ans => q.respuestaCorrecta.includes(ans));
+      return !isCorrect;
+    });
+
+    updateTestConfig({ soloFallos: true, fallosIds });
+    resetTest();
+    navigate('/runner');
   };
 
   const handleHome = () => {
     navigate('/');
   };
+
+  const numFallos = latestResult ? latestResult.totalPreguntas - latestResult.aciertos : 0;
 
   return (
     <div className="max-w-4xl mx-auto space-y-8 pb-12">
@@ -68,7 +86,7 @@ export const Results: React.FC = () => {
       </div>
 
       {/* Action Buttons */}
-      <div className="flex justify-center space-x-4">
+      <div className="flex flex-wrap justify-center gap-4">
         <button
           onClick={handleHome}
           className="flex items-center px-6 py-3 bg-white border border-gray-200 text-gray-700 rounded-xl hover:bg-gray-50 font-medium transition-colors"
@@ -83,6 +101,15 @@ export const Results: React.FC = () => {
           <RefreshCw className="w-5 h-5 mr-2" />
           Repetir Test
         </button>
+        {numFallos > 0 && (
+          <button
+            onClick={handleRetryMistakes}
+            className="flex items-center px-6 py-3 bg-red-600 text-white rounded-xl hover:bg-red-700 shadow-md font-bold transition-transform hover:scale-105"
+          >
+            <RotateCcw className="w-5 h-5 mr-2" />
+            Repetir {numFallos} {numFallos === 1 ? 'fallo' : 'fallos'}
+          </button>
+        )}
       </div>
 
       {/* Incorrect Answers Review */}

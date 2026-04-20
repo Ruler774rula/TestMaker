@@ -19,7 +19,11 @@ export const TestRunner: React.FC = () => {
     // Prepare questions based on config
     let questions: typeof currentTest.preguntas = [];
 
-    if (testConfig.modoBloques) {
+    if (testConfig.soloFallos && testConfig.fallosIds) {
+        questions = currentTest.preguntas.filter(q => testConfig.fallosIds?.includes(q.id));
+        // Always shuffle
+        questions = questions.sort(() => Math.random() - 0.5);
+    } else if (testConfig.modoBloques) {
         // Check if we have named blocks
         const hasNamedBlocks = currentTest.preguntas.some(q => q.bloque);
         

@@ -29,6 +29,8 @@ const defaultConfig: TestConfig = {
   shuffleQuestions: false,
   modoBloques: false,
   bloquesSeleccionados: [],
+  soloFallos: false,
+  fallosIds: [],
 };
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
