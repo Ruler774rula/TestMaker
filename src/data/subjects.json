@@ -6275,7 +6275,7 @@
       {
         "id": "test-mqgt-2",
         "titulo": "Segundo Parcial MQGT",
-        "descripcion": "Test del segundo parcial de MQGT - Tema 7: Service Strategy",
+        "descripcion": "Test del segundo parcial de MQGT - Temas 7 y 8",
         "preguntas": [
           {
             "id": "q-mqgt-2p-t7-1",
@@ -7351,6 +7351,870 @@
               {
                 "id": "d",
                 "texto": "Convertir tota activitat en una incidència."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-1",
+            "enunciado": "Quin és el propòsit principal de la gestió financera d'un servei IT?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Substituir la gestió de la demanda i el portfolio."
+              },
+              {
+                "id": "b",
+                "texto": "Gestionar només les incidències amb impacte econòmic."
+              },
+              {
+                "id": "c",
+                "texto": "Assegurar el nivell de finançament apropiat i eficaç per dissenyar, desenvolupar i lliurar serveis alineats amb l'estratègia."
+              },
+              {
+                "id": "d",
+                "texto": "Reduir sempre el pressupost anual de TI."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-2",
+            "enunciado": "La gestió financera ha de considerar el cost de provisió del servei...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Durant tot el cicle de vida del servei."
+              },
+              {
+                "id": "b",
+                "texto": "Només durant la fase de disseny."
+              },
+              {
+                "id": "c",
+                "texto": "Només quan el servei ja està en producció."
+              },
+              {
+                "id": "d",
+                "texto": "Només si el servei és extern."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-3",
+            "enunciado": "Segons el tema, la gestió financera no és només rendir comptes, sinó també...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar Business Cases per accelerar projectes."
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar qualsevol model de cost intern."
+              },
+              {
+                "id": "c",
+                "texto": "Convertir tots els serveis en CAPEX."
+              },
+              {
+                "id": "d",
+                "texto": "Aportar valor i mesurar-lo."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-4",
+            "enunciado": "Què és un Business Case?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una factura interna entre departaments."
+              },
+              {
+                "id": "b",
+                "texto": "Una eina que valora i recull informació de potencials projectes abans de considerar-los una opció vàlida."
+              },
+              {
+                "id": "c",
+                "texto": "Un informe exclusiu de control pressupostari anual."
+              },
+              {
+                "id": "d",
+                "texto": "Un catàleg tècnic de servidors i aplicacions."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-5",
+            "enunciado": "En un Business Case, per què és important definir bé l'objectiu?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè substitueix l'anàlisi de riscos."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè evita haver de recopilar dades."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè ha de ser mesurable i quantificable en el temps."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè permet aprovar qualsevol alternativa sense comparar-la."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-6",
+            "enunciado": "Després d'identificar alternatives de solució en un Business Case, quin pas és natural segons el model?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Investigar i recopilar informació de les alternatives definides."
+              },
+              {
+                "id": "b",
+                "texto": "Facturar directament al client."
+              },
+              {
+                "id": "c",
+                "texto": "Retirar el servei existent."
+              },
+              {
+                "id": "d",
+                "texto": "Tancar el projecte sense avaluar costos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-7",
+            "enunciado": "Quan es valoren riscos en un Business Case, què s'hauria de mesurar?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només el nombre de persones de l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "Només el cost de llicències."
+              },
+              {
+                "id": "c",
+                "texto": "Només la durada del contracte."
+              },
+              {
+                "id": "d",
+                "texto": "L'impacte, la probabilitat i l'estratègia de mitigació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-8",
+            "enunciado": "Què indica el NCF (Net Cash Flow)?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El valor present d'una inversió futura."
+              },
+              {
+                "id": "b",
+                "texto": "Ingressos menys costos per cada període mesurat."
+              },
+              {
+                "id": "c",
+                "texto": "La taxa percentual de rendibilitat del projecte."
+              },
+              {
+                "id": "d",
+                "texto": "El temps necessari per recuperar la inversió."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-9",
+            "enunciado": "Què indica un NPV (Net Present Value) positiu?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que el projecte necessita finançament durant el període."
+              },
+              {
+                "id": "b",
+                "texto": "Que el projecte no té riscos financers."
+              },
+              {
+                "id": "c",
+                "texto": "Que la inversió esperada generarà beneficis."
+              },
+              {
+                "id": "d",
+                "texto": "Que el retorn sempre serà immediat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-10",
+            "enunciado": "L'IRR (Internal Rate Return) representa principalment...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La taxa de rendibilitat generada pel projecte d'inversió."
+              },
+              {
+                "id": "b",
+                "texto": "El cost total de propietat del servei."
+              },
+              {
+                "id": "c",
+                "texto": "La suma de costos directes i indirectes."
+              },
+              {
+                "id": "d",
+                "texto": "El pressupost anual aprovat pel comitè."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-11",
+            "enunciado": "El Payback (PB) expressa...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La diferència entre CAPEX i OPEX."
+              },
+              {
+                "id": "b",
+                "texto": "El percentatge de marge brut del departament."
+              },
+              {
+                "id": "c",
+                "texto": "El cost intangible acumulat."
+              },
+              {
+                "id": "d",
+                "texto": "El temps previst per al retorn de la inversió segons el NCF acumulat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-12",
+            "enunciado": "Quina de les següents accions permet la gestió financera?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar el compliment dels requisits reguladors."
+              },
+              {
+                "id": "b",
+                "texto": "Avaluar l'impacte financer d'estratègies noves o modificades."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar la necessitat de finançament."
+              },
+              {
+                "id": "d",
+                "texto": "Convertir tots els costos indirectes en directes automàticament."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-13",
+            "enunciado": "En la pràctica, la gestió financera és sobretot...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un procés sense mètriques, basat en percepcions."
+              },
+              {
+                "id": "b",
+                "texto": "Una eina només de control legal."
+              },
+              {
+                "id": "c",
+                "texto": "Un sistema objectiu de mesurament de costos i altres indicadors per comparar i decidir."
+              },
+              {
+                "id": "d",
+                "texto": "Una activitat que només fa el proveïdor extern."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-14",
+            "enunciado": "Quins tres àmbits formen l'abast principal de la gestió financera segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Budgeting, IT Accounting i Charging."
+              },
+              {
+                "id": "b",
+                "texto": "Incidents, Problems i Changes."
+              },
+              {
+                "id": "c",
+                "texto": "Availability, Capacity i Security."
+              },
+              {
+                "id": "d",
+                "texto": "Design, Transition i Operation."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-15",
+            "enunciado": "Un Cost Center està dissenyat principalment per...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Crear ingressos externs reals."
+              },
+              {
+                "id": "b",
+                "texto": "Operar com una empresa separada del grup."
+              },
+              {
+                "id": "c",
+                "texto": "Definir el catàleg comercial de clients externs."
+              },
+              {
+                "id": "d",
+                "texto": "Comptabilitzar tota la despesa IT amb el propòsit de recuperar-la dels usuaris."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-16",
+            "enunciado": "Quin problema típic tenen els centres de cost?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sempre generen massa ingressos externs."
+              },
+              {
+                "id": "b",
+                "texto": "S’identifiquen més pel que costen que pel que aporten."
+              },
+              {
+                "id": "c",
+                "texto": "No poden incloure costos tangibles."
+              },
+              {
+                "id": "d",
+                "texto": "No necessiten cap supervisor."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-17",
+            "enunciado": "Què implica gestionar IT com a Profit Center?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Disposar d'un model de costos i també d'un model d'ingressos, encara que sigui fictici."
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar qualsevol model de tarifació."
+              },
+              {
+                "id": "c",
+                "texto": "No comptabilitzar els costos interns."
+              },
+              {
+                "id": "d",
+                "texto": "Treballar només amb serveis commodity."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-18",
+            "enunciado": "Quines característiques clau té un Profit Center segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Incidències prioritzades i canvis estàndard."
+              },
+              {
+                "id": "b",
+                "texto": "Costos ocults i absència de catàleg."
+              },
+              {
+                "id": "c",
+                "texto": "Serveis clarament identificats i tarifació."
+              },
+              {
+                "id": "d",
+                "texto": "Únicament costos fixos i directes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-19",
+            "enunciado": "Per què el model híbrid reflecteix sovint millor la realitat?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè tots els serveis són commodity."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè tots els serveis impacten igual al P&L."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè elimina la necessitat de pressupostar."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè combina serveis bàsics mesurables com a cost amb serveis estratègics amb impacte en el P&L."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-20",
+            "enunciado": "Què són els costos directes?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Costos que es poden atribuir directament a un servei."
+              },
+              {
+                "id": "b",
+                "texto": "Costos que sempre varien segons l’activitat."
+              },
+              {
+                "id": "c",
+                "texto": "Costos difícils de valorar i imprevisibles."
+              },
+              {
+                "id": "d",
+                "texto": "Costos que només existeixen en models SaaS."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-21",
+            "enunciado": "Què requereixen habitualment els costos indirectes?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar-los del TCO."
+              },
+              {
+                "id": "b",
+                "texto": "Un criteri just i acordat de repartiment entre serveis."
+              },
+              {
+                "id": "c",
+                "texto": "Classificar-los sempre com CAPEX."
+              },
+              {
+                "id": "d",
+                "texto": "Assignar-los només al servei més car."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-22",
+            "enunciado": "Quina diferència hi ha entre costos fixos i variables?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els fixos només existeixen en cloud i els variables en hardware propi."
+              },
+              {
+                "id": "b",
+                "texto": "Els fixos sempre són intangibles i els variables sempre tangibles."
+              },
+              {
+                "id": "c",
+                "texto": "Els fixos es produeixen independentment de l’activitat i els variables canvien amb l’activitat."
+              },
+              {
+                "id": "d",
+                "texto": "No hi ha cap diferència pràctica."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-23",
+            "enunciado": "Com han canviat Cloud i IaaS el paradigma de costos?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Han eliminat els costos variables."
+              },
+              {
+                "id": "b",
+                "texto": "Han convertit tot OPEX en CAPEX."
+              },
+              {
+                "id": "c",
+                "texto": "Han fet que els costos indirectes no existeixin."
+              },
+              {
+                "id": "d",
+                "texto": "Han traslladat a variables molts costos que abans eren fixos mitjançant pagament per ús."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-24",
+            "enunciado": "Quina afirmació descriu millor els costos tangibles?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Són fàcils d’identificar, objectius i normalment predictibles."
+              },
+              {
+                "id": "b",
+                "texto": "Són difícils de valorar i passen inadvertits."
+              },
+              {
+                "id": "c",
+                "texto": "Inclouen sempre la desmotivació dels empleats."
+              },
+              {
+                "id": "d",
+                "texto": "Només apareixen en serveis externs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-25",
+            "enunciado": "Quin exemple encaixa millor amb un cost intangible?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cost de personal del servei."
+              },
+              {
+                "id": "b",
+                "texto": "Insatisfacció o desmotivació dels empleats."
+              },
+              {
+                "id": "c",
+                "texto": "Subscripció de Salesforce atribuïda al CRM."
+              },
+              {
+                "id": "d",
+                "texto": "Compra de maquinari."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-26",
+            "enunciado": "Què inclou el TCO (Total Cost Ownership)?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només el cost inicial d'adquisició."
+              },
+              {
+                "id": "b",
+                "texto": "Només els costos directes del proveïdor."
+              },
+              {
+                "id": "c",
+                "texto": "El cost total, incloent adquisició, costos indirectes i recurrents durant el cicle de vida."
+              },
+              {
+                "id": "d",
+                "texto": "Només els costos intangibles."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-27",
+            "enunciado": "Per què els sistemes legacy solen tenir TCO alt?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè no tenen manteniment."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè sempre són SaaS."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè no requereixen coneixement tècnic."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè poden tenir manteniment car per tecnologia i coneixement desfasats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-28",
+            "enunciado": "Quina definició encaixa millor amb CAPEX?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Despeses de capital, generalment lligades a una adquisició única del producte."
+              },
+              {
+                "id": "b",
+                "texto": "Despeses d'operació recurrents."
+              },
+              {
+                "id": "c",
+                "texto": "Costos que no poden ser auditats."
+              },
+              {
+                "id": "d",
+                "texto": "Costos variables de pagament per ús."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-29",
+            "enunciado": "Els models SaaS intenten habitualment...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Incrementar CAPEX i reduir OPEX."
+              },
+              {
+                "id": "b",
+                "texto": "Reduir CAPEX a costa d’incrementar OPEX."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar tant CAPEX com OPEX."
+              },
+              {
+                "id": "d",
+                "texto": "Convertir els costos intangibles en directes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-30",
+            "enunciado": "Si una organització no té capacitat d'inversió, quin model tendeix a fomentar?",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un model CAPEX on compra tots els actius."
+              },
+              {
+                "id": "b",
+                "texto": "Un model sense proveïdors."
+              },
+              {
+                "id": "c",
+                "texto": "Un model OPEX, on la inversió la fa el proveïdor."
+              },
+              {
+                "id": "d",
+                "texto": "Un model sense costos recurrents."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-31",
+            "enunciado": "Dins de Budgeting, una responsabilitat del responsable IT financer és...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Desenvolupar polítiques de tarifació."
+              },
+              {
+                "id": "b",
+                "texto": "Seleccionar eines de recopilació de costos."
+              },
+              {
+                "id": "c",
+                "texto": "Preparar factures periòdiques per als clients."
+              },
+              {
+                "id": "d",
+                "texto": "Gestionar el pressupost de l'organització de TI i preparar previsions pressupostàries."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t8-32",
+            "enunciado": "Dins d’IT Accounting, una responsabilitat del responsable IT financer és...",
+            "tipo": "unica",
+            "bloque": "Tema 8 - Financial Management",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Desenvolupar models de costos i polítiques comptables de TI."
+              },
+              {
+                "id": "b",
+                "texto": "Tancar incidències crítiques."
+              },
+              {
+                "id": "c",
+                "texto": "Definir els rols del Service Desk."
+              },
+              {
+                "id": "d",
+                "texto": "Aprovar canvis d’emergència."
               }
             ],
             "respuestaCorrecta": [
