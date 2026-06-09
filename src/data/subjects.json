@@ -6271,6 +6271,1093 @@
             ]
           }
         ]
+      },
+      {
+        "id": "test-mqgt-2",
+        "titulo": "Segundo Parcial MQGT",
+        "descripcion": "Test del segundo parcial de MQGT - Tema 7: Service Strategy",
+        "preguntas": [
+          {
+            "id": "q-mqgt-2p-t7-1",
+            "enunciado": "Què aporta principalment Service Strategy dins del cicle de vida d’ITIL?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una guia per operar incidències i peticions del dia a dia."
+              },
+              {
+                "id": "b",
+                "texto": "Un conjunt de proves per validar la qualitat del codi."
+              },
+              {
+                "id": "c",
+                "texto": "Una guia per usar la gestió de serveis TIC com a eina per satisfer necessitats de negoci."
+              },
+              {
+                "id": "d",
+                "texto": "Un mètode per desplegar serveis a producció."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-2",
+            "enunciado": "Quina pregunta és més pròpia de Service Strategy?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Com es monitoritzarà el servei?"
+              },
+              {
+                "id": "b",
+                "texto": "Quan es farà el desplegament?"
+              },
+              {
+                "id": "c",
+                "texto": "Qui executarà les operacions?"
+              },
+              {
+                "id": "d",
+                "texto": "Per què s’hauria de fer aquest servei?"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-3",
+            "enunciado": "Si Service Strategy pregunta el “per què”, quin llibre d’ITIL respon principalment el “com fer-ho”?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Service Design."
+              },
+              {
+                "id": "b",
+                "texto": "Service Operation."
+              },
+              {
+                "id": "c",
+                "texto": "Continual Service Improvement."
+              },
+              {
+                "id": "d",
+                "texto": "Service Transition."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-4",
+            "enunciado": "Quin dels següents processos forma part de Service Strategy?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Gestió d’incidències."
+              },
+              {
+                "id": "b",
+                "texto": "Gestió del portafoli de serveis."
+              },
+              {
+                "id": "c",
+                "texto": "Gestió de canvis."
+              },
+              {
+                "id": "d",
+                "texto": "Gestió de configuració."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-5",
+            "enunciado": "Quina combinació recull processos propis de Service Strategy?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Gestió de canvis, configuració, coneixement i desplegaments."
+              },
+              {
+                "id": "b",
+                "texto": "Gestió d’incidències, problemes, accessos i esdeveniments."
+              },
+              {
+                "id": "c",
+                "texto": "Gestió del portafoli, relacions amb negoci, gestió financera i demanda."
+              },
+              {
+                "id": "d",
+                "texto": "Gestió de disponibilitat, capacitat, continuïtat i seguretat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-6",
+            "enunciado": "Segons el tema, la utilitat d’un servei es refereix sobretot a...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Permetre al client fer coses que abans no podia fer o millorar-les."
+              },
+              {
+                "id": "b",
+                "texto": "Garantir que el servei estigui sempre disponible al 100%."
+              },
+              {
+                "id": "c",
+                "texto": "Reduir tots els costos d’operació del proveïdor."
+              },
+              {
+                "id": "d",
+                "texto": "Evitar qualsevol canvi funcional en el servei."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-7",
+            "enunciado": "Quins elements formen part de la garantia d’un servei segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Preu, marca, experiència i imatge."
+              },
+              {
+                "id": "b",
+                "texto": "Cost, demanda, contractació i proveïdor."
+              },
+              {
+                "id": "c",
+                "texto": "Innovació, solvència, reputació i mercat."
+              },
+              {
+                "id": "d",
+                "texto": "Disponibilitat, capacitat, continuïtat i seguretat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-8",
+            "enunciado": "En serveis, habitualment la garantia es mesura en termes de...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Benefici financer directe."
+              },
+              {
+                "id": "b",
+                "texto": "Certesa."
+              },
+              {
+                "id": "c",
+                "texto": "Nombre de proveïdors."
+              },
+              {
+                "id": "d",
+                "texto": "Volum de projectes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-9",
+            "enunciado": "Quin exemple encaixa millor amb una garantia de servei TI?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Disponibilitat d’un servidor del 99,99%."
+              },
+              {
+                "id": "b",
+                "texto": "Una nova funcionalitat que el client no tenia."
+              },
+              {
+                "id": "c",
+                "texto": "Una campanya de comunicació comercial."
+              },
+              {
+                "id": "d",
+                "texto": "La definició d’un nou segment de mercat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-10",
+            "enunciado": "Què passa habitualment quan la utilitat no està recolzada per la garantia del servei?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El client percep menys el cost del servei."
+              },
+              {
+                "id": "b",
+                "texto": "El proveïdor deixa de necessitar SLAs."
+              },
+              {
+                "id": "c",
+                "texto": "Els clients es preocupen més per la pèrdua de qualitat que pels beneficis obtinguts."
+              },
+              {
+                "id": "d",
+                "texto": "El servei es converteix automàticament en core-business."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-11",
+            "enunciado": "Per evitar una desconnexió entre client i proveïdor TI, el valor del negoci s’ha de descriure en termes de...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Costos fixos i costos variables."
+              },
+              {
+                "id": "b",
+                "texto": "Rols tècnics i procediments operatius."
+              },
+              {
+                "id": "c",
+                "texto": "Contractes interns i externs."
+              },
+              {
+                "id": "d",
+                "texto": "Utilitat i garantia."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-12",
+            "enunciado": "Quan més intangible és el valor d’un servei, què guanya més importància?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La quantitat d’actius físics comprats."
+              },
+              {
+                "id": "b",
+                "texto": "La percepció del valor i les preferències del client."
+              },
+              {
+                "id": "c",
+                "texto": "La substitució del client per un proveïdor extern."
+              },
+              {
+                "id": "d",
+                "texto": "La reducció del nombre de processos ITIL."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-13",
+            "enunciado": "Quina afirmació descriu millor el que compren els clients segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No compren només un servei, sinó el compliment d’una necessitat particular."
+              },
+              {
+                "id": "b",
+                "texto": "Compren únicament tecnologia, independentment del resultat."
+              },
+              {
+                "id": "c",
+                "texto": "Compren sempre actius i no serveis."
+              },
+              {
+                "id": "d",
+                "texto": "Compren exclusivament reducció de costos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-14",
+            "enunciado": "Quina situació tendeix a generar una percepció negativa d’un servei?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Conèixer la utilitat i la garantia del servei."
+              },
+              {
+                "id": "b",
+                "texto": "Mesurar els resultats obtinguts pel client."
+              },
+              {
+                "id": "c",
+                "texto": "Definir objectius de negoci abans del servei."
+              },
+              {
+                "id": "d",
+                "texto": "Tenir consciència del cost però no de la sortida esperada."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-15",
+            "enunciado": "Què és un proveïdor intern segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una empresa externa que opera en un mercat ampli."
+              },
+              {
+                "id": "b",
+                "texto": "Una unitat autònoma que competeix amb proveïdors externs."
+              },
+              {
+                "id": "c",
+                "texto": "Una àrea de l’organització que dona servei a la resta de l’organització."
+              },
+              {
+                "id": "d",
+                "texto": "Un client que contracta serveis TIC sota demanda."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-16",
+            "enunciado": "En quin cas és especialment apropiat un proveïdor intern?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quan es busca sempre el preu més baix del mercat extern."
+              },
+              {
+                "id": "b",
+                "texto": "Quan la funció que desenvolupa és un avantatge competitiu de l’organització."
+              },
+              {
+                "id": "c",
+                "texto": "Quan el servei no té cap relació amb el negoci."
+              },
+              {
+                "id": "d",
+                "texto": "Quan es vol perdre coneixement intern de forma deliberada."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-17",
+            "enunciado": "Una unitat de serveis compartits es caracteritza perquè...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No pot tenir pressupost propi ni assumir riscos."
+              },
+              {
+                "id": "b",
+                "texto": "Només pot donar servei a clients externs."
+              },
+              {
+                "id": "c",
+                "texto": "És una unitat autònoma que dona servei a unitats de negoci com a clients directes."
+              },
+              {
+                "id": "d",
+                "texto": "És sempre una empresa aliena al grup empresarial."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-18",
+            "enunciado": "Com s’anomena en ITIL el model de proveïdor que correspon a una unitat de serveis compartits?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Type II."
+              },
+              {
+                "id": "b",
+                "texto": "Type I."
+              },
+              {
+                "id": "c",
+                "texto": "Type IV."
+              },
+              {
+                "id": "d",
+                "texto": "Type III."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-19",
+            "enunciado": "Quina afirmació és pròpia dels proveïdors externs?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sempre estan protegits sota el paraigua corporatiu del client."
+              },
+              {
+                "id": "b",
+                "texto": "No poden consolidar demanda ni generar economies d’escala."
+              },
+              {
+                "id": "c",
+                "texto": "Només són útils per a funcions core-business."
+              },
+              {
+                "id": "d",
+                "texto": "Solen oferir més flexibilitat, especialització i accés a recursos experts."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-20",
+            "enunciado": "Quan una necessitat funcional no és core-business, quin tipus de proveïdor sol ser habitual?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només proveïdor intern."
+              },
+              {
+                "id": "b",
+                "texto": "Proveïdor extern."
+              },
+              {
+                "id": "c",
+                "texto": "Cap proveïdor."
+              },
+              {
+                "id": "d",
+                "texto": "Sempre unitat de negoci client."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-21",
+            "enunciado": "Quin risc o atenció addicional destaca el tema quan es treballa amb proveïdors externs?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que no cal cap política de seguretat perquè el risc és menor."
+              },
+              {
+                "id": "b",
+                "texto": "Que els costos sempre són assumits íntegrament per l’organització interna."
+              },
+              {
+                "id": "c",
+                "texto": "Cal reforçar la seguretat, la protecció de dades i la gestió de pèrdua de coneixement."
+              },
+              {
+                "id": "d",
+                "texto": "Que no poden substituir cap servei intern."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-22",
+            "enunciado": "Quin element NO apareix com a criteri per decidir quin tipus de proveïdor convé més?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La complexitat i freqüència de l’activitat."
+              },
+              {
+                "id": "b",
+                "texto": "La dificultat per mesurar el rendiment."
+              },
+              {
+                "id": "c",
+                "texto": "La relació amb altres activitats de l’organització."
+              },
+              {
+                "id": "d",
+                "texto": "El color corporatiu del proveïdor."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-23",
+            "enunciado": "Quina pregunta ajuda a decidir el tipus de proveïdor des d’una perspectiva de client?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quina tipografia utilitza el catàleg del servei?"
+              },
+              {
+                "id": "b",
+                "texto": "L’activitat requereix actius altament especialitzats?"
+              },
+              {
+                "id": "c",
+                "texto": "Quin idioma parla l’equip comercial?"
+              },
+              {
+                "id": "d",
+                "texto": "Quantes diapositives té la presentació?"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-24",
+            "enunciado": "El portfolio de serveis descriu...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els usuaris que tenen accés a una aplicació."
+              },
+              {
+                "id": "b",
+                "texto": "Els serveis comercials que un proveïdor ofereix als seus clients."
+              },
+              {
+                "id": "c",
+                "texto": "La llista d’incidències pendents de resoldre."
+              },
+              {
+                "id": "d",
+                "texto": "Els servidors físics del centre de dades."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-25",
+            "enunciado": "Per què és bàsic el portfolio en una empresa de serveis?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè ajuda a controlar inversions en serveis i l’obtenció de valor."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè elimina la necessitat de conèixer els clients."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè substitueix tots els contractes de servei."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè impedeix industrialitzar serveis."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-26",
+            "enunciado": "Què implica industrialitzar un servei segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Executar-lo sense definir-lo prèviament."
+              },
+              {
+                "id": "b",
+                "texto": "Convertir-lo sempre en un servei gratuït."
+              },
+              {
+                "id": "c",
+                "texto": "Invertir en la seva definició, capacitació i/o creació de producte."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar-ne la proposta de valor."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-27",
+            "enunciado": "Quins són els mètodes de la gestió del portfolio que apareixen al tema?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Registrar, diagnosticar, recuperar i tancar."
+              },
+              {
+                "id": "b",
+                "texto": "Dissenyar, desplegar, operar i retirar."
+              },
+              {
+                "id": "c",
+                "texto": "Detectar, escalar, corregir i documentar."
+              },
+              {
+                "id": "d",
+                "texto": "Definir, analitzar, aprovar i comunicar."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-28",
+            "enunciado": "En la gestió del portfolio, què significa “Definir”?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Aprovar la cartera de serveis i els recursos assignats."
+              },
+              {
+                "id": "b",
+                "texto": "Dissenyar els casos de negoci i l’inventari de serveis."
+              },
+              {
+                "id": "c",
+                "texto": "Comunicar les decisions i posar-les en marxa."
+              },
+              {
+                "id": "d",
+                "texto": "Mesurar únicament incidències operatives."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-29",
+            "enunciado": "En la gestió del portfolio, “Analitzar” inclou principalment...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "L’oferta i demanda, la priorització i la maximització de les inversions realitzades."
+              },
+              {
+                "id": "b",
+                "texto": "La resolució directa de totes les incidències crítiques."
+              },
+              {
+                "id": "c",
+                "texto": "La creació d’usuaris i permisos."
+              },
+              {
+                "id": "d",
+                "texto": "La retirada immediata de tots els serveis existents."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-30",
+            "enunciado": "Quan s’analitza el portfolio de servei, quina reflexió és de perspectiva estratègica?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quants tiquets s’han tancat avui?"
+              },
+              {
+                "id": "b",
+                "texto": "Quina versió exacta de sistema operatiu té cada servidor?"
+              },
+              {
+                "id": "c",
+                "texto": "Quins serveis es requereixen per complir els objectius a llarg termini?"
+              },
+              {
+                "id": "d",
+                "texto": "Quin tècnic atendrà cada trucada?"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-31",
+            "enunciado": "RTB (Run The Business) classifica inversions orientades a...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Crear nous mercats sense operar serveis existents."
+              },
+              {
+                "id": "b",
+                "texto": "Substituir tots els proveïdors interns."
+              },
+              {
+                "id": "c",
+                "texto": "Transformar completament l’empresa."
+              },
+              {
+                "id": "d",
+                "texto": "Mantenir les operacions."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-32",
+            "enunciado": "GTB (Grow The Business) fa referència a inversions per...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Mantenir exclusivament els serveis crítics sense canvis."
+              },
+              {
+                "id": "b",
+                "texto": "Créixer l’abast dels serveis de l’organització."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar el portfolio de serveis."
+              },
+              {
+                "id": "d",
+                "texto": "Gestionar incidències de seguretat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-33",
+            "enunciado": "TTB (Transform The Business) s’associa amb...",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Reduir tots els serveis al mínim operatiu."
+              },
+              {
+                "id": "b",
+                "texto": "Mantenir només el servei existent."
+              },
+              {
+                "id": "c",
+                "texto": "Generar nous serveis i mercats."
+              },
+              {
+                "id": "d",
+                "texto": "Resoldre peticions d’usuari."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-34",
+            "enunciado": "Quina partida pressupostària s’associa a la creació de serveis en un nou mercat?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Venture."
+              },
+              {
+                "id": "b",
+                "texto": "Core."
+              },
+              {
+                "id": "c",
+                "texto": "No discrecional."
+              },
+              {
+                "id": "d",
+                "texto": "Discrecional."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-35",
+            "enunciado": "Quina partida pressupostària consisteix a crear nous serveis en un mercat existent?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Core."
+              },
+              {
+                "id": "b",
+                "texto": "Venture."
+              },
+              {
+                "id": "c",
+                "texto": "No discrecional."
+              },
+              {
+                "id": "d",
+                "texto": "Creixement."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-36",
+            "enunciado": "Quina partida pressupostària es centra en mantenir els serveis crítics?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Discrecional."
+              },
+              {
+                "id": "b",
+                "texto": "Creixement."
+              },
+              {
+                "id": "c",
+                "texto": "Venture."
+              },
+              {
+                "id": "d",
+                "texto": "Core."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-37",
+            "enunciado": "Quina partida pressupostària correspon a proporcionar millores a un servei existent?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Discrecional."
+              },
+              {
+                "id": "b",
+                "texto": "Core."
+              },
+              {
+                "id": "c",
+                "texto": "Venture."
+              },
+              {
+                "id": "d",
+                "texto": "No discrecional."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-38",
+            "enunciado": "Quina opció descriu millor una inversió no discrecional?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Crear serveis en un nou mercat."
+              },
+              {
+                "id": "b",
+                "texto": "Transformar l’empresa cap a nous mercats."
+              },
+              {
+                "id": "c",
+                "texto": "Mantenir un servei."
+              },
+              {
+                "id": "d",
+                "texto": "Provar un model experimental de negoci."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-39",
+            "enunciado": "Quina afirmació sobre el portfolio és més precisa?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només serveix per documentar actius tècnics interns."
+              },
+              {
+                "id": "b",
+                "texto": "Ha de respondre preguntes com per què un client compraria el servei, el preu i el model de contractació."
+              },
+              {
+                "id": "c",
+                "texto": "Substitueix la necessitat de gestionar demanda i finances."
+              },
+              {
+                "id": "d",
+                "texto": "Només inclou serveis retirats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t7-40",
+            "enunciado": "En una empresa de serveis, què permet el portfolio quan es gestiona de forma dinàmica?",
+            "tipo": "unica",
+            "bloque": "Tema 7 - Service Strategy",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Controlar les inversions en servei i la seva obtenció de valor."
+              },
+              {
+                "id": "b",
+                "texto": "Evitar qualsevol inversió en serveis."
+              },
+              {
+                "id": "c",
+                "texto": "Ignorar les debilitats del proveïdor."
+              },
+              {
+                "id": "d",
+                "texto": "Convertir tota activitat en una incidència."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          }
+        ]
       }
     ]
   },
