@@ -6275,7 +6275,7 @@
       {
         "id": "test-mqgt-2",
         "titulo": "Segundo Parcial MQGT",
-        "descripcion": "Test del segundo parcial de MQGT - Temas 7 y 8",
+        "descripcion": "Test del segundo parcial de MQGT - Temas 7, 8, 10 y 13",
         "preguntas": [
           {
             "id": "q-mqgt-2p-t7-1",
@@ -8219,6 +8219,2679 @@
             ],
             "respuestaCorrecta": [
               "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-1",
+            "enunciado": "Quin és l'objectiu principal de la gestió de la disponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Garantir la disponibilitat acordada dels serveis IT mitjançant mitjans, mètodes i tècniques adequades."
+              },
+              {
+                "id": "b",
+                "texto": "Substituir la gestió financera per mètriques tècniques."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar tots els SLAs amb els clients."
+              },
+              {
+                "id": "d",
+                "texto": "Gestionar només les incidències de seguretat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-2",
+            "enunciado": "Un servei es considera disponible quan es proporciona dins de límits acordats de...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cost, facturació i marge brut."
+              },
+              {
+                "id": "b",
+                "texto": "Nombre d'usuaris directes, temps de resposta màxim i funcionalitat desitjada."
+              },
+              {
+                "id": "c",
+                "texto": "CAPEX, OPEX i TCO."
+              },
+              {
+                "id": "d",
+                "texto": "Nombre de proveïdors i contractes externs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-3",
+            "enunciado": "Segons el tema, la disponibilitat és sobretot...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una mètrica financera secundària."
+              },
+              {
+                "id": "b",
+                "texto": "Un indicador exclusiu per al proveïdor extern."
+              },
+              {
+                "id": "c",
+                "texto": "El principal KPI de la qualitat del servei percebuda pel negoci i l’usuari."
+              },
+              {
+                "id": "d",
+                "texto": "Una activitat que només apareix en Service Operation."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-4",
+            "enunciado": "Per què la gestió de disponibilitat pertany a Service Design encara que es monitoritzi en operació?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè els informes només es fan abans del desplegament."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè no té cap relació amb serveis operatius."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè només afecta serveis sense SLA."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè la disponibilitat s’ha de dissenyar, planificar i acordar abans de l’operació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-5",
+            "enunciado": "Quin dels següents és un pilar bàsic de la disponibilitat segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La disponibilitat és el nucli de la satisfacció del negoci i l’usuari."
+              },
+              {
+                "id": "b",
+                "texto": "La disponibilitat depèn únicament del pressupost anual."
+              },
+              {
+                "id": "c",
+                "texto": "La disponibilitat només es mesura en projectes nous."
+              },
+              {
+                "id": "d",
+                "texto": "La disponibilitat elimina la necessitat de millora contínua."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-6",
+            "enunciado": "Availability es defineix com...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La facilitat de manteniment preventiu i correctiu."
+              },
+              {
+                "id": "b",
+                "texto": "La capacitat d’un servei IT de proporcionar la funcionalitat requerida en un moment o període determinat."
+              },
+              {
+                "id": "c",
+                "texto": "Les condicions contractuals amb proveïdors externs."
+              },
+              {
+                "id": "d",
+                "texto": "El temps mitjà de reparació després d’una fallada."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-7",
+            "enunciado": "Reliability o fiabilitat fa referència a...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La capacitat de facturar serveis interns."
+              },
+              {
+                "id": "b",
+                "texto": "La quantitat de components redundants contractats."
+              },
+              {
+                "id": "c",
+                "texto": "El temps durant el qual un servei IT proporciona la funcionalitat esperada en circumstàncies preestablertes."
+              },
+              {
+                "id": "d",
+                "texto": "La durada de les reunions de seguiment."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-8",
+            "enunciado": "Maintainability o mantenibilitat és...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El nombre total d’usuaris afectats per una parada."
+              },
+              {
+                "id": "b",
+                "texto": "La capacitat de continuar funcionant amb un subsistema incorrecte."
+              },
+              {
+                "id": "c",
+                "texto": "El percentatge de disponibilitat anual."
+              },
+              {
+                "id": "d",
+                "texto": "Un indicador de la facilitat de manteniment preventiu, inspectiu i correctiu del servei IT."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-9",
+            "enunciado": "Serviceability es relaciona amb...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les condicions contractuals rellevants amb proveïdors externs."
+              },
+              {
+                "id": "b",
+                "texto": "El temps entre fallades del servei."
+              },
+              {
+                "id": "c",
+                "texto": "La satisfacció dels usuaris interns."
+              },
+              {
+                "id": "d",
+                "texto": "La fórmula de disponibilitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-10",
+            "enunciado": "Resilience o resiliència és...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El temps que triga un proveïdor a facturar."
+              },
+              {
+                "id": "b",
+                "texto": "La capacitat d’un servei IT per funcionar correctament malgrat el comportament incorrecte d’un o més subsistemes."
+              },
+              {
+                "id": "c",
+                "texto": "La suma de temps de detecció i diagnòstic."
+              },
+              {
+                "id": "d",
+                "texto": "El percentatge d’indisponibilitat mensual."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-11",
+            "enunciado": "La gestió proactiva de la disponibilitat consisteix principalment a...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Mesurar només incidents ja resolts."
+              },
+              {
+                "id": "b",
+                "texto": "Informar indisponibilitats després que passin."
+              },
+              {
+                "id": "c",
+                "texto": "Produir recomanacions, plans, pautes de disseny i criteris per serveis nous o modificats."
+              },
+              {
+                "id": "d",
+                "texto": "Registrar factures periòdiques dels clients."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-12",
+            "enunciado": "La gestió reactiva de la disponibilitat consisteix principalment a...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Dissenyar alta disponibilitat abans del servei."
+              },
+              {
+                "id": "b",
+                "texto": "Definir criteris de disponibilitat per serveis futurs."
+              },
+              {
+                "id": "c",
+                "texto": "Desenvolupar el Pla de Disponibilitat inicial."
+              },
+              {
+                "id": "d",
+                "texto": "Supervisar, mesurar, analitzar, informar i revisar la disponibilitat de components i serveis."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-13",
+            "enunciado": "Quina activitat encaixa millor amb la gestió proactiva de disponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Disseny d’alta disponibilitat i anàlisi de riscos."
+              },
+              {
+                "id": "b",
+                "texto": "Anàlisi d’indisponibilitat després d’una parada."
+              },
+              {
+                "id": "c",
+                "texto": "Informe de disponibilitat del mes anterior."
+              },
+              {
+                "id": "d",
+                "texto": "Revisió d’un incident ampliat ja produït."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-14",
+            "enunciado": "Quina activitat encaixa millor amb la gestió reactiva de disponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Disseny de solucions amb redundància completa."
+              },
+              {
+                "id": "b",
+                "texto": "Anàlisi d’indisponibilitat i fracassos de servei."
+              },
+              {
+                "id": "c",
+                "texto": "Definició de criteris per a serveis nous."
+              },
+              {
+                "id": "d",
+                "texto": "Disseny de sistemes fàcilment recuperables."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-15",
+            "enunciado": "La disponibilitat es calcula com...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Hores d’aturada / nombre d’incidents."
+              },
+              {
+                "id": "b",
+                "texto": "Hores totals / nombre d’incidents."
+              },
+              {
+                "id": "c",
+                "texto": "(Hores totals - hores d’aturada) / hores totals * 100."
+              },
+              {
+                "id": "d",
+                "texto": "Nombre d’incidents / hores totals * 100."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-16",
+            "enunciado": "El MTBSI mesura...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El temps mitjà de reparació."
+              },
+              {
+                "id": "b",
+                "texto": "El percentatge de disponibilitat."
+              },
+              {
+                "id": "c",
+                "texto": "El cost mitjà de cada incident."
+              },
+              {
+                "id": "d",
+                "texto": "El temps mitjà transcorregut entre incidents."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-17",
+            "enunciado": "El MTBF es calcula, segons les mètriques del tema, com...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "(Hores totals - hores d’aturada) / nombre d’incidents."
+              },
+              {
+                "id": "b",
+                "texto": "Hores d’aturada / nombre d’incidents."
+              },
+              {
+                "id": "c",
+                "texto": "Hores totals / nombre d’incidents."
+              },
+              {
+                "id": "d",
+                "texto": "Nombre d’incidents / hores totals."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-18",
+            "enunciado": "El MTRS representa...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El temps mitjà entre incidents."
+              },
+              {
+                "id": "b",
+                "texto": "El temps mitjà de parada o restauració del servei."
+              },
+              {
+                "id": "c",
+                "texto": "El percentatge de fiabilitat anual."
+              },
+              {
+                "id": "d",
+                "texto": "El nombre d’usuaris afectats per hora."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-19",
+            "enunciado": "En l’exemple del servei 24x7 de 5040 hores amb quatre parades de 8, 12, 6 i 14 hores, la disponibilitat aproximada és...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "95,0%."
+              },
+              {
+                "id": "b",
+                "texto": "98,0%."
+              },
+              {
+                "id": "c",
+                "texto": "99,2%."
+              },
+              {
+                "id": "d",
+                "texto": "100%."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-20",
+            "enunciado": "En el mateix exemple, quin és el MTRS?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "1260 hores."
+              },
+              {
+                "id": "b",
+                "texto": "1250 hores."
+              },
+              {
+                "id": "c",
+                "texto": "40 hores."
+              },
+              {
+                "id": "d",
+                "texto": "10 hores."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-21",
+            "enunciado": "L’abast de la gestió de disponibilitat s’ha d’aplicar a...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tots els serveis nous i existents on hi hagi SLAs establerts."
+              },
+              {
+                "id": "b",
+                "texto": "Només serveis sense clients directes."
+              },
+              {
+                "id": "c",
+                "texto": "Només aplicacions desenvolupades internament."
+              },
+              {
+                "id": "d",
+                "texto": "Només serveis sense proveïdors externs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-22",
+            "enunciado": "Quin element també forma part de l’abast de la gestió de disponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només el maquinari físic."
+              },
+              {
+                "id": "b",
+                "texto": "Polítiques, formació, competències, procediments i eines que impactin la disponibilitat."
+              },
+              {
+                "id": "c",
+                "texto": "Només la facturació dels serveis."
+              },
+              {
+                "id": "d",
+                "texto": "Només el catàleg comercial."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-23",
+            "enunciado": "Quin benefici aporta una bona gestió de disponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Augmentar la freqüència dels incidents per detectar-los abans."
+              },
+              {
+                "id": "b",
+                "texto": "Convertir tota gestió en reactiva."
+              },
+              {
+                "id": "c",
+                "texto": "Reduir la freqüència i durada dels incidents que impacten la disponibilitat TI."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar els requeriments de disponibilitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-24",
+            "enunciado": "Quin canvi de mentalitat busca la gestió de disponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "De millores del servei a correccions d’errors."
+              },
+              {
+                "id": "b",
+                "texto": "De disseny preventiu a improvisació operativa."
+              },
+              {
+                "id": "c",
+                "texto": "De gestió global a responsabilitats aïllades."
+              },
+              {
+                "id": "d",
+                "texto": "D’una actitud reactiva cap a una actitud proactiva."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-25",
+            "enunciado": "En la planificació de disponibilitat, determinar requeriments de disponibilitat és una activitat...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Anterior a l’establiment del SLA i basada en l’impacte del servei IT en el negoci."
+              },
+              {
+                "id": "b",
+                "texto": "Posterior al tancament de tots els incidents."
+              },
+              {
+                "id": "c",
+                "texto": "Només aplicable a serveis sense usuaris."
+              },
+              {
+                "id": "d",
+                "texto": "Exclusiva del departament financer."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-26",
+            "enunciado": "La monitorització de disponibilitat inclou...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només disseny de sistemes redundants."
+              },
+              {
+                "id": "b",
+                "texto": "Mesurament amb MTRS, MTBF i MTBSI, i informes comprensibles pel client."
+              },
+              {
+                "id": "c",
+                "texto": "Només control de pressupost."
+              },
+              {
+                "id": "d",
+                "texto": "Únicament definició del Pla de Disponibilitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-27",
+            "enunciado": "Els informes per a l’Organització de Suport TI se centren sobretot en...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Impacte en el VBF del negoci."
+              },
+              {
+                "id": "b",
+                "texto": "Transaccions comercials no processades."
+              },
+              {
+                "id": "c",
+                "texto": "Disponibilitat, fiabilitat i mantenibilitat de components informàtics."
+              },
+              {
+                "id": "d",
+                "texto": "Percepció comercial de la marca."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-28",
+            "enunciado": "Els informes per al negoci han de reflectir...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només el percentatge tècnic de CPU."
+              },
+              {
+                "id": "b",
+                "texto": "Només el número de tickets oberts."
+              },
+              {
+                "id": "c",
+                "texto": "Només la disponibilitat de components."
+              },
+              {
+                "id": "d",
+                "texto": "L’aportació o impacte en el VBF que condueix l’operació empresarial."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-29",
+            "enunciado": "Quina mesura d’informació dona una visió més humana de la indisponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Durada de la indisponibilitat en hores."
+              },
+              {
+                "id": "b",
+                "texto": "Només percentatge de disponibilitat."
+              },
+              {
+                "id": "c",
+                "texto": "Només nombre de servidors afectats."
+              },
+              {
+                "id": "d",
+                "texto": "Només marge operatiu."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-30",
+            "enunciado": "Un mètode d’informació orientat a l’usuari final és...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "CAPEX dividit per OPEX."
+              },
+              {
+                "id": "b",
+                "texto": "Impacte per minuts d’usuari final perdut."
+              },
+              {
+                "id": "c",
+                "texto": "TCO acumulat del servei."
+              },
+              {
+                "id": "d",
+                "texto": "Nombre de proveïdors homologats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-31",
+            "enunciado": "Quin problema pot aparèixer en implantar la gestió de disponibilitat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Excés d’autoritat del manager del procés."
+              },
+              {
+                "id": "b",
+                "texto": "Eines de mesurament perfectes però massa cares."
+              },
+              {
+                "id": "c",
+                "texto": "Responsabilitat dividida entre diverses funcions i manca de coordinació global."
+              },
+              {
+                "id": "d",
+                "texto": "Absència total de SLAs en serveis nous."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-32",
+            "enunciado": "Segons el tema, l’observabilitat en sistemes TI...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Disponibilitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "És una substitució de la disponibilitat per gestió financera."
+              },
+              {
+                "id": "b",
+                "texto": "Només aplica a sistemes monolítics antics."
+              },
+              {
+                "id": "c",
+                "texto": "És una gestió purament reactiva."
+              },
+              {
+                "id": "d",
+                "texto": "Combina disponibilitat, capacitat i millora contínua, i és disponibilitat proactiva."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-1",
+            "enunciado": "Què és la Gestió de la Seguretat segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El procés de gestionar un nivell definit de seguretat en la informació i els serveis TIC."
+              },
+              {
+                "id": "b",
+                "texto": "Un procés exclusiu de recuperació davant desastres."
+              },
+              {
+                "id": "c",
+                "texto": "Una mètrica financera per calcular el TCO."
+              },
+              {
+                "id": "d",
+                "texto": "Una activitat només aplicable a proveïdors externs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-2",
+            "enunciado": "Un incident de seguretat de la informació pot causar mal a...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només la disponibilitat del servei."
+              },
+              {
+                "id": "b",
+                "texto": "La confidencialitat, integritat o disponibilitat de la informació o del seu processament."
+              },
+              {
+                "id": "c",
+                "texto": "Només el pressupost anual del departament IT."
+              },
+              {
+                "id": "d",
+                "texto": "Només la relació contractual amb proveïdors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-3",
+            "enunciado": "Quina idea resumeix millor la reflexió del tema sobre seguretat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La seguretat plena és possible si hi ha prou pressupost."
+              },
+              {
+                "id": "b",
+                "texto": "La seguretat només depèn dels proveïdors."
+              },
+              {
+                "id": "c",
+                "texto": "La qüestió és estar preparat per defensar-se i recuperar-se quan hi hagi un atac."
+              },
+              {
+                "id": "d",
+                "texto": "Els atacs només afecten empreses sense GDPR."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-4",
+            "enunciado": "Quins són els tres pilars bàsics de la seguretat de la informació?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Disponibilitat, capacitat i continuïtat."
+              },
+              {
+                "id": "b",
+                "texto": "Fiabilitat, mantenibilitat i resiliència."
+              },
+              {
+                "id": "c",
+                "texto": "Autenticació, xifrat i consentiment."
+              },
+              {
+                "id": "d",
+                "texto": "Disponibilitat, integritat i confidencialitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-5",
+            "enunciado": "La disponibilitat, com a pilar de seguretat, consisteix a...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Assegurar que els usuaris autoritzats tenen accés a la informació quan ho requereixin."
+              },
+              {
+                "id": "b",
+                "texto": "Garantir que la informació només sigui visible per a clients externs."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar totes les amenaces del servei."
+              },
+              {
+                "id": "d",
+                "texto": "Fer que totes les dades siguin públiques."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-6",
+            "enunciado": "La integritat de la informació implica...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que la informació estigui disponible per a qualsevol usuari."
+              },
+              {
+                "id": "b",
+                "texto": "Garantir l'exactitud i completitud de la informació i dels mètodes del seu procés."
+              },
+              {
+                "id": "c",
+                "texto": "Que les dades s’eliminin automàticament després de ser creades."
+              },
+              {
+                "id": "d",
+                "texto": "Que els proveïdors assumeixin tota responsabilitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-7",
+            "enunciado": "La confidencialitat implica...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que la informació sigui editable per tots els usuaris."
+              },
+              {
+                "id": "b",
+                "texto": "Que els actius estiguin sempre duplicats."
+              },
+              {
+                "id": "c",
+                "texto": "Que la informació sigui accessible només per a qui estigui autoritzat."
+              },
+              {
+                "id": "d",
+                "texto": "Que no calgui fer còpies de seguretat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-8",
+            "enunciado": "Segons el tema, la responsabilitat de la seguretat d’una empresa...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Es delega completament al proveïdor principal."
+              },
+              {
+                "id": "b",
+                "texto": "Només existeix si hi ha dades personals sensibles."
+              },
+              {
+                "id": "c",
+                "texto": "Desapareix quan hi ha un SLA."
+              },
+              {
+                "id": "d",
+                "texto": "No es delega als seus proveïdors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-9",
+            "enunciado": "La Gestió de la Seguretat està governada per...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una política corporativa."
+              },
+              {
+                "id": "b",
+                "texto": "El catàleg de serveis comercials."
+              },
+              {
+                "id": "c",
+                "texto": "Un informe de Payback."
+              },
+              {
+                "id": "d",
+                "texto": "El pla de recuperació davant desastres únicament."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-10",
+            "enunciado": "Dins de les pràctiques ITIL, el Pla de Seguretat es troba...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Dins del registre d’incidències."
+              },
+              {
+                "id": "b",
+                "texto": "En annexos dels ANS/SLA."
+              },
+              {
+                "id": "c",
+                "texto": "Només en el pla financer anual."
+              },
+              {
+                "id": "d",
+                "texto": "Aïllat de qualsevol acord amb negoci."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-11",
+            "enunciado": "Quina afirmació sobre la importància de la informació és correcta?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tota la informació té exactament la mateixa importància."
+              },
+              {
+                "id": "b",
+                "texto": "Només és important la informació financera."
+              },
+              {
+                "id": "c",
+                "texto": "No tota la informació té la mateixa importància per a l’organització."
+              },
+              {
+                "id": "d",
+                "texto": "La informació de proves sempre és més crítica que producció."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-12",
+            "enunciado": "Quins tipus de mesures de seguretat apareixen al tema?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només mesures físiques."
+              },
+              {
+                "id": "b",
+                "texto": "Només mesures tècniques."
+              },
+              {
+                "id": "c",
+                "texto": "Només mesures de facturació."
+              },
+              {
+                "id": "d",
+                "texto": "Mesures físiques, tècniques i de processos/comportaments."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-13",
+            "enunciado": "Quina és una clau per protegir bé la informació durant el seu cicle de vida?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Protegir la dada emmagatzemada i en trànsit."
+              },
+              {
+                "id": "b",
+                "texto": "Usar dades reals en tots els entorns de proves."
+              },
+              {
+                "id": "c",
+                "texto": "Evitar polítiques de destrucció de dades."
+              },
+              {
+                "id": "d",
+                "texto": "Unificar desenvolupament, proves i producció."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-14",
+            "enunciado": "Quina pràctica és coherent amb una bona protecció de la informació?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Compartir dades productives sense anonimitzar en proves."
+              },
+              {
+                "id": "b",
+                "texto": "Separar entorns de desenvolupament/proves de l’entorn de producció."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar les còpies de seguretat gestionades."
+              },
+              {
+                "id": "d",
+                "texto": "No definir cap cicle de vida de la dada."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-15",
+            "enunciado": "Quina activitat forma part del procés de Gestió de la Seguretat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Calcular el Payback del projecte."
+              },
+              {
+                "id": "b",
+                "texto": "Definir el preu dels serveis SaaS."
+              },
+              {
+                "id": "c",
+                "texto": "Realització, anàlisi i revisió de la política de seguretat."
+              },
+              {
+                "id": "d",
+                "texto": "Aprovar la cartera de serveis."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-16",
+            "enunciado": "Quin KPI és habitual en Gestió de la Seguretat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Percentatge de reducció en bretxes de seguretat reportades."
+              },
+              {
+                "id": "b",
+                "texto": "Nombre de Business Cases aprovats."
+              },
+              {
+                "id": "c",
+                "texto": "Marge brut del departament IT."
+              },
+              {
+                "id": "d",
+                "texto": "Nombre de serveis del portfolio."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-17",
+            "enunciado": "Quina és una responsabilitat del CISO?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Gestionar el pressupost comercial del client."
+              },
+              {
+                "id": "b",
+                "texto": "Identificar i classificar els actius d'informació."
+              },
+              {
+                "id": "c",
+                "texto": "Calcular el MTBSI dels serveis."
+              },
+              {
+                "id": "d",
+                "texto": "Preparar factures periòdiques."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-18",
+            "enunciado": "Quin paper té el CISO en relació amb els canvis?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Ignorar-los si són canvis estàndard."
+              },
+              {
+                "id": "b",
+                "texto": "Delegar-los sempre al proveïdor extern."
+              },
+              {
+                "id": "c",
+                "texto": "Assegurar que en tots els canvis s'avalua l'impacte en la seguretat."
+              },
+              {
+                "id": "d",
+                "texto": "Substituir el Change Manager."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-19",
+            "enunciado": "Quina sanció màxima administrativa introdueix el GDPR segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Fins a 2 milions d’euros o 1% de facturació."
+              },
+              {
+                "id": "b",
+                "texto": "Només una advertència formal."
+              },
+              {
+                "id": "c",
+                "texto": "Fins a 10 milions d’euros sempre."
+              },
+              {
+                "id": "d",
+                "texto": "Fins a 20 milions d’euros o fins al 4% de la facturació global, el que sigui més alt."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-20",
+            "enunciado": "Quin principi o concepte apareix dins del compliment GDPR?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Privacy by design."
+              },
+              {
+                "id": "b",
+                "texto": "MTBF by default."
+              },
+              {
+                "id": "c",
+                "texto": "Run The Business."
+              },
+              {
+                "id": "d",
+                "texto": "Direct Margin."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-21",
+            "enunciado": "Quin és l’objectiu de la Gestió de la Continuïtat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar qualsevol cost IT."
+              },
+              {
+                "id": "b",
+                "texto": "Assegurar que els recursos IT necessaris poden ser restaurats en un temps acordat després d’un desastre."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar la necessitat de plans de seguretat."
+              },
+              {
+                "id": "d",
+                "texto": "Gestionar només les auditories GDPR."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-22",
+            "enunciado": "Un desastre IT es considera...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una incidència menor resolta en minuts."
+              },
+              {
+                "id": "b",
+                "texto": "Qualsevol canvi de proveïdor."
+              },
+              {
+                "id": "c",
+                "texto": "Una pèrdua de servei prolongada que requereix reubicació no rutinària cap a un sistema o ajust alternatiu."
+              },
+              {
+                "id": "d",
+                "texto": "Una baixada temporal de pressupost."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-23",
+            "enunciado": "Quina és una prioritat del Pla de Continuïtat de Negoci?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Reduir sempre el nombre de proveïdors."
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar totes les funcions no TIC."
+              },
+              {
+                "id": "c",
+                "texto": "Prioritzar el marge comercial per sobre de tot."
+              },
+              {
+                "id": "d",
+                "texto": "Evitar pèrdues de vides humanes i reprendre operacions com més aviat millor."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-24",
+            "enunciado": "El Pla de Continuïtat de Negoci (PCN)...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Estableix la continuïtat de l’organització des de múltiples perspectives, no només TIC."
+              },
+              {
+                "id": "b",
+                "texto": "És exclusivament un procediment tècnic de restauració d’una aplicació."
+              },
+              {
+                "id": "c",
+                "texto": "Només cobreix l’àmbit del Service Desk."
+              },
+              {
+                "id": "d",
+                "texto": "No inclou recursos humans ni infraestructures físiques."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-25",
+            "enunciado": "El Pla de Continuïtat TIC o PCTIC...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "És sempre més ampli que el PCN."
+              },
+              {
+                "id": "b",
+                "texto": "És un pla dins del PCN restringit a l’àmbit tecnològic."
+              },
+              {
+                "id": "c",
+                "texto": "Només serveix per gestionar el GDPR."
+              },
+              {
+                "id": "d",
+                "texto": "No té relació amb la continuïtat de negoci."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-26",
+            "enunciado": "El Pla de Recuperació davant Desastres (PRD) es caracteritza perquè...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Té una fase d’anàlisi més profunda que el PCN."
+              },
+              {
+                "id": "b",
+                "texto": "Sempre cobreix recursos humans i logística."
+              },
+              {
+                "id": "c",
+                "texto": "És més tècnic i reactiu davant una possible catàstrofe."
+              },
+              {
+                "id": "d",
+                "texto": "Només defineix objectius SMART."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-27",
+            "enunciado": "La Gestió de la Continuïtat del Negoci (BCM) defineix i gestiona activitats per...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Garantir la continuïtat dels processos de negoci."
+              },
+              {
+                "id": "b",
+                "texto": "Calcular el cost total de propietat."
+              },
+              {
+                "id": "c",
+                "texto": "Classificar costos directes i indirectes."
+              },
+              {
+                "id": "d",
+                "texto": "Gestionar només canvis urgents."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-28",
+            "enunciado": "Les funcions crítiques del negoci són...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Funcions sense relació amb processos de negoci."
+              },
+              {
+                "id": "b",
+                "texto": "Funcions d’alta prioritat per a la subsistència dels processos de negoci."
+              },
+              {
+                "id": "c",
+                "texto": "Només aplicacions mòbils."
+              },
+              {
+                "id": "d",
+                "texto": "Només serveis externalitzats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-29",
+            "enunciado": "El BIA (Business Impact Analysis) serveix per...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Mesurar únicament la disponibilitat tècnica."
+              },
+              {
+                "id": "b",
+                "texto": "Definir tarifes del Profit Center."
+              },
+              {
+                "id": "c",
+                "texto": "Determinar les funcions crítiques de negoci i l’impacte d’una interrupció o desastre."
+              },
+              {
+                "id": "d",
+                "texto": "Seleccionar proveïdors externs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-30",
+            "enunciado": "L’anàlisi de riscos (RA) determina...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els riscos sobre les funcions crítiques del negoci."
+              },
+              {
+                "id": "b",
+                "texto": "El marge net d’un servei."
+              },
+              {
+                "id": "c",
+                "texto": "El número de preguntes del test."
+              },
+              {
+                "id": "d",
+                "texto": "El preu del catàleg de serveis."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-31",
+            "enunciado": "En continuïtat, una amenaça és...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El nivell mínim de recuperació."
+              },
+              {
+                "id": "b",
+                "texto": "La probabilitat que ocorri una interrupció en el servei."
+              },
+              {
+                "id": "c",
+                "texto": "El temps màxim tolerable de caiguda."
+              },
+              {
+                "id": "d",
+                "texto": "La còpia de seguretat principal."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-32",
+            "enunciado": "En continuïtat, vulnerabilitat significa...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La durada total d’un contracte."
+              },
+              {
+                "id": "b",
+                "texto": "La capacitat de facturar serveis interns."
+              },
+              {
+                "id": "c",
+                "texto": "Si i en quina mesura una organització es veurà afectada si es materialitza una amenaça."
+              },
+              {
+                "id": "d",
+                "texto": "La decisió de migrar a SaaS."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-33",
+            "enunciado": "El RTO (Recovery Time Objective) és...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El temps que un procés romandrà detingut abans que el seu funcionament sigui restaurat."
+              },
+              {
+                "id": "b",
+                "texto": "El temps màxim abans que hi hagi conseqüències desastroses."
+              },
+              {
+                "id": "c",
+                "texto": "El nivell mínim de recuperació acceptable."
+              },
+              {
+                "id": "d",
+                "texto": "La quantitat de dades que es poden perdre."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-34",
+            "enunciado": "El MTD (Maximum Tolerable Downtime) és...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El temps de restauració objectiu del procés."
+              },
+              {
+                "id": "b",
+                "texto": "El temps que un procés pot romandre caigut abans de conseqüències desastroses."
+              },
+              {
+                "id": "c",
+                "texto": "El percentatge de dades xifrades."
+              },
+              {
+                "id": "d",
+                "texto": "El nombre de plans testats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-35",
+            "enunciado": "El ROL (Revised Operating Level) indica...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La taxa de retorn interna."
+              },
+              {
+                "id": "b",
+                "texto": "El temps entre incidents."
+              },
+              {
+                "id": "c",
+                "texto": "El nivell mínim de recuperació perquè una activitat es consideri recuperada."
+              },
+              {
+                "id": "d",
+                "texto": "La probabilitat d’una amenaça."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-36",
+            "enunciado": "Quina activitat és fonamental en ITSCM?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Desenvolupar el pla ITSCM i provar-lo."
+              },
+              {
+                "id": "b",
+                "texto": "Aprovar totes les factures de clients."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar el BIA per reduir temps."
+              },
+              {
+                "id": "d",
+                "texto": "Substituir el BCM per IT Accounting."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-37",
+            "enunciado": "Quina seqüència és coherent amb les activitats fonamentals de continuïtat?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Facturar, comunicar, desplegar i tancar."
+              },
+              {
+                "id": "b",
+                "texto": "Acordar abast, fer BIA, fer RA, desenvolupar estratègia i pla ITSCM, provar i mantenir plans."
+              },
+              {
+                "id": "c",
+                "texto": "Dissenyar portfolio, calcular NPV i tancar SLA."
+              },
+              {
+                "id": "d",
+                "texto": "Registrar incidència, diagnosticar i restaurar."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-38",
+            "enunciado": "Quina responsabilitat té el Service Continuity Manager?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Gestionar tots els aspectes de la política de seguretat de la informació."
+              },
+              {
+                "id": "b",
+                "texto": "Preparar factures periòdiques dels clients."
+              },
+              {
+                "id": "c",
+                "texto": "Realitzar el BIA per serveis existents i nous, i mantenir el procés ITSCM."
+              },
+              {
+                "id": "d",
+                "texto": "Definir el preu de cada servei del portfolio."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-39",
+            "enunciado": "El Service Continuity Manager ha d’assegurar que els plans ITSCM...",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Siguin independents dels plans BCM."
+              },
+              {
+                "id": "b",
+                "texto": "Només cobreixin serveis sense SLA."
+              },
+              {
+                "id": "c",
+                "texto": "No requereixin proves."
+              },
+              {
+                "id": "d",
+                "texto": "Puguin aconseguir els objectius acordats i documentats en qualsevol circumstància."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t10-sec-cont-40",
+            "enunciado": "Quina diferència resumeix millor seguretat i continuïtat en aquest tema?",
+            "tipo": "unica",
+            "bloque": "Tema 10 - Service Design - Gestió Seguretat i Continuitat",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Seguretat protegeix confidencialitat, integritat i disponibilitat; continuïtat assegura restauració i operació després d’un desastre."
+              },
+              {
+                "id": "b",
+                "texto": "Seguretat és només financera i continuïtat és només legal."
+              },
+              {
+                "id": "c",
+                "texto": "Seguretat només afecta dades en proves i continuïtat només afecta producció."
+              },
+              {
+                "id": "d",
+                "texto": "No hi ha diferència: són exactament el mateix procés."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-1",
+            "enunciado": "Quin és el propòsit principal de Continual Service Improvement (CSI)?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Millorar l’estratègia, el disseny, la transició i l’operació dels serveis."
+              },
+              {
+                "id": "b",
+                "texto": "Gestionar únicament incidències crítiques."
+              },
+              {
+                "id": "c",
+                "texto": "Substituir Service Design per Service Operation."
+              },
+              {
+                "id": "d",
+                "texto": "Definir només el catàleg financer dels serveis."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-2",
+            "enunciado": "CSI busca alinear els serveis TI amb...",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els costos històrics del proveïdor."
+              },
+              {
+                "id": "b",
+                "texto": "Els requeriments canviants de Negoci."
+              },
+              {
+                "id": "c",
+                "texto": "Els objectius exclusius del Service Desk."
+              },
+              {
+                "id": "d",
+                "texto": "Les polítiques de compra de hardware."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-3",
+            "enunciado": "Quins tres àmbits busca millorar sempre CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només disponibilitat, seguretat i continuïtat."
+              },
+              {
+                "id": "b",
+                "texto": "Només CAPEX, OPEX i TCO."
+              },
+              {
+                "id": "c",
+                "texto": "L’eficàcia del servei, els processos i els costos."
+              },
+              {
+                "id": "d",
+                "texto": "Només proveïdors, contractes i factures."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-4",
+            "enunciado": "La pregunta “On estem?” dins de CSI fa referència a...",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els objectius futurs a llarg termini."
+              },
+              {
+                "id": "b",
+                "texto": "El pla d’implantació de la millora."
+              },
+              {
+                "id": "c",
+                "texto": "La visió TO-BE del servei."
+              },
+              {
+                "id": "d",
+                "texto": "Els valors actuals dels KPIs, és a dir, l’AS-IS."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-5",
+            "enunciado": "La pregunta “Quina és la nostra visió?” dins de CSI apunta a...",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "L’objectiu a llarg termini o TO-BE."
+              },
+              {
+                "id": "b",
+                "texto": "Les incidències resoltes ahir."
+              },
+              {
+                "id": "c",
+                "texto": "El cost directe del servei."
+              },
+              {
+                "id": "d",
+                "texto": "La llista de proveïdors externs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-6",
+            "enunciado": "Què pregunta CSI quan planteja “On volem estar?”",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quins són els costos indirectes?"
+              },
+              {
+                "id": "b",
+                "texto": "Quins han de ser els valors desitjats dels nostres KPIs?"
+              },
+              {
+                "id": "c",
+                "texto": "Quins proveïdors han de facturar?"
+              },
+              {
+                "id": "d",
+                "texto": "Quants usuaris té el servei?"
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-7",
+            "enunciado": "Què pregunta CSI amb “Com hi arribem?”",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quin és el nostre SLA actual?"
+              },
+              {
+                "id": "b",
+                "texto": "Quin és el nostre inventari de serveis?"
+              },
+              {
+                "id": "c",
+                "texto": "Quin és el nostre pla per assolir l’objectiu?"
+              },
+              {
+                "id": "d",
+                "texto": "Quin és el pressupost històric?"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-8",
+            "enunciado": "Quants passos té el procés de CSI per recollir i utilitzar la informació?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "4 passos."
+              },
+              {
+                "id": "b",
+                "texto": "5 passos."
+              },
+              {
+                "id": "c",
+                "texto": "6 passos."
+              },
+              {
+                "id": "d",
+                "texto": "7 passos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-9",
+            "enunciado": "Quin és el primer pas del procés de 7 passos de CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Definir els objectius."
+              },
+              {
+                "id": "b",
+                "texto": "Presentar la informació."
+              },
+              {
+                "id": "c",
+                "texto": "Processar la informació."
+              },
+              {
+                "id": "d",
+                "texto": "Implementar la millora."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-10",
+            "enunciado": "Després de definir els objectius, quin pas ve en el procés de CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Implementar la millora."
+              },
+              {
+                "id": "b",
+                "texto": "Determinar què volem mesurar."
+              },
+              {
+                "id": "c",
+                "texto": "Analitzar la informació."
+              },
+              {
+                "id": "d",
+                "texto": "Presentar i utilitzar la informació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-11",
+            "enunciado": "Quin ordre és correcte dins del procés de CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Analitzar, recollir, definir, processar."
+              },
+              {
+                "id": "b",
+                "texto": "Implementar, presentar, definir, mesurar."
+              },
+              {
+                "id": "c",
+                "texto": "Recollir informació, processar informació, analitzar informació."
+              },
+              {
+                "id": "d",
+                "texto": "Presentar informació, definir objectius, recollir informació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-12",
+            "enunciado": "Quin és l’últim pas del procés de 7 passos de CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Definir objectius."
+              },
+              {
+                "id": "b",
+                "texto": "Recollir informació."
+              },
+              {
+                "id": "c",
+                "texto": "Processar informació."
+              },
+              {
+                "id": "d",
+                "texto": "Implementar la millora."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-13",
+            "enunciado": "On s’ha de registrar tota oportunitat de millora segons el tema?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Al SKMS."
+              },
+              {
+                "id": "b",
+                "texto": "Només al correu del responsable."
+              },
+              {
+                "id": "c",
+                "texto": "A la factura del client."
+              },
+              {
+                "id": "d",
+                "texto": "Al registre de CAPEX."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-14",
+            "enunciado": "Amb quin cicle es relaciona CSI al material?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cicle de vida de dades personals."
+              },
+              {
+                "id": "b",
+                "texto": "Cicle de Deming."
+              },
+              {
+                "id": "c",
+                "texto": "Cicle de facturació mensual."
+              },
+              {
+                "id": "d",
+                "texto": "Cicle de contractació externa."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-15",
+            "enunciado": "Què necessita CSI per poder millorar el servei en qualsevol fase?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar monitoritzar per no crear soroll."
+              },
+              {
+                "id": "b",
+                "texto": "Treballar només amb impressions d’usuari."
+              },
+              {
+                "id": "c",
+                "texto": "Monitoritzar la informació i analitzar-la."
+              },
+              {
+                "id": "d",
+                "texto": "Esperar al final del contracte."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-16",
+            "enunciado": "Un aspecte clau de CSI és que és...",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Reactiu i aïllat."
+              },
+              {
+                "id": "b",
+                "texto": "Exclusiu del CISO."
+              },
+              {
+                "id": "c",
+                "texto": "Només financer."
+              },
+              {
+                "id": "d",
+                "texto": "Proactiu, no reactiu."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-17",
+            "enunciado": "Quina mentalitat necessita CSI dins de l’organització?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que tota l’organització sigui conscient de la millora contínua."
+              },
+              {
+                "id": "b",
+                "texto": "Que només el Service Desk participi en la millora."
+              },
+              {
+                "id": "c",
+                "texto": "Que la millora només es faci quan hi hagi desastre."
+              },
+              {
+                "id": "d",
+                "texto": "Que els KPIs no es facin visibles."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-18",
+            "enunciado": "Per què CSI és transversal?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè només tracta costos compartits."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè molts rols d’ITSM hi participen i afecta totes les fases."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè només aplica a serveis externalitzats."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè substitueix tots els altres processos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-19",
+            "enunciado": "Quins dos rols apareixen directament implicats en CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "CISO i Service Continuity Manager."
+              },
+              {
+                "id": "b",
+                "texto": "Process Owner i Change Manager."
+              },
+              {
+                "id": "c",
+                "texto": "CSI Analyst i CSI Manager."
+              },
+              {
+                "id": "d",
+                "texto": "Financial Manager i Portfolio Manager."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-20",
+            "enunciado": "Quina funció destaca el tema per al CSI Manager?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Assegurar la co-responsabilitat, la participació i l’execució."
+              },
+              {
+                "id": "b",
+                "texto": "Preparar factures periòdiques per als clients."
+              },
+              {
+                "id": "c",
+                "texto": "Gestionar totes les bretxes de seguretat."
+              },
+              {
+                "id": "d",
+                "texto": "Restaurar serveis després d’un desastre."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-21",
+            "enunciado": "CSI es basa en molts aspectes en quin estàndard?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "ISO 9001 únicament."
+              },
+              {
+                "id": "b",
+                "texto": "ISO 20000."
+              },
+              {
+                "id": "c",
+                "texto": "ISO 14001."
+              },
+              {
+                "id": "d",
+                "texto": "ISO 31000."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-22",
+            "enunciado": "En l’exemple del tema, si l’objectiu és “incidències < 400 mensuals”, què es mesura?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El cost directe de cada incidència."
+              },
+              {
+                "id": "b",
+                "texto": "El temps de recuperació de cada servei."
+              },
+              {
+                "id": "c",
+                "texto": "El número total d’incidències."
+              },
+              {
+                "id": "d",
+                "texto": "El percentatge de CAPEX."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-23",
+            "enunciado": "Si a partir del mes 12 es veu una tendència incremental d’incidències, quin pas de CSI s’està aplicant?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Implementar directament sense dades."
+              },
+              {
+                "id": "b",
+                "texto": "Definir el catàleg de serveis."
+              },
+              {
+                "id": "c",
+                "texto": "Facturar el servei."
+              },
+              {
+                "id": "d",
+                "texto": "Analitzar la informació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-24",
+            "enunciado": "Quin exemple encaixa amb una millora contínua de CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Millorar la disponibilitat d’un servei o reduir el nombre d’incidències."
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar totes les mètriques del servei."
+              },
+              {
+                "id": "c",
+                "texto": "Substituir el negoci pels KPIs tècnics."
+              },
+              {
+                "id": "d",
+                "texto": "Evitar revisar l’impacte de les accions."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-25",
+            "enunciado": "Quina opció és també un exemple de millora contínua segons el material?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Reduir la transparència del servei."
+              },
+              {
+                "id": "b",
+                "texto": "Millorar la satisfacció d’usuari o la rendibilitat del portfoli."
+              },
+              {
+                "id": "c",
+                "texto": "Augmentar els defectes per detectar-los millor."
+              },
+              {
+                "id": "d",
+                "texto": "Evitar mecanismes de continuïtat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-26",
+            "enunciado": "Quina afirmació és més coherent amb CSI?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només es millora quan el servei falla greument."
+              },
+              {
+                "id": "b",
+                "texto": "La millora acaba quan es presenta la informació."
+              },
+              {
+                "id": "c",
+                "texto": "Després de proposar una acció de millora, cal analitzar-ne l’impacte."
+              },
+              {
+                "id": "d",
+                "texto": "Els KPIs no serveixen per decidir millores."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ]
+          },
+          {
+            "id": "q-mqgt-2p-t13-csi-27",
+            "enunciado": "Quina pregunta de CSI comprova si la implementació ha tingut èxit?",
+            "tipo": "unica",
+            "bloque": "Tema 13 - Continual Service Improvement",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quin és el cost del proveïdor?"
+              },
+              {
+                "id": "b",
+                "texto": "Quin és el nostre inventari?"
+              },
+              {
+                "id": "c",
+                "texto": "Quin és el nostre contracte?"
+              },
+              {
+                "id": "d",
+                "texto": "Hem aconseguit els valors que volíem abans de la implementació?"
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
             ]
           }
         ]
