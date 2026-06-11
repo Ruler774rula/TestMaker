@@ -6432,7 +6432,7 @@
               },
               {
                 "id": "d",
-                "texto": "Evitar qualsevol canvi funcional en el servei."
+                "texto": "Reduir canvis funcionals encara que el client necessiti noves capacitats."
               }
             ],
             "respuestaCorrecta": [
@@ -6721,7 +6721,7 @@
               },
               {
                 "id": "b",
-                "texto": "Només pot donar servei a clients externs."
+                "texto": "Opera com a unitat autònoma, però sense comparar-se amb proveïdors externs."
               },
               {
                 "id": "c",
@@ -6779,7 +6779,7 @@
               },
               {
                 "id": "c",
-                "texto": "Només són útils per a funcions core-business."
+                "texto": "Són útils quan cal especialització, encara que la funció sigui propera al negoci."
               },
               {
                 "id": "d",
@@ -6798,7 +6798,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només proveïdor intern."
+                "texto": "Una unitat compartida si el servei és repetitiu i molt estandarditzable."
               },
               {
                 "id": "b",
@@ -6806,7 +6806,7 @@
               },
               {
                 "id": "c",
-                "texto": "Cap proveïdor."
+                "texto": "Un proveïdor intern amb suport puntual extern."
               },
               {
                 "id": "d",
@@ -6837,7 +6837,7 @@
               },
               {
                 "id": "d",
-                "texto": "Que no poden substituir cap servei intern."
+                "texto": "Que cal mantenir criteris de servei comuns encara que el client pugui comparar alternatives."
               }
             ],
             "respuestaCorrecta": [
@@ -6879,7 +6879,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Quina tipografia utilitza el catàleg del servei?"
+                "texto": "Com de difícil és mesurar el rendiment de l’activitat?"
               },
               {
                 "id": "b",
@@ -6891,7 +6891,7 @@
               },
               {
                 "id": "d",
-                "texto": "Quantes diapositives té la presentació?"
+                "texto": "Quina dependència té l’activitat amb altres serveis de l’organització?"
               }
             ],
             "respuestaCorrecta": [
@@ -6972,7 +6972,7 @@
               },
               {
                 "id": "d",
-                "texto": "Eliminar-ne la proposta de valor."
+                "texto": "Estandarditzar-lo sense revisar si el mercat objectiu el percep igual."
               }
             ],
             "respuestaCorrecta": [
@@ -7099,7 +7099,7 @@
               },
               {
                 "id": "b",
-                "texto": "Substituir tots els proveïdors interns."
+                "texto": "Finançar nous serveis que permetin créixer el negoci actual."
               },
               {
                 "id": "c",
@@ -7130,7 +7130,7 @@
               },
               {
                 "id": "c",
-                "texto": "Eliminar el portfolio de serveis."
+                "texto": "Revisar el portfolio quan apareixen serveis nous, sense reavaluar els serveis existents."
               },
               {
                 "id": "d",
@@ -7153,7 +7153,7 @@
               },
               {
                 "id": "b",
-                "texto": "Mantenir només el servei existent."
+                "texto": "Incrementar l’abast d’un servei existent dins del mateix mercat."
               },
               {
                 "id": "c",
@@ -7311,7 +7311,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només serveix per documentar actius tècnics interns."
+                "texto": "Serveix per agrupar serveis comercials, però no per decidir inversions."
               },
               {
                 "id": "b",
@@ -7323,7 +7323,7 @@
               },
               {
                 "id": "d",
-                "texto": "Només inclou serveis retirats."
+                "texto": "Inclou serveis en diferents estats, però no substitueix l’anàlisi de demanda."
               }
             ],
             "respuestaCorrecta": [
@@ -7342,7 +7342,7 @@
               },
               {
                 "id": "b",
-                "texto": "Evitar qualsevol inversió en serveis."
+                "texto": "Concentrar la inversió en serveis existents sense revisar-ne el valor obtingut."
               },
               {
                 "id": "c",
@@ -7365,11 +7365,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Substituir la gestió de la demanda i el portfolio."
+                "texto": "Prioritzar les inversions IT sense revisar la demanda prevista."
               },
               {
                 "id": "b",
-                "texto": "Gestionar només les incidències amb impacte econòmic."
+                "texto": "Analitzar costos i beneficis principalment quan el servei canvia d’abast."
               },
               {
                 "id": "c",
@@ -7396,15 +7396,15 @@
               },
               {
                 "id": "b",
-                "texto": "Només durant la fase de disseny."
+                "texto": "Principalment durant disseny i transició, deixant fora el suport posterior."
               },
               {
                 "id": "c",
-                "texto": "Només quan el servei ja està en producció."
+                "texto": "Sobretot durant l’operació, però incorporant costos de transició."
               },
               {
                 "id": "d",
-                "texto": "Només si el servei és extern."
+                "texto": "Quan hi ha costos de proveïdor, encara que els costos interns es tractin a part."
               }
             ],
             "respuestaCorrecta": [
@@ -7419,15 +7419,15 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Evitar Business Cases per accelerar projectes."
+                "texto": "Fer Business Cases principalment per projectes amb inversió inicial elevada."
               },
               {
                 "id": "b",
-                "texto": "Eliminar qualsevol model de cost intern."
+                "texto": "Separar la comptabilitat del servei de les decisions d’inversió."
               },
               {
                 "id": "c",
-                "texto": "Convertir tots els serveis en CAPEX."
+                "texto": "Prioritzar el control pressupostari per sobre de la valoració del servei."
               },
               {
                 "id": "d",
@@ -7527,15 +7527,15 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només el nombre de persones de l’equip."
+                "texto": "La criticitat del projecte i el cost estimat de mitigació."
               },
               {
                 "id": "b",
-                "texto": "Només el cost de llicències."
+                "texto": "El cost de la solució i el termini previst d’execució."
               },
               {
                 "id": "c",
-                "texto": "Només la durada del contracte."
+                "texto": "La probabilitat i impacte, però sense definir encara accions de mitigació."
               },
               {
                 "id": "d",
@@ -7635,11 +7635,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "La diferència entre CAPEX i OPEX."
+                "texto": "El moment en què el flux net acumulat compensa la inversió."
               },
               {
                 "id": "b",
-                "texto": "El percentatge de marge brut del departament."
+                "texto": "El període en què el NCF acumulat passa a ser positiu sense considerar la inversió inicial."
               },
               {
                 "id": "c",
@@ -7662,7 +7662,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Evitar el compliment dels requisits reguladors."
+                "texto": "Separar el control financer dels requisits reguladors del servei."
               },
               {
                 "id": "b",
@@ -7670,7 +7670,7 @@
               },
               {
                 "id": "c",
-                "texto": "Eliminar la necessitat de finançament."
+                "texto": "Traslladar la despesa a un altre centre de cost sense modificar el servei."
               },
               {
                 "id": "d",
@@ -7693,7 +7693,7 @@
               },
               {
                 "id": "b",
-                "texto": "Una eina només de control legal."
+                "texto": "Un sistema de control econòmic que ajuda a comparar serveis i decisions."
               },
               {
                 "id": "c",
@@ -7701,7 +7701,7 @@
               },
               {
                 "id": "d",
-                "texto": "Una activitat que només fa el proveïdor extern."
+                "texto": "Una activitat coordinada amb finances però executada per responsables de servei."
               }
             ],
             "respuestaCorrecta": [
@@ -7801,7 +7801,7 @@
               },
               {
                 "id": "b",
-                "texto": "Eliminar qualsevol model de tarifació."
+                "texto": "Usar un model de tarifació intern sense vincular-lo a consum o valor."
               },
               {
                 "id": "c",
@@ -7809,7 +7809,7 @@
               },
               {
                 "id": "d",
-                "texto": "Treballar només amb serveis commodity."
+                "texto": "Gestionar serveis interns amb preus de referència, però sense model complet d’ingressos."
               }
             ],
             "respuestaCorrecta": [
@@ -7890,7 +7890,7 @@
               },
               {
                 "id": "d",
-                "texto": "Costos que només existeixen en models SaaS."
+                "texto": "Costos compartits que es reparteixen entre diversos serveis."
               }
             ],
             "respuestaCorrecta": [
@@ -7905,7 +7905,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Eliminar-los del TCO."
+                "texto": "Agrupar-los com a despesa general sense criteri de consum."
               },
               {
                 "id": "b",
@@ -7913,11 +7913,11 @@
               },
               {
                 "id": "c",
-                "texto": "Classificar-los sempre com CAPEX."
+                "texto": "Repartir-los segons un criteri financer no acordat amb les unitats usuàries."
               },
               {
                 "id": "d",
-                "texto": "Assignar-los només al servei més car."
+                "texto": "Assignar-los segons volum d’ús sense revisar si el criteri és representatiu."
               }
             ],
             "respuestaCorrecta": [
@@ -7932,7 +7932,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Els fixos només existeixen en cloud i els variables en hardware propi."
+                "texto": "Els fixos depenen del contracte anual i els variables del proveïdor, independentment de l’activitat."
               },
               {
                 "id": "b",
@@ -7944,7 +7944,7 @@
               },
               {
                 "id": "d",
-                "texto": "No hi ha cap diferència pràctica."
+                "texto": "Els fixos canvien amb el volum contractat i els variables amb la planificació pressupostària."
               }
             ],
             "respuestaCorrecta": [
@@ -7963,7 +7963,7 @@
               },
               {
                 "id": "b",
-                "texto": "Han convertit tot OPEX en CAPEX."
+                "texto": "Han mantingut costos fixos però amb contractes mensuals més flexibles."
               },
               {
                 "id": "c",
@@ -7998,7 +7998,7 @@
               },
               {
                 "id": "d",
-                "texto": "Només apareixen en serveis externs."
+                "texto": "Es poden identificar fàcilment, però no sempre es poden imputar directament a un servei."
               }
             ],
             "respuestaCorrecta": [
@@ -8040,11 +8040,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només el cost inicial d'adquisició."
+                "texto": "El cost d’adquisició més una estimació inicial del manteniment."
               },
               {
                 "id": "b",
-                "texto": "Només els costos directes del proveïdor."
+                "texto": "Costos d’adquisició i alguns recurrents, sense incloure impactes indirectes."
               },
               {
                 "id": "c",
@@ -8052,7 +8052,7 @@
               },
               {
                 "id": "d",
-                "texto": "Només els costos intangibles."
+                "texto": "Costos difícils de mesurar com oportunitat i qualitat percebuda."
               }
             ],
             "respuestaCorrecta": [
@@ -8121,7 +8121,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Incrementar CAPEX i reduir OPEX."
+                "texto": "Convertir despesa recurrent en inversió inicial quan el consum és estable."
               },
               {
                 "id": "b",
@@ -8129,7 +8129,7 @@
               },
               {
                 "id": "c",
-                "texto": "Eliminar tant CAPEX com OPEX."
+                "texto": "Reduir el CAPEX inicial mantenint una part del cost recurrent fora del contracte."
               },
               {
                 "id": "d",
@@ -8148,7 +8148,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Un model CAPEX on compra tots els actius."
+                "texto": "Un model mixt en què la inversió inicial es redueix però es manté part del risc intern."
               },
               {
                 "id": "b",
@@ -8183,7 +8183,7 @@
               },
               {
                 "id": "c",
-                "texto": "Preparar factures periòdiques per als clients."
+                "texto": "Definir criteris d’imputació de costos en col·laboració amb l’àrea financera."
               },
               {
                 "id": "d",
@@ -8233,15 +8233,15 @@
               },
               {
                 "id": "b",
-                "texto": "Substituir la gestió financera per mètriques tècniques."
+                "texto": "Mesurar disponibilitat amb mètriques tècniques encara que no sempre reflecteixin la percepció d’usuari."
               },
               {
                 "id": "c",
-                "texto": "Eliminar tots els SLAs amb els clients."
+                "texto": "Definir objectius tècnics interns sense traduir-los a compromisos de servei."
               },
               {
                 "id": "d",
-                "texto": "Gestionar només les incidències de seguretat."
+                "texto": "Relacionar disponibilitat amb seguretat sense tractar la fiabilitat del servei."
               }
             ],
             "respuestaCorrecta": [
@@ -8256,7 +8256,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Cost, facturació i marge brut."
+                "texto": "Cost assumit, nivell de suport i finestra de manteniment."
               },
               {
                 "id": "b",
@@ -8264,7 +8264,7 @@
               },
               {
                 "id": "c",
-                "texto": "CAPEX, OPEX i TCO."
+                "texto": "Disponibilitat contractual, temps de resposta i finestra de servei."
               },
               {
                 "id": "d",
@@ -8295,7 +8295,7 @@
               },
               {
                 "id": "d",
-                "texto": "Una activitat que només apareix en Service Operation."
+                "texto": "Una pràctica dissenyada en Service Design i revisada en operació."
               }
             ],
             "respuestaCorrecta": [
@@ -8310,7 +8310,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Perquè els informes només es fan abans del desplegament."
+                "texto": "Perquè els criteris de disseny condicionen després la capacitat real de monitoritzar."
               },
               {
                 "id": "b",
@@ -8318,7 +8318,7 @@
               },
               {
                 "id": "c",
-                "texto": "Perquè només afecta serveis sense SLA."
+                "texto": "Perquè fixa criteris que després es mesuren contra els SLAs acordats."
               },
               {
                 "id": "d",
@@ -8345,7 +8345,7 @@
               },
               {
                 "id": "c",
-                "texto": "La disponibilitat només es mesura en projectes nous."
+                "texto": "La disponibilitat és més rellevant en serveis nous que encara no tenen històric."
               },
               {
                 "id": "d",
@@ -8499,7 +8499,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Mesurar només incidents ja resolts."
+                "texto": "Revisar incidents passats per definir criteris de disseny futurs."
               },
               {
                 "id": "b",
@@ -8511,7 +8511,7 @@
               },
               {
                 "id": "d",
-                "texto": "Registrar factures periòdiques dels clients."
+                "texto": "Relacionar riscos de servei amb evidències operatives i acords vigents."
               }
             ],
             "respuestaCorrecta": [
@@ -8773,15 +8773,15 @@
               },
               {
                 "id": "b",
-                "texto": "Només serveis sense clients directes."
+                "texto": "Serveis amb compromisos interns, encara que no tinguin clients externs."
               },
               {
                 "id": "c",
-                "texto": "Només aplicacions desenvolupades internament."
+                "texto": "Serveis amb components desenvolupats internament i operats per tercers."
               },
               {
                 "id": "d",
-                "texto": "Només serveis sense proveïdors externs."
+                "texto": "Serveis on el proveïdor principal no participa en el SLA final."
               }
             ],
             "respuestaCorrecta": [
@@ -8796,7 +8796,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només el maquinari físic."
+                "texto": "Els components tècnics principals, sense incloure competències ni procediments."
               },
               {
                 "id": "b",
@@ -8804,11 +8804,11 @@
               },
               {
                 "id": "c",
-                "texto": "Només la facturació dels serveis."
+                "texto": "La relació entre infraestructura, organització i suport que afecta la disponibilitat."
               },
               {
                 "id": "d",
-                "texto": "Només el catàleg comercial."
+                "texto": "El model operativo i les responsabilitats de suport associades."
               }
             ],
             "respuestaCorrecta": [
@@ -8835,7 +8835,7 @@
               },
               {
                 "id": "d",
-                "texto": "Eliminar els requeriments de disponibilitat."
+                "texto": "Redefinir requeriments de disponibilitat sense contrastar-los amb negoci."
               }
             ],
             "respuestaCorrecta": [
@@ -8885,7 +8885,7 @@
               },
               {
                 "id": "c",
-                "texto": "Només aplicable a serveis sense usuaris."
+                "texto": "Posterior a l’establiment del SLA, quan ja existeixen dades reals d’operació."
               },
               {
                 "id": "d",
@@ -8904,7 +8904,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només disseny de sistemes redundants."
+                "texto": "Seguiment de disponibilitat i anàlisi de causes amb dades d’operació."
               },
               {
                 "id": "b",
@@ -8912,7 +8912,7 @@
               },
               {
                 "id": "c",
-                "texto": "Només control de pressupost."
+                "texto": "Mesurament de costos d’indisponibilitat i seguiment de tendències del servei."
               },
               {
                 "id": "d",
@@ -8958,15 +8958,15 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només el percentatge tècnic de CPU."
+                "texto": "La disponibilitat del servei vista des de processos i funcions de negoci."
               },
               {
                 "id": "b",
-                "texto": "Només el número de tickets oberts."
+                "texto": "L’impacte de la indisponibilitat en processos i funcions vitals de negoci."
               },
               {
                 "id": "c",
-                "texto": "Només la disponibilitat de components."
+                "texto": "La disponibilitat de serveis en relació amb el valor o funció de negoci suportada."
               },
               {
                 "id": "d",
@@ -8989,15 +8989,15 @@
               },
               {
                 "id": "b",
-                "texto": "Només percentatge de disponibilitat."
+                "texto": "Percentatge d’indisponibilitat combinat amb freqüència d’incidents."
               },
               {
                 "id": "c",
-                "texto": "Només nombre de servidors afectats."
+                "texto": "Nombre de serveis afectats ponderat pel temps de parada."
               },
               {
                 "id": "d",
-                "texto": "Només marge operatiu."
+                "texto": "Durada agregada i freqüència de les interrupcions percebudes per l’usuari."
               }
             ],
             "respuestaCorrecta": [
@@ -9012,7 +9012,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "CAPEX dividit per OPEX."
+                "texto": "Disponibilitat ponderada per nombre de serveis consumits."
               },
               {
                 "id": "b",
@@ -9020,7 +9020,7 @@
               },
               {
                 "id": "c",
-                "texto": "TCO acumulat del servei."
+                "texto": "Cost d’indisponibilitat ponderat pel nombre d’usuaris afectats."
               },
               {
                 "id": "d",
@@ -9070,7 +9070,7 @@
               },
               {
                 "id": "b",
-                "texto": "Només aplica a sistemes monolítics antics."
+                "texto": "És especialment útil en arquitectures distribuïdes, encara que pot aplicar-se a altres entorns."
               },
               {
                 "id": "c",
@@ -9101,11 +9101,11 @@
               },
               {
                 "id": "c",
-                "texto": "Una mètrica financera per calcular el TCO."
+                "texto": "Un procés de control de riscos sobre informació, serveis i actius associats."
               },
               {
                 "id": "d",
-                "texto": "Una activitat només aplicable a proveïdors externs."
+                "texto": "Un procés que coordina controls interns i compromisos amb tercers."
               }
             ],
             "respuestaCorrecta": [
@@ -9120,7 +9120,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només la disponibilitat del servei."
+                "texto": "Disponibilitat i integritat, però no necessàriament confidencialitat."
               },
               {
                 "id": "b",
@@ -9128,11 +9128,11 @@
               },
               {
                 "id": "c",
-                "texto": "Només el pressupost anual del departament IT."
+                "texto": "Costos de recuperació, reputació i qualitat percebuda del servei."
               },
               {
                 "id": "d",
-                "texto": "Només la relació contractual amb proveïdors."
+                "texto": "El compliment contractual quan afecta integritat o disponibilitat."
               }
             ],
             "respuestaCorrecta": [
@@ -9151,7 +9151,7 @@
               },
               {
                 "id": "b",
-                "texto": "La seguretat només depèn dels proveïdors."
+                "texto": "Els proveïdors executen controls, però la direcció conserva la responsabilitat final."
               },
               {
                 "id": "c",
@@ -9159,7 +9159,7 @@
               },
               {
                 "id": "d",
-                "texto": "Els atacs només afecten empreses sense GDPR."
+                "texto": "El compliment normatiu redueix riscos, però no elimina la necessitat de resposta."
               }
             ],
             "respuestaCorrecta": [
@@ -9205,11 +9205,11 @@
               },
               {
                 "id": "b",
-                "texto": "Garantir que la informació només sigui visible per a clients externs."
+                "texto": "Limitar l’accés per perfil encara que alguns usuaris interns autoritzats quedin fora."
               },
               {
                 "id": "c",
-                "texto": "Eliminar totes les amenaces del servei."
+                "texto": "Reduir riscos sense definir nivells acceptables per al negoci."
               },
               {
                 "id": "d",
@@ -9286,7 +9286,7 @@
               },
               {
                 "id": "b",
-                "texto": "Només existeix si hi ha dades personals sensibles."
+                "texto": "Existeix sempre, però s’intensifica quan hi ha informació crítica o regulada."
               },
               {
                 "id": "c",
@@ -9344,7 +9344,7 @@
               },
               {
                 "id": "c",
-                "texto": "Només en el pla financer anual."
+                "texto": "Com a document annex a acords de servei o polítiques corporatives de seguretat."
               },
               {
                 "id": "d",
@@ -9367,7 +9367,7 @@
               },
               {
                 "id": "b",
-                "texto": "Només és important la informació financera."
+                "texto": "La informació operativa sol ser més crítica que la financera en serveis IT."
               },
               {
                 "id": "c",
@@ -9390,15 +9390,15 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només mesures físiques."
+                "texto": "Mesures físiques i tècniques, però sense comportaments ni processos."
               },
               {
                 "id": "b",
-                "texto": "Només mesures tècniques."
+                "texto": "Mesures tècniques i polítiques, però sense protecció física explícita."
               },
               {
                 "id": "c",
-                "texto": "Només mesures de facturació."
+                "texto": "Mesures organitzatives i contractuals de seguretat."
               },
               {
                 "id": "d",
@@ -9425,7 +9425,7 @@
               },
               {
                 "id": "c",
-                "texto": "Evitar polítiques de destrucció de dades."
+                "texto": "Definir polítiques de retenció sense criteris clars de destrucció."
               },
               {
                 "id": "d",
@@ -9452,7 +9452,7 @@
               },
               {
                 "id": "c",
-                "texto": "Eliminar les còpies de seguretat gestionades."
+                "texto": "Fer còpies de seguretat sense provar-ne periòdicament la restauració."
               },
               {
                 "id": "d",
@@ -9537,7 +9537,7 @@
               },
               {
                 "id": "d",
-                "texto": "Preparar factures periòdiques."
+                "texto": "Consolidar evidències de compliment i prioritzar riscos oberts."
               }
             ],
             "respuestaCorrecta": [
@@ -9564,7 +9564,7 @@
               },
               {
                 "id": "d",
-                "texto": "Substituir el Change Manager."
+                "texto": "Validar canvis sensibles conjuntament amb canvi i propietaris de servei."
               }
             ],
             "respuestaCorrecta": [
@@ -9583,7 +9583,7 @@
               },
               {
                 "id": "b",
-                "texto": "Només una advertència formal."
+                "texto": "Una sanció proporcional al volum de dades afectades, sense percentatge sobre facturació."
               },
               {
                 "id": "c",
@@ -9633,7 +9633,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Evitar qualsevol cost IT."
+                "texto": "Minimitzar la despesa de recuperació encara que augmenti el temps de parada."
               },
               {
                 "id": "b",
@@ -9641,11 +9641,11 @@
               },
               {
                 "id": "c",
-                "texto": "Eliminar la necessitat de plans de seguretat."
+                "texto": "Coordinar la restauració tècnica sense revisar els controls preventius."
               },
               {
                 "id": "d",
-                "texto": "Gestionar només les auditories GDPR."
+                "texto": "Coordinar evidències de compliment sense assegurar temps de restauració."
               }
             ],
             "respuestaCorrecta": [
@@ -9691,11 +9691,11 @@
               },
               {
                 "id": "b",
-                "texto": "Eliminar totes les funcions no TIC."
+                "texto": "Prioritzar recursos tecnològics davant altres dimensions de recuperació del negoci."
               },
               {
                 "id": "c",
-                "texto": "Prioritzar el marge comercial per sobre de tot."
+                "texto": "Prioritzar la recuperació dels serveis amb més impacte contractual, aunque no sean vitales."
               },
               {
                 "id": "d",
@@ -9722,7 +9722,7 @@
               },
               {
                 "id": "c",
-                "texto": "Només cobreix l’àmbit del Service Desk."
+                "texto": "Cobreix principalment l’atenció a usuaris, però pot activar altres planes de contingència."
               },
               {
                 "id": "d",
@@ -9749,7 +9749,7 @@
               },
               {
                 "id": "c",
-                "texto": "Només serveix per gestionar el GDPR."
+                "texto": "Forma part de la continuïtat quan la recuperació depèn de sistemes tecnològics."
               },
               {
                 "id": "d",
@@ -9780,7 +9780,7 @@
               },
               {
                 "id": "d",
-                "texto": "Només defineix objectius SMART."
+                "texto": "Defineix procediments de restauració amb menys profunditat d’anàlisi de negoci que un PCN."
               }
             ],
             "respuestaCorrecta": [
@@ -9807,7 +9807,7 @@
               },
               {
                 "id": "d",
-                "texto": "Gestionar només canvis urgents."
+                "texto": "Prioritzar plans de recuperació per serveis amb canvis recents abans que per criticitat."
               }
             ],
             "respuestaCorrecta": [
@@ -9830,11 +9830,11 @@
               },
               {
                 "id": "c",
-                "texto": "Només aplicacions mòbils."
+                "texto": "Funcions de suport que no són visibles per l’usuari final però sostenen processos crítics."
               },
               {
                 "id": "d",
-                "texto": "Només serveis externalitzats."
+                "texto": "Serveis amb dependències entre diverses unitats i proveïdors."
               }
             ],
             "respuestaCorrecta": [
@@ -9880,11 +9880,11 @@
               },
               {
                 "id": "b",
-                "texto": "El marge net d’un servei."
+                "texto": "La criticitat econòmica associada a una interrupció."
               },
               {
                 "id": "c",
-                "texto": "El número de preguntes del test."
+                "texto": "La freqüència amb què una amenaça pot afectar un procés crític."
               },
               {
                 "id": "d",
@@ -10042,15 +10042,15 @@
               },
               {
                 "id": "b",
-                "texto": "Aprovar totes les factures de clients."
+                "texto": "Validar que els plans tenen propietari i criteris de revisió."
               },
               {
                 "id": "c",
-                "texto": "Eliminar el BIA per reduir temps."
+                "texto": "Fer una anàlisi d’impacte centrada en els sistemes amb més visibilitat operativa."
               },
               {
                 "id": "d",
-                "texto": "Substituir el BCM per IT Accounting."
+                "texto": "Alinear el pla ITSCM amb criteris financers abans que amb processos crítics."
               }
             ],
             "respuestaCorrecta": [
@@ -10096,7 +10096,7 @@
               },
               {
                 "id": "b",
-                "texto": "Preparar factures periòdiques dels clients."
+                "texto": "Coordinar el seguiment econòmic amb responsables de servei i negoci."
               },
               {
                 "id": "c",
@@ -10123,7 +10123,7 @@
               },
               {
                 "id": "b",
-                "texto": "Només cobreixin serveis sense SLA."
+                "texto": "Cobreixin primer els serveis amb més incidències encara que no siguin els més crítics."
               },
               {
                 "id": "c",
@@ -10150,15 +10150,15 @@
               },
               {
                 "id": "b",
-                "texto": "Seguretat és només financera i continuïtat és només legal."
+                "texto": "Seguretat se centra en controls i responsabilitats; continuïtat en restauració i processos crítics."
               },
               {
                 "id": "c",
-                "texto": "Seguretat només afecta dades en proves i continuïtat només afecta producció."
+                "texto": "Seguretat redueix probabilitat i impacte; continuïtat defineix resposta quan el servei cau."
               },
               {
                 "id": "d",
-                "texto": "No hi ha diferència: són exactament el mateix procés."
+                "texto": "Tots dos processos protegeixen el servei, però amb focus i moments d’actuació diferents."
               }
             ],
             "respuestaCorrecta": [
@@ -10181,11 +10181,11 @@
               },
               {
                 "id": "c",
-                "texto": "Substituir Service Design per Service Operation."
+                "texto": "Prioritzar la millora de l’operació sense revisar estratègia ni transició."
               },
               {
                 "id": "d",
-                "texto": "Definir només el catàleg financer dels serveis."
+                "texto": "Revisar principalment els serveis amb desviacions pressupostàries."
               }
             ],
             "respuestaCorrecta": [
@@ -10227,11 +10227,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només disponibilitat, seguretat i continuïtat."
+                "texto": "Disponibilitat, qualitat operativa i percepció del client."
               },
               {
                 "id": "b",
-                "texto": "Només CAPEX, OPEX i TCO."
+                "texto": "Disponibilitat, eficiència operativa i control de costos."
               },
               {
                 "id": "c",
@@ -10239,7 +10239,7 @@
               },
               {
                 "id": "d",
-                "texto": "Només proveïdors, contractes i factures."
+                "texto": "Processos, qualitat de servei i eficiència de costos."
               }
             ],
             "respuestaCorrecta": [
@@ -10501,7 +10501,7 @@
               },
               {
                 "id": "b",
-                "texto": "Només al correu del responsable."
+                "texto": "Al backlog local de l’equip fins que es decideixi si té impacte de servei."
               },
               {
                 "id": "c",
@@ -10509,7 +10509,7 @@
               },
               {
                 "id": "d",
-                "texto": "Al registre de CAPEX."
+                "texto": "Al registre de millores associat al servei afectat."
               }
             ],
             "respuestaCorrecta": [
@@ -10551,11 +10551,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Evitar monitoritzar per no crear soroll."
+                "texto": "Monitoritzar principalment quan les desviacions del servei ja són visibles."
               },
               {
                 "id": "b",
-                "texto": "Treballar només amb impressions d’usuari."
+                "texto": "Contrastar percepció d’usuari amb mètriques de servei abans de decidir."
               },
               {
                 "id": "c",
@@ -10586,7 +10586,7 @@
               },
               {
                 "id": "c",
-                "texto": "Només financer."
+                "texto": "Orientat a indicadors de servei, procés i eficiència, amb menys pes dels costos."
               },
               {
                 "id": "d",
@@ -10609,11 +10609,11 @@
               },
               {
                 "id": "b",
-                "texto": "Que només el Service Desk participi en la millora."
+                "texto": "Que els responsables de procés comparteixin dades i criteris de millora."
               },
               {
                 "id": "c",
-                "texto": "Que la millora només es faci quan hi hagi desastre."
+                "texto": "Que la millora es gestioni com una activitat periòdica centrada en l’equip d’operació."
               },
               {
                 "id": "d",
@@ -10632,7 +10632,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Perquè només tracta costos compartits."
+                "texto": "Perquè la millora afecta processos, serveis, rols i fases del cicle de vida."
               },
               {
                 "id": "b",
@@ -10640,7 +10640,7 @@
               },
               {
                 "id": "c",
-                "texto": "Perquè només aplica a serveis externalitzats."
+                "texto": "Perquè implica processos, persones i mètriques en totes les fases del servei."
               },
               {
                 "id": "d",
@@ -10690,7 +10690,7 @@
               },
               {
                 "id": "b",
-                "texto": "Preparar factures periòdiques per als clients."
+                "texto": "Definir criteris d’imputació de costos en col·laboració amb l’àrea financera."
               },
               {
                 "id": "c",
@@ -10752,7 +10752,7 @@
               },
               {
                 "id": "d",
-                "texto": "El percentatge de CAPEX."
+                "texto": "El volum d’incidències relacionades amb el servei."
               }
             ],
             "respuestaCorrecta": [
@@ -10798,15 +10798,15 @@
               },
               {
                 "id": "b",
-                "texto": "Eliminar totes les mètriques del servei."
+                "texto": "Simplificar el quadre de comandament deixant-hi principalment indicadors operatius."
               },
               {
                 "id": "c",
-                "texto": "Substituir el negoci pels KPIs tècnics."
+                "texto": "Fer que els KPIs tècnics tinguin pes, encara que no sempre reflecteixin valor de negoci."
               },
               {
                 "id": "d",
-                "texto": "Evitar revisar l’impacte de les accions."
+                "texto": "Revisar el compliment del pla sense comparar suficientment els KPIs abans i després."
               }
             ],
             "respuestaCorrecta": [
@@ -10833,7 +10833,7 @@
               },
               {
                 "id": "d",
-                "texto": "Evitar mecanismes de continuïtat."
+                "texto": "Mantenir els mecanismes actuals sense revisar-ne la cobertura."
               }
             ],
             "respuestaCorrecta": [
@@ -10848,7 +10848,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Només es millora quan el servei falla greument."
+                "texto": "La millora es prioritza quan hi ha desviacions clares, però no hauria de esperar a una fallada greu."
               },
               {
                 "id": "b",
