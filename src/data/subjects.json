@@ -12858,6 +12858,1693 @@
             ]
           }
         ]
+      },
+      {
+        "id": "test-ats-2",
+        "titulo": "Segundo Parcial ATS - Big Data",
+        "descripcion": "Preguntas del tema 2 de ATS: Big Data, arquitecturas de datos, Hadoop, Spark y aprendizaje automatico.",
+        "preguntas": [
+          {
+            "id": "q-ats2-001",
+            "enunciado": "Segun el tema, Big Data se entiende principalmente como:",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Procesos y tecnologias para almacenar, procesar e identificar patrones en grandes volumenes de datos digitales."
+              },
+              {
+                "id": "b",
+                "texto": "Unicamente una base de datos relacional de gran tamano."
+              },
+              {
+                "id": "c",
+                "texto": "Una tecnica de compresion para reducir imagenes y video."
+              },
+              {
+                "id": "d",
+                "texto": "Un modelo de programacion exclusivo de Apache Spark."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El tema define Big Data por el volumen de datos digitales y por los mecanismos para procesarlos y extraer valor."
+          },
+          {
+            "id": "q-ats2-002",
+            "enunciado": "La digitalizacion es:",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La replicacion automatica de datos entre nodos."
+              },
+              {
+                "id": "b",
+                "texto": "La ejecucion de consultas SQL sobre un Data Warehouse."
+              },
+              {
+                "id": "c",
+                "texto": "La eliminacion de datos historicos para reducir coste."
+              },
+              {
+                "id": "d",
+                "texto": "El proceso de conversion de informacion analogica a digital."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La digitalizacion transforma informacion analogica en informacion digital."
+          },
+          {
+            "id": "q-ats2-003",
+            "enunciado": "Cual de los siguientes es un objetivo de Big Data en la industria?",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar cualquier adaptacion a cambios de demanda."
+              },
+              {
+                "id": "b",
+                "texto": "Aprovechar informacion de multiples canales para tomar decisiones en tiempo real."
+              },
+              {
+                "id": "c",
+                "texto": "Sustituir todos los servicios de Internet por procesos manuales."
+              },
+              {
+                "id": "d",
+                "texto": "Reducir la personalizacion del servicio al cliente."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El tema destaca el analisis multicanal y la toma de decisiones en tiempo real como objetivos industriales."
+          },
+          {
+            "id": "q-ats2-004",
+            "enunciado": "Cual de las siguientes opciones NO aparece como mejora u objetivo asociado a Big Data en la industria?",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Obtener ventajas competitivas."
+              },
+              {
+                "id": "b",
+                "texto": "Servir a los clientes de forma mas personalizada."
+              },
+              {
+                "id": "c",
+                "texto": "Garantizar que todos los procesos sean siempre locales y manuales."
+              },
+              {
+                "id": "d",
+                "texto": "Crear series de produccion mas cortas y rentables."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El enfoque del tema va hacia automatizacion, analisis y adaptacion, no hacia procesos manuales obligatorios."
+          },
+          {
+            "id": "q-ats2-005",
+            "enunciado": "La escalabilidad en Big Data es la capacidad de:",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Gestionar mas o menos trabajo anadiendo o eliminando recursos hardware."
+              },
+              {
+                "id": "b",
+                "texto": "Ejecutar siempre una unica tarea de forma secuencial."
+              },
+              {
+                "id": "c",
+                "texto": "Mantener los recursos fijos aunque cambie la carga."
+              },
+              {
+                "id": "d",
+                "texto": "Impedir la recuperacion ante fallos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Escalar implica adaptar recursos a una carga creciente o decreciente."
+          },
+          {
+            "id": "q-ats2-006",
+            "enunciado": "La elasticidad se diferencia de la escalabilidad porque remarca:",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El uso exclusivo de servidores fisicos dedicados."
+              },
+              {
+                "id": "b",
+                "texto": "La imposibilidad de retirar recursos una vez anadidos."
+              },
+              {
+                "id": "c",
+                "texto": "La eliminacion de la tolerancia a fallos."
+              },
+              {
+                "id": "d",
+                "texto": "La adicion o reduccion dinamica de recursos segun la carga de trabajo."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La elasticidad se centra en el ajuste dinamico de recursos."
+          },
+          {
+            "id": "q-ats2-007",
+            "enunciado": "Un sistema tolerante a errores debe:",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Apagarse si falla cualquier componente."
+              },
+              {
+                "id": "b",
+                "texto": "Continuar funcionando correctamente aunque fallen algunos componentes."
+              },
+              {
+                "id": "c",
+                "texto": "Evitar el uso de replicas."
+              },
+              {
+                "id": "d",
+                "texto": "Responder siempre con datos inconsistentes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La tolerancia a errores busca mantener el servicio a pesar de fallos parciales."
+          },
+          {
+            "id": "q-ats2-008",
+            "enunciado": "La alta disponibilidad tiene como objetivo:",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Maximizar la latencia de consulta."
+              },
+              {
+                "id": "b",
+                "texto": "Ejecutar los procesos solo en horario laboral."
+              },
+              {
+                "id": "c",
+                "texto": "Asegurar continuidad operacional durante un periodo dado."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar la monitorizacion de la plataforma."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Alta disponibilidad significa mantener continuidad operacional."
+          },
+          {
+            "id": "q-ats2-009",
+            "enunciado": "Que conjunto recoge los aspectos a tener en cuenta en Big Data segun el tema?",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Volumen, velocidad, variedad, valor y veracidad."
+              },
+              {
+                "id": "b",
+                "texto": "Volumen, virtualizacion, versionado, valor y vigilancia."
+              },
+              {
+                "id": "c",
+                "texto": "Velocidad, virtualidad, VLAN, vectorizacion y versionado."
+              },
+              {
+                "id": "d",
+                "texto": "Variedad, visualizacion, VLAN, verificacion y virtualizacion."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Son las dimensiones enumeradas en el tema para caracterizar Big Data."
+          },
+          {
+            "id": "q-ats2-010",
+            "enunciado": "Cual de estos elementos aparece como componente clave del contexto Big Data e industria inteligente?",
+            "tipo": "unica",
+            "bloque": "Fundamentos Big Data",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Compiladores monoliticos sin red."
+              },
+              {
+                "id": "b",
+                "texto": "Disquetes como medio principal de integracion."
+              },
+              {
+                "id": "c",
+                "texto": "Sistemas sin sensores ni conectividad."
+              },
+              {
+                "id": "d",
+                "texto": "Sistemas ciberfisicos, IoT, IA & Big Data y ciberseguridad."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El tema lista CPS, IoT, servicios de Internet, industria inteligente, IA & Big Data y ciberseguridad."
+          },
+          {
+            "id": "q-ats2-011",
+            "enunciado": "La analitica descriptiva se usa principalmente para:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Prescribir automaticamente todas las acciones futuras."
+              },
+              {
+                "id": "b",
+                "texto": "Resumir datos historicos para entender que ha pasado."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar las variables de valor de un sistema."
+              },
+              {
+                "id": "d",
+                "texto": "Entrenar modelos sin ningun dato historico."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La descriptiva resume datos historicos para aportar informacion util."
+          },
+          {
+            "id": "q-ats2-012",
+            "enunciado": "La analitica diagnostica responde sobre todo a la pregunta:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que archivo debe replicarse primero?"
+              },
+              {
+                "id": "b",
+                "texto": "Cuantos nodos tiene el cluster?"
+              },
+              {
+                "id": "c",
+                "texto": "Por que ha pasado un determinado hecho?"
+              },
+              {
+                "id": "d",
+                "texto": "Que lenguaje sustituye a todos los demas?"
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El objetivo diagnostico es explicar causas."
+          },
+          {
+            "id": "q-ats2-013",
+            "enunciado": "La analitica predictiva se apoya en metodos de Machine Learning para:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Encontrar tendencias y patrones con los que predecir hechos."
+              },
+              {
+                "id": "b",
+                "texto": "Prohibir la generacion de modelos."
+              },
+              {
+                "id": "c",
+                "texto": "Convertir todos los datos en texto plano sin procesar."
+              },
+              {
+                "id": "d",
+                "texto": "Evitar el uso de datos historicos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La predictiva genera modelos para anticipar comportamientos."
+          },
+          {
+            "id": "q-ats2-014",
+            "enunciado": "La analitica prescriptiva intenta:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Describir unicamente el pasado sin sugerir acciones."
+              },
+              {
+                "id": "b",
+                "texto": "Sustituir la toma de decisiones por almacenamiento sin analisis."
+              },
+              {
+                "id": "c",
+                "texto": "Clasificar ficheros por extension."
+              },
+              {
+                "id": "d",
+                "texto": "Decidir que hacer en forma de acciones a lo largo del tiempo."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El tema la relaciona con decidir acciones tras entender pasado, causas y predicciones."
+          },
+          {
+            "id": "q-ats2-015",
+            "enunciado": "En el tema, la inteligencia artificial se define como:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una base de datos sin modelo."
+              },
+              {
+                "id": "b",
+                "texto": "Inteligencia realizada por maquinas."
+              },
+              {
+                "id": "c",
+                "texto": "Unicamente un sistema de ficheros distribuido."
+              },
+              {
+                "id": "d",
+                "texto": "Una arquitectura de consulta por lotes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La definicion del tema es directa: inteligencia realizada por maquinas."
+          },
+          {
+            "id": "q-ats2-016",
+            "enunciado": "El aprendizaje automatico se caracteriza por:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Programar explicitamente cada resultado posible."
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar los algoritmos matematicos."
+              },
+              {
+                "id": "c",
+                "texto": "Desarrollar modelos a partir de ejemplos o datos para generalizar y predecir."
+              },
+              {
+                "id": "d",
+                "texto": "Trabajar solo con datos analogicos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "ML aprende patrones a partir de datos historicos o ejemplos."
+          },
+          {
+            "id": "q-ats2-017",
+            "enunciado": "La mineria de datos consiste en:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Extraer informacion implicita, desconocida y potencialmente util de grandes cantidades de datos."
+              },
+              {
+                "id": "b",
+                "texto": "Copiar datos sin analizarlos."
+              },
+              {
+                "id": "c",
+                "texto": "Borrar todo dato no estructurado."
+              },
+              {
+                "id": "d",
+                "texto": "Sustituir la estadistica por reglas fijas."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La mineria de datos busca conocimiento valioso mediante exploracion y analisis automatico."
+          },
+          {
+            "id": "q-ats2-018",
+            "enunciado": "Data Science, segun el tema, combina principalmente:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo administracion de sistemas."
+              },
+              {
+                "id": "b",
+                "texto": "Solo redes de comunicaciones."
+              },
+              {
+                "id": "c",
+                "texto": "Solo almacenamiento fisico."
+              },
+              {
+                "id": "d",
+                "texto": "Matematicas, estadistica y tecnicas como mineria de datos, clustering, visualizacion y ML."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Data Science usa varias disciplinas y tecnicas para resolver problemas con datos."
+          },
+          {
+            "id": "q-ats2-019",
+            "enunciado": "En la relacion Big Data, IA y Data Science, cual es la asociacion mas correcta?",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La IA solo almacena datos y Big Data solo hace graficos."
+              },
+              {
+                "id": "b",
+                "texto": "Data Science plantea el reto, la IA aporta mecanismos y Big Data facilita tecnologia y capacidades."
+              },
+              {
+                "id": "c",
+                "texto": "Big Data sustituye por completo a la IA y a Data Science."
+              },
+              {
+                "id": "d",
+                "texto": "Data Science es un sistema de ficheros distribuido."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El tema separa el papel de cada area de esa forma."
+          },
+          {
+            "id": "q-ats2-020",
+            "enunciado": "Una arquitectura de datos sirve para:",
+            "tipo": "unica",
+            "bloque": "Analitica, IA y datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar describir el estado de la informacion."
+              },
+              {
+                "id": "b",
+                "texto": "Impedir la integracion y el control de datos."
+              },
+              {
+                "id": "c",
+                "texto": "Estandarizar, distribuir y controlar como la organizacion transforma y utiliza los datos."
+              },
+              {
+                "id": "d",
+                "texto": "Sustituir todos los datos por imagenes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La arquitectura de datos guia el uso, integracion y control de los datos."
+          },
+          {
+            "id": "q-ats2-021",
+            "enunciado": "Una plataforma de datos es:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una solucion completa para ingerir, procesar, analizar y presentar datos de una organizacion."
+              },
+              {
+                "id": "b",
+                "texto": "Unicamente una hoja de calculo local."
+              },
+              {
+                "id": "c",
+                "texto": "Un protocolo de compresion de video."
+              },
+              {
+                "id": "d",
+                "texto": "Una tecnica para evitar la ingestion de datos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El tema define la plataforma de datos como una solucion completa para datos historicos y nuevos."
+          },
+          {
+            "id": "q-ats2-022",
+            "enunciado": "Un Data Warehouse se caracteriza por:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Guardar datos siempre sin estructura y sin transformacion."
+              },
+              {
+                "id": "b",
+                "texto": "No permitir consultas."
+              },
+              {
+                "id": "c",
+                "texto": "No usar procesos ETL."
+              },
+              {
+                "id": "d",
+                "texto": "Integrar fuentes de datos de forma estructurada mediante ETL para facilitar consultas."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El Data Warehouse prepara datos estructurados para consulta."
+          },
+          {
+            "id": "q-ats2-023",
+            "enunciado": "Una problematica del Data Warehouse indicada en el tema es:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No disponer de modelo de datos."
+              },
+              {
+                "id": "b",
+                "texto": "La integracion compleja y la dificultad con datos no estructurados."
+              },
+              {
+                "id": "c",
+                "texto": "La imposibilidad de almacenar datos historicos."
+              },
+              {
+                "id": "d",
+                "texto": "La ausencia total de transformaciones."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El documento cita integracion compleja, gran modelo de datos y dificultad con datos no estructurados."
+          },
+          {
+            "id": "q-ats2-024",
+            "enunciado": "Un Data Lake se diferencia del Data Warehouse porque:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo admite datos ya transformados mediante ETL."
+              },
+              {
+                "id": "b",
+                "texto": "Exige siempre un modelo relacional cerrado antes de almacenar."
+              },
+              {
+                "id": "c",
+                "texto": "Integra fuentes en formato origen y no parte de un modelo de datos fijo."
+              },
+              {
+                "id": "d",
+                "texto": "No puede integrar diversas fuentes de datos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El Data Lake conserva el formato origen y no impone un modelo previo."
+          },
+          {
+            "id": "q-ats2-025",
+            "enunciado": "Una dificultad del Data Lake es que:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Para consultar es necesario conocer el modelo de datos de origen."
+              },
+              {
+                "id": "b",
+                "texto": "No puede almacenar datos en formato origen."
+              },
+              {
+                "id": "c",
+                "texto": "Siempre transforma los datos antes de guardarlos."
+              },
+              {
+                "id": "d",
+                "texto": "Solo permite datos relacionales limpios."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Al no imponer modelo fijo, quien consulta debe entender el modelo de origen."
+          },
+          {
+            "id": "q-ats2-026",
+            "enunciado": "La arquitectura Lambda combina:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo una capa de visualizacion."
+              },
+              {
+                "id": "b",
+                "texto": "Solo un Data Lake sin procesamiento."
+              },
+              {
+                "id": "c",
+                "texto": "Solo modelos de aprendizaje no supervisado."
+              },
+              {
+                "id": "d",
+                "texto": "Procesamiento batch, streaming y serving para precalcular y servir resultados."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Lambda usa batch para historico, streaming para tiempo real y serving para entregar resultados."
+          },
+          {
+            "id": "q-ats2-027",
+            "enunciado": "En Lambda, la capa batch:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Procesa solo datos de sensores sin guardarlos."
+              },
+              {
+                "id": "b",
+                "texto": "Procesa la base historica y precalcula resultados segun un modelo de datos establecido."
+              },
+              {
+                "id": "c",
+                "texto": "Evita cualquier calculo previo."
+              },
+              {
+                "id": "d",
+                "texto": "Sustituye al usuario final."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La capa batch trabaja sobre datos historicos y genera vistas o resultados precalculados."
+          },
+          {
+            "id": "q-ats2-028",
+            "enunciado": "En Lambda, la capa streaming:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo copia ficheros cerrados en frio."
+              },
+              {
+                "id": "b",
+                "texto": "No puede trabajar con datos nuevos."
+              },
+              {
+                "id": "c",
+                "texto": "Procesa los datos que entran en tiempo real, normalmente con calculos aproximados."
+              },
+              {
+                "id": "d",
+                "texto": "Desactiva la capa serving."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Streaming esta orientado al flujo de datos entrante y al tiempo real."
+          },
+          {
+            "id": "q-ats2-029",
+            "enunciado": "La arquitectura Kappa simplifica Lambda porque:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Trata el batch como un stream con inicio y fin definidos."
+              },
+              {
+                "id": "b",
+                "texto": "Elimina todo procesamiento de datos."
+              },
+              {
+                "id": "c",
+                "texto": "Requiere siempre un unico servidor local."
+              },
+              {
+                "id": "d",
+                "texto": "No admite datos en tiempo real."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Kappa reduce la dualidad batch/stream tratando el lote como flujo acotado."
+          },
+          {
+            "id": "q-ats2-030",
+            "enunciado": "Edge Computing parte de la idea de:",
+            "tipo": "unica",
+            "bloque": "Arquitecturas de datos",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Enviar todos los datos personales al cloud antes de filtrarlos."
+              },
+              {
+                "id": "b",
+                "texto": "No usar dispositivos IoT."
+              },
+              {
+                "id": "c",
+                "texto": "Hacer que el cloud sea siempre el unico punto de calculo."
+              },
+              {
+                "id": "d",
+                "texto": "Aprovechar los dispositivos IoT para procesar o extraer conocimiento in situ antes de enviar datos al cloud."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Edge mueve parte del procesamiento cerca de donde se generan los datos."
+          },
+          {
+            "id": "q-ats2-031",
+            "enunciado": "Una ventaja de Edge Computing mencionada en el tema es:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar siempre toda regla o modelo inteligente."
+              },
+              {
+                "id": "b",
+                "texto": "Filtrar, limpiar y extraer conocimiento de forma inmediata cerca del origen."
+              },
+              {
+                "id": "c",
+                "texto": "Impedir el trabajo con sensores."
+              },
+              {
+                "id": "d",
+                "texto": "Aumentar obligatoriamente el envio de datos personales."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El tema lista extraccion inmediata, filtrado, limpieza y ejecucion de reglas o modelos."
+          },
+          {
+            "id": "q-ats2-032",
+            "enunciado": "Fog Computing se define como:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una tecnica para eliminar el cloud."
+              },
+              {
+                "id": "b",
+                "texto": "Un sistema que solo funciona sin red."
+              },
+              {
+                "id": "c",
+                "texto": "La extension del cloud para acercarlo a los elementos que producen y trabajan con datos IoT."
+              },
+              {
+                "id": "d",
+                "texto": "Una metrica de validacion de regresion."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Fog acerca capacidades del cloud a nodos cercanos al origen de datos."
+          },
+          {
+            "id": "q-ats2-033",
+            "enunciado": "En Federated Learning, la idea central es:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Trasladar el concepto de Edge al entrenamiento de modelos, comunicando parametros del modelo en vez de centralizar todos los datos."
+              },
+              {
+                "id": "b",
+                "texto": "Enviar siempre todos los datos sin procesar a un unico servidor."
+              },
+              {
+                "id": "c",
+                "texto": "No entrenar modelos inteligentes."
+              },
+              {
+                "id": "d",
+                "texto": "Sustituir el aprendizaje automatico por ETL."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Federated Learning entrena de forma distribuida y comparte informacion del modelo."
+          },
+          {
+            "id": "q-ats2-034",
+            "enunciado": "Un sistema distribuido es:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un unico programa sin comunicacion."
+              },
+              {
+                "id": "b",
+                "texto": "Un servidor aislado que no comparte recursos."
+              },
+              {
+                "id": "c",
+                "texto": "Una base de datos sin usuarios."
+              },
+              {
+                "id": "d",
+                "texto": "Una coleccion de componentes independientes en distintas maquinas que intercambian mensajes para objetivos comunes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El tema describe los sistemas distribuidos como componentes independientes coordinados por mensajes."
+          },
+          {
+            "id": "q-ats2-035",
+            "enunciado": "Para el usuario final, un sistema distribuido bien integrado suele aparecer como:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Varias maquinas inconexas que debe manejar manualmente."
+              },
+              {
+                "id": "b",
+                "texto": "Una unica interfaz o computadora."
+              },
+              {
+                "id": "c",
+                "texto": "Un fichero local sin red."
+              },
+              {
+                "id": "d",
+                "texto": "Un conjunto de sensores sin software."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Aunque internamente haya varias maquinas, el sistema debe presentarse como una unidad."
+          },
+          {
+            "id": "q-ats2-036",
+            "enunciado": "El patron Publish & Subscribe en la plataforma define:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un repositorio ETL para datos historicos."
+              },
+              {
+                "id": "b",
+                "texto": "Un algoritmo de regresion."
+              },
+              {
+                "id": "c",
+                "texto": "Un motor logico de envio de mensajes para gestionar comunicaciones del sistema global."
+              },
+              {
+                "id": "d",
+                "texto": "Un formato de imagen para sensores."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Publish & Subscribe centraliza logicamente la comunicacion mediante mensajes."
+          },
+          {
+            "id": "q-ats2-037",
+            "enunciado": "El teorema CAP/Brewer afirma que un repositorio distribuido no puede garantizar simultaneamente:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Consistencia, disponibilidad y tolerancia a particion."
+              },
+              {
+                "id": "b",
+                "texto": "SQL, streaming y visualizacion."
+              },
+              {
+                "id": "c",
+                "texto": "ETL, limpieza y dashboards."
+              },
+              {
+                "id": "d",
+                "texto": "Batch, serving y machine learning."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "CAP plantea la tension entre consistencia, disponibilidad y tolerancia a particiones."
+          },
+          {
+            "id": "q-ats2-038",
+            "enunciado": "En CAP, la consistencia significa que:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Todas las peticiones reciben respuesta aunque sea antigua."
+              },
+              {
+                "id": "b",
+                "texto": "El sistema ignora las particiones de red."
+              },
+              {
+                "id": "c",
+                "texto": "Los nodos no pueden replicar informacion."
+              },
+              {
+                "id": "d",
+                "texto": "Cada lectura recibe la escritura mas reciente o un error."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Esa es la definicion de consistencia recogida en el tema."
+          },
+          {
+            "id": "q-ats2-039",
+            "enunciado": "En CAP, disponibilidad significa:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cada lectura ve siempre el ultimo dato confirmado."
+              },
+              {
+                "id": "b",
+                "texto": "Toda solicitud recibe respuesta, aunque no se garantice que contenga la escritura mas reciente."
+              },
+              {
+                "id": "c",
+                "texto": "La red nunca falla."
+              },
+              {
+                "id": "d",
+                "texto": "El sistema cancela siempre cualquier operacion."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Disponibilidad prioriza responder a las solicitudes."
+          },
+          {
+            "id": "q-ats2-040",
+            "enunciado": "Cuando hay una particion de red, elegir cancelar la operacion implica normalmente:",
+            "tipo": "unica",
+            "bloque": "Distribuidos, CAP y stack",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Aumentar el riesgo de inconsistencia para maximizar disponibilidad."
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar la necesidad de tolerancia a particiones."
+              },
+              {
+                "id": "c",
+                "texto": "Reducir disponibilidad para asegurar consistencia."
+              },
+              {
+                "id": "d",
+                "texto": "Convertir el sistema en un Data Lake."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El tema contrapone cancelar para mantener consistencia frente a continuar para mantener disponibilidad."
+          },
+          {
+            "id": "q-ats2-041",
+            "enunciado": "En el stack generico Big Data, el filesystem distribuido permite:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Unificar sistemas de ficheros de varias maquinas para trabajar sobre ellas."
+              },
+              {
+                "id": "b",
+                "texto": "Evitar el uso de multiples maquinas."
+              },
+              {
+                "id": "c",
+                "texto": "Sustituir todos los datos por imagenes."
+              },
+              {
+                "id": "d",
+                "texto": "Entrenar redes neuronales sin datos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El filesystem distribuido abstrae ficheros repartidos entre maquinas."
+          },
+          {
+            "id": "q-ats2-042",
+            "enunciado": "Segun el tema, en Big Data son necesarias bases de datos no relacionales porque:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Las bases de datos tradicionales siempre trabajan mejor distribuidas."
+              },
+              {
+                "id": "b",
+                "texto": "No existen ficheros en sistemas distribuidos."
+              },
+              {
+                "id": "c",
+                "texto": "El procesamiento en tiempo real no usa datos."
+              },
+              {
+                "id": "d",
+                "texto": "Las bases de datos tradicionales no pueden trabajar de manera distribuida como requiere la plataforma."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El documento justifica las no relacionales por las necesidades distribuidas."
+          },
+          {
+            "id": "q-ats2-043",
+            "enunciado": "En la arquitectura de referencia Big Data, la capa de ingestion debe:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar los repositorios de entrada."
+              },
+              {
+                "id": "b",
+                "texto": "Dar respuesta a los requerimientos Big Data al incorporar datos a la plataforma."
+              },
+              {
+                "id": "c",
+                "texto": "Gestionar solo la interfaz visual."
+              },
+              {
+                "id": "d",
+                "texto": "Sustituir la seguridad por velocidad."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La ingestion conecta fuentes y puntos de entrada con la plataforma."
+          },
+          {
+            "id": "q-ats2-044",
+            "enunciado": "La capa de seguridad en la arquitectura de referencia debe proteger:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo el color de las graficas."
+              },
+              {
+                "id": "b",
+                "texto": "Unicamente logs de depuracion."
+              },
+              {
+                "id": "c",
+                "texto": "Privacidad de clientes, datos criticos, personales e informacion competitiva."
+              },
+              {
+                "id": "d",
+                "texto": "Solo ficheros temporales sin importancia."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La seguridad se centra en proteger activos sensibles."
+          },
+          {
+            "id": "q-ats2-045",
+            "enunciado": "Apache Hadoop es:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una plataforma Open Source de referencia para gestion de Big Data."
+              },
+              {
+                "id": "b",
+                "texto": "Un lenguaje exclusivo para dashboards."
+              },
+              {
+                "id": "c",
+                "texto": "Un sistema sin almacenamiento distribuido."
+              },
+              {
+                "id": "d",
+                "texto": "Una metrica de regresion."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El tema presenta Hadoop como plataforma Open Source por excelencia en Big Data."
+          },
+          {
+            "id": "q-ats2-046",
+            "enunciado": "Una caracteristica de Hadoop indicada en el tema es:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No usa arquitectura master-slaves."
+              },
+              {
+                "id": "b",
+                "texto": "Solo admite datos pequenos y no replicados."
+              },
+              {
+                "id": "c",
+                "texto": "No permite procesado de grandes volumenes."
+              },
+              {
+                "id": "d",
+                "texto": "HDFS con replicacion de datos, optimizado para ficheros grandes y muchos nodos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "HDFS esta pensado para grandes volumenes, replicas y escalado en cluster."
+          },
+          {
+            "id": "q-ats2-047",
+            "enunciado": "El modelo de acceso de HDFS descrito en el tema es:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Read-once write-many."
+              },
+              {
+                "id": "b",
+                "texto": "Write-once read-many."
+              },
+              {
+                "id": "c",
+                "texto": "Update-many delete-many sin restricciones."
+              },
+              {
+                "id": "d",
+                "texto": "Sin escritura ni lectura."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "HDFS favorece escribir una vez y leer muchas veces."
+          },
+          {
+            "id": "q-ats2-048",
+            "enunciado": "Por que HDFS intenta ejecutar aplicaciones cerca de donde estan los datos?",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Porque no permite computacion distribuida."
+              },
+              {
+                "id": "b",
+                "texto": "Porque asi evita cualquier paralelismo."
+              },
+              {
+                "id": "c",
+                "texto": "Porque con grandes volumenes es mas eficiente mover el calculo que trasladar los datos."
+              },
+              {
+                "id": "d",
+                "texto": "Porque las replicas no existen."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Mover grandes datos por red es costoso; se acerca el calculo a los datos."
+          },
+          {
+            "id": "q-ats2-049",
+            "enunciado": "En HDFS, Namenode y Datanode se corresponden con:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Servicios master y workers."
+              },
+              {
+                "id": "b",
+                "texto": "Metricas de clasificacion."
+              },
+              {
+                "id": "c",
+                "texto": "Capas batch y serving."
+              },
+              {
+                "id": "d",
+                "texto": "Tipos de anomalias."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El tema identifica Namenode y Datanode como servicios master y workers."
+          },
+          {
+            "id": "q-ats2-050",
+            "enunciado": "En MapReduce, la fase Map:",
+            "tipo": "unica",
+            "bloque": "Hadoop y MapReduce",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Se ejecuta despues de Reduce para borrar claves."
+              },
+              {
+                "id": "b",
+                "texto": "Solo visualiza resultados."
+              },
+              {
+                "id": "c",
+                "texto": "Impide la ejecucion paralela."
+              },
+              {
+                "id": "d",
+                "texto": "Se aplica en paralelo a cada elemento de entrada y produce pares clave-valor."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Map transforma entradas en pares que despues se agrupan por clave."
+          },
+          {
+            "id": "q-ats2-051",
+            "enunciado": "En MapReduce, la fase Reduce:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Mapea cada elemento original sin agrupar."
+              },
+              {
+                "id": "b",
+                "texto": "Se aplica a cada grupo de una misma clave para producir valores resultado."
+              },
+              {
+                "id": "c",
+                "texto": "Solo negocia recursos con YARN."
+              },
+              {
+                "id": "d",
+                "texto": "Convierte un DataFrame en una imagen."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Reduce procesa los grupos generados por clave tras la fase Map."
+          },
+          {
+            "id": "q-ats2-052",
+            "enunciado": "YARN en Hadoop se encarga de:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Definir metricas de error absoluto medio."
+              },
+              {
+                "id": "b",
+                "texto": "Convertir datos analogicos a digitales."
+              },
+              {
+                "id": "c",
+                "texto": "Gestionar recursos de computo y la ejecucion de aplicaciones en el cluster."
+              },
+              {
+                "id": "d",
+                "texto": "Ejecutar exclusivamente consultas SQL locales."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "YARN es el gestor de recursos del cluster Hadoop."
+          },
+          {
+            "id": "q-ats2-053",
+            "enunciado": "Apache Spark es principalmente:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un motor de procesado y framework distribuido para manipular y analizar grandes volumenes de datos."
+              },
+              {
+                "id": "b",
+                "texto": "Un sistema que almacena datos en disco como funcion principal."
+              },
+              {
+                "id": "c",
+                "texto": "Un protocolo IoT sin computacion."
+              },
+              {
+                "id": "d",
+                "texto": "Una tecnica de etiquetado manual."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Spark se centra en procesado distribuido, no en almacenamiento."
+          },
+          {
+            "id": "q-ats2-054",
+            "enunciado": "Una ventaja de Spark frente a Hadoop MapReduce es que:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No es tolerante a errores."
+              },
+              {
+                "id": "b",
+                "texto": "Solo permite programar en Scala sin APIs adicionales."
+              },
+              {
+                "id": "c",
+                "texto": "Siempre guarda todos los datos en disco antes de operar."
+              },
+              {
+                "id": "d",
+                "texto": "Trabaja en memoria, se centra en el procesado y suele ser mas rapido y sencillo de usar."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El tema subraya la computacion en memoria y la mayor rapidez de Spark."
+          },
+          {
+            "id": "q-ats2-055",
+            "enunciado": "El DAG Scheduler de Spark se encarga de:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Guardar datos en HDFS con write-once read-many."
+              },
+              {
+                "id": "b",
+                "texto": "Optimizar aplicaciones dividiendo operaciones en stages y organizando su ejecucion."
+              },
+              {
+                "id": "c",
+                "texto": "Sustituir el driver por un sensor virtual."
+              },
+              {
+                "id": "d",
+                "texto": "Calcular la matriz de confusion."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El DAG Scheduler organiza el plan de ejecucion de Spark."
+          },
+          {
+            "id": "q-ats2-056",
+            "enunciado": "Spark puede ejecutarse sobre diferentes Resource Managers, como:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Solo Data Warehouse y Data Lake."
+              },
+              {
+                "id": "b",
+                "texto": "Solo Lambda y Kappa."
+              },
+              {
+                "id": "c",
+                "texto": "YARN, Mesos, Kubernetes o Spark Standalone."
+              },
+              {
+                "id": "d",
+                "texto": "Unicamente GraphX."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El tema enumera esos gestores de recursos para Spark."
+          },
+          {
+            "id": "q-ats2-057",
+            "enunciado": "SparkContext se encarga de:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Gestionar la aplicacion, negociar recursos con el gestor del cluster y enviar codigo a los executors."
+              },
+              {
+                "id": "b",
+                "texto": "Definir el factor de replicacion de HDFS exclusivamente."
+              },
+              {
+                "id": "c",
+                "texto": "Hacer solo tareas de visualizacion final."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar el driver de la arquitectura."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "SparkContext vive en el driver y coordina recursos y ejecucion."
+          },
+          {
+            "id": "q-ats2-058",
+            "enunciado": "Un RDD en Spark es:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una tabla SQL local y mutable sin tolerancia a fallos."
+              },
+              {
+                "id": "b",
+                "texto": "Un fichero de log de HDFS."
+              },
+              {
+                "id": "c",
+                "texto": "Una metrica de clasificacion."
+              },
+              {
+                "id": "d",
+                "texto": "Una estructura de datos distribuida, inmutable, en memoria y recuperable ante fallos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "RDD significa Resilient Distributed Dataset."
+          },
+          {
+            "id": "q-ats2-059",
+            "enunciado": "En Spark, las acciones se diferencian de las transformaciones porque:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Las acciones crean siempre un RDD nuevo sin computar nada."
+              },
+              {
+                "id": "b",
+                "texto": "Las acciones fuerzan el computo y devuelven un valor al driver."
+              },
+              {
+                "id": "c",
+                "texto": "Las transformaciones solo sirven para apagar executors."
+              },
+              {
+                "id": "d",
+                "texto": "No existe diferencia entre ambas."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Las transformaciones definen nuevos RDDs; las acciones disparan la ejecucion."
+          },
+          {
+            "id": "q-ats2-060",
+            "enunciado": "En aprendizaje supervisado, los tipos de problemas basicos indicados son:",
+            "tipo": "unica",
+            "bloque": "Spark y Machine Learning",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Particion y replicacion."
+              },
+              {
+                "id": "b",
+                "texto": "Batch y streaming."
+              },
+              {
+                "id": "c",
+                "texto": "Regresion para variables continuas y clasificacion para variables discretas o categoricas."
+              },
+              {
+                "id": "d",
+                "texto": "Namenode y Datanode."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El tema distingue problemas regresivos y de clasificacion dentro del aprendizaje supervisado."
+          }
+        ]
       }
     ]
   },
