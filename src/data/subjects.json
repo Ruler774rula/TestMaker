@@ -12872,19 +12872,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Procesos y tecnologias para almacenar, procesar e identificar patrones en grandes volumenes de datos digitales."
+                "texto": "Procesos y tecnologias para almacenar, procesar y extraer patrones de grandes volumenes de datos digitales."
               },
               {
                 "id": "b",
-                "texto": "Unicamente una base de datos relacional de gran tamano."
+                "texto": "Un repositorio centralizado donde se guardan datos historicos ya transformados para consulta."
               },
               {
                 "id": "c",
-                "texto": "Una tecnica de compresion para reducir imagenes y video."
+                "texto": "Un enfoque de analitica que solo resume datos pasados mediante indicadores descriptivos."
               },
               {
                 "id": "d",
-                "texto": "Un modelo de programacion exclusivo de Apache Spark."
+                "texto": "Una arquitectura distribuida concreta basada siempre en HDFS, YARN y MapReduce."
               }
             ],
             "respuestaCorrecta": [
@@ -12900,19 +12900,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "La replicacion automatica de datos entre nodos."
+                "texto": "La normalizacion de datos digitales para que puedan entrar en un proceso ETL."
               },
               {
                 "id": "b",
-                "texto": "La ejecucion de consultas SQL sobre un Data Warehouse."
+                "texto": "La captura de datos IoT y su envio directo a una plataforma de datos."
               },
               {
                 "id": "c",
-                "texto": "La eliminacion de datos historicos para reducir coste."
+                "texto": "La representacion de datos ya digitales mediante un modelo comun de consulta."
               },
               {
                 "id": "d",
-                "texto": "El proceso de conversion de informacion analogica a digital."
+                "texto": "La conversion de informacion analogica en informacion digital tratable por sistemas informaticos."
               }
             ],
             "respuestaCorrecta": [
@@ -12928,19 +12928,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Evitar cualquier adaptacion a cambios de demanda."
+                "texto": "Reducir la adaptacion a la demanda mediante procesos de produccion mas estables."
               },
               {
                 "id": "b",
-                "texto": "Aprovechar informacion de multiples canales para tomar decisiones en tiempo real."
+                "texto": "Analizar informacion de multiples canales para apoyar decisiones en tiempo real."
               },
               {
                 "id": "c",
-                "texto": "Sustituir todos los servicios de Internet por procesos manuales."
+                "texto": "Centralizar todos los datos en un unico servidor para simplificar la operacion."
               },
               {
                 "id": "d",
-                "texto": "Reducir la personalizacion del servicio al cliente."
+                "texto": "Sustituir la personalizacion del servicio por reglas generales de produccion."
               }
             ],
             "respuestaCorrecta": [
@@ -12956,19 +12956,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Obtener ventajas competitivas."
+                "texto": "Obtener ventajas competitivas a partir del analisis de informacion."
               },
               {
                 "id": "b",
-                "texto": "Servir a los clientes de forma mas personalizada."
+                "texto": "Disenar y vender productos en menos tiempo usando datos del proceso."
               },
               {
                 "id": "c",
-                "texto": "Garantizar que todos los procesos sean siempre locales y manuales."
+                "texto": "Garantizar que el tratamiento de la informacion se mantenga local, manual y sin analitica."
               },
               {
                 "id": "d",
-                "texto": "Crear series de produccion mas cortas y rentables."
+                "texto": "Anadir servicios a productos fisicos mediante informacion del entorno."
               }
             ],
             "respuestaCorrecta": [
@@ -12984,19 +12984,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Gestionar mas o menos trabajo anadiendo o eliminando recursos hardware."
+                "texto": "Ajustar la capacidad del sistema ante mas o menos carga mediante adicion o retirada de recursos."
               },
               {
                 "id": "b",
-                "texto": "Ejecutar siempre una unica tarea de forma secuencial."
+                "texto": "Mantener constante la infraestructura para preservar la consistencia de las consultas."
               },
               {
                 "id": "c",
-                "texto": "Mantener los recursos fijos aunque cambie la carga."
+                "texto": "Procesar datos en memoria para reducir la latencia frente a procesos en disco."
               },
               {
                 "id": "d",
-                "texto": "Impedir la recuperacion ante fallos."
+                "texto": "Replicar los datos para que el sistema tolere la perdida de algunos nodos."
               }
             ],
             "respuestaCorrecta": [
@@ -13012,19 +13012,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "El uso exclusivo de servidores fisicos dedicados."
+                "texto": "La capacidad de crecer agregando nodos, aunque el ajuste se haga de forma planificada."
               },
               {
                 "id": "b",
-                "texto": "La imposibilidad de retirar recursos una vez anadidos."
+                "texto": "La duplicacion de bloques de datos para mejorar tolerancia a fallos."
               },
               {
                 "id": "c",
-                "texto": "La eliminacion de la tolerancia a fallos."
+                "texto": "La continuidad del servicio aunque una parte de la red quede aislada."
               },
               {
                 "id": "d",
-                "texto": "La adicion o reduccion dinamica de recursos segun la carga de trabajo."
+                "texto": "La incorporacion y retirada dinamica de recursos segun cambia la carga de trabajo."
               }
             ],
             "respuestaCorrecta": [
@@ -13040,19 +13040,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Apagarse si falla cualquier componente."
+                "texto": "Reducir la probabilidad de fallo evitando componentes distribuidos."
               },
               {
                 "id": "b",
-                "texto": "Continuar funcionando correctamente aunque fallen algunos componentes."
+                "texto": "Mantener un funcionamiento correcto aunque fallen algunos componentes del sistema."
               },
               {
                 "id": "c",
-                "texto": "Evitar el uso de replicas."
+                "texto": "Responder siempre a las peticiones, incluso si la respuesta no es la mas reciente."
               },
               {
                 "id": "d",
-                "texto": "Responder siempre con datos inconsistentes."
+                "texto": "Cancelar operaciones ante particiones para conservar la consistencia."
               }
             ],
             "respuestaCorrecta": [
@@ -13068,19 +13068,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Maximizar la latencia de consulta."
+                "texto": "Que las respuestas tengan siempre la escritura mas reciente o devuelvan error."
               },
               {
                 "id": "b",
-                "texto": "Ejecutar los procesos solo en horario laboral."
+                "texto": "Que el sistema pueda crecer sin cambiar el modelo de datos."
               },
               {
                 "id": "c",
-                "texto": "Asegurar continuidad operacional durante un periodo dado."
+                "texto": "Asegurar continuidad operacional durante un periodo determinado."
               },
               {
                 "id": "d",
-                "texto": "Eliminar la monitorizacion de la plataforma."
+                "texto": "Procesar tanto datos historicos como datos en tiempo real."
               }
             ],
             "respuestaCorrecta": [
@@ -13100,15 +13100,15 @@
               },
               {
                 "id": "b",
-                "texto": "Volumen, virtualizacion, versionado, valor y vigilancia."
+                "texto": "Volumen, velocidad, visualizacion, virtualizacion y valor."
               },
               {
                 "id": "c",
-                "texto": "Velocidad, virtualidad, VLAN, vectorizacion y versionado."
+                "texto": "Variedad, validacion, versionado, velocidad y volumen."
               },
               {
                 "id": "d",
-                "texto": "Variedad, visualizacion, VLAN, verificacion y virtualizacion."
+                "texto": "Valor, veracidad, replicacion, elasticidad y consistencia."
               }
             ],
             "respuestaCorrecta": [
@@ -13124,19 +13124,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Compiladores monoliticos sin red."
+                "texto": "ETL, Data Warehouse, consultas SQL y cuadros de mando historicos."
               },
               {
                 "id": "b",
-                "texto": "Disquetes como medio principal de integracion."
+                "texto": "HDFS, Namenode, Datanode y modelo write-once/read-many."
               },
               {
                 "id": "c",
-                "texto": "Sistemas sin sensores ni conectividad."
+                "texto": "Map, Reduce, particionado y agrupacion por clave."
               },
               {
                 "id": "d",
-                "texto": "Sistemas ciberfisicos, IoT, IA & Big Data y ciberseguridad."
+                "texto": "Sistemas ciberfisicos, IoT, servicios de Internet, IA & Big Data y ciberseguridad."
               }
             ],
             "respuestaCorrecta": [
@@ -13152,19 +13152,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Prescribir automaticamente todas las acciones futuras."
+                "texto": "Generar modelos que anticipen comportamientos futuros."
               },
               {
                 "id": "b",
-                "texto": "Resumir datos historicos para entender que ha pasado."
+                "texto": "Resumir datos historicos para entender que ha ocurrido."
               },
               {
                 "id": "c",
-                "texto": "Eliminar las variables de valor de un sistema."
+                "texto": "Elegir acciones recomendadas a partir de predicciones y objetivos."
               },
               {
                 "id": "d",
-                "texto": "Entrenar modelos sin ningun dato historico."
+                "texto": "Buscar la causa de un hecho observado en los datos."
               }
             ],
             "respuestaCorrecta": [
@@ -13180,19 +13180,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Que archivo debe replicarse primero?"
+                "texto": "Que esta pasando ahora en el flujo de datos?"
               },
               {
                 "id": "b",
-                "texto": "Cuantos nodos tiene el cluster?"
+                "texto": "Que es probable que ocurra despues?"
               },
               {
                 "id": "c",
-                "texto": "Por que ha pasado un determinado hecho?"
+                "texto": "Por que ha ocurrido este hecho?"
               },
               {
                 "id": "d",
-                "texto": "Que lenguaje sustituye a todos los demas?"
+                "texto": "Que accion conviene aplicar durante el tiempo?"
               }
             ],
             "respuestaCorrecta": [
@@ -13208,19 +13208,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Encontrar tendencias y patrones con los que predecir hechos."
+                "texto": "Construir modelos para detectar tendencias o patrones y anticipar hechos."
               },
               {
                 "id": "b",
-                "texto": "Prohibir la generacion de modelos."
+                "texto": "Explicar las causas de un suceso ya observado mediante contraste de variables."
               },
               {
                 "id": "c",
-                "texto": "Convertir todos los datos en texto plano sin procesar."
+                "texto": "Calcular indicadores historicos sin proyectarlos hacia el futuro."
               },
               {
                 "id": "d",
-                "texto": "Evitar el uso de datos historicos."
+                "texto": "Seleccionar la accion optima tras una recomendacion prescriptiva."
               }
             ],
             "respuestaCorrecta": [
@@ -13236,19 +13236,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Describir unicamente el pasado sin sugerir acciones."
+                "texto": "Agrupar datos no etiquetados para descubrir relaciones internas."
               },
               {
                 "id": "b",
-                "texto": "Sustituir la toma de decisiones por almacenamiento sin analisis."
+                "texto": "Describir la evolucion historica de una variable."
               },
               {
                 "id": "c",
-                "texto": "Clasificar ficheros por extension."
+                "texto": "Predecir el valor futuro de una variable continua."
               },
               {
                 "id": "d",
-                "texto": "Decidir que hacer en forma de acciones a lo largo del tiempo."
+                "texto": "Determinar que acciones deben realizarse a partir de lo ocurrido, sus causas y lo probable."
               }
             ],
             "respuestaCorrecta": [
@@ -13264,7 +13264,7 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Una base de datos sin modelo."
+                "texto": "Un conjunto de tecnicas estadisticas aplicadas solo a datos historicos."
               },
               {
                 "id": "b",
@@ -13272,11 +13272,11 @@
               },
               {
                 "id": "c",
-                "texto": "Unicamente un sistema de ficheros distribuido."
+                "texto": "Una plataforma de datos para ingerir y visualizar informacion."
               },
               {
                 "id": "d",
-                "texto": "Una arquitectura de consulta por lotes."
+                "texto": "La aplicacion de ETL para transformar datos no estructurados."
               }
             ],
             "respuestaCorrecta": [
@@ -13292,19 +13292,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Programar explicitamente cada resultado posible."
+                "texto": "Codificar reglas explicitas para cada posible salida del sistema."
               },
               {
                 "id": "b",
-                "texto": "Eliminar los algoritmos matematicos."
+                "texto": "Usar solo consultas SQL para obtener resultados exactos."
               },
               {
                 "id": "c",
-                "texto": "Desarrollar modelos a partir de ejemplos o datos para generalizar y predecir."
+                "texto": "Aprender modelos a partir de ejemplos o datos para generalizar comportamientos."
               },
               {
                 "id": "d",
-                "texto": "Trabajar solo con datos analogicos."
+                "texto": "Precalcular vistas historicas mediante la capa batch."
               }
             ],
             "respuestaCorrecta": [
@@ -13320,19 +13320,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Extraer informacion implicita, desconocida y potencialmente util de grandes cantidades de datos."
+                "texto": "Extraer informacion implicita, desconocida y potencialmente util mediante exploracion y analisis de grandes datos."
               },
               {
                 "id": "b",
-                "texto": "Copiar datos sin analizarlos."
+                "texto": "Definir un modelo estructurado previo para consultar datos historicos."
               },
               {
                 "id": "c",
-                "texto": "Borrar todo dato no estructurado."
+                "texto": "Entrenar un agente mediante recompensas dentro de un entorno."
               },
               {
                 "id": "d",
-                "texto": "Sustituir la estadistica por reglas fijas."
+                "texto": "Separar datos en lotes para que Spark los procese en micro-batches."
               }
             ],
             "respuestaCorrecta": [
@@ -13348,19 +13348,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Solo administracion de sistemas."
+                "texto": "Programacion distribuida, gestion de recursos y replicacion HDFS."
               },
               {
                 "id": "b",
-                "texto": "Solo redes de comunicaciones."
+                "texto": "Solo algoritmos supervisados aplicados sobre datos etiquetados."
               },
               {
                 "id": "c",
-                "texto": "Solo almacenamiento fisico."
+                "texto": "Unicamente mineria de datos y consultas SQL."
               },
               {
                 "id": "d",
-                "texto": "Matematicas, estadistica y tecnicas como mineria de datos, clustering, visualizacion y ML."
+                "texto": "Matematicas, estadistica y tecnicas como mineria, clustering, visualizacion y aprendizaje automatico."
               }
             ],
             "respuestaCorrecta": [
@@ -13376,19 +13376,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "La IA solo almacena datos y Big Data solo hace graficos."
+                "texto": "Big Data plantea el problema, Data Science almacena datos y la IA solo visualiza resultados."
               },
               {
                 "id": "b",
-                "texto": "Data Science plantea el reto, la IA aporta mecanismos y Big Data facilita tecnologia y capacidades."
+                "texto": "Data Science afronta el reto, la IA proporciona mecanismos y Big Data aporta tecnologia y capacidad."
               },
               {
                 "id": "c",
-                "texto": "Big Data sustituye por completo a la IA y a Data Science."
+                "texto": "La IA define la arquitectura fisica, Big Data etiqueta los datos y Data Science replica bloques."
               },
               {
                 "id": "d",
-                "texto": "Data Science es un sistema de ficheros distribuido."
+                "texto": "Data Science se limita al Data Warehouse y Big Data al entrenamiento de modelos."
               }
             ],
             "respuestaCorrecta": [
@@ -13404,19 +13404,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Evitar describir el estado de la informacion."
+                "texto": "Un conjunto de herramientas de visualizacion para consultar datos estructurados."
               },
               {
                 "id": "b",
-                "texto": "Impedir la integracion y el control de datos."
+                "texto": "Una solucion completa para ingerir, procesar, analizar y presentar informacion."
               },
               {
                 "id": "c",
-                "texto": "Estandarizar, distribuir y controlar como la organizacion transforma y utiliza los datos."
+                "texto": "El proceso organizativo que estandariza, distribuye, integra y controla como se usan los datos."
               },
               {
                 "id": "d",
-                "texto": "Sustituir todos los datos por imagenes."
+                "texto": "El repositorio donde se almacenan datos en formato origen sin modelo fijo."
               }
             ],
             "respuestaCorrecta": [
@@ -13432,19 +13432,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Una solucion completa para ingerir, procesar, analizar y presentar datos de una organizacion."
+                "texto": "Una solucion integral para ingerir, procesar, analizar y presentar datos historicos y nuevos."
               },
               {
                 "id": "b",
-                "texto": "Unicamente una hoja de calculo local."
+                "texto": "El diseno logico que define requisitos, integracion y control de los datos."
               },
               {
                 "id": "c",
-                "texto": "Un protocolo de compresion de video."
+                "texto": "Un repositorio estructurado construido mediante ETL para consultas preparadas."
               },
               {
                 "id": "d",
-                "texto": "Una tecnica para evitar la ingestion de datos."
+                "texto": "Un motor de mensajeria que desacopla productores y consumidores."
               }
             ],
             "respuestaCorrecta": [
@@ -13460,19 +13460,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Guardar datos siempre sin estructura y sin transformacion."
+                "texto": "Almacenar datos en formato origen sin imponer modelo antes de consultarlos."
               },
               {
                 "id": "b",
-                "texto": "No permitir consultas."
+                "texto": "Procesar flujos en tiempo real mediante algoritmos aproximados."
               },
               {
                 "id": "c",
-                "texto": "No usar procesos ETL."
+                "texto": "Entrenar modelos distribuidos sin centralizar datos personales."
               },
               {
                 "id": "d",
-                "texto": "Integrar fuentes de datos de forma estructurada mediante ETL para facilitar consultas."
+                "texto": "Integrar fuentes de forma estructurada mediante ETL para dejar datos preparados para consulta."
               }
             ],
             "respuestaCorrecta": [
@@ -13488,19 +13488,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "No disponer de modelo de datos."
+                "texto": "La necesidad de conocer el modelo de origen para cada consulta ad hoc."
               },
               {
                 "id": "b",
-                "texto": "La integracion compleja y la dificultad con datos no estructurados."
+                "texto": "La integracion compleja, el gran modelo de datos y la dificultad con datos no estructurados."
               },
               {
                 "id": "c",
-                "texto": "La imposibilidad de almacenar datos historicos."
+                "texto": "La imposibilidad de aplicar transformaciones antes de consultar."
               },
               {
                 "id": "d",
-                "texto": "La ausencia total de transformaciones."
+                "texto": "La falta de un repositorio unico para integrar diversas fuentes."
               }
             ],
             "respuestaCorrecta": [
@@ -13516,11 +13516,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Solo admite datos ya transformados mediante ETL."
+                "texto": "Requiere ETL previo para transformar todas las fuentes a un modelo comun."
               },
               {
                 "id": "b",
-                "texto": "Exige siempre un modelo relacional cerrado antes de almacenar."
+                "texto": "Esta pensado solo para consultas historicas con datos limpios y estructurados."
               },
               {
                 "id": "c",
@@ -13528,7 +13528,7 @@
               },
               {
                 "id": "d",
-                "texto": "No puede integrar diversas fuentes de datos."
+                "texto": "Evita guardar datos no estructurados para reducir complejidad."
               }
             ],
             "respuestaCorrecta": [
@@ -13544,19 +13544,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Para consultar es necesario conocer el modelo de datos de origen."
+                "texto": "Quien consulta debe conocer el modelo de los datos de origen."
               },
               {
                 "id": "b",
-                "texto": "No puede almacenar datos en formato origen."
+                "texto": "Los datos se transforman demasiado pronto mediante ETL."
               },
               {
                 "id": "c",
-                "texto": "Siempre transforma los datos antes de guardarlos."
+                "texto": "Solo permite consultas sobre esquemas relacionales cerrados."
               },
               {
                 "id": "d",
-                "texto": "Solo permite datos relacionales limpios."
+                "texto": "No puede integrar informacion de fuentes heterogeneas."
               }
             ],
             "respuestaCorrecta": [
@@ -13572,19 +13572,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Solo una capa de visualizacion."
+                "texto": "Una capa de ingestion, otra de seguridad y otra de visualizacion."
               },
               {
                 "id": "b",
-                "texto": "Solo un Data Lake sin procesamiento."
+                "texto": "Un Data Lake en bruto y un Data Warehouse con ETL."
               },
               {
                 "id": "c",
-                "texto": "Solo modelos de aprendizaje no supervisado."
+                "texto": "Un motor de mensajes y una base no relacional."
               },
               {
                 "id": "d",
-                "texto": "Procesamiento batch, streaming y serving para precalcular y servir resultados."
+                "texto": "Batch, streaming y serving para combinar historico, tiempo real y entrega de resultados."
               }
             ],
             "respuestaCorrecta": [
@@ -13600,19 +13600,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Procesa solo datos de sensores sin guardarlos."
+                "texto": "Consume eventos recientes y calcula respuestas aproximadas de baja latencia."
               },
               {
                 "id": "b",
-                "texto": "Procesa la base historica y precalcula resultados segun un modelo de datos establecido."
+                "texto": "Procesa la base historica y precalcula resultados segun un modelo establecido."
               },
               {
                 "id": "c",
-                "texto": "Evita cualquier calculo previo."
+                "texto": "Une resultados y los expone a los usuarios cuando los solicitan."
               },
               {
                 "id": "d",
-                "texto": "Sustituye al usuario final."
+                "texto": "Sustituye el lote por un stream con inicio y fin definidos."
               }
             ],
             "respuestaCorrecta": [
@@ -13628,19 +13628,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Solo copia ficheros cerrados en frio."
+                "texto": "Lee todo el historico para recalcular vistas completas con maxima exactitud."
               },
               {
                 "id": "b",
-                "texto": "No puede trabajar con datos nuevos."
+                "texto": "Consolida resultados batch y stream para servir consultas finales."
               },
               {
                 "id": "c",
-                "texto": "Procesa los datos que entran en tiempo real, normalmente con calculos aproximados."
+                "texto": "Procesa datos entrantes en tiempo real usando calculos normalmente aproximados."
               },
               {
                 "id": "d",
-                "texto": "Desactiva la capa serving."
+                "texto": "Define el modelo fijo sobre el que se preparan consultas historicas."
               }
             ],
             "respuestaCorrecta": [
@@ -13656,19 +13656,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Trata el batch como un stream con inicio y fin definidos."
+                "texto": "Considera el lote como un stream acotado, con inicio y fin."
               },
               {
                 "id": "b",
-                "texto": "Elimina todo procesamiento de datos."
+                "texto": "Mantiene dos caminos separados para batch y streaming como Lambda."
               },
               {
                 "id": "c",
-                "texto": "Requiere siempre un unico servidor local."
+                "texto": "Elimina el procesamiento en tiempo real y conserva solo batch."
               },
               {
                 "id": "d",
-                "texto": "No admite datos en tiempo real."
+                "texto": "Sustituye la capa serving por un Data Warehouse relacional."
               }
             ],
             "respuestaCorrecta": [
@@ -13684,19 +13684,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Enviar todos los datos personales al cloud antes de filtrarlos."
+                "texto": "Centralizar todos los eventos IoT en el cloud antes de filtrarlos."
               },
               {
                 "id": "b",
-                "texto": "No usar dispositivos IoT."
+                "texto": "Desplegar el Data Warehouse cerca de los usuarios de negocio."
               },
               {
                 "id": "c",
-                "texto": "Hacer que el cloud sea siempre el unico punto de calculo."
+                "texto": "Replicar HDFS en nodos cercanos al Namenode."
               },
               {
                 "id": "d",
-                "texto": "Aprovechar los dispositivos IoT para procesar o extraer conocimiento in situ antes de enviar datos al cloud."
+                "texto": "Procesar, filtrar o extraer conocimiento en dispositivos cercanos al origen antes de enviar datos al cloud."
               }
             ],
             "respuestaCorrecta": [
@@ -13712,19 +13712,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Eliminar siempre toda regla o modelo inteligente."
+                "texto": "Aumentar la dependencia del cloud para todos los calculos intermedios."
               },
               {
                 "id": "b",
-                "texto": "Filtrar, limpiar y extraer conocimiento de forma inmediata cerca del origen."
+                "texto": "Filtrar, limpiar y extraer conocimiento de forma inmediata cerca de la fuente de datos."
               },
               {
                 "id": "c",
-                "texto": "Impedir el trabajo con sensores."
+                "texto": "Reemplazar la ejecucion de reglas por almacenamiento historico."
               },
               {
                 "id": "d",
-                "texto": "Aumentar obligatoriamente el envio de datos personales."
+                "texto": "Centralizar datos personales para entrenar modelos globales."
               }
             ],
             "respuestaCorrecta": [
@@ -13740,19 +13740,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Una tecnica para eliminar el cloud."
+                "texto": "Un procesamiento local dentro del propio sensor sin apoyo de red."
               },
               {
                 "id": "b",
-                "texto": "Un sistema que solo funciona sin red."
+                "texto": "Una arquitectura que sustituye el cloud por completo en todos los casos."
               },
               {
                 "id": "c",
-                "texto": "La extension del cloud para acercarlo a los elementos que producen y trabajan con datos IoT."
+                "texto": "Una extension del cloud hacia nodos cercanos a los elementos que producen datos IoT."
               },
               {
                 "id": "d",
-                "texto": "Una metrica de validacion de regresion."
+                "texto": "Un mecanismo de Spark para ejecutar transformaciones en memoria."
               }
             ],
             "respuestaCorrecta": [
@@ -13768,19 +13768,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Trasladar el concepto de Edge al entrenamiento de modelos, comunicando parametros del modelo en vez de centralizar todos los datos."
+                "texto": "Entrenar modelos de forma distribuida compartiendo parametros o actualizaciones en lugar de centralizar todos los datos."
               },
               {
                 "id": "b",
-                "texto": "Enviar siempre todos los datos sin procesar a un unico servidor."
+                "texto": "Enviar todos los datos crudos a un unico nodo para maximizar la exactitud del entrenamiento."
               },
               {
                 "id": "c",
-                "texto": "No entrenar modelos inteligentes."
+                "texto": "Aplicar ETL para transformar datos antes de almacenarlos en un Data Warehouse."
               },
               {
                 "id": "d",
-                "texto": "Sustituir el aprendizaje automatico por ETL."
+                "texto": "Ejecutar consultas SQL sobre DataFrames distribuidos."
               }
             ],
             "respuestaCorrecta": [
@@ -13796,19 +13796,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Un unico programa sin comunicacion."
+                "texto": "Una arquitectura donde todos los componentes comparten memoria local."
               },
               {
                 "id": "b",
-                "texto": "Un servidor aislado que no comparte recursos."
+                "texto": "Un repositorio unico que transforma fuentes con ETL antes de guardar."
               },
               {
                 "id": "c",
-                "texto": "Una base de datos sin usuarios."
+                "texto": "Un cluster Hadoop limitado a Namenode y Datanode."
               },
               {
                 "id": "d",
-                "texto": "Una coleccion de componentes independientes en distintas maquinas que intercambian mensajes para objetivos comunes."
+                "texto": "Componentes independientes en distintas maquinas que intercambian mensajes para objetivos comunes."
               }
             ],
             "respuestaCorrecta": [
@@ -13824,19 +13824,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Varias maquinas inconexas que debe manejar manualmente."
+                "texto": "Una coleccion visible de nodos independientes que el usuario coordina manualmente."
               },
               {
                 "id": "b",
-                "texto": "Una unica interfaz o computadora."
+                "texto": "Una unica interfaz o computadora, aunque internamente existan varios componentes."
               },
               {
                 "id": "c",
-                "texto": "Un fichero local sin red."
+                "texto": "Un conjunto de servicios separados, cada uno con su propia experiencia de usuario."
               },
               {
                 "id": "d",
-                "texto": "Un conjunto de sensores sin software."
+                "texto": "Una base no relacional que evita la comunicacion entre maquinas."
               }
             ],
             "respuestaCorrecta": [
@@ -13852,19 +13852,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Un repositorio ETL para datos historicos."
+                "texto": "Un proceso ETL para transformar datos y preparar consultas historicas."
               },
               {
                 "id": "b",
-                "texto": "Un algoritmo de regresion."
+                "texto": "Una tecnica de particionado de RDDs para reducir movimientos de datos."
               },
               {
                 "id": "c",
-                "texto": "Un motor logico de envio de mensajes para gestionar comunicaciones del sistema global."
+                "texto": "Un motor logico de mensajeria para gestionar comunicaciones entre partes del sistema."
               },
               {
                 "id": "d",
-                "texto": "Un formato de imagen para sensores."
+                "texto": "Una politica CAP que prioriza disponibilidad frente a consistencia."
               }
             ],
             "respuestaCorrecta": [
@@ -13880,19 +13880,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Consistencia, disponibilidad y tolerancia a particion."
+                "texto": "Consistencia, disponibilidad y tolerancia a particiones."
               },
               {
                 "id": "b",
-                "texto": "SQL, streaming y visualizacion."
+                "texto": "Escalabilidad, elasticidad y alta disponibilidad."
               },
               {
                 "id": "c",
-                "texto": "ETL, limpieza y dashboards."
+                "texto": "Batch, streaming y serving."
               },
               {
                 "id": "d",
-                "texto": "Batch, serving y machine learning."
+                "texto": "Ingestion, almacenamiento y visualizacion."
               }
             ],
             "respuestaCorrecta": [
@@ -13908,19 +13908,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Todas las peticiones reciben respuesta aunque sea antigua."
+                "texto": "Toda solicitud recibe respuesta, aunque pueda ser una version antigua."
               },
               {
                 "id": "b",
-                "texto": "El sistema ignora las particiones de red."
+                "texto": "El sistema sigue funcionando si se corta la comunicacion entre nodos."
               },
               {
                 "id": "c",
-                "texto": "Los nodos no pueden replicar informacion."
+                "texto": "Las replicas se distribuyen de forma automatica entre maquinas."
               },
               {
                 "id": "d",
-                "texto": "Cada lectura recibe la escritura mas reciente o un error."
+                "texto": "Cada lectura obtiene la escritura mas reciente o devuelve un error."
               }
             ],
             "respuestaCorrecta": [
@@ -13936,19 +13936,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Cada lectura ve siempre el ultimo dato confirmado."
+                "texto": "La lectura siempre refleja la ultima escritura confirmada."
               },
               {
                 "id": "b",
-                "texto": "Toda solicitud recibe respuesta, aunque no se garantice que contenga la escritura mas reciente."
+                "texto": "Todas las solicitudes reciben respuesta, sin garantizar siempre la escritura mas reciente."
               },
               {
                 "id": "c",
-                "texto": "La red nunca falla."
+                "texto": "El sistema conserva operacion aunque la red se divida en particiones."
               },
               {
                 "id": "d",
-                "texto": "El sistema cancela siempre cualquier operacion."
+                "texto": "Las operaciones se cancelan para evitar inconsistencias."
               }
             ],
             "respuestaCorrecta": [
@@ -13964,11 +13964,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Aumentar el riesgo de inconsistencia para maximizar disponibilidad."
+                "texto": "Priorizar disponibilidad y asumir riesgo de inconsistencia."
               },
               {
                 "id": "b",
-                "texto": "Eliminar la necesidad de tolerancia a particiones."
+                "texto": "Mantener tolerancia a particiones sin afectar consistencia ni disponibilidad."
               },
               {
                 "id": "c",
@@ -13976,7 +13976,7 @@
               },
               {
                 "id": "d",
-                "texto": "Convertir el sistema en un Data Lake."
+                "texto": "Recalcular el historico mediante la capa batch."
               }
             ],
             "respuestaCorrecta": [
@@ -13992,19 +13992,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Unificar sistemas de ficheros de varias maquinas para trabajar sobre ellas."
+                "texto": "Abstraer y unificar sistemas de ficheros repartidos entre distintas maquinas."
               },
               {
                 "id": "b",
-                "texto": "Evitar el uso de multiples maquinas."
+                "texto": "Gestionar los recursos de computo y asignar executors a workers."
               },
               {
                 "id": "c",
-                "texto": "Sustituir todos los datos por imagenes."
+                "texto": "Proporcionar consultas rapidas de baja latencia a usuarios finales."
               },
               {
                 "id": "d",
-                "texto": "Entrenar redes neuronales sin datos."
+                "texto": "Ejecutar algoritmos distribuidos de aprendizaje automatico."
               }
             ],
             "respuestaCorrecta": [
@@ -14020,19 +14020,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Las bases de datos tradicionales siempre trabajan mejor distribuidas."
+                "texto": "Porque eliminan la necesidad de replicar datos en clusters."
               },
               {
                 "id": "b",
-                "texto": "No existen ficheros en sistemas distribuidos."
+                "texto": "Porque permiten mantener un modelo relacional fijo para cualquier volumen."
               },
               {
                 "id": "c",
-                "texto": "El procesamiento en tiempo real no usa datos."
+                "texto": "Porque sustituyen al sistema de ficheros distribuido."
               },
               {
                 "id": "d",
-                "texto": "Las bases de datos tradicionales no pueden trabajar de manera distribuida como requiere la plataforma."
+                "texto": "Porque las bases tradicionales no cubren bien el trabajo distribuido requerido por Big Data."
               }
             ],
             "respuestaCorrecta": [
@@ -14048,19 +14048,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Eliminar los repositorios de entrada."
+                "texto": "Coordinar la privacidad de datos criticos y personales."
               },
               {
                 "id": "b",
-                "texto": "Dar respuesta a los requerimientos Big Data al incorporar datos a la plataforma."
+                "texto": "Incorporar datos desde fuentes y puntos de entrada cumpliendo requisitos Big Data."
               },
               {
                 "id": "c",
-                "texto": "Gestionar solo la interfaz visual."
+                "texto": "Orquestar el cluster y presentar cuadros de administracion."
               },
               {
                 "id": "d",
-                "texto": "Sustituir la seguridad por velocidad."
+                "texto": "Ejecutar consultas inteligentes sobre repositorios ya almacenados."
               }
             ],
             "respuestaCorrecta": [
@@ -14076,19 +14076,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Solo el color de las graficas."
+                "texto": "El estado de nodos, recursos, procesos y KPIs de rendimiento."
               },
               {
                 "id": "b",
-                "texto": "Unicamente logs de depuracion."
+                "texto": "El acceso a disco de todos los nodos del cluster."
               },
               {
                 "id": "c",
-                "texto": "Privacidad de clientes, datos criticos, personales e informacion competitiva."
+                "texto": "Privacidad de clientes, datos criticos, datos personales e informacion competitiva."
               },
               {
                 "id": "d",
-                "texto": "Solo ficheros temporales sin importancia."
+                "texto": "Los motores de analitica en tiempo real y de busqueda."
               }
             ],
             "respuestaCorrecta": [
@@ -14104,19 +14104,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Una plataforma Open Source de referencia para gestion de Big Data."
+                "texto": "Una plataforma Open Source de referencia para almacenar y procesar grandes volumenes de datos."
               },
               {
                 "id": "b",
-                "texto": "Un lenguaje exclusivo para dashboards."
+                "texto": "Un modulo de Spark especializado en datos estructurados."
               },
               {
                 "id": "c",
-                "texto": "Un sistema sin almacenamiento distribuido."
+                "texto": "Un patron de arquitectura que combina batch, streaming y serving."
               },
               {
                 "id": "d",
-                "texto": "Una metrica de regresion."
+                "texto": "Un algoritmo supervisado para clasificacion distribuida."
               }
             ],
             "respuestaCorrecta": [
@@ -14132,19 +14132,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "No usa arquitectura master-slaves."
+                "texto": "Un sistema de ficheros local optimizado para actualizaciones frecuentes de pequenos ficheros."
               },
               {
                 "id": "b",
-                "texto": "Solo admite datos pequenos y no replicados."
+                "texto": "Un motor centrado solo en memoria y sin almacenamiento propio."
               },
               {
                 "id": "c",
-                "texto": "No permite procesado de grandes volumenes."
+                "texto": "Una capa de serving que combina resultados batch y streaming."
               },
               {
                 "id": "d",
-                "texto": "HDFS con replicacion de datos, optimizado para ficheros grandes y muchos nodos."
+                "texto": "HDFS con replicacion, orientado a ficheros grandes y escalado a muchos nodos."
               }
             ],
             "respuestaCorrecta": [
@@ -14160,19 +14160,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Read-once write-many."
+                "texto": "Write-many/read-once, para registrar muchas versiones y leer solo la ultima."
               },
               {
                 "id": "b",
-                "texto": "Write-once read-many."
+                "texto": "Write-once/read-many, con escritura unica y multiples lecturas posteriores."
               },
               {
                 "id": "c",
-                "texto": "Update-many delete-many sin restricciones."
+                "texto": "Update-in-place, para modificar bloques frecuentemente en el cluster."
               },
               {
                 "id": "d",
-                "texto": "Sin escritura ni lectura."
+                "texto": "Read-only, porque HDFS no admite escritura de datos de usuario."
               }
             ],
             "respuestaCorrecta": [
@@ -14188,19 +14188,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Porque no permite computacion distribuida."
+                "texto": "Porque las aplicaciones Spark solo se ejecutan sobre Datanodes locales."
               },
               {
                 "id": "b",
-                "texto": "Porque asi evita cualquier paralelismo."
+                "texto": "Porque Namenode almacena todos los datos y evita trafico de red."
               },
               {
                 "id": "c",
-                "texto": "Porque con grandes volumenes es mas eficiente mover el calculo que trasladar los datos."
+                "texto": "Porque con grandes volumenes suele ser mas eficiente mover el calculo que mover los datos."
               },
               {
                 "id": "d",
-                "texto": "Porque las replicas no existen."
+                "texto": "Porque el modelo write-once/read-many impide leer datos remotos."
               }
             ],
             "respuestaCorrecta": [
@@ -14216,19 +14216,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Servicios master y workers."
+                "texto": "Servicios master y workers dentro de HDFS."
               },
               {
                 "id": "b",
-                "texto": "Metricas de clasificacion."
+                "texto": "Capas batch y streaming dentro de Lambda."
               },
               {
                 "id": "c",
-                "texto": "Capas batch y serving."
+                "texto": "Acciones y transformaciones dentro de Spark."
               },
               {
                 "id": "d",
-                "texto": "Tipos de anomalias."
+                "texto": "Tipos de particiones usados por CAP."
               }
             ],
             "respuestaCorrecta": [
@@ -14244,19 +14244,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Se ejecuta despues de Reduce para borrar claves."
+                "texto": "Agrupa los valores de una misma clave y calcula el resultado final."
               },
               {
                 "id": "b",
-                "texto": "Solo visualiza resultados."
+                "texto": "Negocia recursos con YARN antes de lanzar la aplicacion."
               },
               {
                 "id": "c",
-                "texto": "Impide la ejecucion paralela."
+                "texto": "Fusiona los resultados batch y streaming en la capa serving."
               },
               {
                 "id": "d",
-                "texto": "Se aplica en paralelo a cada elemento de entrada y produce pares clave-valor."
+                "texto": "Procesa cada elemento de entrada en paralelo y produce pares clave-valor."
               }
             ],
             "respuestaCorrecta": [
@@ -14272,19 +14272,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Mapea cada elemento original sin agrupar."
+                "texto": "Transforma cada entrada original en pares clave-valor sin agrupar."
               },
               {
                 "id": "b",
-                "texto": "Se aplica a cada grupo de una misma clave para producir valores resultado."
+                "texto": "Procesa cada grupo asociado a una clave para producir valores de salida."
               },
               {
                 "id": "c",
-                "texto": "Solo negocia recursos con YARN."
+                "texto": "Divide operaciones Spark en stages optimizados."
               },
               {
                 "id": "d",
-                "texto": "Convierte un DataFrame en una imagen."
+                "texto": "Prepara datos estructurados para consultas SQL."
               }
             ],
             "respuestaCorrecta": [
@@ -14300,19 +14300,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Definir metricas de error absoluto medio."
+                "texto": "Almacenar bloques HDFS y mantener FsImage y EditLog."
               },
               {
                 "id": "b",
-                "texto": "Convertir datos analogicos a digitales."
+                "texto": "Convertir consultas SQL en transformaciones sobre DataFrames."
               },
               {
                 "id": "c",
-                "texto": "Gestionar recursos de computo y la ejecucion de aplicaciones en el cluster."
+                "texto": "Gestionar recursos de computo y ejecucion de aplicaciones en el cluster Hadoop."
               },
               {
                 "id": "d",
-                "texto": "Ejecutar exclusivamente consultas SQL locales."
+                "texto": "Entrenar modelos supervisados sobre datos etiquetados."
               }
             ],
             "respuestaCorrecta": [
@@ -14328,19 +14328,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Un motor de procesado y framework distribuido para manipular y analizar grandes volumenes de datos."
+                "texto": "Un motor y framework distribuido para procesar y analizar grandes volumenes de datos."
               },
               {
                 "id": "b",
-                "texto": "Un sistema que almacena datos en disco como funcion principal."
+                "texto": "Un sistema de almacenamiento distribuido que reemplaza HDFS."
               },
               {
                 "id": "c",
-                "texto": "Un protocolo IoT sin computacion."
+                "texto": "Una base no relacional orientada a consultas de baja latencia."
               },
               {
                 "id": "d",
-                "texto": "Una tecnica de etiquetado manual."
+                "texto": "Un patron de mensajeria publish-subscribe para sistemas globales."
               }
             ],
             "respuestaCorrecta": [
@@ -14356,19 +14356,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "No es tolerante a errores."
+                "texto": "Mantiene siempre los resultados intermedios en disco para asegurar consistencia."
               },
               {
                 "id": "b",
-                "texto": "Solo permite programar en Scala sin APIs adicionales."
+                "texto": "Usa exclusivamente MapReduce como unico modelo de ejecucion."
               },
               {
                 "id": "c",
-                "texto": "Siempre guarda todos los datos en disco antes de operar."
+                "texto": "Depende de HDFS y no puede ejecutarse sobre otros gestores de recursos."
               },
               {
                 "id": "d",
-                "texto": "Trabaja en memoria, se centra en el procesado y suele ser mas rapido y sencillo de usar."
+                "texto": "Se centra en procesamiento, trabaja en memoria y suele ser mas rapido y sencillo."
               }
             ],
             "respuestaCorrecta": [
@@ -14384,19 +14384,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Guardar datos en HDFS con write-once read-many."
+                "texto": "Asignar contenedores YARN y controlar permisos de HDFS."
               },
               {
                 "id": "b",
-                "texto": "Optimizar aplicaciones dividiendo operaciones en stages y organizando su ejecucion."
+                "texto": "Optimizar aplicaciones dividiendo operaciones en stages y planificando su ejecucion."
               },
               {
                 "id": "c",
-                "texto": "Sustituir el driver por un sensor virtual."
+                "texto": "Construir DataFrames a partir de tablas relacionales."
               },
               {
                 "id": "d",
-                "texto": "Calcular la matriz de confusion."
+                "texto": "Gestionar la replicacion de bloques entre Datanodes."
               }
             ],
             "respuestaCorrecta": [
@@ -14412,11 +14412,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Solo Data Warehouse y Data Lake."
+                "texto": "HDFS, Data Lake, Data Warehouse y Lambda."
               },
               {
                 "id": "b",
-                "texto": "Solo Lambda y Kappa."
+                "texto": "Namenode, Datanode, EditLog y FsImage."
               },
               {
                 "id": "c",
@@ -14424,7 +14424,7 @@
               },
               {
                 "id": "d",
-                "texto": "Unicamente GraphX."
+                "texto": "Batch, streaming, serving y publish-subscribe."
               }
             ],
             "respuestaCorrecta": [
@@ -14440,19 +14440,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Gestionar la aplicacion, negociar recursos con el gestor del cluster y enviar codigo a los executors."
+                "texto": "Coordinar la aplicacion desde el driver, negociar recursos y enviar codigo a executors."
               },
               {
                 "id": "b",
-                "texto": "Definir el factor de replicacion de HDFS exclusivamente."
+                "texto": "Guardar metadatos de HDFS y registrar cambios del namespace."
               },
               {
                 "id": "c",
-                "texto": "Hacer solo tareas de visualizacion final."
+                "texto": "Agrupar pares clave-valor generados por la fase Map."
               },
               {
                 "id": "d",
-                "texto": "Eliminar el driver de la arquitectura."
+                "texto": "Entrenar modelos federados y enviar parametros al cloud."
               }
             ],
             "respuestaCorrecta": [
@@ -14468,19 +14468,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Una tabla SQL local y mutable sin tolerancia a fallos."
+                "texto": "Una tabla estructurada con columnas, equivalente a una tabla relacional."
               },
               {
                 "id": "b",
-                "texto": "Un fichero de log de HDFS."
+                "texto": "Un flujo de datos en tiempo real dividido automaticamente en lotes."
               },
               {
                 "id": "c",
-                "texto": "Una metrica de clasificacion."
+                "texto": "Una libreria de Spark para algoritmos de aprendizaje automatico."
               },
               {
                 "id": "d",
-                "texto": "Una estructura de datos distribuida, inmutable, en memoria y recuperable ante fallos."
+                "texto": "Un dataset distribuido, inmutable, en memoria y recuperable ante fallos."
               }
             ],
             "respuestaCorrecta": [
@@ -14496,19 +14496,19 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Las acciones crean siempre un RDD nuevo sin computar nada."
+                "texto": "Las acciones crean nuevos RDDs sin ejecutar computo inmediato."
               },
               {
                 "id": "b",
-                "texto": "Las acciones fuerzan el computo y devuelven un valor al driver."
+                "texto": "Las acciones fuerzan la ejecucion y devuelven un resultado al driver."
               },
               {
                 "id": "c",
-                "texto": "Las transformaciones solo sirven para apagar executors."
+                "texto": "Las transformaciones solo existen en Spark SQL y no en RDDs."
               },
               {
                 "id": "d",
-                "texto": "No existe diferencia entre ambas."
+                "texto": "Las acciones se ejecutan antes de negociar recursos con el cluster."
               }
             ],
             "respuestaCorrecta": [
@@ -14524,11 +14524,11 @@
             "opciones": [
               {
                 "id": "a",
-                "texto": "Particion y replicacion."
+                "texto": "Anomalias puntuales y contextuales."
               },
               {
                 "id": "b",
-                "texto": "Batch y streaming."
+                "texto": "Clustering y deteccion de novedad."
               },
               {
                 "id": "c",
@@ -14536,7 +14536,7 @@
               },
               {
                 "id": "d",
-                "texto": "Namenode y Datanode."
+                "texto": "Politica, estado, accion y recompensa."
               }
             ],
             "respuestaCorrecta": [
