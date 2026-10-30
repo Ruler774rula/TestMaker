@@ -20464,5 +20464,4764 @@
         ]
       }
     ]
+  },
+  {
+    "id": "sub-gp",
+    "nombre": "Gestió de Projectes",
+    "tests": [
+      {
+        "id": "test-gp-l1",
+        "titulo": "L1 · Introducció a la gestió de projectes",
+        "descripcion": "24 preguntes originals de resposta única, amb explicacions. Basat en L1: Introducció a la Gestió de Projectes. Curs 2026-27.",
+        "preguntas": [
+          {
+            "id": "gp-l1-q01",
+            "enunciado": "Quina característica permet distingir un projecte d’una operació permanent?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "No té restriccions de recursos."
+              },
+              {
+                "id": "b",
+                "texto": "No necessita objectius concrets."
+              },
+              {
+                "id": "c",
+                "texto": "Es repeteix indefinidament amb el mateix resultat."
+              },
+              {
+                "id": "d",
+                "texto": "Té una durada limitada i persegueix un resultat definit."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Un projecte és temporal, limitat i orientat a crear un producte o servei definit. Font: L1, p. 3.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q02",
+            "enunciado": "Què significa que un projecte s’elabora de forma progressiva?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Es pot executar sense cap planificació."
+              },
+              {
+                "id": "b",
+                "texto": "La seva definició es concreta a mesura que avança el treball."
+              },
+              {
+                "id": "c",
+                "texto": "L’abast s’ha d’ampliar obligatòriament cada setmana."
+              },
+              {
+                "id": "d",
+                "texto": "Totes les decisions es deixen per al tancament."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "L’elaboració progressiva permet desenvolupar i concretar el projecte al llarg del temps. Font: L1, p. 3.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q03",
+            "enunciado": "Quina descripció correspon a la gestió de projectes?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Substituir els objectius del client pels de l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "Fer exclusivament el seguiment de la despesa."
+              },
+              {
+                "id": "c",
+                "texto": "Aplicar coneixements, habilitats, eines i tècniques per satisfer els requeriments."
+              },
+              {
+                "id": "d",
+                "texto": "Executar tasques sense revisar-ne els resultats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La gestió integra planificació, execució i control per assolir els objectius. Font: L1, p. 4.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q04",
+            "enunciado": "Quina diferència hi ha entre una tècnica i una eina?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les eines defineixen sempre els objectius del projecte."
+              },
+              {
+                "id": "b",
+                "texto": "La tècnica és coneixement pràctic i l’eina és un instrument per aplicar-la."
+              },
+              {
+                "id": "c",
+                "texto": "La tècnica és un document i l’eina és una persona."
+              },
+              {
+                "id": "d",
+                "texto": "Les tècniques només es poden aplicar manualment."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Les eines ajuden a aplicar les tècniques i amplien les possibilitats de qui les utilitza. Font: L1, p. 5.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q05",
+            "enunciado": "Abans de redactar la documentació, què cal identificar?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només el nombre màxim de pàgines."
+              },
+              {
+                "id": "b",
+                "texto": "El color corporatiu abans que el contingut."
+              },
+              {
+                "id": "c",
+                "texto": "Únicament l’eina amb què s’imprimirà."
+              },
+              {
+                "id": "d",
+                "texto": "A qui va dirigida i quin llenguatge resulta adequat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La documentació ha d’adaptar-se al personal tècnic, al client o a l’usuari final. Font: L1, p. 6.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q06",
+            "enunciado": "Per què són útils els registres històrics de projectes?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Aporten dades per estimar terminis i costos de projectes futurs."
+              },
+              {
+                "id": "b",
+                "texto": "Garanteixen que qualsevol projecte serà idèntic a l’anterior."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminen la necessitat d’estimar els recursos."
+              },
+              {
+                "id": "d",
+                "texto": "Permeten prescindir del seguiment del projecte actual."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La documentació conserva experiència i dades que donen suport a noves estimacions. Font: L1, p. 7.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q07",
+            "enunciado": "En un procés de gestió, les dades obtingudes en una entrevista són...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Entrades."
+              },
+              {
+                "id": "b",
+                "texto": "Fites de tancament."
+              },
+              {
+                "id": "c",
+                "texto": "Sortides aprovades."
+              },
+              {
+                "id": "d",
+                "texto": "Eines."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La informació recopilada en entrevistes, reunions o registres històrics constitueix una entrada. Font: L1, p. 8.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q08",
+            "enunciado": "Un pressupost elaborat a partir de dades i estimacions és un exemple de...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sortida del procés."
+              },
+              {
+                "id": "b",
+                "texto": "Recurs humà."
+              },
+              {
+                "id": "c",
+                "texto": "Interessat extern."
+              },
+              {
+                "id": "d",
+                "texto": "Tècnica de negociació."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Plans, cronogrames, estimacions i pressupostos són sortides que donen suport a la direcció del projecte. Font: L1, p. 8.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q09",
+            "enunciado": "Una comunitat afectada negativament pel resultat d’un projecte...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Queda exclosa dels interessats per no formar part de l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "Només s’ha de considerar després del tancament."
+              },
+              {
+                "id": "c",
+                "texto": "Només és stakeholder si finança el projecte."
+              },
+              {
+                "id": "d",
+                "texto": "Pot ser un stakeholder encara que no participi en l’execució."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "També són interessats potencials les persones i organitzacions afectades pels resultats. Font: L1, p. 9.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q10",
+            "enunciado": "Quin és un interessat intern segons la classificació dels apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una persona de l’equip del projecte."
+              },
+              {
+                "id": "b",
+                "texto": "El govern."
+              },
+              {
+                "id": "c",
+                "texto": "Un proveïdor extern."
+              },
+              {
+                "id": "d",
+                "texto": "Un client extern."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La direcció, el Project Manager i els integrants de l’equip pertanyen als interessats interns. Font: L1, p. 10.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q11",
+            "enunciado": "Quin és un interessat extern segons la classificació dels apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La direcció de l’organització executant."
+              },
+              {
+                "id": "b",
+                "texto": "Un proveïdor del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "El Project Manager."
+              },
+              {
+                "id": "d",
+                "texto": "Una persona de l’equip intern."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Els apunts classifiquen els proveïdors, el client i el govern com a interessats externs. Font: L1, p. 10.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q12",
+            "enunciado": "Quina informació és rellevant per gestionar els interessats?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Exclusivament el cost del seu contracte."
+              },
+              {
+                "id": "b",
+                "texto": "Només la seva participació en la reunió final."
+              },
+              {
+                "id": "c",
+                "texto": "Només el seu nom i correu electrònic."
+              },
+              {
+                "id": "d",
+                "texto": "El seu paper, influència, requisits i relacions amb altres interessats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Identificar els interessats implica entendre el seu paper, l’impacte del projecte i la seva influència. Font: L1, p. 9-10.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q13",
+            "enunciado": "Quines dues dimensions utilitza la matriu poder/interès?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La qualitat i el volum de documentació."
+              },
+              {
+                "id": "b",
+                "texto": "La capacitat d’influència i el grau d’interès en el projecte."
+              },
+              {
+                "id": "c",
+                "texto": "El cost i la durada de les activitats."
+              },
+              {
+                "id": "d",
+                "texto": "L’antiguitat i el salari de cada persona."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La matriu classifica els stakeholders segons el poder que poden exercir i el seu interès. Font: L1, p. 12.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q14",
+            "enunciado": "Què permet visualitzar un diagrama de Venn d’interessats?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El camí crític de les tasques."
+              },
+              {
+                "id": "b",
+                "texto": "La variació acumulada del pressupost."
+              },
+              {
+                "id": "c",
+                "texto": "Les relacions i sobreposicions entre els seus interessos."
+              },
+              {
+                "id": "d",
+                "texto": "Les hores de treball de cada activitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El diagrama representa conjunts i ajuda a mostrar les relacions entre interessats. Font: L1, p. 13.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q15",
+            "enunciado": "Quina és la finalitat de la matriu dels interessats?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Representar únicament les dependències entre activitats."
+              },
+              {
+                "id": "b",
+                "texto": "Determinar automàticament el salari de l’equip."
+              },
+              {
+                "id": "c",
+                "texto": "Relacionar cada interessat amb les seves funcions en les fases del projecte."
+              },
+              {
+                "id": "d",
+                "texto": "Calcular la rendibilitat financera."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La matriu connecta interessats, funcions i fases del projecte. Font: L1, p. 14.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q16",
+            "enunciado": "Quin resultat s’espera d’una bona gestió dels stakeholders?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La garantia que ningú demanarà canvis."
+              },
+              {
+                "id": "b",
+                "texto": "La supressió de les decisions del client."
+              },
+              {
+                "id": "c",
+                "texto": "Una comunicació més fluida i més estabilitat en el projecte."
+              },
+              {
+                "id": "d",
+                "texto": "La desaparició de totes les restriccions."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Gestionar bé els interessats facilita les decisions i millora la informació, la satisfacció i l’estabilitat. Font: L1, p. 11.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q17",
+            "enunciado": "Quina responsabilitat correspon al Project Manager?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Aprovar qualsevol petició sense revisar-ne l’impacte."
+              },
+              {
+                "id": "b",
+                "texto": "Coordinar abast, temps, costos, riscos, qualitat i expectatives dels interessats."
+              },
+              {
+                "id": "c",
+                "texto": "Ocupar-se únicament de la facturació."
+              },
+              {
+                "id": "d",
+                "texto": "Executar personalment totes les tasques tècniques."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El PM gestiona les restriccions, els interessats i l’organització de les activitats. Font: L1, p. 15-16.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q18",
+            "enunciado": "Segons la teoria, quan es considera que un projecte ha tingut èxit?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quan genera molta documentació encara que el producte no funcioni."
+              },
+              {
+                "id": "b",
+                "texto": "Quan es consumeix exactament tot el pressupost."
+              },
+              {
+                "id": "c",
+                "texto": "Quan només es lliura abans del termini."
+              },
+              {
+                "id": "d",
+                "texto": "Quan compleix les expectatives de temps, cost i qualitat i satisfà el client."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "L’èxit combina les restriccions del projecte amb la satisfacció del client i del resultat. Font: L1, p. 18.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q19",
+            "enunciado": "Quin factor afavoreix l’èxit d’un projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La comunicació correcta i el compromís de les persones implicades."
+              },
+              {
+                "id": "b",
+                "texto": "Reduir al mínim la coordinació de l’equip."
+              },
+              {
+                "id": "c",
+                "texto": "Fixar els objectius sense consultar les necessitats."
+              },
+              {
+                "id": "d",
+                "texto": "Evitar qualsevol formació del Project Manager."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La formació, la comunicació i el compromís són factors d’èxit destacats. Font: L1, p. 18.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q20",
+            "enunciado": "Quin benefici pot aportar la gestió de projectes?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Fer innecessari definir els lliuraments."
+              },
+              {
+                "id": "b",
+                "texto": "Anticipar problemes i reduir la improvisació."
+              },
+              {
+                "id": "c",
+                "texto": "Garantir que no hi haurà riscos."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar la necessitat de fer proves."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La gestió ajuda a prendre decisions eficaces, anticipar problemes i complir terminis. Font: L1, p. 19.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q21",
+            "enunciado": "Quina pràctica apareix entre les causes de fracàs?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Realitzar proves del producte."
+              },
+              {
+                "id": "b",
+                "texto": "Revisar les desviacions durant l’execució."
+              },
+              {
+                "id": "c",
+                "texto": "Controlar els canvis dels objectius."
+              },
+              {
+                "id": "d",
+                "texto": "Mantenir sense revisar les estimacions de costos i terminis."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "No revisar les estimacions, comunicar poc i permetre canvis sense control augmenta el risc de fracàs. Font: L1, p. 20-21.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q22",
+            "enunciado": "Quin ús de la IA correspon a la fase de planificació?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tancar els contractes ja executats."
+              },
+              {
+                "id": "b",
+                "texto": "Arxivar únicament l’acta de la reunió de tancament."
+              },
+              {
+                "id": "c",
+                "texto": "Proposar un cronograma a partir de dades de projectes similars."
+              },
+              {
+                "id": "d",
+                "texto": "Formalitzar la recepció definitiva dels lliuraments."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "En planificació, la IA pot proposar cronogrames i estimar recursos amb dades històriques. Font: L1, p. 22-24.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q23",
+            "enunciado": "Detectar desviacions de temps i cost amb IA dona suport principalment a...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El seguiment i control."
+              },
+              {
+                "id": "b",
+                "texto": "La retirada del producte del mercat."
+              },
+              {
+                "id": "c",
+                "texto": "L’acceptació final del client."
+              },
+              {
+                "id": "d",
+                "texto": "La selecció inicial del nom del projecte."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Les alertes de desviacions permeten actuar durant el seguiment i control del projecte. Font: L1, p. 24.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          },
+          {
+            "id": "gp-l1-q24",
+            "enunciado": "Quina aportació de la IA és pròpia del tancament?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Canviar unilateralment els requisits del client."
+              },
+              {
+                "id": "b",
+                "texto": "Iniciar les tasques abans d’aprovar l’abast."
+              },
+              {
+                "id": "c",
+                "texto": "Ajudar a elaborar l’informe final i les lliçons apreses."
+              },
+              {
+                "id": "d",
+                "texto": "Substituir l’acceptació dels lliuraments per una predicció."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La IA pot sintetitzar el resultat del projecte i conservar coneixement per a futurs projectes. Font: L1, p. 24.",
+            "bloque": "L1 · Introducció a la gestió de projectes"
+          }
+        ]
+      },
+      {
+        "id": "test-gp-l2",
+        "titulo": "L2 · Recursos humans i igualtat de gènere",
+        "descripcion": "24 preguntes originals de resposta única, amb explicacions. Basat en L2: Gestió dels recursos humans i de gènere. Curs 2026-27.",
+        "preguntas": [
+          {
+            "id": "gp-l2-q01",
+            "enunciado": "Què caracteritza l’equip d’un projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un grup en què tots han de tenir exactament el mateix perfil."
+              },
+              {
+                "id": "b",
+                "texto": "Un conjunt de professionals que no necessiten coordinació."
+              },
+              {
+                "id": "c",
+                "texto": "Persones amb coneixements complementaris i responsabilitats concretes."
+              },
+              {
+                "id": "d",
+                "texto": "Persones que treballen sense objectius individuals."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "L’equip combina coneixements diversos per respondre a les necessitats del projecte. Font: L2, p. 4.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q02",
+            "enunciado": "Quina seqüència resumeix els processos de gestió dels recursos humans?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Planificar els recursos humans, adquirir, desenvolupar i dirigir l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "Dissenyar el producte, provar-lo i comercialitzar-lo."
+              },
+              {
+                "id": "c",
+                "texto": "Seleccionar proveïdors, estimar el VAN i tancar contractes."
+              },
+              {
+                "id": "d",
+                "texto": "Contractar, facturar, vendre i retirar el producte."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La gestió inclou desenvolupar el pla de RRHH i adquirir, desenvolupar i dirigir l’equip. Font: L2, p. 5.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q03",
+            "enunciado": "Quin contingut correspon al pla de recursos humans?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Rols, responsabilitats, formació i cronograma d’adquisició de personal."
+              },
+              {
+                "id": "b",
+                "texto": "Només els ingressos previstos per les vendes."
+              },
+              {
+                "id": "c",
+                "texto": "Exclusivament les proves d’acceptació del producte."
+              },
+              {
+                "id": "d",
+                "texto": "Únicament el contracte del client."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El pla documenta les necessitats de personal, organigrames, formació i reconeixement. Font: L2, p. 6-7.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q04",
+            "enunciado": "Què representa un organigrama?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "L’estructura de l’organització i les seves unitats departamentals."
+              },
+              {
+                "id": "b",
+                "texto": "Els fluxos nets d’efectiu del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "La durada mínima de cada activitat."
+              },
+              {
+                "id": "d",
+                "texto": "El calendari detallat de cada tasca."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Un organigrama presenta l’estructura organitzativa de manera visual i comprensible. Font: L2, p. 8.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q05",
+            "enunciado": "Per a què s’utilitza la matriu RAM?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Per estimar únicament el temps pessimista."
+              },
+              {
+                "id": "b",
+                "texto": "Per assignar responsabilitats de l’equip a les tasques."
+              },
+              {
+                "id": "c",
+                "texto": "Per calcular la taxa interna de retorn."
+              },
+              {
+                "id": "d",
+                "texto": "Per representar l’evolució del pressupost."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La matriu de responsabilitats facilita la delegació i sovint s’utilitza amb l’EDT. Font: L2, p. 9.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q06",
+            "enunciado": "En RASCI, quin rol realitza la feina?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "I: Informed."
+              },
+              {
+                "id": "b",
+                "texto": "C: Consulted."
+              },
+              {
+                "id": "c",
+                "texto": "A: Accountable."
+              },
+              {
+                "id": "d",
+                "texto": "R: Responsible."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "R identifica la persona responsable de dur a terme el treball. Font: L2, p. 10.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q07",
+            "enunciado": "Quina regla estableixen els apunts per al rol A de RASCI?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només hi pot haver un aprovador per tasca."
+              },
+              {
+                "id": "b",
+                "texto": "L’aprovador no pot revisar el resultat."
+              },
+              {
+                "id": "c",
+                "texto": "Tots els membres han de ser aprovadors."
+              },
+              {
+                "id": "d",
+                "texto": "El rol A només rep informació del progrés."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Accountable és qui aprova la feina i ha de ser únic per a cada tasca. Font: L2, p. 10.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q08",
+            "enunciado": "Una especialista aporta criteri tècnic quan li demanen opinió, però no executa la tasca. Quin rol RASCI correspon?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "A: Accountable."
+              },
+              {
+                "id": "b",
+                "texto": "R: Responsible."
+              },
+              {
+                "id": "c",
+                "texto": "C: Consulted."
+              },
+              {
+                "id": "d",
+                "texto": "I: Informed."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El rol consultat aporta informació o capacitat necessària per determinar el treball. Font: L2, p. 10.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q09",
+            "enunciado": "Una persona només ha de rebre notícies del progrés i dels resultats. Quin rol RASCI té?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "R: Responsible."
+              },
+              {
+                "id": "b",
+                "texto": "A: Accountable."
+              },
+              {
+                "id": "c",
+                "texto": "I: Informed."
+              },
+              {
+                "id": "d",
+                "texto": "S: Support."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El rol I ha de ser informat del progrés i dels resultats del treball. Font: L2, p. 10.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q10",
+            "enunciado": "Quin paper té el rol S de RASCI?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Aportar recursos addicionals per executar el treball."
+              },
+              {
+                "id": "b",
+                "texto": "Substituir sempre la persona responsable."
+              },
+              {
+                "id": "c",
+                "texto": "Aprovar totes les tasques del projecte."
+              },
+              {
+                "id": "d",
+                "texto": "Rebre informació sense donar cap suport."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Support proporciona recursos que ajuden a realitzar la feina. Font: L2, p. 10.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q11",
+            "enunciado": "Quina actuació correspon a la preparació d’una negociació?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Comunicar el resultat final abans de parlar amb l’altra part."
+              },
+              {
+                "id": "b",
+                "texto": "Improvisar els límits durant la signatura."
+              },
+              {
+                "id": "c",
+                "texto": "Definir objectius, buscar informació i valorar concessions."
+              },
+              {
+                "id": "d",
+                "texto": "Acceptar la primera oferta per evitar preparar-se."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La preparació exigeix informació, estratègies i una valoració prèvia de les concessions. Font: L2, p. 14-16.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q12",
+            "enunciado": "Quina estratègia busca un resultat guanyar-guanyar?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Competir."
+              },
+              {
+                "id": "b",
+                "texto": "Evitar."
+              },
+              {
+                "id": "c",
+                "texto": "Acomodar-se."
+              },
+              {
+                "id": "d",
+                "texto": "Col·laborar."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La col·laboració dona importància tant al resultat com a les relacions entre les parts. Font: L2, p. 18.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q13",
+            "enunciado": "Quina habilitat afavoreix una negociació?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Utilitzar conductes intimidants."
+              },
+              {
+                "id": "b",
+                "texto": "Escoltar i entendre les necessitats de l’altra part."
+              },
+              {
+                "id": "c",
+                "texto": "Amagar-se qualsevol concessió possible fins a l’últim instant."
+              },
+              {
+                "id": "d",
+                "texto": "Parlar contínuament per impedir rèpliques."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Escoltar, comunicar, empatitzar i mantenir l’autocontrol són habilitats del negociador. Font: L2, p. 13.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q14",
+            "enunciado": "Quin és un error habitual en una negociació?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Analitzar els resultats després de l’acord."
+              },
+              {
+                "id": "b",
+                "texto": "Desconèixer la importància de les concessions que es poden oferir."
+              },
+              {
+                "id": "c",
+                "texto": "Preparar objectius realistes i mesurables."
+              },
+              {
+                "id": "d",
+                "texto": "Basar els arguments en criteris objectius."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La preparació inadequada i no conèixer el valor de les concessions són errors habituals. Font: L2, p. 19.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q15",
+            "enunciado": "Què defineix un equip virtual?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Un equip amb objectiu comú que treballa amb poques o cap reunió presencial."
+              },
+              {
+                "id": "b",
+                "texto": "Un grup que no té rols ni responsabilitats."
+              },
+              {
+                "id": "c",
+                "texto": "Un grup que només pot treballar al mateix edifici."
+              },
+              {
+                "id": "d",
+                "texto": "Un equip format exclusivament per sistemes automàtics."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Els equips virtuals comparteixen objectius i rols sense necessitat de contacte presencial freqüent. Font: L2, p. 20.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q16",
+            "enunciado": "Quin avantatge poden oferir els equips virtuals?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar totes les necessitats de comunicació."
+              },
+              {
+                "id": "b",
+                "texto": "Incorporar especialistes de diferents llocs reduint desplaçaments."
+              },
+              {
+                "id": "c",
+                "texto": "Garantir que no apareixeran conflictes."
+              },
+              {
+                "id": "d",
+                "texto": "Fer innecessària la definició d’objectius."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El format virtual facilita el teletreball i l’accés a experiència geogràficament dispersa. Font: L2, p. 20.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q17",
+            "enunciado": "Què ha de conèixer cada membre quan es desenvolupa l’equip?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només el nom comercial del producte."
+              },
+              {
+                "id": "b",
+                "texto": "Exclusivament la data de la reunió final."
+              },
+              {
+                "id": "c",
+                "texto": "Únicament el salari dels altres membres."
+              },
+              {
+                "id": "d",
+                "texto": "Els objectius, el seu paper, els compromisos i els recursos disponibles."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Definir procediments i compromisos ajuda a transformar persones en un equip professional. Font: L2, p. 21.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q18",
+            "enunciado": "Quina actitud davant del conflicte descriu un equip de treball eficaç?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Interpretar qualsevol discrepància com una deslleialtat."
+              },
+              {
+                "id": "b",
+                "texto": "Traslladar totes les decisions al client sense debat."
+              },
+              {
+                "id": "c",
+                "texto": "Aprofitar-lo per contrastar nous punts de vista."
+              },
+              {
+                "id": "d",
+                "texto": "Evitar sempre que es comuniquin desacords."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La confiança i la participació permeten tractar el conflicte com una oportunitat de millora. Font: L2, p. 22.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q19",
+            "enunciado": "Quina és una aportació de la formació de l’equip?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Substituir les eines i els recursos materials."
+              },
+              {
+                "id": "b",
+                "texto": "Evitar per complet qualsevol canvi del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "Fer que les responsabilitats deixin de ser necessàries."
+              },
+              {
+                "id": "d",
+                "texto": "Ampliar habilitats i augmentar la productivitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La formació millora les capacitats individuals i ajuda a assolir les metes de l’organització. Font: L2, p. 24.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q20",
+            "enunciado": "Quina finalitat tenen els reconeixements i les recompenses?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar qualsevol avaluació del treball."
+              },
+              {
+                "id": "b",
+                "texto": "Motivar i reforçar el desig de continuar a l’empresa."
+              },
+              {
+                "id": "c",
+                "texto": "Substituir la formació necessària."
+              },
+              {
+                "id": "d",
+                "texto": "Premiar només l’antiguitat independentment dels esforços."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Reconèixer la feina ben feta afavoreix la motivació i la permanència dels professionals. Font: L2, p. 25.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q21",
+            "enunciado": "Segons el lideratge situacional, com s’ha d’escollir l’estil de direcció?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Delegant sempre qualsevol decisió encara que l’equip no estigui preparat."
+              },
+              {
+                "id": "b",
+                "texto": "Aplicant sempre l’estil autoritari."
+              },
+              {
+                "id": "c",
+                "texto": "Utilitzant l’estil democràtic com a única opció vàlida."
+              },
+              {
+                "id": "d",
+                "texto": "Segons la situació, la maduresa de l’equip i la rapidesa necessària per decidir."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "No hi ha un estil universalment millor; la seva adequació depèn de les circumstàncies. Font: L2, p. 28-29.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q22",
+            "enunciado": "Quin és l’objectiu d’un pla d’igualtat?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar els criteris objectius dels processos de promoció."
+              },
+              {
+                "id": "b",
+                "texto": "Garantir el mateix rol a totes les persones."
+              },
+              {
+                "id": "c",
+                "texto": "Assignar llocs només segons contactes personals."
+              },
+              {
+                "id": "d",
+                "texto": "Promoure la igualtat de tracte i eliminar discriminacions."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El pla d’igualtat organitza mesures per assegurar tracte i oportunitats sense discriminacions. Font: L2, p. 30.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q23",
+            "enunciado": "Quina acció ajuda a implementar un pla d’igualtat?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Publicar ofertes amb llenguatge excloent."
+              },
+              {
+                "id": "b",
+                "texto": "Evitar registrar els resultats de les mesures."
+              },
+              {
+                "id": "c",
+                "texto": "Diagnosticar desigualtats i avaluar les accions acordades."
+              },
+              {
+                "id": "d",
+                "texto": "Prescindir de criteris transparents de promoció."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El pla requereix diagnòstic, propostes, seguiment i avaluació, amb criteris no discriminatoris. Font: L2, p. 31-32.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          },
+          {
+            "id": "gp-l2-q24",
+            "enunciado": "Quina pràctica és adequada en aplicar IA a la selecció de personal?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Delegar tota la responsabilitat en el model."
+              },
+              {
+                "id": "b",
+                "texto": "Revisar els biaixos i validar humanament els criteris i resultats."
+              },
+              {
+                "id": "c",
+                "texto": "Acceptar qualsevol filtre automàtic sense revisió."
+              },
+              {
+                "id": "d",
+                "texto": "Utilitzar dades personals sense cap protecció."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La IA dona suport als RRHH, però exigeix supervisió humana, protecció de dades i revisió de biaixos. Font: L2, p. 34-35.",
+            "bloque": "L2 · Recursos humans i igualtat de gènere"
+          }
+        ]
+      },
+      {
+        "id": "test-gp-l3",
+        "titulo": "L3 · Cicle de vida del projecte",
+        "descripcion": "24 preguntes originals de resposta única, amb explicacions. Basat en L3: Cicle de vida del projecte. Curs 2026-27.",
+        "preguntas": [
+          {
+            "id": "gp-l3-q01",
+            "enunciado": "Per a què es divideix un projecte en fases?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Per eliminar la necessitat de lliuraments."
+              },
+              {
+                "id": "b",
+                "texto": "Per garantir que totes les fases tenen la mateixa durada."
+              },
+              {
+                "id": "c",
+                "texto": "Per obtenir un control més efectiu del seu progrés."
+              },
+              {
+                "id": "d",
+                "texto": "Per impedir que hi hagi processos de control."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La divisió en fases facilita el control i redueix complexitat i incertesa. Font: L3, p. 3-7.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q02",
+            "enunciado": "Quin conjunt recull elements del cicle de vida d’un projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només proveïdors i clients."
+              },
+              {
+                "id": "b",
+                "texto": "Fases, processos, activitats i lliuraments."
+              },
+              {
+                "id": "c",
+                "texto": "Només costos fixos i variables."
+              },
+              {
+                "id": "d",
+                "texto": "Únicament dates d’inici i salaris."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El cicle de vida organitza fases i processos que contenen activitats i generen lliuraments. Font: L3, p. 4.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q03",
+            "enunciado": "Quina evolució general de costos i personal descriuen els apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Es mantenen sempre constants."
+              },
+              {
+                "id": "b",
+                "texto": "Comencen baixos, augmenten durant el projecte i disminueixen al final."
+              },
+              {
+                "id": "c",
+                "texto": "Assoleixen sempre el màxim després del tancament."
+              },
+              {
+                "id": "d",
+                "texto": "Són nuls durant tota l’execució."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "L’esforç de personal i els costos acostumen a concentrar-se en les fases de desenvolupament. Font: L3, p. 6.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q04",
+            "enunciado": "Com evolucionen habitualment el risc i la incertesa al llarg del projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Són elevats a l’inici i disminueixen a mesura que avança el projecte."
+              },
+              {
+                "id": "b",
+                "texto": "Augmenten obligatòriament cada dia fins al tancament."
+              },
+              {
+                "id": "c",
+                "texto": "Només apareixen quan es lliura el producte."
+              },
+              {
+                "id": "d",
+                "texto": "Són inexistents abans d’executar cap tasca."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "L’avanç del projecte aporta coneixement i redueix progressivament la incertesa inicial. Font: L3, p. 6.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q05",
+            "enunciado": "Quan acostuma a ser més gran la influència dels interessats?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sempre és nul·la abans de l’execució."
+              },
+              {
+                "id": "b",
+                "texto": "Només després del tancament."
+              },
+              {
+                "id": "c",
+                "texto": "Únicament durant l’última prova."
+              },
+              {
+                "id": "d",
+                "texto": "Al començament del projecte."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Els interessats tenen més capacitat d’influència al principi i aquesta disminueix amb l’avanç. Font: L3, p. 6.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q06",
+            "enunciado": "Quan es considera tancada una fase?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quan s’han completat els treballs necessaris per obtenir els lliuraments previstos."
+              },
+              {
+                "id": "b",
+                "texto": "Quan el PM canvia de rol encara que quedin tasques pendents."
+              },
+              {
+                "id": "c",
+                "texto": "Quan comença la primera reunió amb l’equip."
+              },
+              {
+                "id": "d",
+                "texto": "Quan s’ha consumit la meitat del pressupost."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El tancament d’una fase es vincula a la finalització del treball i als seus lliuraments. Font: L3, p. 7.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q07",
+            "enunciado": "Quins tres elements formen la triple restricció?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Proveïdors, usuaris i patrocinadors."
+              },
+              {
+                "id": "b",
+                "texto": "Abast, temps i cost."
+              },
+              {
+                "id": "c",
+                "texto": "Risc, salari i documentació."
+              },
+              {
+                "id": "d",
+                "texto": "Qualitat, lideratge i organigrama."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La triple restricció relaciona l’abast, el termini i el cost, amb impacte sobre la qualitat. Font: L3, p. 8-9.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q08",
+            "enunciado": "Què és l’abast d’un projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només el calendari de vacances de l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "El treball necessari per produir els requeriments establerts pel client."
+              },
+              {
+                "id": "c",
+                "texto": "La suma dels salaris mensuals."
+              },
+              {
+                "id": "d",
+                "texto": "Únicament el nombre de reunions de seguiment."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "L’abast delimita el treball que cal fer per obtenir el resultat requerit. Font: L3, p. 9.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q09",
+            "enunciado": "Què representen les línies base?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les opinions personals encara no acordades."
+              },
+              {
+                "id": "b",
+                "texto": "Només els costos reals acumulats."
+              },
+              {
+                "id": "c",
+                "texto": "Les estimacions aprovades que serveixen de referència al projecte."
+              },
+              {
+                "id": "d",
+                "texto": "Exclusivament les peticions rebutjades pel client."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Les línies base recullen les referències aprovades d’abast, terminis i costos. Font: L3, p. 10-11.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q10",
+            "enunciado": "Quina línia base recull el treball i els lliuraments necessaris?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La línia base de l’abast."
+              },
+              {
+                "id": "b",
+                "texto": "La línia base del termini."
+              },
+              {
+                "id": "c",
+                "texto": "La línia base del cost."
+              },
+              {
+                "id": "d",
+                "texto": "El registre de baixes laborals."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La línia base de l’abast representa els lliuraments i el treball necessari per completar-los. Font: L3, p. 11.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q11",
+            "enunciado": "Què determina la línia base del termini?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El cost efectivament pagat a cada proveïdor."
+              },
+              {
+                "id": "b",
+                "texto": "Les recompenses anuals del personal."
+              },
+              {
+                "id": "c",
+                "texto": "La política comercial de l’organització."
+              },
+              {
+                "id": "d",
+                "texto": "El temps previst per desenvolupar els lliuraments de l’abast."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La referència temporal deriva dels lliuraments definits en la línia base de l’abast. Font: L3, p. 11.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q12",
+            "enunciado": "Si apareix una desviació de la línia base, què ha d’identificar el PM?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Si prové d’una estimació errònia o d’una petició o canvi no especificat."
+              },
+              {
+                "id": "b",
+                "texto": "La manera d’esborrar les estimacions originals."
+              },
+              {
+                "id": "c",
+                "texto": "Com evitar comunicar qualsevol impacte als interessats."
+              },
+              {
+                "id": "d",
+                "texto": "Només quina persona redactarà l’informe final."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El gestor i l’equip han de distingir l’origen de les modificacions de les referències inicials. Font: L3, p. 10.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q13",
+            "enunciado": "Quina afirmació és correcta sobre els processos de gestió?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Poden repetir-se dins de les diferents fases del cicle de vida."
+              },
+              {
+                "id": "b",
+                "texto": "Només es poden executar una vegada en tot el projecte."
+              },
+              {
+                "id": "c",
+                "texto": "L’execució impedeix tornar a planificar."
+              },
+              {
+                "id": "d",
+                "texto": "El tancament d’una fase elimina la necessitat de controlar les altres."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Inici, planificació, execució, control i tancament poden aplicar-se dins de cada fase. Font: L3, p. 14.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q14",
+            "enunciado": "Quina activitat és pròpia de l’inici del projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Definir objectius, abast i interessats, i assignar el PM i l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "Formalitzar la recepció de tots els productes acabats."
+              },
+              {
+                "id": "c",
+                "texto": "Calcular exclusivament les despeses de retirada."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar els contractes sense revisar-los."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "L’inici estableix els fonaments: necessitats, restriccions, lliuraments i responsables. Font: L3, p. 16.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q15",
+            "enunciado": "Quin objectiu té la reunió d’obertura?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Substituir tota la planificació per una conversa informal."
+              },
+              {
+                "id": "b",
+                "texto": "Evitar que el client conegui el cronograma."
+              },
+              {
+                "id": "c",
+                "texto": "Declarar l’inici i assegurar que els implicats coneixen les seves funcions."
+              },
+              {
+                "id": "d",
+                "texto": "Aprovar el tancament dels contractes executats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La reunió reuneix client, equip i interessats per compartir objectius, especificacions i responsabilitats. Font: L3, p. 17.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q16",
+            "enunciado": "Quan es desenvolupa la planificació del projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Exclusivament després del tancament."
+              },
+              {
+                "id": "b",
+                "texto": "Només abans d’identificar els interessats."
+              },
+              {
+                "id": "c",
+                "texto": "Durant tot el cicle de vida, en interacció amb el seguiment i control."
+              },
+              {
+                "id": "d",
+                "texto": "Només quan ja s’ha excedit el pressupost."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La planificació és contínua i rep retroalimentació del seguiment i control. Font: L3, p. 18.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q17",
+            "enunciado": "Quina és una aportació d’una bona planificació?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Fer que les estimacions siguin garanties exactes."
+              },
+              {
+                "id": "b",
+                "texto": "Reduir la incertesa i estructurar l’ús dels recursos de manera eficient."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar qualsevol necessitat de comunicació."
+              },
+              {
+                "id": "d",
+                "texto": "Impedir que el PM pugui prendre mesures correctives."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Planificar ajuda a millorar el rendiment i a preparar mesures preventives i correctives. Font: L3, p. 20.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q18",
+            "enunciado": "Quina forma pot adoptar una reserva de contingència segons els apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només una llista de clients."
+              },
+              {
+                "id": "b",
+                "texto": "Únicament un nou nom per al projecte."
+              },
+              {
+                "id": "c",
+                "texto": "Exclusivament una reunió de tancament."
+              },
+              {
+                "id": "d",
+                "texto": "Financera, de temps o de recursos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La reserva es dimensiona amb escenaris, experiència i resultats de projectes similars. Font: L3, p. 21.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q19",
+            "enunciado": "Quina informació ajuda a preparar estimacions realistes?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una previsió que ignori les activitats administratives."
+              },
+              {
+                "id": "b",
+                "texto": "Exclusivament la data proposada sense revisar l’abast."
+              },
+              {
+                "id": "c",
+                "texto": "Només el desig d’acabar abans que la competència."
+              },
+              {
+                "id": "d",
+                "texto": "L’experiència dels experts i la documentació de projectes similars."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "L’experiència i els registres històrics donen suport a estimacions més fonamentades. Font: L3, p. 22.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q20",
+            "enunciado": "Quina omissió pot provocar errors en les estimacions de temps?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Incorporar informació de projectes anteriors."
+              },
+              {
+                "id": "b",
+                "texto": "No considerar reunions, vacances, festius o baixes."
+              },
+              {
+                "id": "c",
+                "texto": "Consultar l’equip tècnic."
+              },
+              {
+                "id": "d",
+                "texto": "Definir clarament l’abast."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "L’optimisme excessiu i oblidar temps no productiu o disponibilitats reals distorsionen les estimacions. Font: L3, p. 23.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q21",
+            "enunciado": "Quina tasca correspon al seguiment i control?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Acceptar qualsevol canvi sense analitzar-lo."
+              },
+              {
+                "id": "b",
+                "texto": "Fixar el nom del producte sense revisar el treball."
+              },
+              {
+                "id": "c",
+                "texto": "Executar tasques sense registrar incidències."
+              },
+              {
+                "id": "d",
+                "texto": "Comparar resultats i variacions amb les estimacions i decidir accions."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El control identifica desviacions i dona informació per aplicar accions correctives. Font: L3, p. 24-25.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q22",
+            "enunciado": "Quin requisit formal destaca la teoria per al tancament?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La desaparició dels registres de costos."
+              },
+              {
+                "id": "b",
+                "texto": "Una previsió verbal que el client estarà satisfet."
+              },
+              {
+                "id": "c",
+                "texto": "L’acceptació escrita del client sobre els lliuraments previstos."
+              },
+              {
+                "id": "d",
+                "texto": "L’aprovació automàtica per haver arribat a la data límit."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El tancament exigeix formalitzar la recepció correcta dels lliuraments. Font: L3, p. 26.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q23",
+            "enunciado": "Quina utilitat té el Project Notebook?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Fixar exclusivament les vacances de l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "Substituir l’autorització inicial del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "Conservar l’avaluació i la informació útil per a futurs projectes."
+              },
+              {
+                "id": "d",
+                "texto": "Ocultar els objectius que no s’han assolit."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El llibre de notes recull coneixement del projecte i dona suport a futures planificacions. Font: L3, p. 26-27.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          },
+          {
+            "id": "gp-l3-q24",
+            "enunciado": "Quina diferència hi ha entre lliuraments interns i externs?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els interns són sempre diners i els externs sempre documents."
+              },
+              {
+                "id": "b",
+                "texto": "Els externs mai no requereixen una definició prèvia."
+              },
+              {
+                "id": "c",
+                "texto": "Els interns només es generen quan el projecte ja s’ha tancat."
+              },
+              {
+                "id": "d",
+                "texto": "Els interns ajuden a avançar el projecte i els externs s’entreguen a interessats externs."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Els lliuraments interns faciliten el treball; els externs han de ser definits i aprovats pels interessats corresponents. Font: L3, p. 28.",
+            "bloque": "L3 · Cicle de vida del projecte"
+          }
+        ]
+      },
+      {
+        "id": "test-gp-l4",
+        "titulo": "L4 · Selecció de projectes",
+        "descripcion": "24 preguntes originals de resposta única, amb explicacions. Basat en L4: Selecció de Projectes. Curs 2026-27.",
+        "preguntas": [
+          {
+            "id": "gp-l4-q01",
+            "enunciado": "Per què cal seleccionar els projectes que s’executaran?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perquè els recursos disponibles són limitats."
+              },
+              {
+                "id": "b",
+                "texto": "Perquè les organitzacions no poden executar més d’una activitat."
+              },
+              {
+                "id": "c",
+                "texto": "Perquè tots els projectes tenen exactament el mateix benefici."
+              },
+              {
+                "id": "d",
+                "texto": "Perquè la disponibilitat de personal no afecta la decisió."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La selecció ha de considerar personal, maquinària, terminis i finançament. Font: L4, p. 4.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q02",
+            "enunciado": "Quin paper tenen els models de selecció?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Donen suport a una decisió de la qual continuen responent les persones."
+              },
+              {
+                "id": "b",
+                "texto": "Eviten haver d’analitzar les restriccions."
+              },
+              {
+                "id": "c",
+                "texto": "Representen exhaustivament tota la realitat."
+              },
+              {
+                "id": "d",
+                "texto": "Assumeixen tota la responsabilitat de la decisió."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Els models només reflecteixen una part de la realitat i no substitueixen les persones. Font: L4, p. 6.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q03",
+            "enunciado": "Què avalua l’anàlisi benefici-cost?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La influència de cada interessat sobre el cronograma."
+              },
+              {
+                "id": "b",
+                "texto": "Només el nombre de persones de l’equip."
+              },
+              {
+                "id": "c",
+                "texto": "Exclusivament el termini de la reunió inicial."
+              },
+              {
+                "id": "d",
+                "texto": "Si els beneficis del projecte compensen els costos de posar-lo en marxa."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El BCA compara beneficis i costos; els beneficis poden ser tangibles o intangibles. Font: L4, p. 7.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q04",
+            "enunciado": "En una anàlisi d’ingressos i costos, què significa arribar al punt d’equilibri?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que s’ha assolit el benefici màxim possible."
+              },
+              {
+                "id": "b",
+                "texto": "Que s’ha recuperat necessàriament qualsevol pèrdua històrica."
+              },
+              {
+                "id": "c",
+                "texto": "Que els ingressos igualen els costos."
+              },
+              {
+                "id": "d",
+                "texto": "Que el projecte ja genera una reserva per a pèrdues futures."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El punt d’equilibri identifica la igualtat entre ingressos i costos, sense garantir reserves ni retorns addicionals. Font: L4, p. 8-9.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q05",
+            "enunciado": "Per a què serveix el VAN?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Per mesurar el valor actual dels fluxos futurs respecte de la inversió."
+              },
+              {
+                "id": "b",
+                "texto": "Per comptar el nombre de proveïdors."
+              },
+              {
+                "id": "c",
+                "texto": "Per definir les responsabilitats de l’equip."
+              },
+              {
+                "id": "d",
+                "texto": "Per calcular només els ingressos sense descomptar-los."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El VAN actualitza els fluxos nets d’efectiu i els compara amb la inversió inicial. Font: L4, p. 10-11.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q06",
+            "enunciado": "Quina expressió correspon al VAN si I0 és la inversió inicial i r la taxa de descompte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "VAN = I0 / nombre de treballadors."
+              },
+              {
+                "id": "b",
+                "texto": "VAN = -I0 + suma de FNEt / (1 + r)^t."
+              },
+              {
+                "id": "c",
+                "texto": "VAN = I0 + suma de FNEt sense descompte."
+              },
+              {
+                "id": "d",
+                "texto": "VAN = suma de FNEt × (1 + r)^t, sense restar I0."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Els fluxos de cada període s’actualitzen i es resta la inversió inicial. Font: L4, p. 11.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q07",
+            "enunciado": "Segons el criteri del VAN, què indica un resultat negatiu?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que el retorn és superior al de qualsevol alternativa."
+              },
+              {
+                "id": "b",
+                "texto": "Que el projecte destrueix valor a la taxa de descompte utilitzada."
+              },
+              {
+                "id": "c",
+                "texto": "Que tots els fluxos anuals són necessàriament negatius."
+              },
+              {
+                "id": "d",
+                "texto": "Que la inversió ja s’ha recuperat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Un VAN negatiu porta a rebutjar el projecte segons aquest criteri financer. Font: L4, p. 13.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q08",
+            "enunciado": "Si els fluxos futurs són positius i la resta no canvia, què passa amb el VAN quan augmenta la taxa de descompte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Disminueix."
+              },
+              {
+                "id": "b",
+                "texto": "Augmenta sempre."
+              },
+              {
+                "id": "c",
+                "texto": "Queda necessàriament igual."
+              },
+              {
+                "id": "d",
+                "texto": "Es converteix automàticament en la TIR."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Una taxa més alta redueix el valor actual dels fluxos futurs positius. Font: L4, p. 10-11.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q09",
+            "enunciado": "Què és la TIR?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El temps necessari per recuperar la inversió."
+              },
+              {
+                "id": "b",
+                "texto": "La taxa de descompte que fa que el VAN sigui zero."
+              },
+              {
+                "id": "c",
+                "texto": "El percentatge executat del pressupost."
+              },
+              {
+                "id": "d",
+                "texto": "El cost total del projecte dividit pel personal."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La taxa interna de retorn iguala el valor actual dels fluxos amb la inversió. Font: L4, p. 14.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q10",
+            "enunciado": "Per a una inversió convencional, quan és acceptable el projecte segons el criteri de la TIR dels apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quan la TIR és zero independentment del cost."
+              },
+              {
+                "id": "b",
+                "texto": "Quan la TIR coincideix amb la durada en anys."
+              },
+              {
+                "id": "c",
+                "texto": "Quan la TIR és inferior a la taxa exigida."
+              },
+              {
+                "id": "d",
+                "texto": "Quan la TIR supera la taxa de cost exigida."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La rendibilitat de la inversió ha de superar la taxa de cost de referència. Font: L4, p. 14.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q11",
+            "enunciado": "Què mesura el període de reemborsament?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La diferència entre valor guanyat i cost real."
+              },
+              {
+                "id": "b",
+                "texto": "La durada de cada contracte laboral."
+              },
+              {
+                "id": "c",
+                "texto": "El nombre de clients interessats."
+              },
+              {
+                "id": "d",
+                "texto": "El temps necessari per recuperar la inversió."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El payback avalua quant es triga a recuperar el capital invertit. Font: L4, p. 15.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q12",
+            "enunciado": "Quina limitació té el payback simple?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sempre requereix una comparació per parells."
+              },
+              {
+                "id": "b",
+                "texto": "Expressa necessàriament el resultat en euros."
+              },
+              {
+                "id": "c",
+                "texto": "No actualitza els fluxos amb una taxa de descompte."
+              },
+              {
+                "id": "d",
+                "texto": "Només es pot calcular si no hi ha inversió inicial."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El payback simple acumula fluxos sense descomptar-los; el VAN sí que incorpora el valor temporal. Font: L4, p. 10-11 i 15.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q13",
+            "enunciado": "Què expressa el ROI?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La probabilitat d’acabar dins del termini."
+              },
+              {
+                "id": "b",
+                "texto": "El nombre d’anys de vida del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "El cost fix per unitat de temps."
+              },
+              {
+                "id": "d",
+                "texto": "El benefici net en relació amb la inversió, expressat com a percentatge."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El ROI es calcula dividint el resultat net per la inversió i multiplicant per cent. Font: L4, p. 16.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q14",
+            "enunciado": "Una inversió total de 2.000 € genera ingressos totals de 3.000 €. Quin és el ROI?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "200%."
+              },
+              {
+                "id": "b",
+                "texto": "150%."
+              },
+              {
+                "id": "c",
+                "texto": "50%."
+              },
+              {
+                "id": "d",
+                "texto": "33,33%."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "ROI = (3.000 - 2.000) / 2.000 × 100 = 50%. Font: L4, p. 16.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q15",
+            "enunciado": "Quina família de criteris inclou prestigi, seguretat i sostenibilitat?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els atributs ponderats no financers."
+              },
+              {
+                "id": "b",
+                "texto": "La línia base del termini."
+              },
+              {
+                "id": "c",
+                "texto": "Exclusivament els índexs de cost."
+              },
+              {
+                "id": "d",
+                "texto": "Només els fluxos nets d’efectiu."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La matriu de decisió incorpora factors que complementen l’avaluació financera. Font: L4, p. 17.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q16",
+            "enunciado": "Com es calcula la puntuació d’una alternativa en una matriu d’atributs ponderats?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Sumant només els pesos sense valorar les alternatives."
+              },
+              {
+                "id": "b",
+                "texto": "Escollint sempre el criteri amb el nom més curt."
+              },
+              {
+                "id": "c",
+                "texto": "Sumant els productes del pes de cada criteri per la seva puntuació."
+              },
+              {
+                "id": "d",
+                "texto": "Multiplicant totes les puntuacions sense tenir en compte els pesos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Cada valor es multiplica pel pes corresponent i els resultats se sumen. Font: L4, p. 18.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q17",
+            "enunciado": "Dos criteris tenen pesos 0,6 i 0,4, i una alternativa rep puntuacions 4 i 2. Quin total ponderat obté?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "3,2."
+              },
+              {
+                "id": "b",
+                "texto": "4,8."
+              },
+              {
+                "id": "c",
+                "texto": "6."
+              },
+              {
+                "id": "d",
+                "texto": "2,4."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La suma ponderada és 0,6 × 4 + 0,4 × 2 = 3,2. Font: L4, p. 18.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q18",
+            "enunciado": "Què caracteritza una decisió qualitativa segons els apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només s’expressa amb una fórmula de cost."
+              },
+              {
+                "id": "b",
+                "texto": "Prescindeix de qualsevol valoració humana."
+              },
+              {
+                "id": "c",
+                "texto": "Es fonamenta en l’experiència i el judici."
+              },
+              {
+                "id": "d",
+                "texto": "Es basa exclusivament en fluxos actualitzats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "L’anàlisi qualitativa utilitza experiència; la quantitativa es recolza en dades i informació. Font: L4, p. 20.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q19",
+            "enunciado": "Després d’escollir i desenvolupar un projecte, què completa el cicle de decisió?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Repetir la selecció sense revisar l’experiència."
+              },
+              {
+                "id": "b",
+                "texto": "Rebutjar qualsevol informació obtinguda."
+              },
+              {
+                "id": "c",
+                "texto": "Eliminar els criteris emprats."
+              },
+              {
+                "id": "d",
+                "texto": "Avaluar-ne els resultats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El procés de decisió inclou identificar, avaluar, escollir, desenvolupar i revisar els resultats. Font: L4, p. 20.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q20",
+            "enunciado": "Què aporta un arbre de decisions?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Calcula automàticament el salari de cada treballador."
+              },
+              {
+                "id": "b",
+                "texto": "Representa alternatives, probabilitats i resultats possibles."
+              },
+              {
+                "id": "c",
+                "texto": "Mostra només l’organigrama de l’empresa."
+              },
+              {
+                "id": "d",
+                "texto": "Substitueix les estimacions per una garantia de benefici."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "L’arbre desglossa una decisió en accions i escenaris amb probabilitats i resultats. Font: L4, p. 21.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q21",
+            "enunciado": "Quina idea defineix el procés AHP?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Eliminar tots els criteris no monetaris."
+              },
+              {
+                "id": "b",
+                "texto": "Ordenar els projectes només pel seu cost inicial."
+              },
+              {
+                "id": "c",
+                "texto": "Descompondre una decisió complexa en una jerarquia i comparar criteris per parells."
+              },
+              {
+                "id": "d",
+                "texto": "Escollir alternatives sense assignar prioritats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "L’AHP organitza el problema jeràrquicament i estableix prioritats amb comparacions. Font: L4, p. 22.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q22",
+            "enunciado": "En l’escala AHP dels apunts, què indica una intensitat 1?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Absència de qualsevol relació amb l’objectiu."
+              },
+              {
+                "id": "b",
+                "texto": "Importància idèntica dels dos elements."
+              },
+              {
+                "id": "c",
+                "texto": "Importància extrema del primer element."
+              },
+              {
+                "id": "d",
+                "texto": "Importància forta del segon element."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El valor 1 indica contribució equivalent; el 9 correspon a importància extrema. Font: L4, p. 24.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q23",
+            "enunciado": "Quina propietat de l’AHP destaquen els apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Obliga a mantenir els pesos inicials encara que canviï el context."
+              },
+              {
+                "id": "b",
+                "texto": "No utilitza judicis d’experts."
+              },
+              {
+                "id": "c",
+                "texto": "Només admet criteris financers."
+              },
+              {
+                "id": "d",
+                "texto": "Permet canviar els valors d’importància dels criteris."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "L’AHP és flexible i permet revisar els valors assignats al llarg del procés. Font: L4, p. 24-26.",
+            "bloque": "L4 · Selecció de projectes"
+          },
+          {
+            "id": "gp-l4-q24",
+            "enunciado": "Quin ús de la IA ajuda a seleccionar projectes amb criteri?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Ignorar la capacitat real de l’equip."
+              },
+              {
+                "id": "b",
+                "texto": "Comparar escenaris i comprovar la sensibilitat dels resultats mantenint la decisió humana."
+              },
+              {
+                "id": "c",
+                "texto": "Substituir les dades històriques per resultats inventats."
+              },
+              {
+                "id": "d",
+                "texto": "Acceptar automàticament el projecte amb més ingressos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La IA accelera càlculs i aporta escenaris, però la selecció continua sota responsabilitat humana. Font: L4, p. 27-28.",
+            "bloque": "L4 · Selecció de projectes"
+          }
+        ]
+      },
+      {
+        "id": "test-gp-l5",
+        "titulo": "L5 · Gestió del temps",
+        "descripcion": "24 preguntes originals de resposta única, amb explicacions. Basat en L5: Gestió del Temps. Curs 2026-27.",
+        "preguntas": [
+          {
+            "id": "gp-l5-q01",
+            "enunciado": "Quina idea expressa la llei de Parkinson?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una tasca sempre s’acaba abans si es duplica el termini."
+              },
+              {
+                "id": "b",
+                "texto": "El treball tendeix a ocupar tot el temps disponible per acabar-lo."
+              },
+              {
+                "id": "c",
+                "texto": "La durada és sempre independent de l’organització del treball."
+              },
+              {
+                "id": "d",
+                "texto": "Les reserves de temps s’han d’eliminar de tots els projectes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La llei alerta del consum del temps disponible i de la necessitat d’estimar amb criteri. Font: L5, p. 6.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q02",
+            "enunciado": "Quina diferència hi ha entre durada i esforç?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La durada és temps transcorregut de treball i l’esforç es mesura en unitats de treballador i temps."
+              },
+              {
+                "id": "b",
+                "texto": "L’esforç només mesura el cost dels materials."
+              },
+              {
+                "id": "c",
+                "texto": "La durada sempre és el nombre total d’hores de totes les persones sumades."
+              },
+              {
+                "id": "d",
+                "texto": "Són dues paraules per a exactament la mateixa magnitud."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Una activitat de dos dies amb dues persones pot consumir quatre dies-persona d’esforç. Font: L5, p. 10-11.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q03",
+            "enunciado": "Què caracteritza una fita del cronograma?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Consumeix obligatòriament el pressupost de contingència."
+              },
+              {
+                "id": "b",
+                "texto": "Només pot representar l’inici del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "És sempre una activitat de deu dies."
+              },
+              {
+                "id": "d",
+                "texto": "Marca un esdeveniment i no consumeix durada ni recursos."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Una fita és un punt de referència, com una decisió o la conclusió d’una fase. Font: L5, p. 12.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q04",
+            "enunciado": "Quines condicions necessita la planificació PERT descrita als apunts?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Tasques inconnexes i circuits sense límit."
+              },
+              {
+                "id": "b",
+                "texto": "Durades desconegudes i cap dependència definida."
+              },
+              {
+                "id": "c",
+                "texto": "Només una data final, sense activitats identificades."
+              },
+              {
+                "id": "d",
+                "texto": "Tasques finites, ordenades, connectades i sense bucles, amb durades estimades."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El mètode requereix una xarxa connexa sense circuits i estimacions de temps i recursos. Font: L5, p. 15.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q05",
+            "enunciado": "Com es pot tractar un grup de tasques que conté un bucle?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Encapsulant-lo en una tasca virtual amb durada i recursos estimats."
+              },
+              {
+                "id": "b",
+                "texto": "Mantenint un circuit infinit dins del càlcul PERT."
+              },
+              {
+                "id": "c",
+                "texto": "Suposant que la seva durada és sempre zero."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminant les dependències de tot el projecte."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La tasca virtual representa el conjunt iteratiu perquè la xarxa principal no contingui bucles. Font: L5, p. 16.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q06",
+            "enunciado": "En una representació d’activitats en nodes, què expressen les fletxes?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El cost horari dels recursos."
+              },
+              {
+                "id": "b",
+                "texto": "Les dependències entre les tasques."
+              },
+              {
+                "id": "c",
+                "texto": "La puntuació de cada criteri AHP."
+              },
+              {
+                "id": "d",
+                "texto": "El nom del client."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "En aquesta notació les activitats són els nodes i les relacions de precedència són els arcs. Font: L5, p. 17-18.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q07",
+            "enunciado": "Quines estimacions de durada utilitza PERT?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només la durada màxima contractual."
+              },
+              {
+                "id": "b",
+                "texto": "Només el cost real i el cost previst."
+              },
+              {
+                "id": "c",
+                "texto": "Exclusivament la mitjana dels salaris."
+              },
+              {
+                "id": "d",
+                "texto": "Optimista, normal o més probable, i pessimista."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "PERT tracta la variabilitat de la durada amb tres valors de referència. Font: L5, p. 19.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q08",
+            "enunciado": "Quina és la fórmula del temps esperat PERT?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "4 × (optimista + pessimista) / més probable."
+              },
+              {
+                "id": "b",
+                "texto": "(Optimista + pessimista) / 6."
+              },
+              {
+                "id": "c",
+                "texto": "(Optimista + més probable + pessimista) / 2."
+              },
+              {
+                "id": "d",
+                "texto": "(Optimista + 4 × més probable + pessimista) / 6."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La fórmula dona més pes a l’estimació normal que als dos extrems. Font: L5, p. 19.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q09",
+            "enunciado": "Quina hipòtesi diferencia CPM de PERT?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "CPM no necessita cap relació entre activitats."
+              },
+              {
+                "id": "b",
+                "texto": "CPM parteix de durades estimades com a valors deterministes."
+              },
+              {
+                "id": "c",
+                "texto": "CPM exigeix sempre tres durades aleatòries per tasca."
+              },
+              {
+                "id": "d",
+                "texto": "CPM prohibeix calcular un camí crític."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Un cop calculat el temps esperat PERT, els dos mètodes utilitzen el mateix càlcul de planificació. Font: L5, p. 20.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q10",
+            "enunciado": "Què calcula el recorregut cap endavant?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Exclusivament els inicis més tard possibles."
+              },
+              {
+                "id": "b",
+                "texto": "Els inicis i finals més aviat possibles."
+              },
+              {
+                "id": "c",
+                "texto": "Els salaris màxims de l’equip."
+              },
+              {
+                "id": "d",
+                "texto": "Només els costos reals."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El forward pass permet trobar els temps primerencs i la durada mínima del projecte. Font: L5, p. 11 i 25.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q11",
+            "enunciado": "Una activitat amb precedències final-principi sense retard té dos predecessors. Com es calcula el seu inici més aviat?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Utilitzant sempre l’instant zero."
+              },
+              {
+                "id": "b",
+                "texto": "Sumant els noms de les activitats."
+              },
+              {
+                "id": "c",
+                "texto": "Prenent el mínim dels inicis dels predecessors."
+              },
+              {
+                "id": "d",
+                "texto": "Prenent el màxim dels finals més aviat dels predecessors."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "L’activitat ha d’esperar que tots els predecessors hagin finalitzat. Font: L5, p. 25.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q12",
+            "enunciado": "Què calcula el recorregut cap enrere?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Els inicis i finals més tard admissibles."
+              },
+              {
+                "id": "b",
+                "texto": "Exclusivament el temps optimista."
+              },
+              {
+                "id": "c",
+                "texto": "El percentatge executat del pressupost."
+              },
+              {
+                "id": "d",
+                "texto": "Només el primer lliurament extern."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El backward pass parteix de la finalització del projecte i propaga els límits cap als predecessors. Font: L5, p. 12 i 26.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q13",
+            "enunciado": "Quina seqüència determina la durada mínima del projecte en una xarxa CPM bàsica?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El camí amb menys activitats, independentment de la durada."
+              },
+              {
+                "id": "b",
+                "texto": "El camí de durada més llarga entre l’inici i el final."
+              },
+              {
+                "id": "c",
+                "texto": "El camí amb més folgança lliure."
+              },
+              {
+                "id": "d",
+                "texto": "La seqüència que només conté les activitats més barates."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El camí crític fixa el menor temps possible de finalització respectant les dependències. Font: L5, p. 10.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q14",
+            "enunciado": "Quina folgança total té una activitat crítica en el model bàsic?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La meitat de la seva durada."
+              },
+              {
+                "id": "b",
+                "texto": "Sempre un dia."
+              },
+              {
+                "id": "c",
+                "texto": "Zero."
+              },
+              {
+                "id": "d",
+                "texto": "El mateix valor que el pressupost."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Una activitat crítica no admet retard sense modificar la durada del projecte. Font: L5, p. 9.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q15",
+            "enunciado": "Què pot passar si dos camins paral·lels tenen la mateixa durada màxima?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cal eliminar una branca per poder planificar."
+              },
+              {
+                "id": "b",
+                "texto": "El projecte deixa de tenir una durada definida."
+              },
+              {
+                "id": "c",
+                "texto": "Tots dos poden formar branques crítiques."
+              },
+              {
+                "id": "d",
+                "texto": "Cap activitat pot ser crítica."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "El camí crític pot presentar branques paral·leles que se separen i es tornen a unir. Font: L5, p. 28.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q16",
+            "enunciado": "Què permet la folgança total d’una tasca?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Augmentar sempre el pressupost aprovat."
+              },
+              {
+                "id": "b",
+                "texto": "Eliminar qualsevol dependència amb successors."
+              },
+              {
+                "id": "c",
+                "texto": "Endarrerir-la indefinidament."
+              },
+              {
+                "id": "d",
+                "texto": "Endarrerir-la dins d’un límit sense modificar la data final del projecte."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Consumir folgança total pot reduir la folgança d’altres tasques. Font: L5, p. 29.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q17",
+            "enunciado": "Què diferencia la folgança lliure de la total en PERT/CPM bàsic?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La lliure es mesura sempre en euros."
+              },
+              {
+                "id": "b",
+                "texto": "La lliure permet endarrerir sempre la data final del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "La lliure evita endarrerir el succés següent."
+              },
+              {
+                "id": "d",
+                "texto": "La total només existeix en activitats de durada zero."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La folgança lliure conserva els temps primerencs dels successors, mentre que la total protegeix el final del projecte. Font: L5, p. 29.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q18",
+            "enunciado": "En una xarxa d’activitats en arcs, quina expressió calcula la folgança total de l’arc i-j?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "TTj - TPi - tij."
+              },
+              {
+                "id": "b",
+                "texto": "TPj - TTj + tij."
+              },
+              {
+                "id": "c",
+                "texto": "tij / (TTj + TPi)."
+              },
+              {
+                "id": "d",
+                "texto": "TPi + TTj + tij."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Es resta l’inici més aviat i la durada al temps més tard del node de destí. Font: L5, p. 29-31.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q19",
+            "enunciado": "Una relació FP amb retard de dos dies estableix que...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La successora ha d’acabar abans que comenci la predecessora."
+              },
+              {
+                "id": "b",
+                "texto": "La successora no pot començar fins dos dies després del final de la predecessora."
+              },
+              {
+                "id": "c",
+                "texto": "Les dues tasques han d’acabar exactament juntes."
+              },
+              {
+                "id": "d",
+                "texto": "Les dues tasques han de començar exactament juntes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Final-principi vincula el final de la predecessora amb l’inici de la successora. Font: L5, p. 37.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q20",
+            "enunciado": "Una relació PP amb retard de tres dies estableix que...",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "La successora no pot acabar fins tres dies després del final de la predecessora."
+              },
+              {
+                "id": "b",
+                "texto": "La durada de totes dues activitats és de tres dies."
+              },
+              {
+                "id": "c",
+                "texto": "La successora no pot començar fins tres dies després de l’inici de la predecessora."
+              },
+              {
+                "id": "d",
+                "texto": "Cal esperar sempre el final de la predecessora."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Principi-principi posa una restricció sobre els inicis de les activitats. Font: L5, p. 37.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q21",
+            "enunciado": "Quina precedència correspon a «B no pot acabar fins que A hagi acabat»?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Principi-final (PF)."
+              },
+              {
+                "id": "b",
+                "texto": "Principi-principi (PP)."
+              },
+              {
+                "id": "c",
+                "texto": "Final-final (FF)."
+              },
+              {
+                "id": "d",
+                "texto": "Final-principi (FP)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La precedència FF relaciona el final de la predecessora amb el de la successora. Font: L5, p. 37.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q22",
+            "enunciado": "El torn actual no pot acabar fins que comenci el torn de relleu. Quina relació ho expressa, prenent el relleu com a predecessor?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Principi-principi (PP)."
+              },
+              {
+                "id": "b",
+                "texto": "Final-principi (FP)."
+              },
+              {
+                "id": "c",
+                "texto": "Principi-final (PF)."
+              },
+              {
+                "id": "d",
+                "texto": "Final-final (FF)."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "PF condiciona el final d’una tasca a l’inici d’una altra. Font: L5, p. 37.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q23",
+            "enunciado": "Què mostra un diagrama de Gantt lineal?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les tasques sobre una escala temporal amb durades i possibles folgances."
+              },
+              {
+                "id": "b",
+                "texto": "Les comparacions per parells dels criteris."
+              },
+              {
+                "id": "c",
+                "texto": "Exclusivament la jerarquia de l’organització."
+              },
+              {
+                "id": "d",
+                "texto": "Només els percentatges de rendibilitat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El Gantt lineal situa les activitats i les fites sobre unitats de temps. Font: L5, p. 50-53.",
+            "bloque": "L5 · Gestió del temps"
+          },
+          {
+            "id": "gp-l5-q24",
+            "enunciado": "Si l’histograma de necessitats supera la disponibilitat de recursos, què cal revisar?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Les assignacions i els desplaçaments possibles de tasques dins de les folgances."
+              },
+              {
+                "id": "b",
+                "texto": "Només el títol del projecte."
+              },
+              {
+                "id": "c",
+                "texto": "La suposició que les persones tenen disponibilitat il·limitada."
+              },
+              {
+                "id": "d",
+                "texto": "La manera d’eliminar les necessitats del registre sense canviar el pla."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La comparació entre necessitat i disponibilitat detecta sobrecàrregues i permet ajustar el pla. Font: L5, p. 54-56.",
+            "bloque": "L5 · Gestió del temps"
+          }
+        ]
+      },
+      {
+        "id": "test-gp-l6",
+        "titulo": "L6 · Costos i sostenibilitat",
+        "descripcion": "24 preguntes originals de resposta única, amb explicacions. Basat en L6: Gestió dels Costos i Sostenibilitat. Curs 2026-27.",
+        "preguntas": [
+          {
+            "id": "gp-l6-q01",
+            "enunciado": "Quins processos resumeixen la gestió dels costos?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Només pagar i arxivar factures."
+              },
+              {
+                "id": "b",
+                "texto": "Estimar, pressupostar i controlar."
+              },
+              {
+                "id": "c",
+                "texto": "Contractar, formar i acomiadar."
+              },
+              {
+                "id": "d",
+                "texto": "Definir únicament el preu de venda."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La gestió de costos prepara estimacions, assigna un pressupost i en controla el consum. Font: L6, p. 5.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q02",
+            "enunciado": "Quina funció té el pressupost del projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Evitar haver d’estimar els recursos."
+              },
+              {
+                "id": "b",
+                "texto": "Servir d’eina de planificació i control dels costos."
+              },
+              {
+                "id": "c",
+                "texto": "Garantir que mai no hi haurà desviacions."
+              },
+              {
+                "id": "d",
+                "texto": "Substituir tots els registres de treball realitzat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "El pressupost és una referència per comparar el cost previst i el real. Font: L6, p. 5-6.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q03",
+            "enunciado": "Quin exemple correspon a un cost directe?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El servei general d’administració compartit per tota l’empresa."
+              },
+              {
+                "id": "b",
+                "texto": "La despesa general de serveis comuns de l’organització."
+              },
+              {
+                "id": "c",
+                "texto": "El lloguer d’un equip utilitzat exclusivament pel projecte."
+              },
+              {
+                "id": "d",
+                "texto": "El lloguer d’una seu corporativa sense ús exclusiu del projecte."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Els costos directes es poden vincular específicament al projecte. Font: L6, p. 7.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q04",
+            "enunciado": "Quan és més fiable l’estimació per analogia?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Quan no es disposa de cap dada anterior."
+              },
+              {
+                "id": "b",
+                "texto": "Quan el projecte de referència és completament diferent."
+              },
+              {
+                "id": "c",
+                "texto": "Quan no es revisa el contingut de l’activitat."
+              },
+              {
+                "id": "d",
+                "texto": "Quan els projectes comparats són similars i l’estimador té experiència."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "L’analogia utilitza activitats anteriors comparables i requereix criteri professional. Font: L6, p. 10.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q05",
+            "enunciado": "Què fa l’estimació ascendent?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Elimina els paquets de treball de l’EDT."
+              },
+              {
+                "id": "b",
+                "texto": "Estima els components detallats i en suma els costos."
+              },
+              {
+                "id": "c",
+                "texto": "Reparteix sempre el mateix cost a totes les activitats."
+              },
+              {
+                "id": "d",
+                "texto": "Parteix només del preu de venda i ignora les tasques."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Descompondre el treball i estimar els nivells inferiors produeix una estimació agregada. Font: L6, p. 11-12.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q06",
+            "enunciado": "Com s’aplica la fórmula PERT a una estimació de cost?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Cost = (optimista + 4 × més probable + pessimista) / 6."
+              },
+              {
+                "id": "b",
+                "texto": "Cost = pessimista - optimista, sempre."
+              },
+              {
+                "id": "c",
+                "texto": "Cost = optimista + pessimista, sense ponderació."
+              },
+              {
+                "id": "d",
+                "texto": "Cost = més probable / nombre de tasques."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La mitjana ponderada incorpora tres escenaris i reforça el valor més probable. Font: L6, p. 13-14.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q07",
+            "enunciado": "Quina informació convé revisar en la preselecció de proveïdors?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Capacitat financera, recursos, qualitat i experiència anterior."
+              },
+              {
+                "id": "b",
+                "texto": "Exclusivament el nom comercial més conegut."
+              },
+              {
+                "id": "c",
+                "texto": "Únicament l’ordre d’arribada de les ofertes."
+              },
+              {
+                "id": "d",
+                "texto": "Només el color del logotip."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La preselecció combina criteris de capacitat amb evidències de qualitat i comportament anterior. Font: L6, p. 16.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q08",
+            "enunciado": "Quina característica ha de tenir una EDC?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Barrejar costos sense definir-los."
+              },
+              {
+                "id": "b",
+                "texto": "Incloure tots els costos rellevants i ser compatible amb la comptabilitat de l’empresa."
+              },
+              {
+                "id": "c",
+                "texto": "Impedir l’anàlisi d’àrees específiques."
+              },
+              {
+                "id": "d",
+                "texto": "Excloure sempre les despeses internes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "L’estructura de costos ha de ser completa, clara, identificable i útil per a l’anàlisi. Font: L6, p. 17-18.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q09",
+            "enunciado": "Quina categoria també forma part del cost total del cicle de vida?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Únicament la compra inicial de maquinària."
+              },
+              {
+                "id": "b",
+                "texto": "Només el salari inicial del PM."
+              },
+              {
+                "id": "c",
+                "texto": "La retirada i eliminació del sistema."
+              },
+              {
+                "id": "d",
+                "texto": "Exclusivament la primera prova del prototip."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "L’EDC pot incloure investigació, producció, operació i retirada del producte. Font: L6, p. 17-19.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q10",
+            "enunciado": "Com es calcula el cost de personal quan es coneix la taxa horària?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Dividint les hores pel nombre de persones i ignorant la taxa."
+              },
+              {
+                "id": "b",
+                "texto": "Multiplicant només la durada del projecte per un percentatge."
+              },
+              {
+                "id": "c",
+                "texto": "Sumant només el nombre de persones i la taxa."
+              },
+              {
+                "id": "d",
+                "texto": "Multiplicant hores per persona, nombre de persones i cost per hora."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La taxa de recursos combina la quantitat de recursos, les hores necessàries i el preu unitari. Font: L6, p. 20.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q11",
+            "enunciado": "Quin objectiu té la tècnica Delphi?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Escollir sempre l’opinió de la persona amb més autoritat."
+              },
+              {
+                "id": "b",
+                "texto": "Fer una única votació sense compartir resultats."
+              },
+              {
+                "id": "c",
+                "texto": "Assolir consens mitjançant aportacions successives d’experts."
+              },
+              {
+                "id": "d",
+                "texto": "Substituir l’experiència per una dada aleatòria."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Delphi utilitza un facilitador i rondes d’opinions, que poden ser anònimes. Font: L6, p. 21-22.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q12",
+            "enunciado": "Què pot contenir la base històrica de projectes?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Únicament els pressupostos de projectes futurs no aprovats."
+              },
+              {
+                "id": "b",
+                "texto": "Només els noms dels clients."
+              },
+              {
+                "id": "c",
+                "texto": "Exclusivament dades comercials sense cap informació tècnica."
+              },
+              {
+                "id": "d",
+                "texto": "Estimacions, plans, riscos, recursos i lliçons apreses."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El registre històric conserva evidències útils per estimar i planificar nous projectes. Font: L6, p. 23.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q13",
+            "enunciado": "Què compara l’anàlisi del valor guanyat?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Exclusivament el nombre de reunions previstes."
+              },
+              {
+                "id": "b",
+                "texto": "Només els ingressos de vendes de cada mes."
+              },
+              {
+                "id": "c",
+                "texto": "La jerarquia del personal amb la seva antiguitat."
+              },
+              {
+                "id": "d",
+                "texto": "Treball planificat, treball completat i cost real del treball."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "El mètode integra l’estat del cost i del termini amb PV, EV i AC. Font: L6, p. 25-26.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q14",
+            "enunciado": "Què és el valor planificat PV?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El cost previst només de les tasques acabades realment."
+              },
+              {
+                "id": "b",
+                "texto": "El benefici net de la inversió."
+              },
+              {
+                "id": "c",
+                "texto": "El valor pressupostat del treball que s’hauria d’haver fet fins a la data."
+              },
+              {
+                "id": "d",
+                "texto": "Els diners realment pagats fins a la data."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "En el model percentual dels apunts, PV és el percentatge planificat multiplicat pel BAC. Font: L6, p. 27.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q15",
+            "enunciado": "Què és el valor guanyat EV?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "El valor pressupostat del treball efectivament executat."
+              },
+              {
+                "id": "b",
+                "texto": "El pressupost exclusiu del treball encara no iniciat."
+              },
+              {
+                "id": "c",
+                "texto": "El total de factures pagades, sigui quin sigui l’avanç."
+              },
+              {
+                "id": "d",
+                "texto": "Els ingressos comercials acumulats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "EV valora l’avanç real amb el pressupost de referència, sense confondre’l amb la despesa AC. Font: L6, p. 25-27.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q16",
+            "enunciado": "Si CV = EV - AC és negatiu, què indica?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que el pressupost no s’ha consumit en absolut."
+              },
+              {
+                "id": "b",
+                "texto": "Que el projecte està necessàriament avançat de termini."
+              },
+              {
+                "id": "c",
+                "texto": "Que el valor guanyat supera el cost real."
+              },
+              {
+                "id": "d",
+                "texto": "Que el cost real supera el valor guanyat: hi ha una desviació de cost desfavorable."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Una CV negativa revela que s’ha gastat més del valor pressupostat del treball fet. Font: L6, p. 27.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q17",
+            "enunciado": "Si SV = EV - PV és negatiu, què indica?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que no hi ha cap desviació de cronograma."
+              },
+              {
+                "id": "b",
+                "texto": "Que el cost real és necessàriament inferior al previst."
+              },
+              {
+                "id": "c",
+                "texto": "Que s’ha completat menys treball del planificat a la data."
+              },
+              {
+                "id": "d",
+                "texto": "Que ja s’ha executat tot l’abast."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "SV negativa implica retard en termes de valor pressupostat del treball, no un nombre directe de dies. Font: L6, p. 27-28.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q18",
+            "enunciado": "Què significa un CPI inferior a 1?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que el valor guanyat és superior al cost real."
+              },
+              {
+                "id": "b",
+                "texto": "Que es genera menys d’un euro de valor guanyat per cada euro gastat."
+              },
+              {
+                "id": "c",
+                "texto": "Que el pressupost ha augmentat automàticament."
+              },
+              {
+                "id": "d",
+                "texto": "Que el projecte està sempre avançat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "CPI = EV / AC; un valor inferior a la unitat indica eficiència de cost desfavorable. Font: L6, p. 28.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q19",
+            "enunciado": "Què significa un SPI superior a 1?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que s’ha gastat més que el valor guanyat."
+              },
+              {
+                "id": "b",
+                "texto": "Que el projecte ha de tenir retard de termini."
+              },
+              {
+                "id": "c",
+                "texto": "Que el cost real és obligatòriament inferior al pressupost."
+              },
+              {
+                "id": "d",
+                "texto": "Que el valor del treball executat supera el planificat a la data."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "SPI = EV / PV; un valor superior a la unitat indica avanç respecte al treball planificat. Font: L6, p. 28.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q20",
+            "enunciado": "Quina diferència hi ha entre BAC i EAC?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "EAC és només el cost dels treballs ja acabats."
+              },
+              {
+                "id": "b",
+                "texto": "BAC és el pressupost total de referència i EAC el cost total final previst actualitzat."
+              },
+              {
+                "id": "c",
+                "texto": "BAC i EAC sempre han de ser iguals."
+              },
+              {
+                "id": "d",
+                "texto": "BAC és el cost real i EAC és el valor guanyat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "La projecció EAC pot diferir del pressupost inicial segons l’acompliment observat. Font: L6, p. 29 i 33.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q21",
+            "enunciado": "Quina hipòtesi correspon a EAC = BAC / CPI?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Que l’eficiència acumulada de cost es mantindrà en el treball pendent."
+              },
+              {
+                "id": "b",
+                "texto": "Que ja no queda cap treball per executar."
+              },
+              {
+                "id": "c",
+                "texto": "Que el CPI només mesura dies de retard."
+              },
+              {
+                "id": "d",
+                "texto": "Que els costos futurs seran sempre zero."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Aquesta projecció aplica la mateixa proporció de despesa observada al conjunt del projecte. Font: L6, p. 29 i 34.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q22",
+            "enunciado": "Quina situació pot requerir un canvi en els costos del projecte?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Una petició inesperada del client o un canvi tecnològic."
+              },
+              {
+                "id": "b",
+                "texto": "El simple fet d’haver creat un organigrama."
+              },
+              {
+                "id": "c",
+                "texto": "Només la signatura de l’acta de tancament sense canvis."
+              },
+              {
+                "id": "d",
+                "texto": "La lectura dels apunts per part de l’equip."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Els canvis d’abast, de context o de tecnologia poden exigir accions correctives i revisió de costos. Font: L6, p. 35.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q23",
+            "enunciado": "Quina idea defineix la sostenibilitat des de la perspectiva humana?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Consumir tots els recursos disponibles per maximitzar l’ingrés immediat."
+              },
+              {
+                "id": "b",
+                "texto": "Excloure l’impacte ambiental de les decisions."
+              },
+              {
+                "id": "c",
+                "texto": "Satisfer necessitats actuals sense comprometre les de les generacions futures."
+              },
+              {
+                "id": "d",
+                "texto": "Considerar només la rendibilitat del primer mes."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La sostenibilitat combina el benestar actual amb la preservació de la capacitat futura. Font: L6, p. 36.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          },
+          {
+            "id": "gp-l6-q24",
+            "enunciado": "Quin risc tecnològic destaquen els apunts en relació amb un mal ús de la IA?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Perdre control del projecte i augmentar el cost futur de manteniment i comprensió."
+              },
+              {
+                "id": "b",
+                "texto": "Garantir que els recursos siguin il·limitats."
+              },
+              {
+                "id": "c",
+                "texto": "Fer impossible que hi hagi desviacions de costos."
+              },
+              {
+                "id": "d",
+                "texto": "Eliminar necessàriament qualsevol deute tecnològic."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "La delegació sense control pot generar deute tecnològic i dificultats de manteniment. Font: L6, p. 36-37.",
+            "bloque": "L6 · Costos i sostenibilitat"
+          }
+        ]
+      },
+      {
+        "id": "test-gp-practica",
+        "titulo": "Problemes pràctics · Primer parcial",
+        "descripcion": "24 preguntes originals de resposta única, amb explicacions. Basat en L4, L5 i L6, el resum de problemes del parcial 1 i el resum del primer parcial. Curs 2026-27.",
+        "preguntas": [
+          {
+            "id": "gp-practica-q01",
+            "enunciado": "Una inversió de 1.000 € retorna 1.100 € al final d’un any. Amb una taxa de descompte del 10%, quin VAN té?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "0 €."
+              },
+              {
+                "id": "b",
+                "texto": "1.100 €."
+              },
+              {
+                "id": "c",
+                "texto": "-100 €."
+              },
+              {
+                "id": "d",
+                "texto": "100 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "VAN = -1.000 + 1.100 / 1,10 = 0 €. Es recupera exactament la rendibilitat exigida. Font: L4, p. 10-11; resum de problemes, p. 1.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q02",
+            "enunciado": "Un projecte exigeix 1.000 € inicials i retorna 660 € al final de l’any 1 i 726 € al final de l’any 2. Amb un descompte del 10%, quin és el VAN?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "1.200 €."
+              },
+              {
+                "id": "b",
+                "texto": "386 €."
+              },
+              {
+                "id": "c",
+                "texto": "-200 €."
+              },
+              {
+                "id": "d",
+                "texto": "200 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "VAN = -1.000 + 660 / 1,1 + 726 / 1,1² = -1.000 + 600 + 600 = 200 €. Font: L4, p. 10-11; resum de problemes, p. 1.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q03",
+            "enunciado": "S’inverteixen 6.000 € i els fluxos dels anys 1, 2 i 3 són 1.000 €, 2.000 € i 5.000 €. Amb flux uniforme dins de cada any, quin és el payback simple?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "2,6 anys."
+              },
+              {
+                "id": "b",
+                "texto": "2 anys."
+              },
+              {
+                "id": "c",
+                "texto": "3,6 anys."
+              },
+              {
+                "id": "d",
+                "texto": "1,6 anys."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "Després de dos anys falten 3.000 € per recuperar; 3.000 / 5.000 = 0,6 anys addicionals. Font: L4, p. 15; resum de problemes, p. 1.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q04",
+            "enunciado": "Un projecte té una inversió total de 4.000 € i ingressos totals de 7.000 €, sense altres costos. Quin ROI obté?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "75%."
+              },
+              {
+                "id": "b",
+                "texto": "57,14%."
+              },
+              {
+                "id": "c",
+                "texto": "175%."
+              },
+              {
+                "id": "d",
+                "texto": "25%."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "El benefici net és 7.000 - 4.000 = 3.000 €; ROI = 3.000 / 4.000 × 100 = 75%. Font: L4, p. 16; resum de problemes, p. 1.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q05",
+            "enunciado": "Dues alternatives tenen costos totals CA = 1.000 + 10q i CB = 400 + 20q, en euros. Per a quantes unitats q s’igualen?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "40 unitats."
+              },
+              {
+                "id": "b",
+                "texto": "100 unitats."
+              },
+              {
+                "id": "c",
+                "texto": "140 unitats."
+              },
+              {
+                "id": "d",
+                "texto": "60 unitats."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Igualant els costos: 1.000 + 10q = 400 + 20q; 600 = 10q; q = 60. Font: L4, p. 8-9.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q06",
+            "enunciado": "Una alternativa obté 4 en seguretat, 2 en comunicació i 5 en sostenibilitat. Amb pesos 0,5, 0,3 i 0,2, quin és el total ponderat?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "3,0."
+              },
+              {
+                "id": "b",
+                "texto": "4,2."
+              },
+              {
+                "id": "c",
+                "texto": "11."
+              },
+              {
+                "id": "d",
+                "texto": "3,6."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "Total = 4 × 0,5 + 2 × 0,3 + 5 × 0,2 = 2 + 0,6 + 1 = 3,6. Font: L4, p. 17-18.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q07",
+            "enunciado": "Una alternativa dona 20.000 € amb probabilitat 0,7 i una pèrdua de 5.000 € amb probabilitat 0,3. Quin és el seu valor monetari esperat?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "17.000 €."
+              },
+              {
+                "id": "b",
+                "texto": "12.500 €."
+              },
+              {
+                "id": "c",
+                "texto": "15.500 €."
+              },
+              {
+                "id": "d",
+                "texto": "-1.500 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Valor esperat = 0,7 × 20.000 + 0,3 × (-5.000) = 12.500 €. Font: L4, p. 21.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q08",
+            "enunciado": "Una inversió convencional costa 1.000 € i retorna 1.200 € al cap d’un any. Quina TIR té?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "16,67%."
+              },
+              {
+                "id": "b",
+                "texto": "20%."
+              },
+              {
+                "id": "c",
+                "texto": "12%."
+              },
+              {
+                "id": "d",
+                "texto": "120%."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Imposant VAN = 0: 1.000 = 1.200 / (1 + TIR); TIR = 0,20. Font: L4, p. 14.",
+            "bloque": "Selecció de projectes"
+          },
+          {
+            "id": "gp-practica-q09",
+            "enunciado": "Una activitat té durada optimista de 2 dies, més probable de 5 i pessimista de 14. Quin temps esperat PERT té?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "5 dies."
+              },
+              {
+                "id": "b",
+                "texto": "6 dies."
+              },
+              {
+                "id": "c",
+                "texto": "8 dies."
+              },
+              {
+                "id": "d",
+                "texto": "7 dies."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Temps esperat = (2 + 4 × 5 + 14) / 6 = 36 / 6 = 6 dies. Font: L5, p. 19.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q10",
+            "enunciado": "A dura 3 dies. Després d’A es fan B (4 dies) i C (2 dies) en paral·lel. D dura 5 dies i espera B i C. Sense altres restriccions, quina és la durada mínima?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "14 dies."
+              },
+              {
+                "id": "b",
+                "texto": "12 dies."
+              },
+              {
+                "id": "c",
+                "texto": "9 dies."
+              },
+              {
+                "id": "d",
+                "texto": "10 dies."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "D comença a 3 + max(4, 2) = 7 i acaba a 12. El camí A-B-D fixa la durada. Font: L5, p. 25-28; resum de problemes, p. 2.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q11",
+            "enunciado": "A (3 dies) precedeix B (4) i C (2), que es fan en paral·lel; D (5) espera totes dues. Amb relacions FP sense retards, quina folgança total té C?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "2 dies."
+              },
+              {
+                "id": "b",
+                "texto": "4 dies."
+              },
+              {
+                "id": "c",
+                "texto": "0 dies."
+              },
+              {
+                "id": "d",
+                "texto": "5 dies."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "C comença a 3 i acaba a 5, però pot acabar fins a 7 sense endarrerir D; la folgança és 2. Font: L5, p. 29-31; resum de problemes, p. 2.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q12",
+            "enunciado": "Un arc i-j dura 5 dies. TPi = 4, TPj = 12 i TTj = 15. Quines són la folgança total HT i la lliure HL?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "HT = 0 dies i HL = 0 dies."
+              },
+              {
+                "id": "b",
+                "texto": "HT = 3 dies i HL = 6 dies."
+              },
+              {
+                "id": "c",
+                "texto": "HT = 6 dies i HL = 3 dies."
+              },
+              {
+                "id": "d",
+                "texto": "HT = 11 dies i HL = 8 dies."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "HT = 15 - 4 - 5 = 6; HL = 12 - 4 - 5 = 3. Font: L5, p. 29-31.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q13",
+            "enunciado": "A acaba a l’instant 7. B depèn d’A amb una precedència FP i retard +2, sense altres restriccions. Quan pot començar B com a mínim?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "A l’instant 2."
+              },
+              {
+                "id": "b",
+                "texto": "A l’instant 7."
+              },
+              {
+                "id": "c",
+                "texto": "A l’instant 5."
+              },
+              {
+                "id": "d",
+                "texto": "A l’instant 9."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "En una relació final-principi, inici(B) ≥ final(A) + retard = 7 + 2 = 9. Font: L5, p. 37; resum de problemes, p. 2.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q14",
+            "enunciado": "A comença a l’instant 4. B té una precedència PP respecte d’A amb retard +3, sense altres restriccions. Quin inici mínim té B?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "L’instant 12."
+              },
+              {
+                "id": "b",
+                "texto": "L’instant 4."
+              },
+              {
+                "id": "c",
+                "texto": "L’instant 7."
+              },
+              {
+                "id": "d",
+                "texto": "L’instant 1."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "La restricció principi-principi és inici(B) ≥ inici(A) + 3 = 7. Font: L5, p. 37.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q15",
+            "enunciado": "Tres persones treballen durant dos dies a sis hores per persona i dia. Quin esforç total consumeixen?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "6 hores-persona."
+              },
+              {
+                "id": "b",
+                "texto": "36 hores-persona."
+              },
+              {
+                "id": "c",
+                "texto": "18 hores-persona."
+              },
+              {
+                "id": "d",
+                "texto": "12 hores-persona."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "Esforç = 3 persones × 2 dies × 6 hores/dia = 36 hores-persona; la durada continua sent dos dies. Font: L5, p. 10-11.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q16",
+            "enunciado": "Hi ha quatre tècnics disponibles i dues tasques simultànies en necessiten tres i dos. Si una es pot moure dins de la seva folgança, què és coherent fer?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "Reduir la durada a zero sense canviar els recursos."
+              },
+              {
+                "id": "b",
+                "texto": "Ignorar la sobrecàrrega perquè les tasques són paral·leles."
+              },
+              {
+                "id": "c",
+                "texto": "Donar per coberta la necessitat perquè hi ha menys de sis tècnics assignats."
+              },
+              {
+                "id": "d",
+                "texto": "Reprogramar-la per eliminar el dèficit d’un tècnic respectant les dependències."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "La demanda és 3 + 2 = 5 i supera la disponibilitat de 4; moure una tasca pot resoldre el conflicte. Font: L5, p. 54-55.",
+            "bloque": "Gestió del temps"
+          },
+          {
+            "id": "gp-practica-q17",
+            "enunciado": "Treballen tres programadors durant 20 hores cadascun a 50 €/h i un PM durant 10 hores a 80 €/h. Quin és el cost total?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "4.600 €."
+              },
+              {
+                "id": "b",
+                "texto": "3.000 €."
+              },
+              {
+                "id": "c",
+                "texto": "3.800 €."
+              },
+              {
+                "id": "d",
+                "texto": "1.800 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Programadors: 3 × 20 × 50 = 3.000 €; PM: 10 × 80 = 800 €; total: 3.800 €. Font: L6, p. 20; resum de problemes, p. 3.",
+            "bloque": "Gestió dels costos"
+          },
+          {
+            "id": "gp-practica-q18",
+            "enunciado": "Els costos optimista, més probable i pessimista són 800 €, 1.000 € i 2.000 €. Quin és el cost esperat PERT, arrodonit a cèntims?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "1.266,67 €."
+              },
+              {
+                "id": "b",
+                "texto": "1.400 €."
+              },
+              {
+                "id": "c",
+                "texto": "1.133,33 €."
+              },
+              {
+                "id": "d",
+                "texto": "1.000 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Cost = (800 + 4 × 1.000 + 2.000) / 6 = 6.800 / 6 = 1.133,33 €. Font: L6, p. 13-14.",
+            "bloque": "Gestió dels costos"
+          },
+          {
+            "id": "gp-practica-q19",
+            "enunciado": "Un projecte té BAC = 80.000 €. A la data de control s’hauria d’haver fet el 50% del treball i se n’ha fet el 40%. Quins són PV i EV?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "PV = 40.000 € i EV = 80.000 €."
+              },
+              {
+                "id": "b",
+                "texto": "PV = 80.000 € i EV = 8.000 €."
+              },
+              {
+                "id": "c",
+                "texto": "PV = 32.000 € i EV = 40.000 €."
+              },
+              {
+                "id": "d",
+                "texto": "PV = 40.000 € i EV = 32.000 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "d"
+            ],
+            "explicacion": "PV = 0,50 × 80.000 = 40.000 €; EV = 0,40 × 80.000 = 32.000 €. Font: L6, p. 27; resum de problemes, p. 3.",
+            "bloque": "Gestió dels costos"
+          },
+          {
+            "id": "gp-practica-q20",
+            "enunciado": "Amb EV = 30.000 € i AC = 36.000 €, quina és la variació de cost i què indica?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "CV = +6.000 €: desviació favorable."
+              },
+              {
+                "id": "b",
+                "texto": "CV = -6.000 €: desviació desfavorable."
+              },
+              {
+                "id": "c",
+                "texto": "CV = 66.000 €: pressupost final aprovat."
+              },
+              {
+                "id": "d",
+                "texto": "CV = -6.000 €: avanç del cronograma en dies."
+              }
+            ],
+            "respuestaCorrecta": [
+              "b"
+            ],
+            "explicacion": "CV = EV - AC = 30.000 - 36.000 = -6.000 €; s’ha gastat més que el valor del treball fet. Font: L6, p. 27; resum de problemes, p. 3.",
+            "bloque": "Gestió dels costos"
+          },
+          {
+            "id": "gp-practica-q21",
+            "enunciado": "Amb EV = 30.000 € i PV = 40.000 €, quin SPI té el projecte i com s’interpreta?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "SPI = 0,75: el projecte gasta exactament el pressupostat."
+              },
+              {
+                "id": "b",
+                "texto": "SPI = 10.000: és el nombre de dies de retard."
+              },
+              {
+                "id": "c",
+                "texto": "SPI = 0,75: el treball real va endarrerit respecte del planificat."
+              },
+              {
+                "id": "d",
+                "texto": "SPI = 1,33: el treball real va avançat."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "SPI = EV / PV = 30.000 / 40.000 = 0,75, inferior a la unitat. Font: L6, p. 28; resum de problemes, p. 3.",
+            "bloque": "Gestió dels costos"
+          },
+          {
+            "id": "gp-practica-q22",
+            "enunciado": "BAC = 100.000 €, EV = 40.000 € i AC = 50.000 €. Si es manté la mateixa eficiència de cost, quin EAC es preveu?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "125.000 €."
+              },
+              {
+                "id": "b",
+                "texto": "150.000 €."
+              },
+              {
+                "id": "c",
+                "texto": "80.000 €."
+              },
+              {
+                "id": "d",
+                "texto": "110.000 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "CPI = 40.000 / 50.000 = 0,8; EAC = BAC / CPI = 100.000 / 0,8 = 125.000 €. Font: L6, p. 29 i 34.",
+            "bloque": "Gestió dels costos"
+          },
+          {
+            "id": "gp-practica-q23",
+            "enunciado": "BAC = 100.000 €, EV = 25.000 € i AC = 30.000 €. Si el treball pendent es farà al ritme pressupostat original, quin EAC correspon?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "75.000 €."
+              },
+              {
+                "id": "b",
+                "texto": "130.000 €."
+              },
+              {
+                "id": "c",
+                "texto": "105.000 €."
+              },
+              {
+                "id": "d",
+                "texto": "120.000 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "c"
+            ],
+            "explicacion": "Amb eficiència pressupostada per al treball pendent: EAC = AC + BAC - EV = 30.000 + 100.000 - 25.000. Font: L6, p. 34.",
+            "bloque": "Gestió dels costos"
+          },
+          {
+            "id": "gp-practica-q24",
+            "enunciado": "AC = 50.000 €, BAC = 100.000 €, EV = 40.000 €, CPI = 0,8 i SPI = 0,75. Si el treball pendent reflectirà tots dos índexs, quin EAC resulta?",
+            "tipo": "unica",
+            "opciones": [
+              {
+                "id": "a",
+                "texto": "150.000 €."
+              },
+              {
+                "id": "b",
+                "texto": "100.000 €."
+              },
+              {
+                "id": "c",
+                "texto": "125.000 €."
+              },
+              {
+                "id": "d",
+                "texto": "110.000 €."
+              }
+            ],
+            "respuestaCorrecta": [
+              "a"
+            ],
+            "explicacion": "EAC = AC + (BAC - EV) / (CPI × SPI) = 50.000 + 60.000 / 0,6 = 150.000 €. Font: L6, p. 34.",
+            "bloque": "Gestió dels costos"
+          }
+        ]
+      }
+    ]
   }
 ]
