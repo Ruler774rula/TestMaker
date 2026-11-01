@@ -8,6 +8,7 @@ export const TestRunner: React.FC = () => {
   const { currentTest, testConfig, userAnswers, submitAnswer, finishTest } = useApp();
   const navigate = useNavigate();
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [pendingAdvanceId, setPendingAdvanceId] = useState<string | null>(null);
   const [activeQuestions, setActiveQuestions] = useState<typeof currentTest.preguntas>([]);
 
   useEffect(() => {
@@ -62,6 +63,22 @@ export const TestRunner: React.FC = () => {
     setActiveQuestions(questions);
   }, [currentTest, testConfig, navigate]);
 
+  const displayedQuestionId = activeQuestions[currentQuestionIndex]?.id;
+
+  useEffect(() => {
+    if (!testConfig.mostrarResultadosInmediatos || !pendingAdvanceId ||
+        pendingAdvanceId !== displayedQuestionId ||
+        currentQuestionIndex >= activeQuestions.length - 1) return;
+
+    const timer = window.setTimeout(() => {
+      setPendingAdvanceId(null);
+      setCurrentQuestionIndex(index => index + 1);
+    }, 2000);
+
+    return () => window.clearTimeout(timer);
+  }, [pendingAdvanceId, displayedQuestionId, currentQuestionIndex,
+      activeQuestions.length, testConfig.mostrarResultadosInmediatos]);
+
   if (!currentTest || activeQuestions.length === 0) return null;
 
   const currentQuestion = activeQuestions[currentQuestionIndex];
@@ -71,6 +88,7 @@ export const TestRunner: React.FC = () => {
   const progress = ((currentQuestionIndex + 1) / activeQuestions.length) * 100;
 
   const handleNext = () => {
+    setPendingAdvanceId(null);
     if (currentQuestionIndex < activeQuestions.length - 1) {
       setCurrentQuestionIndex(prev => prev + 1);
     } else {
@@ -79,6 +97,7 @@ export const TestRunner: React.FC = () => {
   };
 
   const handlePrev = () => {
+    setPendingAdvanceId(null);
     if (currentQuestionIndex > 0) {
       setCurrentQuestionIndex(prev => prev - 1);
     }
@@ -130,7 +149,12 @@ export const TestRunner: React.FC = () => {
       <QuestionCard 
         question={currentQuestion}
         selectedAnswers={currentAnswer}
-        onAnswerChange={(answers) => submitAnswer(currentQuestion.id, answers)}
+        onAnswerChange={(answers) => {
+          submitAnswer(currentQuestion.id, answers);
+          if (testConfig.mostrarResultadosInmediatos && answers.length > 0) {
+            setPendingAdvanceId(currentQuestion.id);
+          }
+        }}
         showFeedback={testConfig.mostrarResultadosInmediatos && currentAnswer.length > 0}
       />
 

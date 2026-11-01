@@ -20499,7 +20499,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Un projecte és temporal, limitat i orientat a crear un producte o servei definit. Font: L1, p. 3.",
+            "explicacion": "Un projecte és temporal, limitat i orientat a crear un producte o servei definit.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20527,7 +20527,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "L’elaboració progressiva permet desenvolupar i concretar el projecte al llarg del temps. Font: L1, p. 3.",
+            "explicacion": "L’elaboració progressiva permet desenvolupar i concretar el projecte al llarg del temps.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20555,7 +20555,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La gestió integra planificació, execució i control per assolir els objectius. Font: L1, p. 4.",
+            "explicacion": "La gestió integra planificació, execució i control per assolir els objectius.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20583,7 +20583,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Les eines ajuden a aplicar les tècniques i amplien les possibilitats de qui les utilitza. Font: L1, p. 5.",
+            "explicacion": "Les eines ajuden a aplicar les tècniques i amplien les possibilitats de qui les utilitza.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20611,7 +20611,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La documentació ha d’adaptar-se al personal tècnic, al client o a l’usuari final. Font: L1, p. 6.",
+            "explicacion": "La documentació ha d’adaptar-se al personal tècnic, al client o a l’usuari final.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20639,7 +20639,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La documentació conserva experiència i dades que donen suport a noves estimacions. Font: L1, p. 7.",
+            "explicacion": "La documentació conserva experiència i dades que donen suport a noves estimacions.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20667,7 +20667,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La informació recopilada en entrevistes, reunions o registres històrics constitueix una entrada. Font: L1, p. 8.",
+            "explicacion": "La informació recopilada en entrevistes, reunions o registres històrics constitueix una entrada.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20695,7 +20695,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Plans, cronogrames, estimacions i pressupostos són sortides que donen suport a la direcció del projecte. Font: L1, p. 8.",
+            "explicacion": "Plans, cronogrames, estimacions i pressupostos són sortides que donen suport a la direcció del projecte.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20723,7 +20723,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "També són interessats potencials les persones i organitzacions afectades pels resultats. Font: L1, p. 9.",
+            "explicacion": "També són interessats potencials les persones i organitzacions afectades pels resultats.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20751,7 +20751,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La direcció, el Project Manager i els integrants de l’equip pertanyen als interessats interns. Font: L1, p. 10.",
+            "explicacion": "La direcció, el Project Manager i els integrants de l’equip pertanyen als interessats interns.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20779,7 +20779,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Els apunts classifiquen els proveïdors, el client i el govern com a interessats externs. Font: L1, p. 10.",
+            "explicacion": "Els apunts classifiquen els proveïdors, el client i el govern com a interessats externs.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20807,7 +20807,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Identificar els interessats implica entendre el seu paper, l’impacte del projecte i la seva influència. Font: L1, p. 9-10.",
+            "explicacion": "Identificar els interessats implica entendre el seu paper, l’impacte del projecte i la seva influència.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20835,7 +20835,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La matriu classifica els stakeholders segons el poder que poden exercir i el seu interès. Font: L1, p. 12.",
+            "explicacion": "La matriu classifica els stakeholders segons el poder que poden exercir i el seu interès.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20863,7 +20863,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El diagrama representa conjunts i ajuda a mostrar les relacions entre interessats. Font: L1, p. 13.",
+            "explicacion": "El diagrama representa conjunts i ajuda a mostrar les relacions entre interessats.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20891,7 +20891,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La matriu connecta interessats, funcions i fases del projecte. Font: L1, p. 14.",
+            "explicacion": "La matriu connecta interessats, funcions i fases del projecte.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20919,7 +20919,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Gestionar bé els interessats facilita les decisions i millora la informació, la satisfacció i l’estabilitat. Font: L1, p. 11.",
+            "explicacion": "Gestionar bé els interessats facilita les decisions i millora la informació, la satisfacció i l’estabilitat.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20947,7 +20947,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "El PM gestiona les restriccions, els interessats i l’organització de les activitats. Font: L1, p. 15-16.",
+            "explicacion": "El PM gestiona les restriccions, els interessats i l’organització de les activitats.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -20975,7 +20975,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "L’èxit combina les restriccions del projecte amb la satisfacció del client i del resultat. Font: L1, p. 18.",
+            "explicacion": "L’èxit combina les restriccions del projecte amb la satisfacció del client i del resultat.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -21003,7 +21003,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La formació, la comunicació i el compromís són factors d’èxit destacats. Font: L1, p. 18.",
+            "explicacion": "La formació, la comunicació i el compromís són factors d’èxit destacats.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -21031,7 +21031,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La gestió ajuda a prendre decisions eficaces, anticipar problemes i complir terminis. Font: L1, p. 19.",
+            "explicacion": "La gestió ajuda a prendre decisions eficaces, anticipar problemes i complir terminis.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -21059,7 +21059,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "No revisar les estimacions, comunicar poc i permetre canvis sense control augmenta el risc de fracàs. Font: L1, p. 20-21.",
+            "explicacion": "No revisar les estimacions, comunicar poc i permetre canvis sense control augmenta el risc de fracàs.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -21087,7 +21087,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "En planificació, la IA pot proposar cronogrames i estimar recursos amb dades històriques. Font: L1, p. 22-24.",
+            "explicacion": "En planificació, la IA pot proposar cronogrames i estimar recursos amb dades històriques.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -21115,7 +21115,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Les alertes de desviacions permeten actuar durant el seguiment i control del projecte. Font: L1, p. 24.",
+            "explicacion": "Les alertes de desviacions permeten actuar durant el seguiment i control del projecte.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -21143,7 +21143,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La IA pot sintetitzar el resultat del projecte i conservar coneixement per a futurs projectes. Font: L1, p. 24.",
+            "explicacion": "La IA pot sintetitzar el resultat del projecte i conservar coneixement per a futurs projectes.",
             "bloque": "L1 · Introducció a la gestió de projectes"
           },
           {
@@ -21171,7 +21171,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "L’equip combina coneixements diversos per respondre a les necessitats del projecte. Font: L2, p. 4.",
+            "explicacion": "L’equip combina coneixements diversos per respondre a les necessitats del projecte.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21199,7 +21199,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La gestió inclou desenvolupar el pla de RRHH i adquirir, desenvolupar i dirigir l’equip. Font: L2, p. 5.",
+            "explicacion": "La gestió inclou desenvolupar el pla de RRHH i adquirir, desenvolupar i dirigir l’equip.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21227,7 +21227,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "El pla documenta les necessitats de personal, organigrames, formació i reconeixement. Font: L2, p. 6-7.",
+            "explicacion": "El pla documenta les necessitats de personal, organigrames, formació i reconeixement.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21255,7 +21255,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Un organigrama presenta l’estructura organitzativa de manera visual i comprensible. Font: L2, p. 8.",
+            "explicacion": "Un organigrama presenta l’estructura organitzativa de manera visual i comprensible.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21283,7 +21283,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La matriu de responsabilitats facilita la delegació i sovint s’utilitza amb l’EDT. Font: L2, p. 9.",
+            "explicacion": "La matriu de responsabilitats facilita la delegació i sovint s’utilitza amb l’EDT.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21311,7 +21311,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "R identifica la persona responsable de dur a terme el treball. Font: L2, p. 10.",
+            "explicacion": "R identifica la persona responsable de dur a terme el treball.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21339,7 +21339,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Accountable és qui aprova la feina i ha de ser únic per a cada tasca. Font: L2, p. 10.",
+            "explicacion": "Accountable és qui aprova la feina i ha de ser únic per a cada tasca.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21367,7 +21367,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El rol consultat aporta informació o capacitat necessària per determinar el treball. Font: L2, p. 10.",
+            "explicacion": "El rol consultat aporta informació o capacitat necessària per determinar el treball.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21395,7 +21395,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El rol I ha de ser informat del progrés i dels resultats del treball. Font: L2, p. 10.",
+            "explicacion": "El rol I ha de ser informat del progrés i dels resultats del treball.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21423,7 +21423,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Support proporciona recursos que ajuden a realitzar la feina. Font: L2, p. 10.",
+            "explicacion": "Support proporciona recursos que ajuden a realitzar la feina.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21451,7 +21451,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La preparació exigeix informació, estratègies i una valoració prèvia de les concessions. Font: L2, p. 14-16.",
+            "explicacion": "La preparació exigeix informació, estratègies i una valoració prèvia de les concessions.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21479,7 +21479,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La col·laboració dona importància tant al resultat com a les relacions entre les parts. Font: L2, p. 18.",
+            "explicacion": "La col·laboració dona importància tant al resultat com a les relacions entre les parts.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21507,7 +21507,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Escoltar, comunicar, empatitzar i mantenir l’autocontrol són habilitats del negociador. Font: L2, p. 13.",
+            "explicacion": "Escoltar, comunicar, empatitzar i mantenir l’autocontrol són habilitats del negociador.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21535,7 +21535,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La preparació inadequada i no conèixer el valor de les concessions són errors habituals. Font: L2, p. 19.",
+            "explicacion": "La preparació inadequada i no conèixer el valor de les concessions són errors habituals.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21563,7 +21563,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Els equips virtuals comparteixen objectius i rols sense necessitat de contacte presencial freqüent. Font: L2, p. 20.",
+            "explicacion": "Els equips virtuals comparteixen objectius i rols sense necessitat de contacte presencial freqüent.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21591,7 +21591,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "El format virtual facilita el teletreball i l’accés a experiència geogràficament dispersa. Font: L2, p. 20.",
+            "explicacion": "El format virtual facilita el teletreball i l’accés a experiència geogràficament dispersa.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21619,7 +21619,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Definir procediments i compromisos ajuda a transformar persones en un equip professional. Font: L2, p. 21.",
+            "explicacion": "Definir procediments i compromisos ajuda a transformar persones en un equip professional.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21647,7 +21647,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La confiança i la participació permeten tractar el conflicte com una oportunitat de millora. Font: L2, p. 22.",
+            "explicacion": "La confiança i la participació permeten tractar el conflicte com una oportunitat de millora.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21675,7 +21675,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La formació millora les capacitats individuals i ajuda a assolir les metes de l’organització. Font: L2, p. 24.",
+            "explicacion": "La formació millora les capacitats individuals i ajuda a assolir les metes de l’organització.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21703,7 +21703,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Reconèixer la feina ben feta afavoreix la motivació i la permanència dels professionals. Font: L2, p. 25.",
+            "explicacion": "Reconèixer la feina ben feta afavoreix la motivació i la permanència dels professionals.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21731,7 +21731,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "No hi ha un estil universalment millor; la seva adequació depèn de les circumstàncies. Font: L2, p. 28-29.",
+            "explicacion": "No hi ha un estil universalment millor; la seva adequació depèn de les circumstàncies.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21759,7 +21759,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El pla d’igualtat organitza mesures per assegurar tracte i oportunitats sense discriminacions. Font: L2, p. 30.",
+            "explicacion": "El pla d’igualtat organitza mesures per assegurar tracte i oportunitats sense discriminacions.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21787,7 +21787,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El pla requereix diagnòstic, propostes, seguiment i avaluació, amb criteris no discriminatoris. Font: L2, p. 31-32.",
+            "explicacion": "El pla requereix diagnòstic, propostes, seguiment i avaluació, amb criteris no discriminatoris.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21815,7 +21815,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La IA dona suport als RRHH, però exigeix supervisió humana, protecció de dades i revisió de biaixos. Font: L2, p. 34-35.",
+            "explicacion": "La IA dona suport als RRHH, però exigeix supervisió humana, protecció de dades i revisió de biaixos.",
             "bloque": "L2 · Recursos humans i igualtat de gènere"
           },
           {
@@ -21843,7 +21843,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La divisió en fases facilita el control i redueix complexitat i incertesa. Font: L3, p. 3-7.",
+            "explicacion": "La divisió en fases facilita el control i redueix complexitat i incertesa.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -21871,7 +21871,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "El cicle de vida organitza fases i processos que contenen activitats i generen lliuraments. Font: L3, p. 4.",
+            "explicacion": "El cicle de vida organitza fases i processos que contenen activitats i generen lliuraments.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -21899,7 +21899,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "L’esforç de personal i els costos acostumen a concentrar-se en les fases de desenvolupament. Font: L3, p. 6.",
+            "explicacion": "L’esforç de personal i els costos acostumen a concentrar-se en les fases de desenvolupament.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -21927,7 +21927,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "L’avanç del projecte aporta coneixement i redueix progressivament la incertesa inicial. Font: L3, p. 6.",
+            "explicacion": "L’avanç del projecte aporta coneixement i redueix progressivament la incertesa inicial.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -21955,7 +21955,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Els interessats tenen més capacitat d’influència al principi i aquesta disminueix amb l’avanç. Font: L3, p. 6.",
+            "explicacion": "Els interessats tenen més capacitat d’influència al principi i aquesta disminueix amb l’avanç.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -21983,7 +21983,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "El tancament d’una fase es vincula a la finalització del treball i als seus lliuraments. Font: L3, p. 7.",
+            "explicacion": "El tancament d’una fase es vincula a la finalització del treball i als seus lliuraments.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22011,7 +22011,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La triple restricció relaciona l’abast, el termini i el cost, amb impacte sobre la qualitat. Font: L3, p. 8-9.",
+            "explicacion": "La triple restricció relaciona l’abast, el termini i el cost, amb impacte sobre la qualitat.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22039,7 +22039,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "L’abast delimita el treball que cal fer per obtenir el resultat requerit. Font: L3, p. 9.",
+            "explicacion": "L’abast delimita el treball que cal fer per obtenir el resultat requerit.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22067,7 +22067,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Les línies base recullen les referències aprovades d’abast, terminis i costos. Font: L3, p. 10-11.",
+            "explicacion": "Les línies base recullen les referències aprovades d’abast, terminis i costos.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22095,7 +22095,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La línia base de l’abast representa els lliuraments i el treball necessari per completar-los. Font: L3, p. 11.",
+            "explicacion": "La línia base de l’abast representa els lliuraments i el treball necessari per completar-los.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22123,7 +22123,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La referència temporal deriva dels lliuraments definits en la línia base de l’abast. Font: L3, p. 11.",
+            "explicacion": "La referència temporal deriva dels lliuraments definits en la línia base de l’abast.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22151,7 +22151,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "El gestor i l’equip han de distingir l’origen de les modificacions de les referències inicials. Font: L3, p. 10.",
+            "explicacion": "El gestor i l’equip han de distingir l’origen de les modificacions de les referències inicials.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22179,7 +22179,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Inici, planificació, execució, control i tancament poden aplicar-se dins de cada fase. Font: L3, p. 14.",
+            "explicacion": "Inici, planificació, execució, control i tancament poden aplicar-se dins de cada fase.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22207,7 +22207,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "L’inici estableix els fonaments: necessitats, restriccions, lliuraments i responsables. Font: L3, p. 16.",
+            "explicacion": "L’inici estableix els fonaments: necessitats, restriccions, lliuraments i responsables.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22235,7 +22235,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La reunió reuneix client, equip i interessats per compartir objectius, especificacions i responsabilitats. Font: L3, p. 17.",
+            "explicacion": "La reunió reuneix client, equip i interessats per compartir objectius, especificacions i responsabilitats.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22263,7 +22263,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La planificació és contínua i rep retroalimentació del seguiment i control. Font: L3, p. 18.",
+            "explicacion": "La planificació és contínua i rep retroalimentació del seguiment i control.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22291,7 +22291,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Planificar ajuda a millorar el rendiment i a preparar mesures preventives i correctives. Font: L3, p. 20.",
+            "explicacion": "Planificar ajuda a millorar el rendiment i a preparar mesures preventives i correctives.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22319,7 +22319,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La reserva es dimensiona amb escenaris, experiència i resultats de projectes similars. Font: L3, p. 21.",
+            "explicacion": "La reserva es dimensiona amb escenaris, experiència i resultats de projectes similars.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22347,7 +22347,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "L’experiència i els registres històrics donen suport a estimacions més fonamentades. Font: L3, p. 22.",
+            "explicacion": "L’experiència i els registres històrics donen suport a estimacions més fonamentades.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22375,7 +22375,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "L’optimisme excessiu i oblidar temps no productiu o disponibilitats reals distorsionen les estimacions. Font: L3, p. 23.",
+            "explicacion": "L’optimisme excessiu i oblidar temps no productiu o disponibilitats reals distorsionen les estimacions.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22403,7 +22403,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El control identifica desviacions i dona informació per aplicar accions correctives. Font: L3, p. 24-25.",
+            "explicacion": "El control identifica desviacions i dona informació per aplicar accions correctives.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22431,7 +22431,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El tancament exigeix formalitzar la recepció correcta dels lliuraments. Font: L3, p. 26.",
+            "explicacion": "El tancament exigeix formalitzar la recepció correcta dels lliuraments.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22459,7 +22459,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El llibre de notes recull coneixement del projecte i dona suport a futures planificacions. Font: L3, p. 26-27.",
+            "explicacion": "El llibre de notes recull coneixement del projecte i dona suport a futures planificacions.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22487,7 +22487,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Els lliuraments interns faciliten el treball; els externs han de ser definits i aprovats pels interessats corresponents. Font: L3, p. 28.",
+            "explicacion": "Els lliuraments interns faciliten el treball; els externs han de ser definits i aprovats pels interessats corresponents.",
             "bloque": "L3 · Cicle de vida del projecte"
           },
           {
@@ -22515,7 +22515,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La selecció ha de considerar personal, maquinària, terminis i finançament. Font: L4, p. 4.",
+            "explicacion": "La selecció ha de considerar personal, maquinària, terminis i finançament.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22543,7 +22543,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Els models només reflecteixen una part de la realitat i no substitueixen les persones. Font: L4, p. 6.",
+            "explicacion": "Els models només reflecteixen una part de la realitat i no substitueixen les persones.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22571,7 +22571,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El BCA compara beneficis i costos; els beneficis poden ser tangibles o intangibles. Font: L4, p. 7.",
+            "explicacion": "El BCA compara beneficis i costos; els beneficis poden ser tangibles o intangibles.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22599,7 +22599,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El punt d’equilibri identifica la igualtat entre ingressos i costos, sense garantir reserves ni retorns addicionals. Font: L4, p. 8-9.",
+            "explicacion": "El punt d’equilibri identifica la igualtat entre ingressos i costos, sense garantir reserves ni retorns addicionals.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22627,7 +22627,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "El VAN actualitza els fluxos nets d’efectiu i els compara amb la inversió inicial. Font: L4, p. 10-11.",
+            "explicacion": "El VAN actualitza els fluxos nets d’efectiu i els compara amb la inversió inicial.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22655,7 +22655,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Els fluxos de cada període s’actualitzen i es resta la inversió inicial. Font: L4, p. 11.",
+            "explicacion": "Els fluxos de cada període s’actualitzen i es resta la inversió inicial.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22683,7 +22683,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Un VAN negatiu porta a rebutjar el projecte segons aquest criteri financer. Font: L4, p. 13.",
+            "explicacion": "Un VAN negatiu porta a rebutjar el projecte segons aquest criteri financer.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22711,7 +22711,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Una taxa més alta redueix el valor actual dels fluxos futurs positius. Font: L4, p. 10-11.",
+            "explicacion": "Una taxa més alta redueix el valor actual dels fluxos futurs positius.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22739,7 +22739,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La taxa interna de retorn iguala el valor actual dels fluxos amb la inversió. Font: L4, p. 14.",
+            "explicacion": "La taxa interna de retorn iguala el valor actual dels fluxos amb la inversió.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22767,7 +22767,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La rendibilitat de la inversió ha de superar la taxa de cost de referència. Font: L4, p. 14.",
+            "explicacion": "La rendibilitat de la inversió ha de superar la taxa de cost de referència.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22795,7 +22795,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El payback avalua quant es triga a recuperar el capital invertit. Font: L4, p. 15.",
+            "explicacion": "El payback avalua quant es triga a recuperar el capital invertit.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22823,7 +22823,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El payback simple acumula fluxos sense descomptar-los; el VAN sí que incorpora el valor temporal. Font: L4, p. 10-11 i 15.",
+            "explicacion": "El payback simple acumula fluxos sense descomptar-los; el VAN sí que incorpora el valor temporal.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22851,7 +22851,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El ROI es calcula dividint el resultat net per la inversió i multiplicant per cent. Font: L4, p. 16.",
+            "explicacion": "El ROI es calcula dividint el resultat net per la inversió i multiplicant per cent.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22879,7 +22879,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "ROI = (3.000 - 2.000) / 2.000 × 100 = 50%. Font: L4, p. 16.",
+            "explicacion": "ROI = (3.000 - 2.000) / 2.000 × 100 = 50%.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22907,7 +22907,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La matriu de decisió incorpora factors que complementen l’avaluació financera. Font: L4, p. 17.",
+            "explicacion": "La matriu de decisió incorpora factors que complementen l’avaluació financera.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22935,7 +22935,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Cada valor es multiplica pel pes corresponent i els resultats se sumen. Font: L4, p. 18.",
+            "explicacion": "Cada valor es multiplica pel pes corresponent i els resultats se sumen.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22963,7 +22963,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La suma ponderada és 0,6 × 4 + 0,4 × 2 = 3,2. Font: L4, p. 18.",
+            "explicacion": "La suma ponderada és 0,6 × 4 + 0,4 × 2 = 3,2.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -22991,7 +22991,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "L’anàlisi qualitativa utilitza experiència; la quantitativa es recolza en dades i informació. Font: L4, p. 20.",
+            "explicacion": "L’anàlisi qualitativa utilitza experiència; la quantitativa es recolza en dades i informació.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -23019,7 +23019,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El procés de decisió inclou identificar, avaluar, escollir, desenvolupar i revisar els resultats. Font: L4, p. 20.",
+            "explicacion": "El procés de decisió inclou identificar, avaluar, escollir, desenvolupar i revisar els resultats.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -23047,7 +23047,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "L’arbre desglossa una decisió en accions i escenaris amb probabilitats i resultats. Font: L4, p. 21.",
+            "explicacion": "L’arbre desglossa una decisió en accions i escenaris amb probabilitats i resultats.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -23075,7 +23075,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "L’AHP organitza el problema jeràrquicament i estableix prioritats amb comparacions. Font: L4, p. 22.",
+            "explicacion": "L’AHP organitza el problema jeràrquicament i estableix prioritats amb comparacions.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -23103,7 +23103,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "El valor 1 indica contribució equivalent; el 9 correspon a importància extrema. Font: L4, p. 24.",
+            "explicacion": "El valor 1 indica contribució equivalent; el 9 correspon a importància extrema.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -23131,7 +23131,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "L’AHP és flexible i permet revisar els valors assignats al llarg del procés. Font: L4, p. 24-26.",
+            "explicacion": "L’AHP és flexible i permet revisar els valors assignats al llarg del procés.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -23159,7 +23159,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La IA accelera càlculs i aporta escenaris, però la selecció continua sota responsabilitat humana. Font: L4, p. 27-28.",
+            "explicacion": "La IA accelera càlculs i aporta escenaris, però la selecció continua sota responsabilitat humana.",
             "bloque": "L4 · Selecció de projectes"
           },
           {
@@ -23187,7 +23187,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La llei alerta del consum del temps disponible i de la necessitat d’estimar amb criteri. Font: L5, p. 6.",
+            "explicacion": "La llei alerta del consum del temps disponible i de la necessitat d’estimar amb criteri.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23215,7 +23215,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Una activitat de dos dies amb dues persones pot consumir quatre dies-persona d’esforç. Font: L5, p. 10-11.",
+            "explicacion": "Una activitat de dos dies amb dues persones pot consumir quatre dies-persona d’esforç.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23243,7 +23243,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Una fita és un punt de referència, com una decisió o la conclusió d’una fase. Font: L5, p. 12.",
+            "explicacion": "Una fita és un punt de referència, com una decisió o la conclusió d’una fase.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23271,7 +23271,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El mètode requereix una xarxa connexa sense circuits i estimacions de temps i recursos. Font: L5, p. 15.",
+            "explicacion": "El mètode requereix una xarxa connexa sense circuits i estimacions de temps i recursos.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23299,7 +23299,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La tasca virtual representa el conjunt iteratiu perquè la xarxa principal no contingui bucles. Font: L5, p. 16.",
+            "explicacion": "La tasca virtual representa el conjunt iteratiu perquè la xarxa principal no contingui bucles.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23327,7 +23327,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "En aquesta notació les activitats són els nodes i les relacions de precedència són els arcs. Font: L5, p. 17-18.",
+            "explicacion": "En aquesta notació les activitats són els nodes i les relacions de precedència són els arcs.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23355,7 +23355,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "PERT tracta la variabilitat de la durada amb tres valors de referència. Font: L5, p. 19.",
+            "explicacion": "PERT tracta la variabilitat de la durada amb tres valors de referència.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23383,7 +23383,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La fórmula dona més pes a l’estimació normal que als dos extrems. Font: L5, p. 19.",
+            "explicacion": "La fórmula dona més pes a l’estimació normal que als dos extrems.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23411,7 +23411,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Un cop calculat el temps esperat PERT, els dos mètodes utilitzen el mateix càlcul de planificació. Font: L5, p. 20.",
+            "explicacion": "Un cop calculat el temps esperat PERT, els dos mètodes utilitzen el mateix càlcul de planificació.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23439,7 +23439,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "El forward pass permet trobar els temps primerencs i la durada mínima del projecte. Font: L5, p. 11 i 25.",
+            "explicacion": "El forward pass permet trobar els temps primerencs i la durada mínima del projecte.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23467,7 +23467,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "L’activitat ha d’esperar que tots els predecessors hagin finalitzat. Font: L5, p. 25.",
+            "explicacion": "L’activitat ha d’esperar que tots els predecessors hagin finalitzat.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23495,7 +23495,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "El backward pass parteix de la finalització del projecte i propaga els límits cap als predecessors. Font: L5, p. 12 i 26.",
+            "explicacion": "El backward pass parteix de la finalització del projecte i propaga els límits cap als predecessors.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23523,7 +23523,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "El camí crític fixa el menor temps possible de finalització respectant les dependències. Font: L5, p. 10.",
+            "explicacion": "El camí crític fixa el menor temps possible de finalització respectant les dependències.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23551,7 +23551,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Una activitat crítica no admet retard sense modificar la durada del projecte. Font: L5, p. 9.",
+            "explicacion": "Una activitat crítica no admet retard sense modificar la durada del projecte.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23579,7 +23579,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "El camí crític pot presentar branques paral·leles que se separen i es tornen a unir. Font: L5, p. 28.",
+            "explicacion": "El camí crític pot presentar branques paral·leles que se separen i es tornen a unir.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23607,7 +23607,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Consumir folgança total pot reduir la folgança d’altres tasques. Font: L5, p. 29.",
+            "explicacion": "Consumir folgança total pot reduir la folgança d’altres tasques.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23635,7 +23635,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La folgança lliure conserva els temps primerencs dels successors, mentre que la total protegeix el final del projecte. Font: L5, p. 29.",
+            "explicacion": "La folgança lliure conserva els temps primerencs dels successors, mentre que la total protegeix el final del projecte.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23663,7 +23663,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Es resta l’inici més aviat i la durada al temps més tard del node de destí. Font: L5, p. 29-31.",
+            "explicacion": "Es resta l’inici més aviat i la durada al temps més tard del node de destí.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23691,7 +23691,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Final-principi vincula el final de la predecessora amb l’inici de la successora. Font: L5, p. 37.",
+            "explicacion": "Final-principi vincula el final de la predecessora amb l’inici de la successora.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23719,7 +23719,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Principi-principi posa una restricció sobre els inicis de les activitats. Font: L5, p. 37.",
+            "explicacion": "Principi-principi posa una restricció sobre els inicis de les activitats.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23747,7 +23747,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La precedència FF relaciona el final de la predecessora amb el de la successora. Font: L5, p. 37.",
+            "explicacion": "La precedència FF relaciona el final de la predecessora amb el de la successora.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23775,7 +23775,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "PF condiciona el final d’una tasca a l’inici d’una altra. Font: L5, p. 37.",
+            "explicacion": "PF condiciona el final d’una tasca a l’inici d’una altra.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23803,7 +23803,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "El Gantt lineal situa les activitats i les fites sobre unitats de temps. Font: L5, p. 50-53.",
+            "explicacion": "El Gantt lineal situa les activitats i les fites sobre unitats de temps.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23831,7 +23831,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La comparació entre necessitat i disponibilitat detecta sobrecàrregues i permet ajustar el pla. Font: L5, p. 54-56.",
+            "explicacion": "La comparació entre necessitat i disponibilitat detecta sobrecàrregues i permet ajustar el pla.",
             "bloque": "L5 · Gestió del temps"
           },
           {
@@ -23859,7 +23859,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La gestió de costos prepara estimacions, assigna un pressupost i en controla el consum. Font: L6, p. 5.",
+            "explicacion": "La gestió de costos prepara estimacions, assigna un pressupost i en controla el consum.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -23887,7 +23887,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "El pressupost és una referència per comparar el cost previst i el real. Font: L6, p. 5-6.",
+            "explicacion": "El pressupost és una referència per comparar el cost previst i el real.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -23915,7 +23915,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Els costos directes es poden vincular específicament al projecte. Font: L6, p. 7.",
+            "explicacion": "Els costos directes es poden vincular específicament al projecte.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -23943,7 +23943,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "L’analogia utilitza activitats anteriors comparables i requereix criteri professional. Font: L6, p. 10.",
+            "explicacion": "L’analogia utilitza activitats anteriors comparables i requereix criteri professional.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -23971,7 +23971,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Descompondre el treball i estimar els nivells inferiors produeix una estimació agregada. Font: L6, p. 11-12.",
+            "explicacion": "Descompondre el treball i estimar els nivells inferiors produeix una estimació agregada.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -23999,7 +23999,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La mitjana ponderada incorpora tres escenaris i reforça el valor més probable. Font: L6, p. 13-14.",
+            "explicacion": "La mitjana ponderada incorpora tres escenaris i reforça el valor més probable.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24027,7 +24027,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La preselecció combina criteris de capacitat amb evidències de qualitat i comportament anterior. Font: L6, p. 16.",
+            "explicacion": "La preselecció combina criteris de capacitat amb evidències de qualitat i comportament anterior.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24055,7 +24055,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "L’estructura de costos ha de ser completa, clara, identificable i útil per a l’anàlisi. Font: L6, p. 17-18.",
+            "explicacion": "L’estructura de costos ha de ser completa, clara, identificable i útil per a l’anàlisi.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24083,7 +24083,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "L’EDC pot incloure investigació, producció, operació i retirada del producte. Font: L6, p. 17-19.",
+            "explicacion": "L’EDC pot incloure investigació, producció, operació i retirada del producte.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24111,7 +24111,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La taxa de recursos combina la quantitat de recursos, les hores necessàries i el preu unitari. Font: L6, p. 20.",
+            "explicacion": "La taxa de recursos combina la quantitat de recursos, les hores necessàries i el preu unitari.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24139,7 +24139,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Delphi utilitza un facilitador i rondes d’opinions, que poden ser anònimes. Font: L6, p. 21-22.",
+            "explicacion": "Delphi utilitza un facilitador i rondes d’opinions, que poden ser anònimes.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24167,7 +24167,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El registre històric conserva evidències útils per estimar i planificar nous projectes. Font: L6, p. 23.",
+            "explicacion": "El registre històric conserva evidències útils per estimar i planificar nous projectes.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24195,7 +24195,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "El mètode integra l’estat del cost i del termini amb PV, EV i AC. Font: L6, p. 25-26.",
+            "explicacion": "El mètode integra l’estat del cost i del termini amb PV, EV i AC.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24223,7 +24223,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "En el model percentual dels apunts, PV és el percentatge planificat multiplicat pel BAC. Font: L6, p. 27.",
+            "explicacion": "En el model percentual dels apunts, PV és el percentatge planificat multiplicat pel BAC.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24251,7 +24251,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "EV valora l’avanç real amb el pressupost de referència, sense confondre’l amb la despesa AC. Font: L6, p. 25-27.",
+            "explicacion": "EV valora l’avanç real amb el pressupost de referència, sense confondre’l amb la despesa AC.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24279,7 +24279,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Una CV negativa revela que s’ha gastat més del valor pressupostat del treball fet. Font: L6, p. 27.",
+            "explicacion": "Una CV negativa revela que s’ha gastat més del valor pressupostat del treball fet.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24307,7 +24307,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "SV negativa implica retard en termes de valor pressupostat del treball, no un nombre directe de dies. Font: L6, p. 27-28.",
+            "explicacion": "SV negativa implica retard en termes de valor pressupostat del treball, no un nombre directe de dies.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24335,7 +24335,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "CPI = EV / AC; un valor inferior a la unitat indica eficiència de cost desfavorable. Font: L6, p. 28.",
+            "explicacion": "CPI = EV / AC; un valor inferior a la unitat indica eficiència de cost desfavorable.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24363,7 +24363,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "SPI = EV / PV; un valor superior a la unitat indica avanç respecte al treball planificat. Font: L6, p. 28.",
+            "explicacion": "SPI = EV / PV; un valor superior a la unitat indica avanç respecte al treball planificat.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24391,7 +24391,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "La projecció EAC pot diferir del pressupost inicial segons l’acompliment observat. Font: L6, p. 29 i 33.",
+            "explicacion": "La projecció EAC pot diferir del pressupost inicial segons l’acompliment observat.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24419,7 +24419,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Aquesta projecció aplica la mateixa proporció de despesa observada al conjunt del projecte. Font: L6, p. 29 i 34.",
+            "explicacion": "Aquesta projecció aplica la mateixa proporció de despesa observada al conjunt del projecte.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24447,7 +24447,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Els canvis d’abast, de context o de tecnologia poden exigir accions correctives i revisió de costos. Font: L6, p. 35.",
+            "explicacion": "Els canvis d’abast, de context o de tecnologia poden exigir accions correctives i revisió de costos.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24475,7 +24475,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La sostenibilitat combina el benestar actual amb la preservació de la capacitat futura. Font: L6, p. 36.",
+            "explicacion": "La sostenibilitat combina el benestar actual amb la preservació de la capacitat futura.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24503,7 +24503,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "La delegació sense control pot generar deute tecnològic i dificultats de manteniment. Font: L6, p. 36-37.",
+            "explicacion": "La delegació sense control pot generar deute tecnològic i dificultats de manteniment.",
             "bloque": "L6 · Costos i sostenibilitat"
           },
           {
@@ -24531,7 +24531,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "VAN = -1.000 + 1.100 / 1,10 = 0 €. Es recupera exactament la rendibilitat exigida. Font: L4, p. 10-11; resum de problemes, p. 1.",
+            "explicacion": "VAN = -1.000 + 1.100 / 1,10 = 0 €. Es recupera exactament la rendibilitat exigida.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24559,7 +24559,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "VAN = -1.000 + 660 / 1,1 + 726 / 1,1² = -1.000 + 600 + 600 = 200 €. Font: L4, p. 10-11; resum de problemes, p. 1.",
+            "explicacion": "VAN = -1.000 + 660 / 1,1 + 726 / 1,1² = -1.000 + 600 + 600 = 200 €.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24587,7 +24587,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "Després de dos anys falten 3.000 € per recuperar; 3.000 / 5.000 = 0,6 anys addicionals. Font: L4, p. 15; resum de problemes, p. 1.",
+            "explicacion": "Després de dos anys falten 3.000 € per recuperar; 3.000 / 5.000 = 0,6 anys addicionals.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24615,7 +24615,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "El benefici net és 7.000 - 4.000 = 3.000 €; ROI = 3.000 / 4.000 × 100 = 75%. Font: L4, p. 16; resum de problemes, p. 1.",
+            "explicacion": "El benefici net és 7.000 - 4.000 = 3.000 €; ROI = 3.000 / 4.000 × 100 = 75%.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24643,7 +24643,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Igualant els costos: 1.000 + 10q = 400 + 20q; 600 = 10q; q = 60. Font: L4, p. 8-9.",
+            "explicacion": "Igualant els costos: 1.000 + 10q = 400 + 20q; 600 = 10q; q = 60.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24671,7 +24671,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "Total = 4 × 0,5 + 2 × 0,3 + 5 × 0,2 = 2 + 0,6 + 1 = 3,6. Font: L4, p. 17-18.",
+            "explicacion": "Total = 4 × 0,5 + 2 × 0,3 + 5 × 0,2 = 2 + 0,6 + 1 = 3,6.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24699,7 +24699,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Valor esperat = 0,7 × 20.000 + 0,3 × (-5.000) = 12.500 €. Font: L4, p. 21.",
+            "explicacion": "Valor esperat = 0,7 × 20.000 + 0,3 × (-5.000) = 12.500 €.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24727,7 +24727,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Imposant VAN = 0: 1.000 = 1.200 / (1 + TIR); TIR = 0,20. Font: L4, p. 14.",
+            "explicacion": "Imposant VAN = 0: 1.000 = 1.200 / (1 + TIR); TIR = 0,20.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24755,7 +24755,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Temps esperat = (2 + 4 × 5 + 14) / 6 = 36 / 6 = 6 dies. Font: L5, p. 19.",
+            "explicacion": "Temps esperat = (2 + 4 × 5 + 14) / 6 = 36 / 6 = 6 dies.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24783,7 +24783,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "D comença a 3 + max(4, 2) = 7 i acaba a 12. El camí A-B-D fixa la durada. Font: L5, p. 25-28; resum de problemes, p. 2.",
+            "explicacion": "D comença a 3 + max(4, 2) = 7 i acaba a 12. El camí A-B-D fixa la durada.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24811,7 +24811,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "C comença a 3 i acaba a 5, però pot acabar fins a 7 sense endarrerir D; la folgança és 2. Font: L5, p. 29-31; resum de problemes, p. 2.",
+            "explicacion": "C comença a 3 i acaba a 5, però pot acabar fins a 7 sense endarrerir D; la folgança és 2.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24839,7 +24839,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "HT = 15 - 4 - 5 = 6; HL = 12 - 4 - 5 = 3. Font: L5, p. 29-31.",
+            "explicacion": "HT = 15 - 4 - 5 = 6; HL = 12 - 4 - 5 = 3.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24867,7 +24867,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "En una relació final-principi, inici(B) ≥ final(A) + retard = 7 + 2 = 9. Font: L5, p. 37; resum de problemes, p. 2.",
+            "explicacion": "En una relació final-principi, inici(B) ≥ final(A) + retard = 7 + 2 = 9.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24895,7 +24895,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "La restricció principi-principi és inici(B) ≥ inici(A) + 3 = 7. Font: L5, p. 37.",
+            "explicacion": "La restricció principi-principi és inici(B) ≥ inici(A) + 3 = 7.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24923,7 +24923,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "Esforç = 3 persones × 2 dies × 6 hores/dia = 36 hores-persona; la durada continua sent dos dies. Font: L5, p. 10-11.",
+            "explicacion": "Esforç = 3 persones × 2 dies × 6 hores/dia = 36 hores-persona; la durada continua sent dos dies.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24951,7 +24951,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "La demanda és 3 + 2 = 5 i supera la disponibilitat de 4; moure una tasca pot resoldre el conflicte. Font: L5, p. 54-55.",
+            "explicacion": "La demanda és 3 + 2 = 5 i supera la disponibilitat de 4; moure una tasca pot resoldre el conflicte.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -24979,7 +24979,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Programadors: 3 × 20 × 50 = 3.000 €; PM: 10 × 80 = 800 €; total: 3.800 €. Font: L6, p. 20; resum de problemes, p. 3.",
+            "explicacion": "Programadors: 3 × 20 × 50 = 3.000 €; PM: 10 × 80 = 800 €; total: 3.800 €.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -25007,7 +25007,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Cost = (800 + 4 × 1.000 + 2.000) / 6 = 6.800 / 6 = 1.133,33 €. Font: L6, p. 13-14.",
+            "explicacion": "Cost = (800 + 4 × 1.000 + 2.000) / 6 = 6.800 / 6 = 1.133,33 €.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -25035,7 +25035,7 @@
             "respuestaCorrecta": [
               "d"
             ],
-            "explicacion": "PV = 0,50 × 80.000 = 40.000 €; EV = 0,40 × 80.000 = 32.000 €. Font: L6, p. 27; resum de problemes, p. 3.",
+            "explicacion": "PV = 0,50 × 80.000 = 40.000 €; EV = 0,40 × 80.000 = 32.000 €.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -25063,7 +25063,7 @@
             "respuestaCorrecta": [
               "b"
             ],
-            "explicacion": "CV = EV - AC = 30.000 - 36.000 = -6.000 €; s’ha gastat més que el valor del treball fet. Font: L6, p. 27; resum de problemes, p. 3.",
+            "explicacion": "CV = EV - AC = 30.000 - 36.000 = -6.000 €; s’ha gastat més que el valor del treball fet.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -25091,7 +25091,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "SPI = EV / PV = 30.000 / 40.000 = 0,75, inferior a la unitat. Font: L6, p. 28; resum de problemes, p. 3.",
+            "explicacion": "SPI = EV / PV = 30.000 / 40.000 = 0,75, inferior a la unitat.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -25119,7 +25119,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "CPI = 40.000 / 50.000 = 0,8; EAC = BAC / CPI = 100.000 / 0,8 = 125.000 €. Font: L6, p. 29 i 34.",
+            "explicacion": "CPI = 40.000 / 50.000 = 0,8; EAC = BAC / CPI = 100.000 / 0,8 = 125.000 €.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -25147,7 +25147,7 @@
             "respuestaCorrecta": [
               "c"
             ],
-            "explicacion": "Amb eficiència pressupostada per al treball pendent: EAC = AC + BAC - EV = 30.000 + 100.000 - 25.000. Font: L6, p. 34.",
+            "explicacion": "Amb eficiència pressupostada per al treball pendent: EAC = AC + BAC - EV = 30.000 + 100.000 - 25.000.",
             "bloque": "Problemes pràctics"
           },
           {
@@ -25175,7 +25175,7 @@
             "respuestaCorrecta": [
               "a"
             ],
-            "explicacion": "EAC = AC + (BAC - EV) / (CPI × SPI) = 50.000 + 60.000 / 0,6 = 150.000 €. Font: L6, p. 34.",
+            "explicacion": "EAC = AC + (BAC - EV) / (CPI × SPI) = 50.000 + 60.000 / 0,6 = 150.000 €.",
             "bloque": "Problemes pràctics"
           }
         ]
